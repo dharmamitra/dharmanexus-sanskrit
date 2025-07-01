@@ -10,8 +10,8 @@ from collections import Counter
 
 def main():
     # File paths
-    input_file = "../BO_files.json"
-    output_file = "../BO_collection-names.json"
+    input_file = "../SA_files.json"
+    output_file = "../SA_collection-names.json"
     
     # Check if input file exists
     if not os.path.exists(input_file):
