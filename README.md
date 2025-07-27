@@ -1,3 +1,5 @@
+This repository hosts the data that is the backbone for the Dharmamitra Search and Dharmanexus intertextuality system. 
+
 Sanskrit data is currently sourced via:  
 GRETIL (https://gretil.sub.uni-goettingen.de/gretil.html)  
 Digital Sanskrit Buddhist Canon (https://www.dsbcproject.org/)  
