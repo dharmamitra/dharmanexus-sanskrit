@@ -178,6 +178,17 @@ def titlecase(s):
         after_break = tok.rstrip().endswith(':')
     return ''.join(out)
 
+def space_fields(md):
+    """Put each bold **field:** line on its own paragraph (blank line before it),
+    so consecutive fields don't collapse into one rendered line."""
+    out = []
+    for ln in md.split('\n'):
+        if (ln.startswith('**') and out and out[-1].strip()
+                and not out[-1].lstrip().startswith('#')):
+            out.append('')
+        out.append(ln)
+    return re.sub(r'\n{3,}', '\n\n', '\n'.join(out)).strip()
+
 def _norm(s):
     return re.sub(r'[^a-z0-9]', '', (s or '').lower())
 
@@ -351,7 +362,7 @@ def main():
             src_count['OCR/Dharmamitra (rvsb, preserved)'] += 1
             extras = [s for s in (gibbs_section(gibbs.get(fn)),
                                   web_summary(tinfo.get(fn))) if s]
-            e['raw_metadata'] = '\n\n'.join([core] + extras)
+            e['raw_metadata'] = space_fields('\n\n'.join([core] + extras))
             e['raw_metadata_confidence'] = conf
             continue
 
@@ -424,7 +435,7 @@ def main():
         ws_rec = (ov or {}).get('web_summary') or tinfo.get(fn)
         extras = [s for s in (gibbs_section(gibbs.get(fn)),
                               web_summary(ws_rec)) if s]
-        e['raw_metadata'] = '\n\n'.join([core] + extras)
+        e['raw_metadata'] = space_fields('\n\n'.join([core] + extras))
         e['raw_metadata_confidence'] = conf
 
     with open(f'{REPO}/SA_files.json', 'w', encoding='utf-8') as f:
