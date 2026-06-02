@@ -81,7 +81,8 @@ GRET_FMT_NOTE = re.compile(
     r'^(PLAIN TEXT VERSION|ANALYTIC TEXT|MARKUP|STRUCTURE OF REFERENCES'
     r'|REFERENCE SYSTEM|NOTE:|NOTES:|EDITORIAL|This GRETIL|This e-?text comprises'
     r'|This electronic|The transliteration|description:|CONVENTIONS|Conventions'
-    r'|\[[hk]:|_{3,}|={3,}|Unless indicated|Sutra section)', re.I)
+    r'|\[[hk]:|_{3,}|={3,}|Unless indicated|Sutra section|CONTRIBUTOR'
+    r'|Provenance of|Distributed under)', re.I)
 
 def gretil_header_md(path):
     """Parse a GRETIL header into pretty Markdown fields (Edition / Entered by /
@@ -102,7 +103,10 @@ def gretil_header_md(path):
         low = s.lower()
         if low.startswith(('based on', 'text based on')):
             cur = 'edition'
-            s = re.sub(r'^(text\s+)?based on(\s+the)?(\s+ed\.?|\s+edition)?(\s+by)?\s*',
+            # strip "Based on [the] [critical] [edition|ed.] [by] " — match the full
+            # word "edition" before bare "ed" so we don't eat "ed" out of "edition"
+            s = re.sub(r'^(?:text\s+)?based on(?:\s+the)?(?:\s+critical)?'
+                       r'(?:\s+editions?(?:\s+of)?|\s+ed\.?(?=\s))?(?:\s+by)?[:\s]*',
                        '', s, flags=re.I)
         elif low.startswith('input by'):
             cur = 'input'
@@ -221,7 +225,9 @@ def web_summary(rec):
     """Render the text-information.json record as a Web Summary section."""
     if not rec:
         return None
-    out = ['## Web Summary']
+    out = ['## Web Summary',
+           '<sub>🤖 AI-generated overview — not human-verified; may contain '
+           'inaccuracies.</sub>']
     for label, key in [('Tradition', 'tradition'), ('Genre', 'genre'),
                        ('Estimated date', 'date_estimate')]:
         if rec.get(key):
