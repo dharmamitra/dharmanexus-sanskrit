@@ -183,6 +183,27 @@ MANUAL_OVERRIDES = {
         'Chapter IX: Ātmavādapratiṣedha, Bibliotheca Indologica et Buddhologica 11, '
         'Tokyo: Sankibo Press, 2005.',
         'digitised_from': 'Google Books'},
+    'SA_T06_-ybh-klesa': {
+        'title': 'Yogācārabhūmi: Kleśa Section',
+        'author': 'Asaṅga (traditional attribution)',
+        'edition': 'Sung Doo Ahn (ed.), Die Lehre von den Kleśas in der '
+        'Yogācārabhūmi, Alt- und Neu-Indische Studien 55, Stuttgart: Franz Steiner '
+        'Verlag, 2003 (Hamburg dissertation, supervised by Lambert Schmithausen).',
+        'web_summary': {
+            'tradition': 'Buddhist (Yogācāra / Vijñānavāda)',
+            'genre': 'śāstra (Abhidharma–Yogācāra doctrinal treatise)',
+            'date_estimate': 'c. 4th century CE',
+            'summary': 'The section of the Yogācārabhūmi treating the defilements '
+            '(kleśa): their nature, enumeration and classification, modes of '
+            'operation, latent tendencies (anuśaya), and the path to their '
+            'abandonment, within the school’s encyclopaedic account of the '
+            'stages of yogic practice.',
+            'history': 'The Yogācārabhūmi is the foundational compendium of the '
+            'Yogācāra school, traditionally ascribed to Asaṅga (or revealed by '
+            'Maitreya) and compiled around the 4th century CE. The Sanskrit text of '
+            'its treatment of the kleśas was critically edited and studied by Sung '
+            'Doo Ahn in a Hamburg dissertation supervised by Lambert Schmithausen.',
+            'confidence': 'high'}},
     'SA_T06_ybh-laukikamarga': {
         'edition': 'Florin Deleanu (ed.), The Chapter on the Mundane Path '
         '(Laukikamārga) in the Śrāvakabhūmi: A Trilingual Edition (Sanskrit, Tibetan, '
@@ -222,8 +243,12 @@ def main():
     src_count = collections.Counter()
     for e in files:
         fn = e['filename']
-        title = e.get('uniformtitle') or e.get('displayName') or fn
-        author = e.get('author')
+        ov = MANUAL_OVERRIDES.get(fn)
+        title = ((ov or {}).get('title') or e.get('uniformtitle')
+                 or e.get('displayName') or fn)
+        if title == 'nan':
+            title = fn
+        author = (ov or {}).get('author') or e.get('author')
         coll = e.get('collection', '')
         cat = e.get('category', '')
         catname = cats.get(cat, cat)
@@ -247,7 +272,6 @@ def main():
         head.append(f'**Collection / category:** {coll} / {cat} ({catname})')
         head += ['', '## Source']
         has_header = False  # True once an embedded edition-bearing header is added
-        ov = MANUAL_OVERRIDES.get(fn)
 
         if ov:  # manual correction wins over everything
             head.append('**Source:** OCR / Dharmamitra')
@@ -301,8 +325,9 @@ def main():
 
         head += ['', f'**Provenance confidence:** {conf}']
         core = '\n'.join(head).strip()
+        ws_rec = (ov or {}).get('web_summary') or tinfo.get(fn)
         extras = [s for s in (gibbs_section(gibbs.get(fn)),
-                              web_summary(tinfo.get(fn))) if s]
+                              web_summary(ws_rec)) if s]
         e['raw_metadata'] = '\n\n'.join([core] + extras)
         e['raw_metadata_confidence'] = conf
 
