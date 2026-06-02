@@ -203,6 +203,7 @@ def main():
             head.append(f'**Author:** {author}')
         head.append(f'**Collection / category:** {coll} / {cat} ({catname})')
         head += ['', '## Source']
+        has_header = False  # True once an embedded edition-bearing header is added
 
         if b:  # authoritative buddhanexus entry
             source = b.get('source') or 'unknown'
@@ -218,6 +219,7 @@ def main():
                     h = gretil_header(lp)
                     if h:
                         head += ['', '## Original GRETIL header', '', '```', h, '```']
+                        has_header = True
 
         elif cat == 'MB':  # Muktabodha
             head.append('**Source:** Muktabodha Indological Research Institute')
@@ -226,19 +228,24 @@ def main():
             mh = muktabodha_header(fn)
             if mh:
                 head += ['', '## Muktabodha catalog metadata', '', mh]
+                has_header = True
             conf = 'high'
             src_count['Muktabodha'] += 1
 
         else:  # everything else -> OCR / Dharmamitra
             head.append('**Source:** OCR / Dharmamitra')
-            head.append('_Not present in the buddhanexus source-of-truth catalogue; '
-                        'treated as a Dharmamitra OCR / digitization._')
             # backfill author only (our catalog `source` tag is unreliable -> never used)
             rec = bdw.get(fn) or edw.get(fn)
             if rec and not author and rec.get('author'):
                 head.insert(3, f'**Author:** {rec["author"]}')
             conf = 'assumed'
             src_count['OCR/Dharmamitra'] += 1
+
+        # valuable edition citation from sanskrit-dating (text only, no patchwork URLs);
+        # skip when the embedded header already states the edition
+        edition = (bdw.get(fn) or {}).get('edition')
+        if edition and not has_header:
+            head.append(f'**Edition:** {edition}')
 
         head += ['', f'**Provenance confidence:** {conf}']
         core = '\n'.join(head).strip()
