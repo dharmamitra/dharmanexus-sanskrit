@@ -180,11 +180,10 @@ def titlecase(s):
 
 def space_fields(md):
     """Put each bold **field:** line on its own paragraph (blank line before it),
-    so consecutive fields don't collapse into one rendered line."""
+    incl. after a section heading, so fields don't collapse into one line."""
     out = []
     for ln in md.split('\n'):
-        if (ln.startswith('**') and out and out[-1].strip()
-                and not out[-1].lstrip().startswith('#')):
+        if ln.startswith('**') and out and out[-1].strip():
             out.append('')
         out.append(ln)
     return re.sub(r'\n{3,}', '\n\n', '\n'.join(out)).strip()
@@ -203,7 +202,9 @@ def gibbs_section(r):
         return None
     med = fmt_year(r.get('post_median'))
     lo, hi = fmt_year(r.get('crI_lo95')), fmt_year(r.get('crI_hi95'))
-    out = ['## Date estimate (Gibbs model)']
+    out = ['## Date estimate ([Statistical Model]'
+           '(https://dharmamitra.github.io/sanskrit-dating/'
+           'sanskrit_chronology_interactive.html))']
     if lo and hi:
         out.append(f'**95% credible interval:** {lo} – {hi}')
     if med:
