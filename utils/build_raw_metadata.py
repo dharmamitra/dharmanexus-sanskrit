@@ -183,6 +183,11 @@ MANUAL_OVERRIDES = {
         'Chapter IX: Ātmavādapratiṣedha, Bibliotheca Indologica et Buddhologica 11, '
         'Tokyo: Sankibo Press, 2005.',
         'digitised_from': 'Google Books'},
+    'SA_T07_vakobha9': {
+        'edition': 'Jong Cheol Lee (ed.), Abhidharmakośabhāṣya of Vasubandhu, '
+        'Chapter IX: Ātmavādapratiṣedha, Bibliotheca Indologica et Buddhologica 11, '
+        'Tokyo: Sankibo Press, 2005.',
+        'digitised_from': 'Google Books'},
 }
 
 def main():
