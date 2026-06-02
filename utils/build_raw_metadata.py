@@ -230,6 +230,7 @@ MANUAL_OVERRIDES = {
             'Doo Ahn in a Hamburg dissertation supervised by Lambert Schmithausen.',
             'confidence': 'high'}},
     'SA_T06_ybh-laukikamarga': {
+        'title': 'Yogācārabhūmi: Laukikamārga',
         'edition': 'Florin Deleanu (ed.), The Chapter on the Mundane Path '
         '(Laukikamārga) in the Śrāvakabhūmi: A Trilingual Edition (Sanskrit, Tibetan, '
         'Chinese), Annotated Translation, and Introductory Study, 2 vols., Studia '
