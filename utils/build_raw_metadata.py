@@ -96,6 +96,14 @@ def derived_key(fn):
     p = fn.split('_', 2)
     return (p[1] + p[2]) if len(p) > 2 else fn.replace('SA_', '').replace('_', '')
 
+def _norm(s):
+    return re.sub(r'[^a-z0-9]', '', (s or '').lower())
+
+def _canon(s):
+    """normalised key tolerant of a trailing 'u' (buddhanexus stems vary by ±u)."""
+    n = _norm(s)
+    return n[:-1] if n.endswith('u') else n
+
 def gibbs_section(r):
     """not-before / not-after + posterior date from the Gibbs sampler TSV."""
     if not r:
@@ -103,7 +111,7 @@ def gibbs_section(r):
     nb, na = fmt_year(r.get('nb')), fmt_year(r.get('na'))
     med = fmt_year(r.get('post_median'))
     lo, hi = fmt_year(r.get('crI_lo95')), fmt_year(r.get('crI_hi95'))
-    out = ['## Date estimate (sanskrit-dating Gibbs model)']
+    out = ['## Date estimate (Gibbs model)']
     if nb or na:
         out.append(f'**Not before:** {nb or "?"} — **Not after:** {na or "?"}')
     if med:
@@ -112,8 +120,7 @@ def gibbs_section(r):
     return '\n'.join(out) if len(out) > 1 else None
 
 # headings of the appended sections (used to strip on re-run, for idempotency)
-APPENDED = re.compile(r'\n+#{1,3} (?:Date estimate \(sanskrit-dating Gibbs model\)'
-                      r'|Web Summary)\b')
+APPENDED = re.compile(r'\n+#{1,3} (?:Date estimate\b|Web Summary\b)')
 def core_only(body):
     m = APPENDED.search(body or '')
     return body[:m.start()].rstrip() if m else (body or '').rstrip()
@@ -136,9 +143,6 @@ def web_summary(rec):
           for w in rw]
     if rw:
         out += ['', '**Related works:** ' + ', '.join(rw)]
-    srcs = rec.get('sources') or []
-    if srcs:
-        out += ['', '**Sources:**'] + [f'- {link(u, u)}' for u in srcs if u]
     if rec.get('confidence'):
         out += ['', f'_Web summary confidence: {rec["confidence"]}_']
     return '\n'.join(out).strip()
@@ -150,28 +154,19 @@ def fmt_year(y):
         return None
     return f'{abs(y)} BCE' if y < 0 else f'{y} CE'
 
-def dating_lines(rec):
-    """Render sanskrit-dating work/edition data (buddhist_ or editions_workitems)."""
-    out = []
-    if rec.get('edition'):
-        out.append(f'**Digitised edition:** {rec["edition"]}')
-    med, nb, na = fmt_year(rec.get('cur_med')), fmt_year(rec.get('cur_nb')), fmt_year(rec.get('cur_na'))
-    if med or nb or na:
-        rng = f' (range {nb}–{na})' if (nb and na) else ''
-        out.append(f'**Estimated date (sanskrit-dating):** c. {med or "?"}{rng}')
-    eu = rec.get('edition_url')
-    if eu and not eu.rstrip().endswith('/'):          # skip truncated dir-only URLs
-        out.append('**Edition reference:** ' + link(eu, eu))
-    if rec.get('archive_url'):
-        out.append('**Archive copy:** ' + link(rec['archive_url'], rec['archive_url']))
-    for u in (rec.get('src') or []):
-        out.append('**Source scan:** ' + link(u, u))
-    return out
-
 def main():
     files = json.load(open(f'{REPO}/SA_files.json'))
     bn_list = json.load(open(BN_FILE))
-    bn = {e['filename']: e for e in bn_list}
+    bn_exact = {b['filename']: b for b in bn_list}
+    bn_canon = {}
+    for b in bn_list:
+        bn_canon.setdefault(_canon(b['filename']), b)
+
+    def bn_lookup(e):
+        fn = e['filename']
+        return (bn_exact.get(e.get('filenr')) or bn_exact.get(derived_key(fn))
+                or bn_canon.get(_canon(derived_key(fn)))
+                or bn_canon.get(_canon(e.get('filenr') or '')))
     import csv
     edw = {e['id']: e for e in json.load(open(f'{SD}/editions_workitems.json'))}
     bdw = {e['id']: e for e in json.load(open(f'{SD}/buddhist_workitems.json'))}
@@ -201,7 +196,7 @@ def main():
             e['raw_metadata_confidence'] = conf
             continue
 
-        b = bn.get(e.get('filenr')) or bn.get(derived_key(fn))
+        b = bn_lookup(e)
         head = [f'# {title}', '']
         head.append(f'**DharmaNexus ID:** `{fn}`')
         if author:
@@ -234,21 +229,16 @@ def main():
             conf = 'high'
             src_count['Muktabodha'] += 1
 
-        else:  # everything else -> OCR / Dharmamitra (enriched from sanskrit-dating)
+        else:  # everything else -> OCR / Dharmamitra
             head.append('**Source:** OCR / Dharmamitra')
             head.append('_Not present in the buddhanexus source-of-truth catalogue; '
                         'treated as a Dharmamitra OCR / digitization._')
-            tag = e.get('source')
-            if tag:
-                head.append(f'**Catalog source tag (pre-existing):** {tag}')
+            # backfill author only (our catalog `source` tag is unreliable -> never used)
             rec = bdw.get(fn) or edw.get(fn)
-            dl = dating_lines(rec) if rec else []
             if rec and not author and rec.get('author'):
-                head.insert(3, f'**Author:** {rec["author"]}')  # after ID line
-            if dl:
-                head += ['', '## Work & edition (sanskrit-dating)'] + dl
+                head.insert(3, f'**Author:** {rec["author"]}')
             conf = 'assumed'
-            src_count['OCR/Dharmamitra' + (' (+dating)' if dl else '')] += 1
+            src_count['OCR/Dharmamitra'] += 1
 
         head += ['', f'**Provenance confidence:** {conf}']
         core = '\n'.join(head).strip()
