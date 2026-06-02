@@ -373,7 +373,6 @@ def main():
         if author:
             head.append(f'**Author:** {author}')
         head.append(f'**Collection / category:** {coll} / {cat} ({catname})')
-        head += ['', '## Source']
         has_header = False  # True once an embedded edition-bearing header is added
 
         if ov:  # manual correction wins over everything
