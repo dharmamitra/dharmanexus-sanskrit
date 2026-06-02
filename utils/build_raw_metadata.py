@@ -183,6 +183,13 @@ MANUAL_OVERRIDES = {
         'Chapter IX: Ātmavādapratiṣedha, Bibliotheca Indologica et Buddhologica 11, '
         'Tokyo: Sankibo Press, 2005.',
         'digitised_from': 'Google Books'},
+    'SA_T06_ybh-laukikamarga': {
+        'edition': 'Florin Deleanu (ed.), The Chapter on the Mundane Path '
+        '(Laukikamārga) in the Śrāvakabhūmi: A Trilingual Edition (Sanskrit, Tibetan, '
+        'Chinese), Annotated Translation, and Introductory Study, 2 vols., Studia '
+        'Philologica Buddhica Monograph Series XX, Tokyo: The International Institute '
+        'for Buddhist Studies, 2006.',
+        'digitised_from': 'Google Books'},
     'SA_T07_vakobha9': {
         'edition': 'Jong Cheol Lee (ed.), Abhidharmakośabhāṣya of Vasubandhu, '
         'Chapter IX: Ātmavādapratiṣedha, Bibliotheca Indologica et Buddhologica 11, '
