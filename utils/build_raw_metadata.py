@@ -440,14 +440,19 @@ def main():
         if ep and not ov and ep.get('archive_url') and ep.get('archive_confidence') == 'high':
             head.append('**Archive scan:** ' + link(ep['archive_url'], ep['archive_url']))
 
-        # aligned canonical-language translations (dharmanexus)
+        # aligned canonical-language translations (dharmanexus); may be several
         tr = translations.get(fn, {})
-        if tr.get('bo'):
-            head.append('**Tibetan translation:** ' + link(
-                tr['bo'], f'https://dharmamitra.org/nexus/db/bo/{tr["bo"]}/text'))
-        if tr.get('zh'):
-            head.append('**Chinese translation:** ' + link(
-                tr['zh'], f'https://dharmamitra.org/nexus/db/zh/{tr["zh"]}/text'))
+        def _trlinks(db):
+            ids = tr.get(db) or []
+            if isinstance(ids, str):
+                ids = [ids]
+            return ', '.join(link(i, f'https://dharmamitra.org/nexus/db/{db}/{i}/text')
+                             for i in ids)
+        bo_l, zh_l = _trlinks('bo'), _trlinks('zh')
+        if bo_l:
+            head.append('**Tibetan translation:** ' + bo_l)
+        if zh_l:
+            head.append('**Chinese translation:** ' + zh_l)
 
         head += ['', f'**Provenance confidence:** {conf}']
         core = '\n'.join(head).strip()

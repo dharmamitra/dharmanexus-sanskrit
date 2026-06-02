@@ -57,47 +57,51 @@ def main():
         m = re.match(r'([A-Z]+\d+)(.+)', pre)
         return f'SA_{m.group(1)}_{m.group(2)}' if m else None
 
-    # candidates: (sa, lang, nexus_id) -> best tsv by size
-    best = {}
+    # aggregate aligned-src count per (sa, lang, nexus_id) — merge -1/-2 parts
+    agg = collections.defaultdict(int)   # (sa, lang, nid) -> max distinct_src
     for fn in os.listdir(TSV):
         if not fn.endswith('.tsv'):
             continue
-        base = fn[:-4]
-        # split into source-prefix + target: target starts at last '_<CAT><Dn>'
-        m = re.match(r'(.+?)_([A-Z]+\d+[Dn].*)$', base)
+        m = re.match(r'(.+?)_([A-Z]+\d+[Dn].*)$', fn[:-4])
         if not m:
             continue
-        pre, target = m.group(1), m.group(2)
-        sa = sa_from_prefix(pre)
+        sa = sa_from_prefix(m.group(1))
         if sa not in ours:
             continue
-        lang, nid = canon_id(target)
+        lang, nid = canon_id(m.group(2))
         if not nid or nid not in valid:
             continue
-        size = os.path.getsize(os.path.join(TSV, fn))
-        key = (sa, lang)
-        if size > best.get(key, (0,))[0]:
-            best[key] = (size, fn, nid)
-
-    out = collections.defaultdict(dict)
-    stats = collections.Counter()
-    for (sa, lang), (size, fn, nid) in best.items():
         n = distinct_src(os.path.join(TSV, fn))
+        k = (sa, lang, nid)
+        if n > agg[k]:
+            agg[k] = n
+
+    # group by (sa, lang); keep all translations within REL of the longest,
+    # provided the longest itself is a genuine alignment
+    REL = 0.5
+    bylang = collections.defaultdict(list)        # (sa, lang) -> [(n, nid)]
+    for (sa, lang, nid), n in agg.items():
+        bylang[(sa, lang)].append((n, nid))
+    out = collections.defaultdict(dict)
+    for (sa, lang), cand in bylang.items():
+        cand.sort(reverse=True)
+        longest = cand[0][0]
         total = seglen.get(sa, 0)
-        ok = n >= 50 or (total and n / total >= 0.10)
-        stats[f'{lang}_{"ok" if ok else "reject"}'] += 1
-        if ok:
-            out[sa][lang] = nid
+        if not (longest >= 50 or (total and longest / total >= 0.10)):
+            continue
+        ids = [nid for n, nid in cand if n >= REL * longest]
+        out[sa][lang] = ids
 
     json.dump(out, open(f'{REPO}/utils/translations.json', 'w'),
               ensure_ascii=False, indent=2)
-    texts = len(out)
-    bo = sum(1 for v in out.values() if 'bo' in v)
-    zh = sum(1 for v in out.values() if 'zh' in v)
-    print(f'wrote translations.json: {texts} texts | Tibetan={bo} Chinese={zh}')
-    print('per-language accept/reject:', dict(stats))
-    # spot-check
-    for sa in ['SA_GK19_asvbc_1u', 'SA_GK16_dkavy12u', 'SA_GE07_hv_apppu', 'SA_K01_bhikavau']:
+    bo = sum(1 for v in out.values() if v.get('bo'))
+    zh = sum(1 for v in out.values() if v.get('zh'))
+    nbo = sum(len(v.get('bo', [])) for v in out.values())
+    nzh = sum(len(v.get('zh', [])) for v in out.values())
+    print(f'wrote translations.json: {len(out)} texts | '
+          f'Tibetan {bo} texts/{nbo} links | Chinese {zh} texts/{nzh} links')
+    for sa in ['SA_T07_vakobhau', 'SA_T06_vmvkbh_u', 'SA_GK19_asvbc_1u',
+               'SA_GK16_dkavy12u', 'SA_K01_bhikavau', 'SA_GE07_hv_apppu']:
         print(' ', sa, '->', dict(out.get(sa, {})))
 
 if __name__ == '__main__':
