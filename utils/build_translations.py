@@ -16,6 +16,19 @@ MROOT = os.path.expanduser('~/code/mitra-multilingual-matching')
 TSV = f'{MROOT}/mitra-parallel/mitra-parallel/tsv'
 COV = f'{MROOT}/file_coverage_report.tsv'
 
+# Manual translation links (authoritative). The Yogācārabhūmi/Śrāvakabhūmi
+# complex: each Sanskrit fragment renders too little of the huge T1579 / D40xx
+# for the automatic coverage test, so the canonical translations are set here.
+#   Chinese: T1579 (Xuanzang's complete Yogācārabhūmi) = ZH_T30_1579
+#   Tibetan: D4035 main YBh · D4036 Śrāvakabhūmi · D4037 Bodhisattvabhūmi
+MANUAL_TRANSLATIONS = {
+    'SA_T06_n1394u':           {'bo': ['BO_T06_D4035'], 'zh': ['ZH_T30_1579']},  # Yogācārabhūmi
+    'SA_T06_bsa034':           {'bo': ['BO_T06_D4037'], 'zh': ['ZH_T30_1579']},  # Bodhisattvabhūmi
+    'SA_T06_ybh-laukikamarga': {'bo': ['BO_T06_D4036'], 'zh': ['ZH_T30_1579']},  # Śrāvakabhūmi: Laukikamārga
+    'SA_T06_-ybh-klesa':       {'bo': ['BO_T06_D4035'], 'zh': ['ZH_T30_1579']},  # YBh kleśa section
+    'SA_T06_asycsaru':         {'bo': ['BO_T06_D4035'], 'zh': ['ZH_T30_1579']},  # Śarīrārthagāthā (in YBh)
+}
+
 def canon_id(target):
     core = target.split('_')[0]                       # drop _H…, _001 suffixes
     m = re.match(r'([A-Z]+\d+)(D\d+)', core)           # Tibetan Derge
@@ -91,6 +104,11 @@ def main():
             continue
         ids = [nid for n, nid in cand if n >= REL * longest]
         out[sa][lang] = ids
+
+    # apply manual overrides (authoritative; ids validated against nexus list)
+    for fn, langs in MANUAL_TRANSLATIONS.items():
+        clean = {lg: [i for i in ids if i in valid] for lg, ids in langs.items()}
+        out[fn] = {lg: ids for lg, ids in clean.items() if ids}
 
     json.dump(out, open(f'{REPO}/utils/translations.json', 'w'),
               ensure_ascii=False, indent=2)
