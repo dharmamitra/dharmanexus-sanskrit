@@ -414,6 +414,11 @@ def main():
         if edition and not has_header and not ov:
             head.append(f'**Edition:** {edition}')
 
+        # link to the scanned source edition, only when its match is high-confidence
+        ep = eparts.get(fn)
+        if ep and not ov and ep.get('archive_url') and ep.get('archive_confidence') == 'high':
+            head.append('**Archive scan:** ' + link(ep['archive_url'], ep['archive_url']))
+
         head += ['', f'**Provenance confidence:** {conf}']
         core = '\n'.join(head).strip()
         ws_rec = (ov or {}).get('web_summary') or tinfo.get(fn)
