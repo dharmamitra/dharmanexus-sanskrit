@@ -76,6 +76,63 @@ def gretil_header(path):
     kept = [ln for ln in dedup if not COPYRIGHT.search(ln)]
     return '\n'.join(kept).strip()
 
+# format/markup boilerplate that follows the bibliographic part of a GRETIL header
+GRET_FMT_NOTE = re.compile(
+    r'^(PLAIN TEXT VERSION|ANALYTIC TEXT|MARKUP|STRUCTURE OF REFERENCES'
+    r'|REFERENCE SYSTEM|NOTE:|NOTES:|EDITORIAL|This GRETIL|This e-?text comprises'
+    r'|This electronic|The transliteration|description:|CONVENTIONS|Conventions'
+    r'|\[[hk]:|_{3,}|={3,}|Unless indicated|Sutra section)', re.I)
+
+def gretil_header_md(path):
+    """Parse a GRETIL header into pretty Markdown fields (Edition / Entered by /
+    Corrections), like the Muktabodha block — no raw monospaced dump."""
+    text = gretil_header(path)
+    if not text:
+        return None
+    # keep only the bibliographic part (drop markup/format notes)
+    lines = []
+    for ln in text.split('\n'):
+        if GRET_FMT_NOTE.match(ln.strip()):
+            break
+        if ln.strip():
+            lines.append(ln.strip())
+    buckets = {'title': [], 'edition': [], 'input': [], 'corrections': []}
+    cur = 'title'
+    for s in lines:
+        low = s.lower()
+        if low.startswith(('based on', 'text based on')):
+            cur = 'edition'
+            s = re.sub(r'^(text\s+)?based on(\s+the)?(\s+ed\.?|\s+edition)?(\s+by)?\s*',
+                       '', s, flags=re.I)
+        elif low.startswith('input by'):
+            cur = 'input'
+            s = re.sub(r'^input by\s*', '', s, flags=re.I)
+        elif low.startswith(('corrections', 'correction by', 'corrected', 'proof')):
+            cur = 'corrections'
+            s = re.sub(r'^corrections?\s+by\s*|^corrected by\s*|^proof[- ]?read(ing)?\s+by\s*',
+                       '', s, flags=re.I)
+        if s.strip():
+            buckets[cur].append(s.strip())
+    join = lambda k: re.sub(r'\s+', ' ', ' '.join(buckets[k])).strip(' ,;')
+    edition, inp, corr = join('edition'), join('input'), join('corrections')
+    desc = join('title')
+    out = []
+    # the GRETIL title line usually duplicates the entry heading; keep only a
+    # genuine qualifier (e.g. "with the Ayurvedadipika", "constituted text ...")
+    if desc and (':' not in desc) and len(desc) < 80 and (
+            'with' in desc.lower() or 'constituted' in desc.lower()
+            or 'selected' in desc.lower() or 'recension' in desc.lower()):
+        out.append(f'**Work:** {desc}')
+    if edition:
+        out.append(f'**Edition:** {edition}')
+    if inp:
+        out.append(f'**Entered by:** {inp}')
+    if corr:
+        out.append(f'**Corrections by:** {corr}')
+    if not out and desc:        # no recognised fields -> show the cleaned text plainly
+        out.append(desc)
+    return out or None
+
 # ---- Muktabodha catalog header ----
 MB_FIELDS = ['Uniform title', 'Author', 'Commentator', 'Editor', 'Description',
              'Notes', 'Publisher', 'Publication year', 'Publication country', 'Revision']
@@ -320,9 +377,9 @@ def main():
             if source == 'GRETIL':
                 lp = local_from_link(url)
                 if lp:
-                    h = gretil_header(lp)
+                    h = gretil_header_md(lp)
                     if h:
-                        head += ['', '## Original GRETIL header', '', '```', h, '```']
+                        head += ['', '## GRETIL header', ''] + h
                         has_header = True
 
         elif cat == 'MB':  # Muktabodha
