@@ -342,6 +342,10 @@ def main():
             if r.get('id') and r.get('edition'):
                 eparts.setdefault(r['id'], r)
     tinfo = json.load(open(f'{SD}/text-information.json'))
+    try:
+        translations = json.load(open(f'{REPO}/utils/translations.json'))
+    except FileNotFoundError:
+        translations = {}
     gibbs = {r['work']: r for r in
              csv.DictReader(open(f'{SD}/dated_gibbs_full.tsv'), delimiter='\t')}
     cats = {c['category']: c['displayName']
@@ -435,6 +439,15 @@ def main():
         ep = eparts.get(fn)
         if ep and not ov and ep.get('archive_url') and ep.get('archive_confidence') == 'high':
             head.append('**Archive scan:** ' + link(ep['archive_url'], ep['archive_url']))
+
+        # aligned canonical-language translations (dharmanexus)
+        tr = translations.get(fn, {})
+        if tr.get('bo'):
+            head.append('**Tibetan translation:** ' + link(
+                tr['bo'], f'https://dharmamitra.org/nexus/db/bo/{tr["bo"]}/text'))
+        if tr.get('zh'):
+            head.append('**Chinese translation:** ' + link(
+                tr['zh'], f'https://dharmamitra.org/nexus/db/zh/{tr["zh"]}/text'))
 
         head += ['', f'**Provenance confidence:** {conf}']
         core = '\n'.join(head).strip()
