@@ -96,6 +96,53 @@ def derived_key(fn):
     p = fn.split('_', 2)
     return (p[1] + p[2]) if len(p) > 2 else fn.replace('SA_', '').replace('_', '')
 
+def gibbs_section(r):
+    """not-before / not-after + posterior date from the Gibbs sampler TSV."""
+    if not r:
+        return None
+    nb, na = fmt_year(r.get('nb')), fmt_year(r.get('na'))
+    med = fmt_year(r.get('post_median'))
+    lo, hi = fmt_year(r.get('crI_lo95')), fmt_year(r.get('crI_hi95'))
+    out = ['## Date estimate (sanskrit-dating Gibbs model)']
+    if nb or na:
+        out.append(f'**Not before:** {nb or "?"} — **Not after:** {na or "?"}')
+    if med:
+        ci = f' (95% CrI: {lo}–{hi})' if (lo and hi) else ''
+        out.append(f'**Posterior median:** {med}{ci}')
+    return '\n'.join(out) if len(out) > 1 else None
+
+# headings of the appended sections (used to strip on re-run, for idempotency)
+APPENDED = re.compile(r'\n+#{1,3} (?:Date estimate \(sanskrit-dating Gibbs model\)'
+                      r'|Web Summary)\b')
+def core_only(body):
+    m = APPENDED.search(body or '')
+    return body[:m.start()].rstrip() if m else (body or '').rstrip()
+
+def web_summary(rec):
+    """Render the text-information.json record as a Web Summary section."""
+    if not rec:
+        return None
+    out = ['## Web Summary']
+    for label, key in [('Tradition', 'tradition'), ('Genre', 'genre'),
+                       ('Estimated date', 'date_estimate')]:
+        if rec.get(key):
+            out.append(f'**{label}:** {rec[key]}')
+    if rec.get('summary'):
+        out += ['', rec['summary']]
+    if rec.get('history'):
+        out += ['', f'**History:** {rec["history"]}']
+    rw = rec.get('related_works') or []
+    rw = [w if isinstance(w, str) else (w.get('title') or w.get('id') or str(w))
+          for w in rw]
+    if rw:
+        out += ['', '**Related works:** ' + ', '.join(rw)]
+    srcs = rec.get('sources') or []
+    if srcs:
+        out += ['', '**Sources:**'] + [f'- {link(u, u)}' for u in srcs if u]
+    if rec.get('confidence'):
+        out += ['', f'_Web summary confidence: {rec["confidence"]}_']
+    return '\n'.join(out).strip()
+
 def fmt_year(y):
     try:
         y = int(round(float(y)))
@@ -125,8 +172,12 @@ def main():
     files = json.load(open(f'{REPO}/SA_files.json'))
     bn_list = json.load(open(BN_FILE))
     bn = {e['filename']: e for e in bn_list}
+    import csv
     edw = {e['id']: e for e in json.load(open(f'{SD}/editions_workitems.json'))}
     bdw = {e['id']: e for e in json.load(open(f'{SD}/buddhist_workitems.json'))}
+    tinfo = json.load(open(f'{SD}/text-information.json'))
+    gibbs = {r['work']: r for r in
+             csv.DictReader(open(f'{SD}/dated_gibbs_full.tsv'), delimiter='\t')}
     cats = {c['category']: c['displayName']
             for c in json.load(open(f'{REPO}/SA_category-names.json'))}
 
@@ -139,10 +190,15 @@ def main():
         cat = e.get('category', '')
         catname = cats.get(cat, cat)
 
-        # 0. preserve hand-authored rvsb
+        # 0. preserve hand-authored rvsb body (strip any previously-appended sections)
         if fn.startswith(RVSB) and e.get('raw_metadata', '').strip():
-            e['raw_metadata_confidence'] = 'high'
+            core = core_only(e['raw_metadata'])
+            conf = 'high'
             src_count['OCR/Dharmamitra (rvsb, preserved)'] += 1
+            extras = [s for s in (gibbs_section(gibbs.get(fn)),
+                                  web_summary(tinfo.get(fn))) if s]
+            e['raw_metadata'] = '\n\n'.join([core] + extras)
+            e['raw_metadata_confidence'] = conf
             continue
 
         b = bn.get(e.get('filenr')) or bn.get(derived_key(fn))
@@ -195,7 +251,10 @@ def main():
             src_count['OCR/Dharmamitra' + (' (+dating)' if dl else '')] += 1
 
         head += ['', f'**Provenance confidence:** {conf}']
-        e['raw_metadata'] = '\n'.join(head).strip()
+        core = '\n'.join(head).strip()
+        extras = [s for s in (gibbs_section(gibbs.get(fn)),
+                              web_summary(tinfo.get(fn))) if s]
+        e['raw_metadata'] = '\n\n'.join([core] + extras)
         e['raw_metadata_confidence'] = conf
 
     with open(f'{REPO}/SA_files.json', 'w', encoding='utf-8') as f:
