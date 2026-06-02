@@ -11,7 +11,7 @@ Rules:
   - everything else       -> source "OCR / Dharmamitra".
 Writes SA_files.json in place (2-space indent, ensure_ascii=False, no final NL).
 """
-import json, re, os, html as H, collections
+import json, re, os, glob, html as H, collections
 
 REPO = '/home/sebastian/data/dharmanexus-sanskrit'
 SD = '/home/sebastian/code/sanskrit-dating'
@@ -317,6 +317,12 @@ def main():
     import csv
     edw = {e['id']: e for e in json.load(open(f'{SD}/editions_workitems.json'))}
     bdw = {e['id']: e for e in json.load(open(f'{SD}/buddhist_workitems.json'))}
+    # consolidated edition research (full citations) from editions_parts/*.json
+    eparts = {}
+    for pf in glob.glob(f'{SD}/editions_parts/part_*.json'):
+        for r in json.load(open(pf)):
+            if r.get('id') and r.get('edition'):
+                eparts.setdefault(r['id'], r)
     tinfo = json.load(open(f'{SD}/text-information.json'))
     gibbs = {r['work']: r for r in
              csv.DictReader(open(f'{SD}/dated_gibbs_full.tsv'), delimiter='\t')}
@@ -404,7 +410,7 @@ def main():
 
         # valuable edition citation from sanskrit-dating (text only, no patchwork URLs);
         # skip when overridden or when an embedded header already states the edition
-        edition = (bdw.get(fn) or {}).get('edition')
+        edition = (bdw.get(fn) or {}).get('edition') or (eparts.get(fn) or {}).get('edition')
         if edition and not has_header and not ov:
             head.append(f'**Edition:** {edition}')
 
