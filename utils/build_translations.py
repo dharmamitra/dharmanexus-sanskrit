@@ -27,6 +27,14 @@ MANUAL_TRANSLATIONS = {
     'SA_T06_ybh-laukikamarga': {'bo': ['BO_T06_D4036'], 'zh': ['ZH_T30_1579']},  # Śrāvakabhūmi: Laukikamārga
     'SA_T06_-ybh-klesa':       {'bo': ['BO_T06_D4035'], 'zh': ['ZH_T30_1579']},  # YBh kleśa section
     'SA_T06_asycsaru':         {'bo': ['BO_T06_D4035'], 'zh': ['ZH_T30_1579']},  # Śarīrārthagāthā (in YBh)
+    # Abhidharmakośabhāṣya: bhāṣya D4090 (NOT kārikā-only D4091); chapters inherit
+    # the whole-work translations (Xuanzang T1558, Paramārtha T1559).
+    'SA_T07_vakobhau':  {'bo': ['BO_T07_D4090'], 'zh': ['ZH_T29_1558', 'ZH_T29_1559']},
+    'SA_T07_vakobhau1': {'bo': ['BO_T07_D4090'], 'zh': ['ZH_T29_1558', 'ZH_T29_1559']},
+    'SA_T07_vakobhau9': {'bo': ['BO_T07_D4090'], 'zh': ['ZH_T29_1558', 'ZH_T29_1559']},
+    'SA_T07_vakobha9':  {'bo': ['BO_T07_D4090'], 'zh': ['ZH_T29_1558', 'ZH_T29_1559']},
+    # Sthiramati's Triṃśikābhāṣya: Tibetan D4064 (no separate Chinese)
+    'SA_T06_sthtvbh':   {'bo': ['BO_T06_D4064']},
 }
 
 def canon_id(target):
