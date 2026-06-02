@@ -226,8 +226,8 @@ def web_summary(rec):
     if not rec:
         return None
     out = ['## Web Summary',
-           '<sub>🤖 AI-generated overview — not human-verified; may contain '
-           'inaccuracies.</sub>']
+           '_🤖 AI-generated overview — not human-verified; may contain '
+           'inaccuracies._']
     for label, key in [('Tradition', 'tradition'), ('Genre', 'genre'),
                        ('Estimated date', 'date_estimate')]:
         if rec.get(key):
