@@ -108,15 +108,13 @@ def gibbs_section(r):
     """not-before / not-after + posterior date from the Gibbs sampler TSV."""
     if not r:
         return None
-    nb, na = fmt_year(r.get('nb')), fmt_year(r.get('na'))
     med = fmt_year(r.get('post_median'))
     lo, hi = fmt_year(r.get('crI_lo95')), fmt_year(r.get('crI_hi95'))
     out = ['## Date estimate (Gibbs model)']
-    if nb or na:
-        out.append(f'**Not before:** {nb or "?"} — **Not after:** {na or "?"}')
+    if lo and hi:
+        out.append(f'**95% credible interval:** {lo} – {hi}')
     if med:
-        ci = f' (95% CrI: {lo}–{hi})' if (lo and hi) else ''
-        out.append(f'**Posterior median:** {med}{ci}')
+        out.append(f'**Posterior median:** {med}')
     return '\n'.join(out) if len(out) > 1 else None
 
 # headings of the appended sections (used to strip on re-run, for idempotency)
@@ -153,6 +151,39 @@ def fmt_year(y):
     except (TypeError, ValueError):
         return None
     return f'{abs(y)} BCE' if y < 0 else f'{y} CE'
+
+# Manual provenance corrections (authoritative; override all automatic logic).
+# Each: edition citation (text only) + optional digitisation basis.
+MANUAL_OVERRIDES = {
+    'SA_T06_sambhu': {
+        'edition': 'Martin Delhey (ed.), Samāhitā Bhūmiḥ: Das Kapitel über die '
+        'meditative Versenkung im Grundteil der Yogācārabhūmi, Wiener Studien zur '
+        'Tibetologie und Buddhismuskunde 73, Vienna: Arbeitskreis für Tibetische '
+        'und Buddhistische Studien, 2009.',
+        'digitised_from': 'Google Books'},
+    'SA_T06_sthmavt': {
+        'edition': 'Ramchandra Pandeya (ed.), Madhyānta-vibhāga-śāstra (containing '
+        'the Kārikās of Maitreya, Bhāṣya of Vasubandhu and Ṭīkā of Sthiramati), '
+        'Delhi: Motilal Banarsidass, 1971.'},
+    'SA_T06_sthmavtyg': {
+        'edition': 'Susumu Yamaguchi (ed.), Madhyāntavibhāgaṭīkā: Exposition '
+        'systématique du Yogācāravijñaptivāda, Nagoya: Librairie Hajinkaku, 1934.'},
+    'SA_T06_sthmavt1': {
+        'edition': 'Th. Stcherbatsky (ed.), Madhyānta-vibhaṅga: Discourse on '
+        'Discrimination between Middle and Extremes, Bibliotheca Buddhica XXX, '
+        'Moscow–Leningrad: Academy of Sciences USSR, 1936.',
+        'digitised_from': 'Google Books'},
+    'SA_T07_vakobhau1': {
+        'edition': 'Yasunori Ejima (ed.), Abhidharmakośabhāṣya of Vasubandhu, '
+        'Chapter I: Dhātunirdeśa, Bibliotheca Indologica et Buddhologica 1, '
+        'Tokyo: Sankibo Press, 1989.',
+        'digitised_from': 'Google Books'},
+    'SA_T07_vakobhau9': {
+        'edition': 'Jong Cheol Lee (ed.), Abhidharmakośabhāṣya of Vasubandhu, '
+        'Chapter IX: Ātmavādapratiṣedha, Bibliotheca Indologica et Buddhologica 11, '
+        'Tokyo: Sankibo Press, 2005.',
+        'digitised_from': 'Google Books'},
+}
 
 def main():
     files = json.load(open(f'{REPO}/SA_files.json'))
@@ -204,8 +235,17 @@ def main():
         head.append(f'**Collection / category:** {coll} / {cat} ({catname})')
         head += ['', '## Source']
         has_header = False  # True once an embedded edition-bearing header is added
+        ov = MANUAL_OVERRIDES.get(fn)
 
-        if b:  # authoritative buddhanexus entry
+        if ov:  # manual correction wins over everything
+            head.append('**Source:** OCR / Dharmamitra')
+            head.append(f'**Edition:** {ov["edition"]}')
+            if ov.get('digitised_from'):
+                head.append(f'**Digitised from:** {ov["digitised_from"]}')
+            conf = 'high'
+            src_count['manual-override'] += 1
+
+        elif b:  # authoritative buddhanexus entry
             source = b.get('source') or 'unknown'
             url = b.get('link') or ''
             head.append(f'**Source:** {SOURCE_LABEL.get(source, source)}')
@@ -242,9 +282,9 @@ def main():
             src_count['OCR/Dharmamitra'] += 1
 
         # valuable edition citation from sanskrit-dating (text only, no patchwork URLs);
-        # skip when the embedded header already states the edition
+        # skip when overridden or when an embedded header already states the edition
         edition = (bdw.get(fn) or {}).get('edition')
-        if edition and not has_header:
+        if edition and not has_header and not ov:
             head.append(f'**Edition:** {edition}')
 
         head += ['', f'**Provenance confidence:** {conf}']
