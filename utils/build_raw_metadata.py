@@ -96,6 +96,31 @@ def derived_key(fn):
     p = fn.split('_', 2)
     return (p[1] + p[2]) if len(p) > 2 else fn.replace('SA_', '').replace('_', '')
 
+_LOWER_WORDS = {'a', 'an', 'and', 'or', 'the', 'to', 'of', 'in', 'on', 'for',
+                'by', 'with', 'from', 'as', 'at', 'attributed', 'thru', 'through',
+                'nama', 'nāma', 'cum', 'et'}
+
+def _cap_first(tok):
+    for i, ch in enumerate(tok):
+        if ch.isalpha():
+            return tok[:i] + ch.upper() + tok[i + 1:]
+    return tok
+
+def titlecase(s):
+    """Capitalise titles/authors, IAST-aware; keep connector words lowercase.
+    Only the first letter of each word is touched (internal capitals preserved)."""
+    if not s:
+        return s
+    out, after_break = [], True   # start of string / after ':' = capitalise
+    for tok in re.split(r'(\s+)', s):
+        if not tok.strip():
+            out.append(tok)
+            continue
+        core = re.sub(r'[^\w]', '', tok).lower()
+        out.append(tok if (not after_break and core in _LOWER_WORDS) else _cap_first(tok))
+        after_break = tok.rstrip().endswith(':')
+    return ''.join(out)
+
 def _norm(s):
     return re.sub(r'[^a-z0-9]', '', (s or '').lower())
 
@@ -248,7 +273,9 @@ def main():
                  or e.get('displayName') or fn)
         if title == 'nan':
             title = fn
-        author = (ov or {}).get('author') or e.get('author')
+        else:
+            title = titlecase(title)
+        author = titlecase((ov or {}).get('author') or e.get('author'))
         coll = e.get('collection', '')
         cat = e.get('category', '')
         catname = cats.get(cat, cat)
