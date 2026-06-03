@@ -3,78 +3,624 @@
     "segmentnr":"SA_T01_n858u:0",
     "original":"pañcatathāgatastutigāthā",
     "analyzed":"        ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"pañca-",
+        "lemma":"pañcan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tathāgata-",
+        "lemma":"tathāgata",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stuti-",
+        "lemma":"stuti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gāthā",
+        "lemma":"gāthā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:1",
     "original":"om namaḥ śrīpañcabhūtāntāya |",
     "analyzed":"om namaḥ śrī pañcabhūta antāya ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"om",
+        "lemma":"oṃ",
+        "tag":""
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"śrī-",
+        "lemma":"śrī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pañcabhūta-",
+        "lemma":"pañcabhūta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"antāya",
+        "lemma":"anta",
+        "tag":"Case=Dative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:2",
     "original":"namaste varadarājāgra bhūtakoṭi namostu te |",
     "analyzed":"namaḥ te vara da rāja agra bhūtakoṭi namaḥ astu te ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vara-",
+        "lemma":"vara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"da-",
+        "lemma":"da",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rāja-",
+        "lemma":"rājan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"agra",
+        "lemma":"agra",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhūtakoṭi",
+        "lemma":"bhūtakoṭi",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:3",
     "original":"namaste śūnyatāgarbha buddhabodhi namo'stu te || 1 ||",
     "analyzed":"namaḥ te śūnyatā garbha buddha bodhi namaḥ astu te ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"śūnyatā-",
+        "lemma":"śūnyatā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"garbha",
+        "lemma":"garbha",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bodhi",
+        "lemma":"bodhin",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:4",
     "original":"buddharāga namaste'stu buddhakāma namo'stu te |",
     "analyzed":"buddha rāga namaḥ te astu buddha kāma namaḥ astu te ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rāga",
+        "lemma":"rāga",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Genitive, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kāma",
+        "lemma":"kāma",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:5",
     "original":"buddhaprīti namaste'stu buddhamoda namo namaḥ || 2 ||",
     "analyzed":"buddha prīti namaḥ te astu buddha moda namaḥ namaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"prīti",
+        "lemma":"prīti",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"moda",
+        "lemma":"moda",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:6",
     "original":"buddhasmita namastubhyaṃ buddhahāsa namo namaḥ |",
     "analyzed":"buddha smita namaḥ tubhyam buddha hāsa namaḥ namaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"smita",
+        "lemma":"smita",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tubhyam",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"hāsa",
+        "lemma":"hāsa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:7",
     "original":"buddhavāca namaste'stu buddhabhāva namo namaḥ || 3 ||",
     "analyzed":"buddha vāca namaḥ te astu buddha bhāva namaḥ namaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vāca",
+        "lemma":"vāca",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhāva",
+        "lemma":"bhāva",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:8",
     "original":"abhavodbhava namaste'stu namaste buddhasaṃbhava |",
     "analyzed":"abhava udbhava namaḥ te astu namaḥ te buddha saṃbhava ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"abhava-",
+        "lemma":"abhava",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"udbhava",
+        "lemma":"udbhava",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃbhava",
+        "lemma":"sambhava",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:9",
     "original":"gaganodbhava namaste'stu namaste jñānasaṃbhava || 4 ||",
     "analyzed":"gagana udbhava namaḥ te astu namaḥ te jñāna saṃbhava ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"gagana-",
+        "lemma":"gagana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"udbhava",
+        "lemma":"udbhava",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃbhava",
+        "lemma":"sambhava",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:10",
     "original":"māyājāla namastubhyaṃ namaste buddhanāyaka |",
     "analyzed":"māyā jāla namaḥ tubhyam namaḥ te buddha nāyaka ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"māyā-",
+        "lemma":"māyā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jāla",
+        "lemma":"jāla",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tubhyam",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nāyaka",
+        "lemma":"nāyaka",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:11",
     "original":"namaste sarvasarvebhyo jñānakāya namo'stu te |",
     "analyzed":"namaḥ te sarva sarvebhyaḥ jñānakāya namaḥ astu te ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sarvebhyaḥ",
+        "lemma":"sarva",
+        "tag":"Case=Dative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"jñānakāya",
+        "lemma":"jñānaka",
+        "tag":"Case=Dative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n858u:12",
     "original":"śrī pañcatathāgatastutigāthā samāptā |",
     "analyzed":"śrī pañca tathāgata stuti gāthā samāptā ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"śrī",
+        "lemma":"śrī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"pañca-",
+        "lemma":"pañcan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tathāgata-",
+        "lemma":"tathāgata",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stuti-",
+        "lemma":"stuti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gāthā",
+        "lemma":"gāthā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptā",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      }
+    ]
   }
 ]

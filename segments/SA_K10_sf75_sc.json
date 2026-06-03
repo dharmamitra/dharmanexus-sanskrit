@@ -3,30 +3,315 @@
     "segmentnr":"SA_K10_sf75_sc:0",
     "original":"Śaktisūtra",
     "analyzed":"śaktisūtra ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śaktisūtra",
+        "lemma":"śaktisūtra",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf75_sc:1",
     "original":"ye śramaṇā vā brāhmaṇā vā stoka stokaṁ muhūrta muhūrtaṁ sarva satva prāṇa bhūteṣu",
     "analyzed":"ye śramaṇāḥ vā brāhmaṇāḥ vā stoka stokam muhūrta muhūrtam sarva satva prāṇa bhūteṣu ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"ye",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"brāhmaṇāḥ",
+        "lemma":"brāhmaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"stoka-",
+        "lemma":"stoka",
+        "tag":"Compound, Gender=Masculine"
+      },
+      {
+        "unsandhied":"stokaṁ",
+        "lemma":"stoka",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"muhūrta",
+        "lemma":"muhūrta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"muhūrtaṁ",
+        "lemma":"muhūrta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"satva-",
+        "lemma":"sattva",
+        "tag":"Compound, Gender=Masculine"
+      },
+      {
+        "unsandhied":"prāṇa-",
+        "lemma":"prāṇa",
+        "tag":"Compound, Gender=Masculine"
+      },
+      {
+        "unsandhied":"bhūteṣu",
+        "lemma":"bhūta",
+        "tag":"Case=Locative, Gender=Neuter, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf75_sc:2",
     "original":"maitraṁ cittaṁ bhāvayeyuḥ … teṣāṁ sa cet kaścid upasaṁkramati vyāḍo vā yakṣo vā avatara",
     "analyzed":"maitram cittam bhāvayeyuḥ teṣām sa ced kaścid upasakramati vyāḍaḥ vā yakṣaḥ vā avatara ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"maitram",
+        "lemma":"maitra",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"cittam",
+        "lemma":"citta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"bhāvayeyuḥ",
+        "lemma":"bhāvay",
+        "tag":"Tense=Present, Mood=Optative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"teṣāṁ",
+        "lemma":"tad",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"sa",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ced",
+        "lemma":"ced",
+        "tag":""
+      },
+      {
+        "unsandhied":"kaścid",
+        "lemma":"kaścit",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"upasaṁkramati",
+        "lemma":"upasaṃkram",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"vyāḍaḥ",
+        "lemma":"vyāḍa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"yakṣaḥ",
+        "lemma":"yakṣa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"avatara",
+        "lemma":"avatṛ",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf75_sc:3",
     "original":"prekṣī … raṁ na labhate ālaṁbanaṁ anyatra sa vyāḍo vā yakṣo vā amanuṣyo vā naivāsiko vā … syāt \/",
     "analyzed":"prekṣī na labhate anyatra sa vyāḍaḥ vā yakṣaḥ vā amanuṣyaḥ vā naivāsikaḥ vā syāt ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"prekṣī",
+        "lemma":"prekṣin",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"labhate",
+        "lemma":"labh",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"anyatra",
+        "lemma":"anyatra",
+        "tag":""
+      },
+      {
+        "unsandhied":"sa",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vyāḍaḥ",
+        "lemma":"vyāḍa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"yakṣaḥ",
+        "lemma":"yakṣa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"amanuṣyaḥ",
+        "lemma":"amanuṣya",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"naivāsikaḥ",
+        "lemma":"naivāsika",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"syāt",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Optative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf75_sc:4",
     "original":"tasmāt tarhi bhikṣava stoka stokaṁ muhūrta muhūrttaṁ pūrvavad yāvat godohana mātraṁ maitra-cittaṁ bhāvayitavyam \/\/",
     "analyzed":"tasmāt tarhi bhikṣavaḥ stoka stokam muhūrta muhūrttam pūrvavat yāvat godohana mātram maitra cittam bhāvayitavyam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"tasmāt",
+        "lemma":"tasmāt",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"tarhi",
+        "lemma":"tarhi",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bhikṣavaḥ",
+        "lemma":"bhikṣu",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"stoka-",
+        "lemma":"stoka",
+        "tag":"Compound, Gender=Masculine"
+      },
+      {
+        "unsandhied":"stokaṁ",
+        "lemma":"stoka",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"muhūrta-",
+        "lemma":"muhūrta",
+        "tag":"Compound, Gender=Neuter"
+      },
+      {
+        "unsandhied":"muhūrttaṁ",
+        "lemma":"muhūrta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pūrvavat",
+        "lemma":"pūrvavat",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"yāvat",
+        "lemma":"yāvat",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"godohana-",
+        "lemma":"godohana",
+        "tag":"Compound, Gender=Neuter"
+      },
+      {
+        "unsandhied":"mātraṁ",
+        "lemma":"mātra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"maitra-",
+        "lemma":"maitra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"cittam",
+        "lemma":"citta",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"bhāvayitavyam",
+        "lemma":"bhāvay",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Gdv"
+      }
+    ]
   }
 ]

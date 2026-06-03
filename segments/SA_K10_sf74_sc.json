@@ -3,72 +3,741 @@
     "segmentnr":"SA_K10_sf74_sc:0",
     "original":"Candropama",
     "analyzed":"candra upama ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"upama",
+        "lemma":"upama",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:1",
     "original":"evaṁ mayā śrutam ekasmiṁ samaye bhagavāṁ rājagṛhe viharati devadattaṁ lābha satkāra",
     "analyzed":"evam mayā śrutam ekasmin samaye bhagavām rājagṛhe viharati devadattam lābha satkāra ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"evaṁ",
+        "lemma":"evam",
+        "tag":""
+      },
+      {
+        "unsandhied":"mayā",
+        "lemma":"mad",
+        "tag":"Case=Instrumental, Number=Singular"
+      },
+      {
+        "unsandhied":"śrutam",
+        "lemma":"śru",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"ekasmin",
+        "lemma":"eka",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"samaye",
+        "lemma":"samaya",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhagavāṁ",
+        "lemma":"bhagavant",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"rājagṛhe",
+        "lemma":"rājagṛha",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"viharati",
+        "lemma":"vihṛ",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"devadattaṁ",
+        "lemma":"devadatta",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"lābha",
+        "lemma":"lābha",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"satkāra",
+        "lemma":"satkāra",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:2",
     "original":"ślokam ārabhya bhikṣūn āmantrayati \/ candropamā bhikṣavo viharata \/ nityaṁ navakā",
     "analyzed":"ślokam ārabhya bhikṣūn āmantrayati candra upamāḥ bhikṣavaḥ viharata nityam navakā ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"ślokam",
+        "lemma":"śloka",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ārabhya",
+        "lemma":"ārabh",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"bhikṣūn",
+        "lemma":"bhikṣu",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"āmantrayati",
+        "lemma":"āmantray",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"candra-",
+        "lemma":"candra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"upamāḥ",
+        "lemma":"upama",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"bhikṣavaḥ",
+        "lemma":"bhikṣu",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"viharata",
+        "lemma":"vihṛ",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Plural"
+      },
+      {
+        "unsandhied":"nityam",
+        "lemma":"nityam",
+        "tag":""
+      },
+      {
+        "unsandhied":"navakā",
+        "lemma":"navaka",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:3",
     "original":"iva hrīmantaḥ kuleṣv apragalbhā avakṛṣya kāyam avakṛṣya cittaṁ kulāny upasaṁkramata \/",
     "analyzed":"iva hrīmantaḥ kuleṣu a pragalbhāḥ avakṛṣya kāyam avakṛṣya cittam kulāni upasakramata ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"iva",
+        "lemma":"iva",
+        "tag":""
+      },
+      {
+        "unsandhied":"hrīmantaḥ",
+        "lemma":"hrīmat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"kuleṣu",
+        "lemma":"kula",
+        "tag":"Case=Locative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"a",
+        "lemma":"a",
+        "tag":""
+      },
+      {
+        "unsandhied":"pragalbhāḥ",
+        "lemma":"pragalbha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"kāyam",
+        "lemma":"kāya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"cittaṁ",
+        "lemma":"citta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"kulāni",
+        "lemma":"kula",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"upasaṁkramata",
+        "lemma":"upasaṃkram",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:4",
     "original":"tad yathā cakṣuṣmāṁ puruṣo jarodapānaṁ vā nadīdurgaṁ vā parvata viṣamaṁ vā avakṛṣya",
     "analyzed":"tat yathā cakṣuṣmān puruṣaḥ jarā udapānam vā nadī durgam vā parvata viṣamam vā avakṛṣya ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"yathā",
+        "lemma":"yathā",
+        "tag":""
+      },
+      {
+        "unsandhied":"cakṣuṣmāṁ",
+        "lemma":"cakṣuṣmat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"puruṣaḥ",
+        "lemma":"puruṣa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"jarā-",
+        "lemma":"jarā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"udapānaṁ",
+        "lemma":"udapāna",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"nadī-",
+        "lemma":"nadī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"durgaṁ",
+        "lemma":"durga",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"parvata",
+        "lemma":"parvata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"viṣamaṁ",
+        "lemma":"viṣama",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:5",
     "original":"kāyam avakṛṣya cittaṁ vyavalokayed evam eva candropamā viharata nityaṁ navakā iva",
     "analyzed":"kāyam avakṛṣya cittam vyavalokayet evam eva candra upamāḥ viharata nityam navakāḥ iva ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"kāyam",
+        "lemma":"kāya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"cittam",
+        "lemma":"citta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vyavalokayet",
+        "lemma":"vyavalokay",
+        "tag":"Tense=Present, Mood=Optative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"evam",
+        "lemma":"evam",
+        "tag":""
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"candra-",
+        "lemma":"candra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"upamāḥ",
+        "lemma":"upama",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"viharata",
+        "lemma":"vihṛ",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Plural"
+      },
+      {
+        "unsandhied":"nityam",
+        "lemma":"nityam",
+        "tag":""
+      },
+      {
+        "unsandhied":"navakāḥ",
+        "lemma":"navaka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"iva",
+        "lemma":"iva",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:6",
     "original":"hrīmantaḥ kuleṣv apragalbhā avakṛṣya kāyam avakṛṣya cittaṁ kulāny upasaṁkramata \/",
     "analyzed":"hrīmantaḥ kuleṣu a pragalbhāḥ avakṛṣya kāyam avakṛṣya cittam kulāni upasakramata ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"hrīmantaḥ",
+        "lemma":"hrīmat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"kuleṣu",
+        "lemma":"kula",
+        "tag":"Case=Locative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"a",
+        "lemma":"a",
+        "tag":""
+      },
+      {
+        "unsandhied":"pragalbhāḥ",
+        "lemma":"pragalbha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"kāyam",
+        "lemma":"kāya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"cittam",
+        "lemma":"citta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"kulāni",
+        "lemma":"kula",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"upasaṁkramata",
+        "lemma":"upasaṃkram",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:7",
     "original":"kāśyapo hi bhikṣuś candropamo viharati nityaṁ navaka iva hrīmān kuleṣv apragalbho",
     "analyzed":"kāśyapaḥ hi bhikṣuḥ candra upamaḥ viharati nityam navakaḥ iva hrīmān kuleṣu a pragalbhaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"kāśyapaḥ",
+        "lemma":"kāśyapa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"bhikṣuḥ",
+        "lemma":"bhikṣu",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"candra-",
+        "lemma":"candra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"upamaḥ",
+        "lemma":"upama",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"viharati",
+        "lemma":"vihṛ",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"nityam",
+        "lemma":"nityam",
+        "tag":""
+      },
+      {
+        "unsandhied":"navakaḥ",
+        "lemma":"navaka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"iva",
+        "lemma":"iva",
+        "tag":""
+      },
+      {
+        "unsandhied":"hrīmān",
+        "lemma":"hrīmat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kuleṣu",
+        "lemma":"kula",
+        "tag":"Case=Locative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"a",
+        "lemma":"a",
+        "tag":""
+      },
+      {
+        "unsandhied":"pragalbhaḥ",
+        "lemma":"pragalbha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:8",
     "original":"’vakṛṣya kāyam avakṛṣya cittaṁ kulāny upasaṁkramati \/ tad yathā cakṣuṣmāṁ puruṣo",
     "analyzed":"vakṛṣya kāyam avakṛṣya cittam kulāni upasakramati tat yathā cakṣuṣmān puruṣaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"kāyam",
+        "lemma":"kāya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"cittam",
+        "lemma":"citta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"kulāni",
+        "lemma":"kula",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"upasaṃkramati",
+        "lemma":"upasaṃkram",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"yathā",
+        "lemma":"yathā",
+        "tag":""
+      },
+      {
+        "unsandhied":"cakṣuṣmāṁ",
+        "lemma":"cakṣuṣmat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"puruṣaḥ",
+        "lemma":"puruṣa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:9",
     "original":"jarodapānaṁ vā nadī durgaṁ vā parvata viṣamaṁ vā avakṛṣya kāyam avakṛṣya cittaṁ vyavalokayed",
     "analyzed":"jarā udapānam vā nadī durgam vā parvata viṣamam vā avakṛṣya kāyam avakṛṣya cittam vyavalokayet ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"jarā-",
+        "lemma":"jarā",
+        "tag":"Compound, Gender=Feminine"
+      },
+      {
+        "unsandhied":"udapānaṁ",
+        "lemma":"udapāna",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"nadī-",
+        "lemma":"nadī",
+        "tag":"Compound, Gender=Feminine"
+      },
+      {
+        "unsandhied":"durgaṁ",
+        "lemma":"durga",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"parvata-",
+        "lemma":"parvata",
+        "tag":"Compound, Gender=Masculine"
+      },
+      {
+        "unsandhied":"viṣamaṁ",
+        "lemma":"viṣama",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"kāyam",
+        "lemma":"kāya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"cittaṁ",
+        "lemma":"citta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vyavalokayet",
+        "lemma":"vyavalokay",
+        "tag":"Tense=Present, Mood=Optative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:10",
     "original":"evam eva kāśyapo hi bhikṣuś candropamo viharati nityaṁ navaka iva hrīmāṁ kuleṣv apragalbhaḥ",
     "analyzed":"evam eva kāśyapaḥ hi bhikṣuḥ candra upamaḥ viharati nityam navakaḥ iva kuleṣu a pragalbhaḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"evam",
+        "lemma":"evam",
+        "tag":""
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"kāśyapaḥ",
+        "lemma":"kāśyapa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"bhikṣuḥ",
+        "lemma":"bhikṣu",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"candra-",
+        "lemma":"candra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"upamaḥ",
+        "lemma":"upama",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"viharati",
+        "lemma":"vihṛ",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"nityam",
+        "lemma":"nityam",
+        "tag":""
+      },
+      {
+        "unsandhied":"navakaḥ",
+        "lemma":"navaka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"iva",
+        "lemma":"iva",
+        "tag":""
+      },
+      {
+        "unsandhied":"hrīmāṁ",
+        "lemma":"hrīmat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kuleṣu",
+        "lemma":"kula",
+        "tag":"Case=Locative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"a",
+        "lemma":"a",
+        "tag":""
+      },
+      {
+        "unsandhied":"pragalbhaḥ",
+        "lemma":"pragalbha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf74_sc:11",
     "original":"avakṛṣya kāyam avakṛṣya cittaṁ kulāny upasaṁkrāmati \/ kiṁ manyatha …",
     "analyzed":"avakṛṣya kāyam avakṛṣya cittam kulāni upasakrāmati kim manyatha ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"kāyam",
+        "lemma":"kāya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"avakṛṣya",
+        "lemma":"avakṛṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"cittam",
+        "lemma":"citta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"kulāni",
+        "lemma":"kula",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"upasaṁkrāmati",
+        "lemma":"upasaṁkram",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"kiṁ",
+        "lemma":"ka",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"manyatha",
+        "lemma":"man",
+        "tag":"Tense=Present, Mood=Indicative, Person=2, Number=Plural"
+      }
+    ]
   }
 ]

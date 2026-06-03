@@ -3,192 +3,1346 @@
     "segmentnr":"SA_T01_n822u:0",
     "original":"narakoddhārastotram",
     "analyzed":"naraka uddhāra stotram ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"naraka-",
+        "lemma":"naraka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"uddhāra-",
+        "lemma":"uddhāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:1",
     "original":"dāridrayapaṅkasaṃmagnaṃ saṃsārākhyamahodadhau |",
     "analyzed":"dāridraya paṅka saṃmagnam saṃsāra ākhya mahā udadhau ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"dāridraya-",
+        "lemma":"dāridraya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"paṅka-",
+        "lemma":"paṅka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃmagnam",
+        "lemma":"saṃmajj",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"saṃsāra-",
+        "lemma":"saṃsāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākhya-",
+        "lemma":"ākhya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mahodadhau",
+        "lemma":"mahodadhi",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:2",
     "original":"pratijñātaṃ samutpāde trāhi māṃ hi tathāgata || 1 ||",
     "analyzed":"pratijñātam samutpāde trāhi mām hi tathāgata ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"pratijñātam",
+        "lemma":"pratijñā",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"samutpāde",
+        "lemma":"samutpāda",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:3",
     "original":"timirāgārasaṃviṣṭamanarthaduḥkhavedinam |",
     "analyzed":"timira āgāra saṃviṣṭam anartha duḥkha vedinam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"timira-",
+        "lemma":"timira",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āgāra-",
+        "lemma":"āgāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃviṣṭam",
+        "lemma":"saṃviś",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"anartha-",
+        "lemma":"anartha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"duḥkha-",
+        "lemma":"duḥkha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vedinam",
+        "lemma":"vedin",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:4",
     "original":"bandhuvargaiḥ parityaktaṃ trāhi māṃ hi tathāgata || 2 ||",
     "analyzed":"bandhu vargaiḥ parityaktam trāhi mām hi tathāgata ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"bandhu-",
+        "lemma":"bandhu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vargaiḥ",
+        "lemma":"varga",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"parityaktam",
+        "lemma":"parityaj",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:5",
     "original":"mātāpitṛbhaginyādi putradārasuhṛjjanāḥ |",
     "analyzed":"mātā pitṛ bhaginī ādi putra dāra suhṛd janāḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"mātā-",
+        "lemma":"mātā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pitṛ-",
+        "lemma":"pitṛ",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhaginī-",
+        "lemma":"bhaginī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi",
+        "lemma":"ādi",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"putra-",
+        "lemma":"putra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dāra-",
+        "lemma":"dāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"suhṛd-",
+        "lemma":"suhṛd",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"janāḥ",
+        "lemma":"jana",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:6",
     "original":"indrajālasamā dṛṣṭāstrāhi māṃ hi tathāgata || 3 ||",
     "analyzed":"indrajāla samāḥ dṛṣṭāḥ trāhi mām hi tathāgata ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"indrajāla-",
+        "lemma":"indrajāla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samāḥ",
+        "lemma":"sama",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"dṛṣṭāḥ",
+        "lemma":"dṛś",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Part"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:7",
     "original":"mayā arijanasyārthe sukṛtaṃ karma duṣkṛtam |",
     "analyzed":"mayā ari janasya arthe su kṛtam karma duṣkṛtam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"mayā",
+        "lemma":"mad",
+        "tag":"Case=Instrumental, Number=Singular"
+      },
+      {
+        "unsandhied":"ari-",
+        "lemma":"ari",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"janasya",
+        "lemma":"jana",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"arthe",
+        "lemma":"artha",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"su",
+        "lemma":"su",
+        "tag":""
+      },
+      {
+        "unsandhied":"kṛtam",
+        "lemma":"kṛ",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"karma",
+        "lemma":"karman",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"duṣkṛtam",
+        "lemma":"duṣkṛta",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:8",
     "original":"ekākī taṃ hi bhokṣyāmi trāhi māṃ hi tathāgata || 4 ||",
     "analyzed":"ekākī tam hi bhokṣyāmi trāhi mām hi tathāgata  \/",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"ekākī",
+        "lemma":"ekākin",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tam",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"bhokṣyāmi",
+        "lemma":"bhuj",
+        "tag":"Tense=Future, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:9",
     "original":"jīrṇakūpe mahāghore anavagāhasāgare |",
     "analyzed":"jīrṇa kūpe mahā ghore anavagāha sāgare ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"jīrṇa-",
+        "lemma":"jṛ",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"kūpe",
+        "lemma":"kūpa",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mahā-",
+        "lemma":"mahat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ghore",
+        "lemma":"ghora",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"anavagāha-",
+        "lemma":"anavagāha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sāgare",
+        "lemma":"sāgara",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:10",
     "original":"andhībhūto'smyahaṃ nātha trāhi māṃ hi tathāgata || 5 ||",
     "analyzed":"andhībhūtaḥ asmi aham nātha trāhi mām hi tathāgata ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"andhībhūtaḥ",
+        "lemma":"andhībhū",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"asmi",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"aham",
+        "lemma":"mad",
+        "tag":"Case=Nominative, Number=Singular"
+      },
+      {
+        "unsandhied":"nātha",
+        "lemma":"nātha",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:11",
     "original":"jīrṇanauikāsamārūḍho mahāsāgaralaṃghane |",
     "analyzed":"jīrṇa nauikā samārūḍhaḥ mahā sāgara laṃghane ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"jīrṇa-",
+        "lemma":"jīrṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nau-",
+        "lemma":"nau",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ikā-",
+        "lemma":"ikā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samārūḍhaḥ",
+        "lemma":"samāruh",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"mahā-",
+        "lemma":"mahat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sāgara-",
+        "lemma":"sāgara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"laṃghane",
+        "lemma":"laṅghana",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:12",
     "original":"durlaṅghyaṃ ca mayā dṛṣṭaṃ trāhi māṃ hi tathāgata || 6 ||",
     "analyzed":"durlaṅghyam ca mayā dṛṣṭam trāhi mām hi tathāgata ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"durlaṅghyam",
+        "lemma":"durlaṅghya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"mayā",
+        "lemma":"mad",
+        "tag":"Case=Instrumental, Number=Singular"
+      },
+      {
+        "unsandhied":"dṛṣṭam",
+        "lemma":"dṛś",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:13",
     "original":"dharmādharma na vijñātaṃ gamyāgamyaṃ na veditam |",
     "analyzed":"dharma adharma na vijñātam gamya agamyam na veditam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"dharma-",
+        "lemma":"dharma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adharma",
+        "lemma":"adharma",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"vijñātam",
+        "lemma":"vijñā",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"gamya-",
+        "lemma":"gam",
+        "tag":"Compound, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"agamyam",
+        "lemma":"agamya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"veditam",
+        "lemma":"veday",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:14",
     "original":"acetano'smyahaṃ nātha trāhi māṃ hi tathāgata || 7 ||",
     "analyzed":"acetanaḥ asmi aham nātha trāhi mām hi tathāgata ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"acetanaḥ",
+        "lemma":"acetana",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"asmi",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"aham",
+        "lemma":"mad",
+        "tag":"Case=Nominative, Number=Singular"
+      },
+      {
+        "unsandhied":"nātha",
+        "lemma":"nātha",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:15",
     "original":"mātṛghātādikaṃ pañcānantaryaṃ vā mayā kṛtam |",
     "analyzed":"mātṛ ghāta ādikam pañca ānantaryam vā mayā kṛtam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"mātṛ-",
+        "lemma":"mātṛ",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ghāta-",
+        "lemma":"ghāta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādikam",
+        "lemma":"ādika",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pañca-",
+        "lemma":"pañcan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ānantaryam",
+        "lemma":"ānantarya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"mayā",
+        "lemma":"mad",
+        "tag":"Case=Instrumental, Number=Singular"
+      },
+      {
+        "unsandhied":"kṛtam",
+        "lemma":"kṛ",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:16",
     "original":"pacyāmi narake ghore trāhi māṃ hi tathāgata || 8 ||",
     "analyzed":"pacyāmi narake ghore trāhi mām hi tathāgata ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"pacyāmi",
+        "lemma":"pac",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"narake",
+        "lemma":"naraka",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ghore",
+        "lemma":"ghora",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:17",
     "original":"kṛtaṃ mayā stūpabhedaṃ saṃghakāryaṃ vināśitam |",
     "analyzed":"kṛtam mayā stūpa bhedam saṃgha kāryam vināśitam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"kṛtam",
+        "lemma":"kṛ",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"mayā",
+        "lemma":"mad",
+        "tag":"Case=Instrumental, Number=Singular"
+      },
+      {
+        "unsandhied":"stūpa-",
+        "lemma":"stūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhedam",
+        "lemma":"bheda",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"saṃgha-",
+        "lemma":"saṃgha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kāryam",
+        "lemma":"kārya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vināśitam",
+        "lemma":"vināśay",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:18",
     "original":"kṛtā mayā sattvahiṃsā trāhi māṃ hi tathāgata || 9 ||",
     "analyzed":"kṛtā mayā sattva hiṃsā trāhi mām hi tathāgata ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"kṛtā",
+        "lemma":"kṛ",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"mayā",
+        "lemma":"mad",
+        "tag":"Case=Instrumental, Number=Singular"
+      },
+      {
+        "unsandhied":"sattva-",
+        "lemma":"sattva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"hiṃsā",
+        "lemma":"hiṃsā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:19",
     "original":"ihaloke sukhairhīnaṃ paraloke na vedanam |",
     "analyzed":"ihaloke sukhaiḥ hīnam para loke na vedanam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"ihaloke",
+        "lemma":"ihaloka",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sukhaiḥ",
+        "lemma":"sukha",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"hīnam",
+        "lemma":"hā",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"paraloke",
+        "lemma":"paraloka",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"vedanam",
+        "lemma":"vedana",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:20",
     "original":"veṣṭitaṃ karmasūtreṇa trāhi māṃ hi tathāgata || 10 ||",
     "analyzed":"veṣṭitam karma sūtreṇa trāhi mām hi tathāgata ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"veṣṭitam",
+        "lemma":"veṣṭay",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"karma-",
+        "lemma":"karman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sūtreṇa",
+        "lemma":"sūtra",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:21",
     "original":"kāśapuṣpaṃ yathā''kāśe bhramate vāyunā hatam |",
     "analyzed":"kāśa puṣpam yathā ākāśe bhramate vāyunā hatam ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"kāśa-",
+        "lemma":"kāśa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"puṣpam",
+        "lemma":"puṣpa",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"yathā",
+        "lemma":"yathā",
+        "tag":""
+      },
+      {
+        "unsandhied":"ākāśe",
+        "lemma":"ākāśa",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"bhramate",
+        "lemma":"bhram",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"vāyunā",
+        "lemma":"vāyu",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"hatam",
+        "lemma":"han",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:22",
     "original":"īdṛśaṃ jīvitaṃ loke trāhi māṃ hi tathāgata || 11 ||",
     "analyzed":"īdṛśam jīvitam loke trāhi mām hi tathāgata ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"īdṛśam",
+        "lemma":"īdṛśa",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"jīvitam",
+        "lemma":"jīvita",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"loke",
+        "lemma":"loka",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:23",
     "original":"aṭavī kaṃṭakācchannā bahuvṛkṣasamākulā |",
     "analyzed":"aṭavī kaṃṭaka ācchannā bahu vṛkṣa samākulā ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"aṭavī",
+        "lemma":"aṭavī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"kaṃṭaka-",
+        "lemma":"kaṇṭaka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ācchannā",
+        "lemma":"ācchad",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"bahu-",
+        "lemma":"bahu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vṛkṣa-",
+        "lemma":"vṛkṣa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samākulā",
+        "lemma":"samākula",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:24",
     "original":"panthānaṃ nātra paśyāmi trāhi māṃ hi tathāgata || 12 ||",
     "analyzed":"panthānam na atra paśyāmi trāhi mām hi tathāgata ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"panthānam",
+        "lemma":"pathin",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"atra",
+        "lemma":"atra",
+        "tag":""
+      },
+      {
+        "unsandhied":"paśyāmi",
+        "lemma":"paś",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:25",
     "original":"anaparādhāḥ kupitena mayā'kāṇḍe hatā mṛgāḥ |",
     "analyzed":"anaparādhāḥ kupitena mayā akāṇḍe hatāḥ mṛgāḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"anaparādhāḥ",
+        "lemma":"anaparādha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"kupitena",
+        "lemma":"kup",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"mayā",
+        "lemma":"mad",
+        "tag":"Case=Instrumental, Number=Singular"
+      },
+      {
+        "unsandhied":"akāṇḍe",
+        "lemma":"akāṇḍa",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"hatāḥ",
+        "lemma":"han",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Part"
+      },
+      {
+        "unsandhied":"mṛgāḥ",
+        "lemma":"mṛga",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:26",
     "original":"rājahatyāṃ tadā manye trāhi māṃ hi tathāgata || 13 ||",
     "analyzed":"rāja hatyām tadā manye trāhi mām hi tathāgata ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"rāja-",
+        "lemma":"rājan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"hatyām",
+        "lemma":"hatyā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"tadā",
+        "lemma":"tadā",
+        "tag":""
+      },
+      {
+        "unsandhied":"manye",
+        "lemma":"man",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:27",
     "original":"narake pacyamānasya kaścit trātā bhaviṣyati |",
     "analyzed":"narake pacyamānasya kaścid trātā bhaviṣyati ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"narake",
+        "lemma":"naraka",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pacyamānasya",
+        "lemma":"pac",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part, Voice=Passive"
+      },
+      {
+        "unsandhied":"kaścid",
+        "lemma":"kaścit",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"trātā",
+        "lemma":"trātṛ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhaviṣyati",
+        "lemma":"bhū",
+        "tag":"Tense=Future, Mood=Indicative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:28",
     "original":"gacchāmi śaraṇaṃ kasya trāhi māṃ hi tathāgata || 14 ||",
     "analyzed":"gacchāmi śaraṇam kasya trāhi mām hi tathāgata ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"gacchāmi",
+        "lemma":"gam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"śaraṇam",
+        "lemma":"śaraṇa",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"kasya",
+        "lemma":"ka",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"trāhi",
+        "lemma":"trā",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:29",
     "original":"vaidyānāṃ vaidyarājastvaṃ sarvavyādhicikitsakaḥ |",
     "analyzed":"vaidyānām vaidya rājaḥ tvam sarva vyādhi cikitsakaḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"vaidyānām",
+        "lemma":"vaidya",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vaidya-",
+        "lemma":"vaidya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rājaḥ",
+        "lemma":"rāja",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tvam",
+        "lemma":"tvad",
+        "tag":"Case=Nominative, Number=Singular"
+      },
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vyādhi-",
+        "lemma":"vyādhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"cikitsakaḥ",
+        "lemma":"cikitsaka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:30",
     "original":"lokanātha bhavatrātā trailokye sacarācare || 15 ||",
     "analyzed":"lokanātha bhava trātā trailokye sa carācare ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"lokanātha",
+        "lemma":"lokanātha",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhava-",
+        "lemma":"bhava",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"trātā",
+        "lemma":"trātṛ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"trailokye",
+        "lemma":"trailokya",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"sa",
+        "lemma":"sa",
+        "tag":""
+      },
+      {
+        "unsandhied":"carācare",
+        "lemma":"carācara",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n822u:31",
     "original":"narakoddhārastotraṃ samāptam |",
     "analyzed":"narakoddhāra stotram samāptam ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"naraka-",
+        "lemma":"naraka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"uddhāra-",
+        "lemma":"uddhāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptam",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   }
 ]

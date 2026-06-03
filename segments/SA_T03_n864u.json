@@ -3,78 +3,499 @@
     "segmentnr":"SA_T03_n864u:0",
     "original":"prajñāpāramitāstutiḥ",
     "analyzed":"prajñāpāramitā stutiḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"prajñāpāramitā-",
+        "lemma":"prajñāpāramitā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stutiḥ",
+        "lemma":"stuti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:1",
     "original":"om namaḥ śrīprajñāpāramitāyai",
     "analyzed":"om namaḥ śrī prajñāpāramitāyai ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"om",
+        "lemma":"oṃ",
+        "tag":""
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"śrī-",
+        "lemma":"śrī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"prajñāpāramitāyai",
+        "lemma":"prajñāpāramitā",
+        "tag":"Case=Dative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:2",
     "original":"nirvikalpe nirālambe niravadye niraṃjane |",
     "analyzed":"          ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"nirvikalpe",
+        "lemma":"nirvikalpa",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"nirālambe",
+        "lemma":"nirālamba",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"niravadye",
+        "lemma":"niravadya",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"niraṃjane",
+        "lemma":"nirañjana",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:3",
     "original":"nityānitye nirvikāre prajñe devi namo'stu te || 1 ||",
     "analyzed":"nitya anitye nirvikāre prajñe devi namaḥ astu te ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"nitya-",
+        "lemma":"nitya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"anitye",
+        "lemma":"anitya",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"nirvikāre",
+        "lemma":"nirvikāra",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"prajñe",
+        "lemma":"prajñā",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"devi",
+        "lemma":"devī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:4",
     "original":"buddhānāṃ jananīśāni bodhisattvapitāmahi |",
     "analyzed":"buddhānām janani īśāni bodhisattva pitāmahi ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"buddhānām",
+        "lemma":"buddha",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"janani",
+        "lemma":"jananī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"īśāni",
+        "lemma":"īśānī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"bodhisattva-",
+        "lemma":"bodhisattva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pitāmahi",
+        "lemma":"pitāmahī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:5",
     "original":"prapitāmahi sattvānāṃ prajñe devi namo'stu te || 2 ||",
     "analyzed":"prapitāmahi sattvānām prajñe devi namaḥ astu te ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"prapitāmahi",
+        "lemma":"prapitāmahī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"sattvānām",
+        "lemma":"sattva",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"prajñe",
+        "lemma":"prajñā",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"devi",
+        "lemma":"devī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:6",
     "original":"mātarmātarjaganmātariti saṃjapatāṃ nṛṇām |",
     "analyzed":"mātar mātar jaganmātar iti saṃjapatām nṛṇām ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"mātar",
+        "lemma":"mātṛ",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"mātar",
+        "lemma":"mātṛ",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"jaganmātar",
+        "lemma":"jaganmātṛ",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"saṃjapatām",
+        "lemma":"saṃjap",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural, Tense=Present, VerbForm=Part"
+      },
+      {
+        "unsandhied":"nṛṇām",
+        "lemma":"nṛ",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:7",
     "original":"manorathaprade śuddhe prajñe devi namo'stu te || 3 ||",
     "analyzed":"manoratha prade śuddhe prajñe devi namaḥ astu te ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"manoratha-",
+        "lemma":"manoratha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"prade",
+        "lemma":"prada",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"śuddhe",
+        "lemma":"śuddha",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"prajñe",
+        "lemma":"prajña",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"devi",
+        "lemma":"devī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:8",
     "original":"lakṣmīstvamasi kalyāṇi śrīrdhīḥ śraddhā dhṛtiḥ smṛtiḥ |",
     "analyzed":"lakṣmīḥ tvam asi kalyāṇi śrīḥ dhīḥ śraddhā dhṛtiḥ smṛtiḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"lakṣmīḥ",
+        "lemma":"lakṣmī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"tvam",
+        "lemma":"tvad",
+        "tag":"Case=Nominative, Number=Singular"
+      },
+      {
+        "unsandhied":"asi",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Indicative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"kalyāṇi",
+        "lemma":"kalyāṇa",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"śrīḥ",
+        "lemma":"śrī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"dhīḥ",
+        "lemma":"dhī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"śraddhā",
+        "lemma":"śraddhā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"dhṛtiḥ",
+        "lemma":"dhṛti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"smṛtiḥ",
+        "lemma":"smṛti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:9",
     "original":"sarvasvarūpe sarveśi prajñe devi namo'stu te || 4 ||",
     "analyzed":"sarva svarūpe sarva īśi prajñe devi namaḥ astu te ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"svarūpe",
+        "lemma":"svarūpa",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"īśi",
+        "lemma":"īśā",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"prajñe",
+        "lemma":"prajñā",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"devi",
+        "lemma":"devī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:10",
     "original":"lokottare laukike ca prajñāpāramite'mite |",
     "analyzed":"lokottare laukike ca prajñāpāramite amite ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"lokottare",
+        "lemma":"lokottara",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"laukike",
+        "lemma":"laukika",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"prajñāpāramite",
+        "lemma":"prajñāpāramitā",
+        "tag":"Case=Locative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"amite",
+        "lemma":"amita",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:11",
     "original":"daśa pāramitākāre prajñe devi namo'stu te || 5 ||",
     "analyzed":"daśa pāramitā ākāre prajñe devi namaḥ astu te  ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"daśa",
+        "lemma":"daśan",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pāramitā-",
+        "lemma":"pāramitā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākāre",
+        "lemma":"ākāra",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"prajñe",
+        "lemma":"prajñā",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"devi",
+        "lemma":"devī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"astu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n864u:12",
     "original":"śrīprajñāpāramitāstutiḥ samāptā |",
     "analyzed":"śrī prajñāpāramitā stutiḥ samāptā ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"śrī-",
+        "lemma":"śrī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"prajñāpāramitā-",
+        "lemma":"prajñāpāramitā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stutiḥ",
+        "lemma":"stuti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptā",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      }
+    ]
   }
 ]

@@ -3,204 +3,1452 @@
     "segmentnr":"SA_GSP30_bodhpanu:0",
     "original":"anastamitabhārūpas tejasāṃ tamasām api \/",
     "analyzed":"an astamita bhā rūpaḥ tejasām tamasām api ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"an",
+        "lemma":"an",
+        "tag":""
+      },
+      {
+        "unsandhied":"astamita-",
+        "lemma":"astamita",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhā-",
+        "lemma":"bhā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpaḥ",
+        "lemma":"rūpa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tejasām",
+        "lemma":"tejas",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"tamasām",
+        "lemma":"tamas",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"api",
+        "lemma":"api",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:1",
     "original":"ya eko 'ntar yadantaś ca tejāṃsi ca tamāṃsi ca \/\/ 1 \/\/",
     "analyzed":"yaḥ ekaḥ antar yat antar ca tejāṃsi ca tamāṃsi ca ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"yaḥ",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ekaḥ",
+        "lemma":"eka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"antar",
+        "lemma":"antar",
+        "tag":""
+      },
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"antar",
+        "lemma":"antar",
+        "tag":""
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"tejāṃsi",
+        "lemma":"tejas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"tamāṃsi",
+        "lemma":"tamas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:2",
     "original":"sa eva sarvabhūtānāṃ svabhāvaḥ parameśvaraḥ \/",
     "analyzed":"saḥ eva sarva bhūtānām svabhāvaḥ parameśvaraḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"saḥ",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhūtānām",
+        "lemma":"bhūta",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"svabhāvaḥ",
+        "lemma":"svabhāva",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"parameśvaraḥ",
+        "lemma":"parameśvara",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:3",
     "original":"bhāvajātaṃ hi tasyaiva śaktir īśvaratāmayī \/\/ 2 \/\/",
     "analyzed":"bhāva jātam hi tasya eva śaktiḥ īśvara tā mayī ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"bhāva-",
+        "lemma":"bhāva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jātam",
+        "lemma":"jāta",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tasya",
+        "lemma":"tad",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"śaktiḥ",
+        "lemma":"śakti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"īśvara-",
+        "lemma":"īśvara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tā-",
+        "lemma":"tā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mayī",
+        "lemma":"maya",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:4",
     "original":"śaktiś ca śaktimadrūpād vyatirekam na vāñchati \/",
     "analyzed":"śaktiḥ ca śaktimat rūpāt vyatirekam na vāñchati ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śaktiḥ",
+        "lemma":"śakti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"śaktimat-",
+        "lemma":"śaktimat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpāt",
+        "lemma":"rūpa",
+        "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vyatirekam",
+        "lemma":"vyatireka",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"vāñchati",
+        "lemma":"vāñch",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:5",
     "original":"tādātmyam anayor nityaṃ vahnidāhikayor iva \/\/ 3 \/\/",
     "analyzed":"tādātmyam anayoḥ nityam vahni dāhikayoḥ iva ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"tādātmyam",
+        "lemma":"tādātmya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"anayoḥ",
+        "lemma":"idam",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Dual"
+      },
+      {
+        "unsandhied":"nityam",
+        "lemma":"nitya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vahni-",
+        "lemma":"vahni",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dāhikayoḥ",
+        "lemma":"dāhika",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Dual"
+      },
+      {
+        "unsandhied":"iva",
+        "lemma":"iva",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:6",
     "original":"sa eva bhairavo devo jagadbharaṇalakṣaṇaḥ \/",
     "analyzed":"saḥ eva bhairavaḥ devaḥ jagat bharaṇa lakṣaṇaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"saḥ",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"bhairavaḥ",
+        "lemma":"bhairava",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"devaḥ",
+        "lemma":"deva",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"jagat-",
+        "lemma":"jagant",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bharaṇa-",
+        "lemma":"bharaṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"lakṣaṇaḥ",
+        "lemma":"lakṣaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:7",
     "original":"svātmādṛṣe samagraṃ hi yacchaktyā pratibimbitam \/\/ 4 \/\/",
     "analyzed":"sva ātma adṛṣe samagram hi yat śaktyā pratibimbitam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"sva-",
+        "lemma":"sva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ātma-",
+        "lemma":"ātman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adṛṣe",
+        "lemma":"adṛṣ",
+        "tag":"Case=Dative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"samagram",
+        "lemma":"samagra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"śaktyā",
+        "lemma":"śakti",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"pratibimbitam",
+        "lemma":"pratibimb",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:8",
     "original":"tasyaivaiṣā parā devī svarūpāmarśanotsukā \/",
     "analyzed":"tasya eva eṣā parā devī sva rūpa āmarśana utsukā ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"tasya",
+        "lemma":"tad",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"eṣā",
+        "lemma":"etad",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"parā",
+        "lemma":"para",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"devī",
+        "lemma":"devī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"sva-",
+        "lemma":"sva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āmarśana-",
+        "lemma":"āmarśana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"utsukā",
+        "lemma":"utsuka",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:9",
     "original":"pūrṇatvaṃ sarvabhaveṣu yasyā nālpaṃ na cādhikam \/\/ 5 \/\/",
     "analyzed":"pūrṇa tvam sarva bhaveṣu yasyāḥ na alpam na ca adhikam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"pūrṇa-",
+        "lemma":"pṛ",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"tvam",
+        "lemma":"tva",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhaveṣu",
+        "lemma":"bhava",
+        "tag":"Case=Locative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"yasyāḥ",
+        "lemma":"yad",
+        "tag":"Case=Genitive, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"alpam",
+        "lemma":"alpa",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"adhikam",
+        "lemma":"adhika",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:10",
     "original":"eṣa devo 'nayā devyā nityaṃ krīḍārasotsukaḥ \/",
     "analyzed":"eṣa devaḥ anayā devyā nityam krīḍā rasa utsukaḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"eṣa",
+        "lemma":"etad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"devaḥ",
+        "lemma":"deva",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"anayā",
+        "lemma":"idam",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"devyā",
+        "lemma":"devī",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"nityam",
+        "lemma":"nityam",
+        "tag":""
+      },
+      {
+        "unsandhied":"krīḍā-",
+        "lemma":"krīḍā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rasa-",
+        "lemma":"rasa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"utsukaḥ",
+        "lemma":"utsuka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:11",
     "original":"vicitrān sṛṣṭisaṃhārān vidhatte yugapad vibhuḥ \/\/ 6 \/\/",
     "analyzed":"vicitrān sṛṣṭi saṃhārān vidhatte yugapad vibhuḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"vicitrān",
+        "lemma":"vicitra",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"sṛṣṭi-",
+        "lemma":"sṛṣṭi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃhārān",
+        "lemma":"saṃhāra",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vidhatte",
+        "lemma":"vidhā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"yugapad",
+        "lemma":"yugapad",
+        "tag":""
+      },
+      {
+        "unsandhied":"vibhuḥ",
+        "lemma":"vibhu",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:12",
     "original":"atidurghaṭakāritvam asyānuttaram eva yat \/",
     "analyzed":"ati durghaṭa kāri tvam asya anuttaram eva yat ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"ati",
+        "lemma":"ati",
+        "tag":""
+      },
+      {
+        "unsandhied":"durghaṭa-",
+        "lemma":"durghaṭa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kāri-",
+        "lemma":"kārin",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tvam",
+        "lemma":"tva",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"asya",
+        "lemma":"idam",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"anuttaram",
+        "lemma":"anuttara",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:13",
     "original":"etad eva svatantratvam aisvaryaṃ bodharūpatā \/\/ 7 \/\/",
     "analyzed":"etat eva svatantra tvam aisvaryam bodha rūpa tā ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"etat",
+        "lemma":"etad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"svatantra-",
+        "lemma":"svatantra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tvam",
+        "lemma":"tva",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"aisvaryam",
+        "lemma":"aisvarya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"bodha-",
+        "lemma":"bodha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tā",
+        "lemma":"tā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:14",
     "original":"paricchinnaprakāśatvaṃ jaḍasya kila lakṣaṇam \/",
     "analyzed":"paricchinna prakāśa tvam jaḍasya kila lakṣaṇam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"paricchinna-",
+        "lemma":"paricchid",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"prakāśa-",
+        "lemma":"prakāśa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tvam",
+        "lemma":"tva",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"jaḍasya",
+        "lemma":"jaḍa",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kila",
+        "lemma":"kila",
+        "tag":""
+      },
+      {
+        "unsandhied":"lakṣaṇam",
+        "lemma":"lakṣaṇa",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:15",
     "original":"jaḍād vilakṣaṇo bodho yato na parimīyate \/\/ 8 \/\/",
     "analyzed":"jaḍāt vilakṣaṇaḥ bodhaḥ yatas na parimīyate ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"jaḍāt",
+        "lemma":"jaḍa",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vilakṣaṇaḥ",
+        "lemma":"vilakṣaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bodhaḥ",
+        "lemma":"bodha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"yatas",
+        "lemma":"yatas",
+        "tag":""
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"parimīyate",
+        "lemma":"parimā",
+        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:16",
     "original":"evam asya svatantrasya nijaśaktyupabhedinaḥ \/",
     "analyzed":"evam asya svatantrasya nija śakti upabhedinaḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"evam",
+        "lemma":"evam",
+        "tag":""
+      },
+      {
+        "unsandhied":"asya",
+        "lemma":"idam",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"svatantrasya",
+        "lemma":"svatantra",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"nija-",
+        "lemma":"nija",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śakti-",
+        "lemma":"śakti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"upabhedinaḥ",
+        "lemma":"upabhedin",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:17",
     "original":"svātmagāḥ sṛṣṭisaṃhārāḥ svarūpatvena saṃsthitāḥ \/\/ 9 \/\/",
     "analyzed":"sva ātma gāḥ sṛṣṭi saṃhārāḥ sva rūpa tvena saṃsthitāḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"sva-",
+        "lemma":"sva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ātma-",
+        "lemma":"ātman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gāḥ",
+        "lemma":"ga",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"sṛṣṭi-",
+        "lemma":"sṛṣṭi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃhārāḥ",
+        "lemma":"saṃhāra",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"sva-",
+        "lemma":"sva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tvena",
+        "lemma":"tva",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"saṃsthitāḥ",
+        "lemma":"saṃsthā",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:18",
     "original":"teṣu vaicitryam atyantam ūrdhvādhas tiryag eva yat \/",
     "analyzed":"teṣu vaicitryam atyantam ūrdhva adhas tiryak eva yat ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"teṣu",
+        "lemma":"tad",
+        "tag":"Case=Locative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vaicitryam",
+        "lemma":"vaicitrya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"atyantam",
+        "lemma":"atyanta",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"ūrdhva-",
+        "lemma":"ūrdhva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhas",
+        "lemma":"adhas",
+        "tag":""
+      },
+      {
+        "unsandhied":"tiryak",
+        "lemma":"tiryañc",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:19",
     "original":"bhuvanāni tadaṃśāś ca sukhaduḥkhamatiś ca yā \/\/ 10 \/\/",
     "analyzed":"bhuvanāni tad aṃśāḥ ca sukha duḥkha matiḥ ca yā ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"bhuvanāni",
+        "lemma":"bhuvana",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"tad-",
+        "lemma":"tad",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"aṃśāḥ",
+        "lemma":"aṃśa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"sukha-",
+        "lemma":"sukha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"duḥkha-",
+        "lemma":"duḥkha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"matiḥ",
+        "lemma":"mati",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"yā",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:20",
     "original":"yad etasyāparijñānaṃ tatsvātantryaṃ hi varṇitam \/",
     "analyzed":"yat etasya aparijñānam tat svātantryam hi varṇitam ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"etasya",
+        "lemma":"etad",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"aparijñānam",
+        "lemma":"aparijñāna",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"svātantryam",
+        "lemma":"svātantrya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"varṇitam",
+        "lemma":"varṇay",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:21",
     "original":"sa eva khalu saṃsāro mūḍānāṃ yo vibhīṣakaḥ \/\/ 11 \/\/",
     "analyzed":"saḥ eva khalu saṃsāraḥ mūḍānām yaḥ vibhīṣakaḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"saḥ",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"khalu",
+        "lemma":"khalu",
+        "tag":""
+      },
+      {
+        "unsandhied":"saṃsāraḥ",
+        "lemma":"saṃsāra",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mūḍānām",
+        "lemma":"mūḍa",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"yaḥ",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vibhīṣakaḥ",
+        "lemma":"vibhīṣaka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:22",
     "original":"tatprasādarasād eva gurvāgamata eva vā \/",
     "analyzed":"tad prasāda rasāt eva guru āgamataḥ eva vā ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"tad-",
+        "lemma":"tad",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"prasāda-",
+        "lemma":"prasāda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rasāt",
+        "lemma":"rasa",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"guru-",
+        "lemma":"guru",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āgamataḥ",
+        "lemma":"āgama",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:23",
     "original":"śāstrād vā parameśasya yasmāt kasmād upāgatam \/\/ 12 \/\/",
     "analyzed":"śāstrāt vā parameśasya yasmāt kasmāt upāgatam  \/",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"śāstrāt",
+        "lemma":"śāstra",
+        "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"parameśasya",
+        "lemma":"parameśa",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"yasmāt",
+        "lemma":"yad",
+        "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"kasmāt",
+        "lemma":"ka",
+        "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"upāgatam",
+        "lemma":"upāgam",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:24",
     "original":"yat tattvasya parijñānaṃ sa mokṣaḥ parameśataḥ \/",
     "analyzed":"yat tattvasya parijñānam sa mokṣaḥ parameśataḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tattvasya",
+        "lemma":"tattva",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"parijñānam",
+        "lemma":"parijñāna",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"sa",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mokṣaḥ",
+        "lemma":"mokṣa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"parameśataḥ",
+        "lemma":"parameśa",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:25",
     "original":"tat pūrṇatvaṃ prabuddhānāṃ jīvanmuktiś ca sā smṛtā \/\/ 13 \/\/",
     "analyzed":"tat pūrṇa tvam prabuddhānām jīvanmuktiḥ ca sā smṛtā ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pūrṇa-",
+        "lemma":"pṛ",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"tvam",
+        "lemma":"tva",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"prabuddhānām",
+        "lemma":"prabudh",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural, VerbForm=Part"
+      },
+      {
+        "unsandhied":"jīvanmuktiḥ",
+        "lemma":"jīvanmukti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"sā",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"smṛtā",
+        "lemma":"smṛ",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:26",
     "original":"etau bandhavimokṣau ca parameśasvarūpataḥ \/",
     "analyzed":"etau bandha vimokṣau ca parameśa svarūpataḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"etau",
+        "lemma":"etad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Dual"
+      },
+      {
+        "unsandhied":"bandha-",
+        "lemma":"bandha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vimokṣau",
+        "lemma":"vimokṣa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Dual"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"parameśa-",
+        "lemma":"parameśa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"svarūpataḥ",
+        "lemma":"svarūpa",
+        "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:27",
     "original":"na bhidyete na bhedo hi tattvataḥ parameśvare \/\/ 14 \/\/",
     "analyzed":"na bhidyete na bhedaḥ hi tattvataḥ parameśvare   ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"bhidyete",
+        "lemma":"bhid",
+        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Dual"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"bhedaḥ",
+        "lemma":"bheda",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
+      {
+        "unsandhied":"tattvataḥ",
+        "lemma":"tattva",
+        "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"parameśvare",
+        "lemma":"parameśvara",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:28",
     "original":"ittham icchākalājñānaśaktiśūlāmbujāśritaḥ \/",
     "analyzed":"ittham icchā kalā jñāna śakti śūla ambuja āśritaḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"ittham",
+        "lemma":"ittham",
+        "tag":""
+      },
+      {
+        "unsandhied":"icchā-",
+        "lemma":"icchā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kalā-",
+        "lemma":"kalā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śakti-",
+        "lemma":"śakti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śūla-",
+        "lemma":"śūla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ambuja-",
+        "lemma":"ambuja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āśritaḥ",
+        "lemma":"āśri",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:29",
     "original":"bhairavaḥ sarvabhāvānāṃ svabhāvaḥ pariśīlyate \/\/ 15 \/\/",
     "analyzed":"bhairavaḥ sarva bhāvānām svabhāvaḥ pariśīlyate ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"bhairavaḥ",
+        "lemma":"bhairava",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhāvānām",
+        "lemma":"bhāva",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"svabhāvaḥ",
+        "lemma":"svabhāva",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pariśīlyate",
+        "lemma":"pariśīlay",
+        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:30",
     "original":"sukumāramatīn śiṣyān prabodhayitum añjasā \/",
     "analyzed":"su kumāra matīn śiṣyān prabodhayitum añjasā ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"su",
+        "lemma":"su",
+        "tag":""
+      },
+      {
+        "unsandhied":"kumāra-",
+        "lemma":"kumāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"matīn",
+        "lemma":"mati",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"śiṣyān",
+        "lemma":"śiṣya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"prabodhayitum",
+        "lemma":"prabodhay",
+        "tag":"VerbForm=Inf"
+      },
+      {
+        "unsandhied":"añjasā",
+        "lemma":"añjasā",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:31",
     "original":"ime 'bhinavaguptena ślokāḥ pañcadaśoditāḥ \/\/ @------------------------------------------------------------------------",
     "analyzed":"ime abhinavaguptena ślokāḥ pañcadaśa uditāḥ ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"ime",
+        "lemma":"idam",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"abhinavaguptena",
+        "lemma":"abhinavagupta",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ślokāḥ",
+        "lemma":"śloka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"pañcadaśa",
+        "lemma":"pañcadaśan",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"uditāḥ",
+        "lemma":"vad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:32",
     "original":"Gandharva-nagaram \/",
     "analyzed":"gandharvanagaram ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"gandharva-",
+        "lemma":"gandharva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nagaram",
+        "lemma":"nagara",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_GSP30_bodhpanu:33",
     "original":"DSO Sanskrit Archive",
     "analyzed":"dso sanskrit archive ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"sanskrit-",
+        "lemma":"sanskrit",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"archive",
+        "lemma":"archiva",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   }
 ]

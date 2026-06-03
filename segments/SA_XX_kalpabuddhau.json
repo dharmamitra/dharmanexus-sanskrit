@@ -1,51 +1,873 @@
 [
   {
-    "segmentnr": "SA_XX_kalpabuddhau:0",
-    "original": "nihan haji nira bhaṭāra hyaṅ buddha, kayatnaka mahopadeśa ikā, rĕṅön salvir niṅ mantra, bhaṭāra buddha sira hana riṅ mahāpralaya, dumadi havak nira, sira ta matmahan bhaṭāra pañcatathāgata, śarīranāmabheda, kapva apadudvan rūpanira, bodhyagrī mudrānira, śāśvata jñānanira, cakra sañjatanira, riṅ sahavati ṅaran iṅ kaḍatvanira, siṅhātutuṅgaṅanira, sira bharālī satvavajrī, sira bharālī dharmavajrī, sira bharālī karmavajrī, sira ta saha devī amarivṛtta riṅ sira, muṅguh pva sira niṅ śarīra, siṅ jro niṅ pusuh pusuh, pinakasthānanira.",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_XX_kalpabuddhau:0",
+    "original":"nihan haji nira bhaṭāra hyaṅ buddha, kayatnaka mahopadeśa ikā, rĕṅön salvir niṅ mantra, bhaṭāra buddha sira hana riṅ mahāpralaya, dumadi havak nira, sira ta matmahan bhaṭāra pañcatathāgata, śarīranāmabheda, kapva apadudvan rūpanira, bodhyagrī mudrānira, śāśvata jñānanira, cakra sañjatanira, riṅ sahavati ṅaran iṅ kaḍatvanira, siṅhātutuṅgaṅanira, sira bharālī satvavajrī, sira bharālī dharmavajrī, sira bharālī karmavajrī, sira ta saha devī amarivṛtta riṅ sira, muṅguh pva sira niṅ śarīra, siṅ jro niṅ pusuh pusuh, pinakasthānanira.",
+    "analyzed":"nihan haji nira bhaṭāra buddha kayatnaka mahā upadeśa ikā salviḥ mantra bhaṭāra buddha sira hana riṅ mahāpralaya dumadi havak nira sira ta matmahan bhaṭāra pañcatathāgata śarīra nāmabheda bodhyagrī mudrā nira śāśvata jñāna cakra sañjata nira riṅ sahavati sira bharālī satva vajrī sira bharālī dharma vajrī sira bharālī karma vajrī sira ta saha devī amari vṛtta riṅ sira bharālī satva vajrī sira bharālī dharma vajrī sira bharālī karma vajrī sira ta saha dev",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"nihan",
+        "lemma":"nihan",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"haji",
+        "lemma":"haji",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":""
+      },
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha",
+        "lemma":"buddha",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kayatnaka",
+        "lemma":"kayatnaka",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mahā-",
+        "lemma":"mahat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"upadeśaḥ",
+        "lemma":"upadeśa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ikā",
+        "lemma":"ikā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"salviḥ",
+        "lemma":"salvi",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"niṅ",
+        "lemma":"niṅ",
+        "tag":""
+      },
+      {
+        "unsandhied":"mantra",
+        "lemma":"mantra",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha",
+        "lemma":"buddha",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"hana",
+        "lemma":"han",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mahāpralaya",
+        "lemma":"mahāpralaya",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dumadi",
+        "lemma":"dumadi",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"havak",
+        "lemma":"havak",
+        "tag":""
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":""
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ta",
+        "lemma":"tad",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"matmahan",
+        "lemma":"matmahat",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pañca-",
+        "lemma":"pañcan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tathāgata",
+        "lemma":"tathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śarīra-",
+        "lemma":"śarīra",
+        "tag":"Compound"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_XX_kalpabuddhau:1",
-    "original": "sira bhaṭāra akṣobhya, muṅguh riṅ pūrva, kṛṣṇa varṇanira, sira bharālī locanā devīnira, hū.m mantranira, bhūsparśa mudrānira, ādarśana jñānanira, vajra sañjatanira, riṅ abhirati ṅaran iṅ kasvarganira, gajah tutuṅgaṅanira, bhaṭāra vajrarāja, bhaṭāra vajrarāga, hyaṅ vajrasādhu, bhaṭāra vajradharādi, saṅ amarivṛtta ri sira, muṅguh pva sira riṅ śarīra, riṅ jro niṅ paruparu pinakasthānanira.",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_XX_kalpabuddhau:1",
+    "original":"sira bhaṭāra akṣobhya, muṅguh riṅ pūrva, kṛṣṇa varṇanira, sira bharālī locanā devīnira, hū.m mantranira, bhūsparśa mudrānira, ādarśana jñānanira, vajra sañjatanira, riṅ abhirati ṅaran iṅ kasvarganira, gajah tutuṅgaṅanira, bhaṭāra vajrarāja, bhaṭāra vajrarāga, hyaṅ vajrasādhu, bhaṭāra vajradharādi, saṅ amarivṛtta ri sira, muṅguh pva sira riṅ śarīra, riṅ jro niṅ paruparu pinakasthānanira.",
+    "analyzed":"niṅ sira bhaṭāra akṣobhya muṅguh riṅ pūrva kṛṣṇa varṇa nira sira bharālī locanā devī nira hūm mantra bhūsparśa mudrā nira ādarśana jñāna vajra sañjata nira riṅ abhirati bhaṭāra vajrarāja bhaṭāra vajrarāga hyaṅ vajrasādhu bhaṭāra vajradhara ādi saṅ amari vṛtta sira muṅguh sira riṅ śarīra riṅ niṅ paruparu pinaka sthāna nira ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"akṣobhya",
+        "lemma":"akṣobhya",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"pūrva",
+        "lemma":"pūrva",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"kṛṣṇa",
+        "lemma":"kṛṣṇa",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"varṇa",
+        "lemma":"varṇa",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bharālī",
+        "lemma":"bharālī",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"locanā",
+        "lemma":"locanā",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"devī",
+        "lemma":"devī",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"hūm",
+        "lemma":"hūm",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"mantra-",
+        "lemma":"mantra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bhūsparśa-",
+        "lemma":"bhūsparśa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mudrā-",
+        "lemma":"mudrā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"ādarśana-",
+        "lemma":"ādarśana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"vajra",
+        "lemma":"vajra",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"sañjata-",
+        "lemma":"sañjata",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"abhirati",
+        "lemma":"abhirati",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"gajah",
+        "lemma":"gajah",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"_"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_XX_kalpabuddhau:2",
-    "original": "sira bhaṭāra ratnasambhava, muṅguh riṅ dakṣiṇa, pīta varṇanira, sira bharālī māmakī devīnira, tra.m mantranira, ākāśamata jñānanira, kapāla sañjatanira, riṅ jro niṅ limpa pinakasthānanira.",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_XX_kalpabuddhau:2",
+    "original":"sira bhaṭāra ratnasambhava, muṅguh riṅ dakṣiṇa, pīta varṇanira, sira bharālī māmakī devīnira, tra.m mantranira, ākāśamata jñānanira, kapāla sañjatanira, riṅ jro niṅ limpa pinakasthānanira.",
+    "analyzed":"riṅ dakṣiṇa pīta varṇa nira sira bharālī māmakī devī nira mantra nira ākāśamata jñāna nira kapāla sañjata nira riṅ niṅ limpa pinaka sthāna nira ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"muṅguh",
+        "lemma":"muṅguh",
+        "tag":""
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":""
+      },
+      {
+        "unsandhied":"dakṣiṇa",
+        "lemma":"dakṣiṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pīta-",
+        "lemma":"pīta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varṇa-",
+        "lemma":"varṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bharālī",
+        "lemma":"bharālī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"māmakī",
+        "lemma":"māmakī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"devī-",
+        "lemma":"devī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mantra-",
+        "lemma":"mantra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ākāśamata",
+        "lemma":"ākāśamata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kapāla",
+        "lemma":"kapāla",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sañjata-",
+        "lemma":"sañjata",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":""
+      },
+      {
+        "unsandhied":"niṅ",
+        "lemma":"niṅ",
+        "tag":""
+      },
+      {
+        "unsandhied":"limpa",
+        "lemma":"lip",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"pinaka-",
+        "lemma":"pinaka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sthāna-",
+        "lemma":"sthāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_XX_kalpabuddhau:3",
-    "original": "sira bhaṭāra amitābha, muṅguh riṅ paścima, rakta varṇanira, sira bharālī pāṇḍaravāsinī devīnira, hrih mantranira, pratavekṣaṇa jñānanira, dhyāna mudrānira, nāgapāśa sañjatanira, riṅ sukhavati kasvarganira, sira bharāla vajradharma, bhaṭāra vajratīkṣṇa, bhaṭāra vajraketu, bhaṭāra vajrabhāsa, saṅ amarivṛtta ri sira, muṅguh pva sira niṅ śarīra, ri jro hati pinakasthānanira.",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_XX_kalpabuddhau:3",
+    "original":"sira bhaṭāra amitābha, muṅguh riṅ paścima, rakta varṇanira, sira bharālī pāṇḍaravāsinī devīnira, hrih mantranira, pratavekṣaṇa jñānanira, dhyāna mudrānira, nāgapāśa sañjatanira, riṅ sukhavati kasvarganira, sira bharāla vajradharma, bhaṭāra vajratīkṣṇa, bhaṭāra vajraketu, bhaṭāra vajrabhāsa, saṅ amarivṛtta ri sira, muṅguh pva sira niṅ śarīra, ri jro hati pinakasthānanira.",
+    "analyzed":"sira bhaṭāra amitābha muṅguh riṅ paścima rakta varṇa sira bharālī pāṇḍaravāsinī devī nira hriṅ mantra pratavekṣaṇa jñāna mudrā nira nāgapāśa sañjata nira sira bharāla vajradharma bhaṭāra vajratīkṣṇa bhaṭāra vajraketu bhaṭāra vajrabhāsa saṅ sira muṅguh śarīra ri hati pinakasthāna nira ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"muṅguh",
+        "lemma":"muṅguh",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"paścima",
+        "lemma":"paścima",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"rakta",
+        "lemma":"rakta",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"varṇa",
+        "lemma":"varṇa",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bharālī",
+        "lemma":"bharālī",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"pāṇḍaravāsinī",
+        "lemma":"pāṇḍaravāsinī",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"devī",
+        "lemma":"devī",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"mantra",
+        "lemma":"mantra",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"pratavekṣaṇa",
+        "lemma":"pratavekṣaṇa",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"dhyāna-",
+        "lemma":"dhyāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mudrā-",
+        "lemma":"mudrā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"nāgapāśa",
+        "lemma":"nāgapāśa",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"sañjata-",
+        "lemma":"sañjata",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bharāla",
+        "lemma":"bharāla",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"vajradharma",
+        "lemma":"vajradharma",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"vajratīkṣṇa",
+        "lemma":"vajratīkṣṇa",
+        "tag":"_"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_XX_kalpabuddhau:4",
-    "original": "sira bhaṭāra amoghasiddha, muṅguh riṅ uttara, viśva varṇanira, sira bharālī tārā devīnira, a.h mantranira, abhaya mudrānira, kṛtānuṣṭhāna jñānanira, riṅ kusumita ṅaran iṅ kasvarganira, garuḍa tutuṅgaṅanira, sira bhaṭāra vajrakarma, bhaṭāra vajrarakṣa, [bhaṭāra vajrayakṣa,] bhaṭāra varjasandhi saṅ amarivṛtta riṅ sira, muṅguh pva sira riṅ śarīra niṅ jro hampū pinakasthānanira.",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_XX_kalpabuddhau:4",
+    "original":"sira bhaṭāra amoghasiddha, muṅguh riṅ uttara, viśva varṇanira, sira bharālī tārā devīnira, a.h mantranira, abhaya mudrānira, kṛtānuṣṭhāna jñānanira, riṅ kusumita ṅaran iṅ kasvarganira, garuḍa tutuṅgaṅanira, sira bhaṭāra vajrakarma, bhaṭāra vajrarakṣa, [bhaṭāra vajrayakṣa,] bhaṭāra varjasandhi saṅ amarivṛtta riṅ sira, muṅguh pva sira riṅ śarīra niṅ jro hampū pinakasthānanira.",
+    "analyzed":"sira bhaṭāra amoghasiddha muṅguh riṅ uttara viśva varṇa sira bharālī tārā devī nira ah mantra abhaya mudrā kṛtānuṣṭhāna jñāna nira riṅ kusumita garuḍa tutuṅgaṅanira sira bhaṭāra vajrakarma bhaṭāra vajrarakṣa bhaṭāra vajrayakṣa bhaṭāra saṅ amarivṛtta riṅ sira muṅguh sira riṅ śarīra niṅ hampū pinakasthāna nira ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"amoghasiddha",
+        "lemma":"amoghasiddha",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"muṅguh",
+        "lemma":"muṅguh",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"uttara",
+        "lemma":"uttara",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"viśva",
+        "lemma":"viśva",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"varṇa",
+        "lemma":"varṇa",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bharālī",
+        "lemma":"bharālī",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"tārā",
+        "lemma":"tārā",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"devī",
+        "lemma":"devī",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"mantra-",
+        "lemma":"mantra",
+        "tag":"Compound, Gender=Masculine"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"abhaya-",
+        "lemma":"abhaya",
+        "tag":"Compound, Gender=Neuter"
+      },
+      {
+        "unsandhied":"mudrā",
+        "lemma":"mudrā",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"kṛtānuṣṭhāna",
+        "lemma":"kṛtānuṣṭhāna",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"jñāna",
+        "lemma":"jñāna",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"nira",
+        "lemma":"nira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"garuḍa",
+        "lemma":"garuḍa",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"vajrakarma",
+        "lemma":"vajrakarman",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"vajrarakṣa",
+        "lemma":"vajrarakṣa",
+        "tag":"_"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_XX_kalpabuddhau:5",
-    "original": "kunĕṅ pva bhaṭāra pañcatathāgata, mulih riṅ lokadhātūnira, hana riṅ śarīranta sira maṅke, sira katmahan pañcajñāna, pañcajñāna ṅaranya, cakṣuh, śrota, ghrāṇa, jihvā, hṛdaya, cakṣuh ṅa mata, śrota ṅa taliṅa, ghrāṇa ṅa iruṅ, jihvā ṅa caṅkĕm, hṛdaya ṅa hati, tayika sinaṅguh pañcendriya, ṅa kunaṅ ta devata niṅ pañcendriya, ṅa bhaṭāra akṣobhya muṅguh riṅ mata, bhaṭāra ratnasambhava muṅguh riṅ taliṅa, bhaṭāra amitābha muṅgviṅ iruṅ, bhaṭāra amoghasiddhi muṅguh ri caṅkĕm, sira pinakapaṅrasa bhaṭāra vairocana, muṅguh ri pupuh pupuh, sira pinakaṅĕnaṅĕn, irika ta sahadevīnira sovaṅ sovaṅ, yatika sinaṅguh saṅ hyaṅ pañcātma ṅaranya, pinakāvak.",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_XX_kalpabuddhau:5",
+    "original":"kunĕṅ pva bhaṭāra pañcatathāgata, mulih riṅ lokadhātūnira, hana riṅ śarīranta sira maṅke, sira katmahan pañcajñāna, pañcajñāna ṅaranya, cakṣuh, śrota, ghrāṇa, jihvā, hṛdaya, cakṣuh ṅa mata, śrota ṅa taliṅa, ghrāṇa ṅa iruṅ, jihvā ṅa caṅkĕm, hṛdaya ṅa hati, tayika sinaṅguh pañcendriya, ṅa kunaṅ ta devata niṅ pañcendriya, ṅa bhaṭāra akṣobhya muṅguh riṅ mata, bhaṭāra ratnasambhava muṅguh riṅ taliṅa, bhaṭāra amitābha muṅgviṅ iruṅ, bhaṭāra amoghasiddhi muṅguh ri caṅkĕm, sira pinakapaṅrasa bhaṭāra vairocana, muṅguh ri pupuh pupuh, sira pinakaṅĕnaṅĕn, irika ta sahadevīnira sovaṅ sovaṅ, yatika sinaṅguh saṅ hyaṅ pañcātma ṅaranya, pinakāvak.",
+    "analyzed":"bhaṭāra pañcatathāgata mulih riṅ hana riṅ śarīranta sira maṅke sira katmahan pañcajñāna pañcajñāna cakṣuh śrota ghrāṇa jihvā hṛdaya cakṣuh mata śrota ṅa taliṅa ghrāṇa ṅa iruṅ jihvā ṅa hati tayika sinaṅguh pañcendriya ṅa kunaṅ ta devata pañcendriya bhaṭāra akṣobhya muṅguh riṅ mata bhaṭāra ratnasambhava muṅguh riṅ taliṅa bhaṭāra amita ābha muṅgviṅ iruṅ ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"bhaṭāra",
+        "lemma":"bhaṭāra",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pañcatathāgata",
+        "lemma":"pañcatathāgata",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mulih",
+        "lemma":"mulih",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"hana",
+        "lemma":"han",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"riṅ",
+        "lemma":"riṅ",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śarīranta",
+        "lemma":"śarīranta",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"maṅke",
+        "lemma":"maṅke",
+        "tag":""
+      },
+      {
+        "unsandhied":"sira",
+        "lemma":"sira",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"katmahan",
+        "lemma":"katmahan",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pañcajñāna",
+        "lemma":"pañcajñāna",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pañcajñāna",
+        "lemma":"pañcajñāna",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"cakṣuh",
+        "lemma":"cakṣus",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śrota",
+        "lemma":"śrota",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ghrāṇa",
+        "lemma":"ghrāṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"jihvā",
+        "lemma":"jihvā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"hṛdaya-",
+        "lemma":"hṛdaya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"cakṣuh",
+        "lemma":"cakṣus",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ṅa",
+        "lemma":"ṅa",
+        "tag":""
+      },
+      {
+        "unsandhied":"mata",
+        "lemma":"man",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"śrota",
+        "lemma":"śrota",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ṅa",
+        "lemma":"jihvā",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"hṛdaya-",
+        "lemma":"hṛdaya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"cakṣuh",
+        "lemma":"cakṣus",
+        "tag":"S"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_XX_kalpabuddhau:6",
-    "original": "|| 0 || kalpabuddha iti, paramarahasya || 0 ||",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_XX_kalpabuddhau:6",
+    "original":"|| 0 || kalpabuddha iti, paramarahasya || 0 ||",
+    "analyzed":"kalpabuddhaḥ iti parama rahasya ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"kalpabuddhaḥ",
+        "lemma":"kalpabuddha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"parama-",
+        "lemma":"parama",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rahasya",
+        "lemma":"rahasya",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   }
 ]

@@ -3,126 +3,847 @@
     "segmentnr":"SA_T17_bsa046_u:0",
     "original":"Yogāvatāraḥ",
     "analyzed":"         ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:1",
     "original":"namastārāyai",
     "analyzed":"namaḥ tārāyai ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tārāyai",
+        "lemma":"tārā",
+        "tag":"Case=Dative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:2",
     "original":"śrutvā śāstramudāraṃ niścitya pāramārthikaṃ tattvam \/",
     "analyzed":"śrutvā śāstram udāram niścitya pāramārthikam tattvam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śrutvā",
+        "lemma":"śru",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"śāstram",
+        "lemma":"śāstra",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"udāram",
+        "lemma":"udāra",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"niścitya",
+        "lemma":"niści",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"pāramārthikam",
+        "lemma":"pāramārthika",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tattvam",
+        "lemma":"tattva",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:3",
     "original":"mṛdvāsanopaviṣṭaḥ saśraddho yogamārabhed [yogī] \/\/ 1 \/\/",
     "analyzed":"mṛd vāsanā upaviṣṭaḥ sa śraddhaḥ yogam ārabhet yogī ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"mṛd-",
+        "lemma":"mṛd",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vāsanā-",
+        "lemma":"vāsanā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"upaviṣṭaḥ",
+        "lemma":"upaviś",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"sa",
+        "lemma":"sa",
+        "tag":""
+      },
+      {
+        "unsandhied":"śraddhaḥ",
+        "lemma":"śraddhā",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"yogam",
+        "lemma":"yoga",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ārabhet",
+        "lemma":"ārabh",
+        "tag":"Tense=Present, Mood=Optative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:4",
     "original":"grāhyagrāhakamubhayaṃ nobhayamahameva nirvṛtirmagna iti \/",
     "analyzed":"grāhya grāhakam ubhayam na ubhayam aham eva nirvṛtiḥ magnaḥ iti ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"grāhya-",
+        "lemma":"grah",
+        "tag":"Compound, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"grāhakam",
+        "lemma":"grāhaka",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"ubhayam",
+        "lemma":"ubhaya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"ubhayam",
+        "lemma":"ubhaya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"aham",
+        "lemma":"mad",
+        "tag":"Case=Nominative, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"nirvṛtiḥ",
+        "lemma":"nirvṛti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"magnaḥ",
+        "lemma":"majj",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:5",
     "original":"bahuvidhavikalpajālaṃ pravijñāya manaḥsamāpattiḥ \/\/ 2 \/\/",
     "analyzed":"bahuvidha vikalpa jālam pravijñāya manaḥ samāpattiḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"bahuvidha-",
+        "lemma":"bahuvidha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vikalpa-",
+        "lemma":"vikalpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jālam",
+        "lemma":"jāla",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pravijñāya",
+        "lemma":"pravijñā",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"manaḥ-",
+        "lemma":"manas",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samāpattiḥ",
+        "lemma":"samāpatti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:6",
     "original":"jñeyaṃ vilokya sakalaṃ mā yogameva nirbhāsam \/",
     "analyzed":"jñeyam vilokya sakalam mā yogam eva nirbhāsam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"jñeyam",
+        "lemma":"jñā",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"vilokya",
+        "lemma":"vilokay",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"sakalam",
+        "lemma":"sakala",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"mā",
+        "lemma":"mā",
+        "tag":""
+      },
+      {
+        "unsandhied":"yogam",
+        "lemma":"yoga",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"nirbhāsam",
+        "lemma":"nirbhāsa",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:7",
     "original":"pravivācye dehe yat tattathatājñānavajreṇa \/\/ 3 \/\/",
     "analyzed":"pravivācye dehe yat tad tathatā jñāna vajreṇa ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"pravivācye",
+        "lemma":"pravivac",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"dehe",
+        "lemma":"deha",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tad-",
+        "lemma":"tad",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tathatā-",
+        "lemma":"tathatā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vajreṇa",
+        "lemma":"vajra",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:8",
     "original":"sarvākāravivarjitamādyantavibhāgarahitamavikalpam \/",
     "analyzed":"sarva ākāra vivarjitam ādi anta vibhāga rahitam avikalpam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākāra-",
+        "lemma":"ākāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vivarjitam",
+        "lemma":"vivarjay",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"anta-",
+        "lemma":"anta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vibhāga-",
+        "lemma":"vibhāga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rahitam",
+        "lemma":"rahita",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"avikalpam",
+        "lemma":"avikalpa",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:9",
     "original":"nimarlasahasradīdhitinirbhinnameti sarvaṃ gaganamiva \/\/ 4 \/\/",
     "analyzed":"nimarla sahasra dīdhiti nirbhinnam eti sarvam gaganam iva ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"nimarla-",
+        "lemma":"nimarla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sahasra-",
+        "lemma":"sahasra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dīdhiti-",
+        "lemma":"dīdhiti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirbhinnam",
+        "lemma":"nirbhid",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"eti",
+        "lemma":"i",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"sarvam",
+        "lemma":"sarva",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"gaganam",
+        "lemma":"gagana",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"iva",
+        "lemma":"iva",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:10",
     "original":"svākāramātraśeṣaṃ paśyati cittaṃ svamādyanutpannam \/",
     "analyzed":"sva ākāra mātra śeṣam paśyati cittam svam ādi anutpannam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"sva-",
+        "lemma":"sva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākāra-",
+        "lemma":"ākāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mātra-",
+        "lemma":"mātra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śeṣam",
+        "lemma":"śeṣa",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"paśyati",
+        "lemma":"paś",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"cittam",
+        "lemma":"citta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"svam",
+        "lemma":"sva",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"anutpannam",
+        "lemma":"anutpanna",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:11",
     "original":"yenāpi paśyatīdaṃ tadapi tathaivāvalokayati \/\/ 5 \/\/",
     "analyzed":"yena api paśyati idam tat api tathā eva avalokayati ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"yena",
+        "lemma":"yad",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"api",
+        "lemma":"api",
+        "tag":""
+      },
+      {
+        "unsandhied":"paśyati",
+        "lemma":"paś",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"idam",
+        "lemma":"idam",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"api",
+        "lemma":"api",
+        "tag":""
+      },
+      {
+        "unsandhied":"tathā",
+        "lemma":"tathā",
+        "tag":""
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"avalokayati",
+        "lemma":"avalokay",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:12",
     "original":"so 'nupalambho 'cittaṃ tathatājñānaṃ tatkoṭiñca \/",
     "analyzed":"saḥ anupalambhaḥ acittam tathatā jñānam tad koṭiḥ ca ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"saḥ",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"anupalambhaḥ",
+        "lemma":"anupalambha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"acittam",
+        "lemma":"acitta",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tathatā-",
+        "lemma":"tathatā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jñānam",
+        "lemma":"jñāna",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"tad-",
+        "lemma":"tad",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"koṭiṃ",
+        "lemma":"koṭi",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:13",
     "original":"evaṃ tamaso 'bhyāsāt prajñāveditanirodhamāpnoti \/\/ 6 \/\/",
     "analyzed":"evam tamasaḥ abhyāsāt prajñā vedita nirodham āpnoti ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"evam",
+        "lemma":"evam",
+        "tag":""
+      },
+      {
+        "unsandhied":"tamasaḥ",
+        "lemma":"tamas",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"abhyāsāt",
+        "lemma":"abhyāsa",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"prajñā-",
+        "lemma":"prajñā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vedita-",
+        "lemma":"veday",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"nirodham",
+        "lemma":"nirodha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"āpnoti",
+        "lemma":"āp",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:14",
     "original":"tābhiryukto yogī sattvārthamanekadhā kurute \/",
     "analyzed":"tābhiḥ yuktaḥ yogī sattva artham anekadhā kurute ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"tābhiḥ",
+        "lemma":"tad",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Plural"
+      },
+      {
+        "unsandhied":"yuktaḥ",
+        "lemma":"yuj",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"yogī",
+        "lemma":"yogin",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sattva-",
+        "lemma":"sattva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"artham",
+        "lemma":"artha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"anekadhā",
+        "lemma":"anekadhā",
+        "tag":""
+      },
+      {
+        "unsandhied":"kurute",
+        "lemma":"kṛ",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:15",
     "original":"asmin pariniṣpanne tiṣṭhati yogī sadāryamadhvānam \/\/ 7 \/\/",
     "analyzed":"asmin pariniṣpanne tiṣṭhati yogī sat āryam adhvānam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"asmin",
+        "lemma":"idam",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pariniṣpanne",
+        "lemma":"pariniṣpad",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"tiṣṭhati",
+        "lemma":"sthā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"yogī",
+        "lemma":"yogin",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sat-",
+        "lemma":"sat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āryam",
+        "lemma":"ārya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"adhvānam",
+        "lemma":"adhvan",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:16",
     "original":"............danaghavāyau niṣkampyaṃ kleśamārādyaiḥ \/",
     "analyzed":"niṣkampyam kleśa māra ādyaiḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"niṣkampyam",
+        "lemma":"niṣkampya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"kleśa-",
+        "lemma":"kleśa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"māra-",
+        "lemma":"māra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādyaiḥ",
+        "lemma":"ādya",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:17",
     "original":"prajñāpāramitāṃ vāsmin sarvadā pravṛttasya \/\/ 8 \/\/",
     "analyzed":"prajñāpāramitām vā asmin sarvadā pravṛttasya ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"prajñāpāramitām",
+        "lemma":"prajñāpāramitā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"asmin",
+        "lemma":"idam",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sarvadā",
+        "lemma":"sarvadā",
+        "tag":""
+      },
+      {
+        "unsandhied":"pravṛttasya",
+        "lemma":"pravṛt",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:18",
     "original":"siddhyantyanye bahavaḥ samādhiyogadānarāgādyāḥ \/\/ 9 \/\/",
     "analyzed":"siddhyanti anye bahavaḥ samādhi yoga dāna rāga ādyāḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"siddhi-",
+        "lemma":"siddhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"anti",
+        "lemma":"anti",
+        "tag":""
+      },
+      {
+        "unsandhied":"anye",
+        "lemma":"anya",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"bahavaḥ",
+        "lemma":"bahu",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"samādhi-",
+        "lemma":"samādhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yoga-",
+        "lemma":"yoga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dāna-",
+        "lemma":"dāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rāga-",
+        "lemma":"rāga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādyāḥ",
+        "lemma":"ādya",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:19",
     "original":"\/\/ yogāvatāraḥ samāptaḥ \/\/",
     "analyzed":"yoga avatāraḥ samāptaḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"yoga-",
+        "lemma":"yoga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"avatāraḥ",
+        "lemma":"avatāra",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptaḥ",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T17_bsa046_u:20",
     "original":"\/\/ kṛtiriyamāryadig nāgapādānāmiti \/\/",
     "analyzed":"kṛtiḥ iyam ārya diś nāga pādānām iti ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"kṛtiḥ",
+        "lemma":"kṛti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"iyam",
+        "lemma":"idam",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"ārya-",
+        "lemma":"ārya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"diś",
+        "lemma":"diś",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"nāga-",
+        "lemma":"nāga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pādānām",
+        "lemma":"pāda",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      }
+    ]
   }
 ]

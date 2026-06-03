@@ -3,132 +3,1104 @@
     "segmentnr":"SA_T01_n815u:0",
     "original":"avalokiteśvarastavaḥ",
     "analyzed":"        ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_T01_n815u:1",
     "original":"candrakāntābhikṣuṇīkṛtaḥ",
     "analyzed":"candrakāntā bhikṣuṇīkṛtaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"candrakāntā-",
+        "lemma":"candrakāntā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhikṣuṇīkṛtaḥ",
+        "lemma":"bhikṣuṇīkṛ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:2",
     "original":"om namo'valokiteśvarāya",
     "analyzed":"om namaḥ avalokita īśvarāya ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"om",
+        "lemma":"oṃ",
+        "tag":""
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"avalokiteśvarāya",
+        "lemma":"avalokiteśvara",
+        "tag":"Case=Dative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:3",
     "original":"bhuvanatrayavanditalokagurum amarādhipatistutabrahmavaram |",
     "analyzed":"bhuvanatraya vandita loka gurum amara adhipati stuta brahma varam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"bhuvanatraya-",
+        "lemma":"bhuvanatraya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vandita-",
+        "lemma":"vand",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"loka-",
+        "lemma":"loka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gurum",
+        "lemma":"guru",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"amara-",
+        "lemma":"amara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhipati-",
+        "lemma":"adhipati",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stuta-",
+        "lemma":"stu",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"brahma-",
+        "lemma":"brahman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varam",
+        "lemma":"vara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:4",
     "original":"munirājavaraṃ dyutisiddhikaraṃ praṇamāmyavalokitanāmadharam || 1 ||",
     "analyzed":"muni rāja varam dyuti siddhi karam praṇamāmi avalokita nāma dharam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"muni-",
+        "lemma":"muni",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rāja-",
+        "lemma":"rājan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varam",
+        "lemma":"vara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dyuti-",
+        "lemma":"dyuti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"siddhi-",
+        "lemma":"siddhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"karam",
+        "lemma":"kara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"praṇamāmi",
+        "lemma":"praṇam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"avalokita-",
+        "lemma":"avalokay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"nāma-",
+        "lemma":"nāman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dharam",
+        "lemma":"dhara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:5",
     "original":"sugatātmajarupasurupadharaṃ bahulakṣaṇabhūṣitadehavaram |",
     "analyzed":"sugata ātmaja rupa su rupa dharam bahu lakṣaṇa bhūṣita deha varam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"sugata-",
+        "lemma":"sugata",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ātmaja-",
+        "lemma":"ātmaja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rupa-",
+        "lemma":"rupa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"su",
+        "lemma":"su",
+        "tag":""
+      },
+      {
+        "unsandhied":"rupa-",
+        "lemma":"rupa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dharam",
+        "lemma":"dhara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bahu-",
+        "lemma":"bahu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"lakṣaṇa-",
+        "lemma":"lakṣaṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhūṣita-",
+        "lemma":"bhūṣay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"deha-",
+        "lemma":"deha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varam",
+        "lemma":"vara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:6",
     "original":"amitābhatathāgatamaulidharaṃ kanakābjavibhūṣitavāmakaram || 2 ||",
     "analyzed":"amita ābha tathāgata mauli dharam kanaka abja vibhūṣita vāma karam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"amita-",
+        "lemma":"amita",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ābha-",
+        "lemma":"ābha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tathāgata-",
+        "lemma":"tathāgata",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mauli-",
+        "lemma":"mauli",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dharam",
+        "lemma":"dhara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kanaka-",
+        "lemma":"kanaka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"abja-",
+        "lemma":"abja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vibhūṣita-",
+        "lemma":"vibhūṣay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"vāma-",
+        "lemma":"vāma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"karam",
+        "lemma":"kara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:7",
     "original":"kuṭilāmalapiṅgaladhūmrajaṭaṃ śaśibimbasamujjvalapūrṇamukham |",
     "analyzed":"kuṭila amala piṅgala dhūmra jaṭam śaśi bimba samujjvala pūrṇa mukham ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"kuṭila-",
+        "lemma":"kuṭila",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"amala-",
+        "lemma":"amala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"piṅgala-",
+        "lemma":"piṅgala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dhūmra-",
+        "lemma":"dhūmra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jaṭam",
+        "lemma":"jaṭā",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śaśi-",
+        "lemma":"śaśin",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bimba-",
+        "lemma":"bimba",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samujjvala-",
+        "lemma":"samujjvala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pūrṇa-",
+        "lemma":"pṛ",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"mukham",
+        "lemma":"mukha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:8",
     "original":"kamalāyatalocanacāruvaraṃ himakhaṇḍavipāṇḍuragaṇḍayugam || 3 ||",
     "analyzed":"kamala āyata locana cāru varam hima khaṇḍa vipāṇḍura gaṇḍa yugam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"kamala-",
+        "lemma":"kamala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āyata-",
+        "lemma":"āyam",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"locana-",
+        "lemma":"locana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"cāru-",
+        "lemma":"cāru",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varam",
+        "lemma":"vara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"hima-",
+        "lemma":"hima",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"khaṇḍa-",
+        "lemma":"khaṇḍa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vipāṇḍura-",
+        "lemma":"vipāṇḍura",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gaṇḍa-",
+        "lemma":"gaṇḍa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yugam",
+        "lemma":"yuga",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:9",
     "original":"adharaṃ jitapaṅkajanābhisamaṃ śaradambudagarjitamegharutam |",
     "analyzed":"adharam jita paṅkaja nābhi samam śarad ambuda garjita megha rutam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"adharam",
+        "lemma":"adhara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"jita-",
+        "lemma":"ji",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"paṅkaja-",
+        "lemma":"paṅkaja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nābhi-",
+        "lemma":"nābhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samam",
+        "lemma":"sama",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śarad-",
+        "lemma":"śarad",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ambuda-",
+        "lemma":"ambuda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"garjita-",
+        "lemma":"garjita",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"megha-",
+        "lemma":"megha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rutam",
+        "lemma":"ruta",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:10",
     "original":"bahuratnavibhūṣitabāhuyugaṃ tanukomalaśādvalapāṇitalam || 4 ||",
     "analyzed":"bahu ratna vibhūṣita bāhu yugam tanu komala śādvala pāṇi talam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"bahu-",
+        "lemma":"bahu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ratna-",
+        "lemma":"ratna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vibhūṣita-",
+        "lemma":"vibhūṣay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"bāhu-",
+        "lemma":"bāhu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yugam",
+        "lemma":"yuga",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tanu-",
+        "lemma":"tanu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"komala-",
+        "lemma":"komala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śādvala-",
+        "lemma":"śādvala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pāṇi-",
+        "lemma":"pāṇi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"talam",
+        "lemma":"tala",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:11",
     "original":"mṛgacarmaviveṣṭitavāmatanuṃ śubhakuṇḍalamaṇḍitaloladharam |",
     "analyzed":"mṛga carma viveṣṭita vāma tanum śubha kuṇḍala maṇḍita lola dharam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"mṛga-",
+        "lemma":"mṛga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"carma-",
+        "lemma":"carman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"viveṣṭita-",
+        "lemma":"viveṣṭay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"vāma-",
+        "lemma":"vāma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tanum",
+        "lemma":"tanu",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śubha-",
+        "lemma":"śubha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kuṇḍala-",
+        "lemma":"kuṇḍala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"maṇḍita-",
+        "lemma":"maṇḍay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"lola-",
+        "lemma":"lola",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dharam",
+        "lemma":"dhara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:12",
     "original":"vimalaṃ kamalodaranābhitalaṃ maṇimaṇḍitamekhalahemavaram || 5 ||",
     "analyzed":"vimalam kamala udara nābhi talam maṇi maṇḍita mekhala hema varam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"vimalam",
+        "lemma":"vimala",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kamala-",
+        "lemma":"kamala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"udara-",
+        "lemma":"udara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nābhi-",
+        "lemma":"nābhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"talam",
+        "lemma":"tala",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"maṇi-",
+        "lemma":"maṇi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"maṇḍita-",
+        "lemma":"maṇḍay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"mekhala-",
+        "lemma":"mekhalā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"hema-",
+        "lemma":"heman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varam",
+        "lemma":"vara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:13",
     "original":"kaṭiveṣṭitacitrasuvastradharaṃ jinabodhimahodadhipāragatam |",
     "analyzed":"kaṭi veṣṭita citra su vastra dharam jina bodhi mahā udadhi pāra gatam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"kaṭi-",
+        "lemma":"kaṭi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"veṣṭita-",
+        "lemma":"veṣṭay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"citra-",
+        "lemma":"citra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"su",
+        "lemma":"su",
+        "tag":""
+      },
+      {
+        "unsandhied":"vastra-",
+        "lemma":"vastra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dharam",
+        "lemma":"dhara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"jina-",
+        "lemma":"jina",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bodhi-",
+        "lemma":"bodhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mahā-",
+        "lemma":"mahat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"udadhi-",
+        "lemma":"udadhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pāra-",
+        "lemma":"pāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gatam",
+        "lemma":"gam",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:14",
     "original":"bahupuṇyamupārjitalabdhavaraṃ jvaravyādhiharaṃ bahusaukhyakaram || 6 ||",
     "analyzed":"bahu puṇyam upārjita labdha varam jvara vyādhi haram bahu saukhya karam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"bahu-",
+        "lemma":"bahu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"puṇyam",
+        "lemma":"puṇya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"upārjita-",
+        "lemma":"upārjay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"labdha-",
+        "lemma":"labh",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"varam",
+        "lemma":"vara",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"jvara-",
+        "lemma":"jvara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vyādhi-",
+        "lemma":"vyādhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"haram",
+        "lemma":"hara",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"bahu-",
+        "lemma":"bahu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saukhya-",
+        "lemma":"saukhya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"karam",
+        "lemma":"kara",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:15",
     "original":"śubhaśāntikaraṃ tribhavāsyakaraṃ sacaraṃ khacaraṃ stutidehadharam |",
     "analyzed":"                    ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"śubha-",
+        "lemma":"śubha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śānti-",
+        "lemma":"śānti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"karam",
+        "lemma":"kara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tri-",
+        "lemma":"tri",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhava-",
+        "lemma":"bhava",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āsya-",
+        "lemma":"āsya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"karam",
+        "lemma":"kara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sa",
+        "lemma":"sa",
+        "tag":""
+      },
+      {
+        "unsandhied":"caram",
+        "lemma":"cara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kha-",
+        "lemma":"kha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"caram",
+        "lemma":"cara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"stuti-",
+        "lemma":"stuti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"deha-",
+        "lemma":"deha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dharam",
+        "lemma":"dhara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:16",
     "original":"vividhākulanirjitamārabalaṃ daśapāramitāparamārthakaram || 7 ||",
     "analyzed":"vividha ākula nirjita māra balam daśa pāramitā parama artha karam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"vividha-",
+        "lemma":"vividha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākula-",
+        "lemma":"ākula",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirjita-",
+        "lemma":"nirji",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"māra-",
+        "lemma":"māra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"balam",
+        "lemma":"bala",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"daśa-",
+        "lemma":"daśan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pāramitā-",
+        "lemma":"pāramitā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"parama-",
+        "lemma":"parama",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"artha-",
+        "lemma":"artha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"karam",
+        "lemma":"kara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:17",
     "original":"caturasravihāravivekaparaṃ tathatādvayabodhavibodhakaram |",
     "analyzed":"                   ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_T01_n815u:18",
     "original":"maṇinūpuragarjitapādayugaṃ gajamandavilambitahaṃsagatim || 8 ||",
     "analyzed":"maṇi nūpura garjita pāda yugam gaja manda vilambita haṃsa gatim ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"maṇi-",
+        "lemma":"maṇi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nūpura-",
+        "lemma":"nūpura",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"garjita-",
+        "lemma":"garjita",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pāda-",
+        "lemma":"pāda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yugam",
+        "lemma":"yuga",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"gaja-",
+        "lemma":"gaja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"manda-",
+        "lemma":"manda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vilambita-",
+        "lemma":"vilamb",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"haṃsa-",
+        "lemma":"haṃsa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gatim",
+        "lemma":"gati",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:19",
     "original":"paripūrṇamahāmṛtalabdhadhṛtiṃ kṣīrodajalārṇavanityagatim |",
     "analyzed":"paripūrṇa mahā amṛta labdha dhṛtim kṣīroda jala arṇava nitya gatim ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"paripūrṇa-",
+        "lemma":"paripṛ",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"mahā-",
+        "lemma":"mahat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"amṛta-",
+        "lemma":"amṛta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"labdha-",
+        "lemma":"labh",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"dhṛtim",
+        "lemma":"dhṛti",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kṣīroda-",
+        "lemma":"kṣīroda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jala-",
+        "lemma":"jala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"arṇava-",
+        "lemma":"arṇava",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nityagatim",
+        "lemma":"nityagati",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:20",
     "original":"śrīpotalakābhinivāsaratiṃ karuṇāmayanirmalacārudṛśam || 9 ||",
     "analyzed":"śrīpotalaka abhinivāsa ratim karuṇā āmaya nirmala cāru dṛśam ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"śrīpotalaka-",
+        "lemma":"śrīpotalaka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"abhinivāsa-",
+        "lemma":"abhinivāsa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ratim",
+        "lemma":"rati",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"karuṇā-",
+        "lemma":"karuṇā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āmaya-",
+        "lemma":"āmaya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirmala-",
+        "lemma":"nirmala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"cāru-",
+        "lemma":"cāru",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dṛśam",
+        "lemma":"dṛś",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n815u:21",
     "original":"śrīmadāryāvalokiteśvarabhaṭṭārakasya candrakāntābhikṣuṇīviracitaḥ stavaḥ",
     "analyzed":"śrīmat āryāvalokiteśvara bhaṭṭārakasya candrakāntā bhikṣuṇī viracitaḥ stavaḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"śrīmat-",
+        "lemma":"śrīmat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āryāvalokiteśvara-",
+        "lemma":"āryāvalokiteśvara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhaṭṭārakasya",
+        "lemma":"bhaṭṭāraka",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"candrakāntā-",
+        "lemma":"candrakāntā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhikṣuṇī-",
+        "lemma":"bhikṣuṇī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"viracitaḥ",
+        "lemma":"viracay",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"stavaḥ",
+        "lemma":"stava",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   }
 ]

@@ -3,48 +3,112 @@
     "segmentnr":"SA_MB_kramasadbhava_images:0",
     "original":"* Kramasadbhaava edited by Mark S. G. Dyczkowski",
     "analyzed":"kramasadbhaava edited by mark ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"kramasadbhaava",
+        "lemma":"kramasadbhaava",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"edited",
+        "lemma":"edit",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"Dyczkowski",
+        "lemma":"Dyczkowski",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_MB_kramasadbhava_images:1",
     "original":"* Copyright (c) Mark S.G. Dyczkowski",
     "analyzed":"copyright c ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"copyright",
+        "lemma":"copyright",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_MB_kramasadbhava_images:2",
     "original":"Manuscriptnumber: 1-76 \"Saivatantra 144",
     "analyzed":"manuscript number ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_MB_kramasadbhava_images:3",
     "original":"* Reel number: A 209\/23",
     "analyzed":"reel number a ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"number",
+        "lemma":"number",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_MB_kramasadbhava_images:4",
     "original":"* Number of leaves:15",
     "analyzed":"number or ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"number-",
+        "lemma":"number",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ob",
+        "lemma":"or",
+        "tag":""
+      },
+      {
+        "unsandhied":"leaves",
+        "lemma":"leave",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_MB_kramasadbhava_images:5",
     "original":"* Size in cms: 30 x 10",
     "analyzed":"size in co ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"size",
+        "lemma":"size",
+        "tag":"_"
+      }
+    ]
   },
   {
     "segmentnr":"SA_MB_kramasadbhava_images:6",
     "original":"Script Nw",
     "analyzed":"script nw ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_MB_kramasadbhava_images:7",
     "original":"* Paper",
     "analyzed":"papeḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"paper",
+        "lemma":"pā",
+        "tag":"Tense=Present, Mood=Optative, Person=2, Number=Singular"
+      }
+    ]
   }
 ]

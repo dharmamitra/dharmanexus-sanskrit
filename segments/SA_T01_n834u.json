@@ -3,96 +3,663 @@
     "segmentnr":"SA_T01_n834u:0",
     "original":"vidyākṣarastotram",
     "analyzed":"vidyā akṣara stotram ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"vidyā-",
+        "lemma":"vidyā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"akṣara-",
+        "lemma":"akṣara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:1",
     "original":"omkārotpannaśuklābhaṃ madhyasiṃhāsanasthitam |",
     "analyzed":"omkāra utpanna śukla ābham madhya siṃhāsana sthitam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"omkāra-",
+        "lemma":"oṃkāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"utpanna-",
+        "lemma":"utpad",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"śukla-",
+        "lemma":"śukla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ābham",
+        "lemma":"ābha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"madhya-",
+        "lemma":"madhya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"siṃhāsana-",
+        "lemma":"siṃhāsana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sthitam",
+        "lemma":"sthā",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:2",
     "original":"bodhyaṃ trimudrayā yuktaṃ vairocanamuniṃ numaḥ || 1 ||",
     "analyzed":"bodhyam tri mudrayā yuktam vairocana munim numaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"bodhyam",
+        "lemma":"budh",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"tri-",
+        "lemma":"tri",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mudrayā",
+        "lemma":"mudrā",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"yuktam",
+        "lemma":"yuj",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"vairocana-",
+        "lemma":"vairocana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"munim",
+        "lemma":"muni",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"numaḥ",
+        "lemma":"nū",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:3",
     "original":"hūṃkārotpannanīlābhaṃ pūrve gajāsanasthitam |",
     "analyzed":"hūṃkāra utpanna nīla ābham pūrve gajāsana sthitam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"hūṃkāra-",
+        "lemma":"hūṃkāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"utpanna-",
+        "lemma":"utpad",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"nīla-",
+        "lemma":"nīla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ābham",
+        "lemma":"ābha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pūrve",
+        "lemma":"pūrva",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"gajāsana-",
+        "lemma":"gajāsana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sthitam",
+        "lemma":"sthā",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:4",
     "original":"bhūsparśamudrayā yuktam akṣobhyaṃ śrīghana numaḥ || 2 ||",
     "analyzed":"bhū sparśa mudrayā yuktam akṣobhyam śrīghana numaḥ  \/",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"bhū-",
+        "lemma":"bhū",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sparśa-",
+        "lemma":"sparśa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mudrayā",
+        "lemma":"mudrā",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"yuktam",
+        "lemma":"yuj",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"akṣobhyam",
+        "lemma":"akṣobhya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śrīghana",
+        "lemma":"śrīghana",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"numaḥ",
+        "lemma":"nū",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:5",
     "original":"trāṃkārotpannahemābhaṃ dakṣiṇe'śvamārūḍham |",
     "analyzed":"trāṃkāra utpanna hema ābham dakṣiṇe aśvam ārūḍham ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"trāṃkāra-",
+        "lemma":"trāṃkāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"utpanna-",
+        "lemma":"utpad",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"hema-",
+        "lemma":"heman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ābham",
+        "lemma":"ābha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dakṣiṇe",
+        "lemma":"dakṣiṇa",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"aśvam",
+        "lemma":"aśva",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ārūḍham",
+        "lemma":"āruh",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:6",
     "original":"varadamudrayā yuktaṃ namāmi ratnasaṃbhavam || 3 ||",
     "analyzed":"vara da mudrayā yuktam namāmi ratnasaṃbhavam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"vara-",
+        "lemma":"vara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"da-",
+        "lemma":"da",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mudrayā",
+        "lemma":"mudrā",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"yuktam",
+        "lemma":"yuj",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namāmi",
+        "lemma":"nam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"ratnasaṃbhavam",
+        "lemma":"ratnasaṃbhava",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:7",
     "original":"jhiṅkārotpannaraktābhaṃ paścime mayūrāsanam |",
     "analyzed":"jhiṅkāra utpanna rakta ābham paścime mayūrāsanam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"jhiṅkāra-",
+        "lemma":"jhiṅkāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"utpanna-",
+        "lemma":"utpad",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"rakta-",
+        "lemma":"rakta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ābham",
+        "lemma":"ābha",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"paścime",
+        "lemma":"paścima",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mayūrāsanam",
+        "lemma":"mayūrāsana",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:8",
     "original":"dhyānamūrtidharaṃ nātham amitābhamuniṃ numaḥ || 4 ||",
     "analyzed":"dhyāna mūrti dharam nātham amita ābha munim numaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"dhyāna-",
+        "lemma":"dhyāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mūrti-",
+        "lemma":"mūrti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dharam",
+        "lemma":"dhara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"nātham",
+        "lemma":"nātha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"amita-",
+        "lemma":"amita",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ābha-",
+        "lemma":"ābha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"munim",
+        "lemma":"muni",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"numaḥ",
+        "lemma":"nū",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:9",
     "original":"khaṅkārotpannaśyāmābham uttare garuḍāsanam |",
     "analyzed":"khaṅkāra utpanna śyāma ābham uttare garuḍāsanam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"khaṅkāra-",
+        "lemma":"khaṅkāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"utpanna-",
+        "lemma":"utpad",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"śyāma-",
+        "lemma":"śyāma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ābham",
+        "lemma":"ābha",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"uttare",
+        "lemma":"uttara",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"garuḍa-",
+        "lemma":"garuḍa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āsanam",
+        "lemma":"āsana",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:10",
     "original":"abhayamudrasaṃbaddhamamoghasiddhiṃ namāmyaham || 5 ||",
     "analyzed":"abhaya mudrā saṃbaddham amogha siddhim namāmi aham ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"abhaya-",
+        "lemma":"abhaya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mudrā-",
+        "lemma":"mudrā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃbaddham",
+        "lemma":"sambandh",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"amogha-",
+        "lemma":"amogha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"siddhim",
+        "lemma":"siddhi",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namāmi",
+        "lemma":"nam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"aham",
+        "lemma":"mad",
+        "tag":"Case=Nominative, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:11",
     "original":"rocanā māmakī caiva pāṇḍarā tāraṇī tathā |",
     "analyzed":"rocanā māmakī ca eva pāṇḍarā tāraṇī tathā ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"rocanā",
+        "lemma":"rocanā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"māmakī",
+        "lemma":"māmakī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"pāṇḍarā",
+        "lemma":"pāṇḍarā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"tāraṇī",
+        "lemma":"tāraṇī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"tathā",
+        "lemma":"tathā",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:12",
     "original":"brahmādikoṇasaṃsthāśca caturdevyo namo namaḥ || 6 ||",
     "analyzed":"brahma ādi koṇa saṃsthāḥ ca catuḥ devyaḥ namaḥ namaḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"brahma-",
+        "lemma":"brahman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"koṇa-",
+        "lemma":"koṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃsthāḥ",
+        "lemma":"saṃsthā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Plural"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"catuḥ",
+        "lemma":"catur",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"devyaḥ",
+        "lemma":"devī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Plural"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:13",
     "original":"niraṃjanaṃ nirākāraṃ pratyekajyotirūpiṇam |",
     "analyzed":"niraṃjanam nirākāram pratyeka jyotiḥ rūpiṇam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"niraṃjanam",
+        "lemma":"nirañjana",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"nirākāram",
+        "lemma":"nirākāra",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pratyeka-",
+        "lemma":"pratyeka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jyotiḥ-",
+        "lemma":"jyotis",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpiṇam",
+        "lemma":"rūpin",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:14",
     "original":"caityamadhyasthitaṃ devaṃ vajrasattvaṃ numo vayam || 7 ||",
     "analyzed":"caitya madhya sthitam devam vajra sattvam numaḥ vayam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"caitya-",
+        "lemma":"caitya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"madhya-",
+        "lemma":"madhya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sthitam",
+        "lemma":"sthā",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"devam",
+        "lemma":"deva",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vajra-",
+        "lemma":"vajra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sattvam",
+        "lemma":"sattva",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"numaḥ",
+        "lemma":"nū",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Plural"
+      },
+      {
+        "unsandhied":"vayam",
+        "lemma":"mad",
+        "tag":"Case=Nominative, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n834u:15",
     "original":"śrī buddhabhaṭṭārakasya vidyākṣarastotraṃ samāptam |",
     "analyzed":"śrī buddha bhaṭṭārakasya vidyākṣara stotram samāptam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"śrī",
+        "lemma":"śrī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhaṭṭārakasya",
+        "lemma":"bhaṭṭāraka",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vidyākṣara-",
+        "lemma":"vidyākṣara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptam",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   }
 ]

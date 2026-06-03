@@ -3,156 +3,861 @@
     "segmentnr":"SA_T01_n897u:0",
     "original":"vāgīśvaravarṇanāstotram",
     "analyzed":"        ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_T01_n897u:1",
     "original":"brahmādidevamanujāsurapūjitāṅgaṃ",
     "analyzed":"brahma ādi deva manuja asura pūjita aṅgam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"brahma-",
+        "lemma":"brahman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"deva-",
+        "lemma":"deva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"manuja-",
+        "lemma":"manuja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"asura-",
+        "lemma":"asura",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pūjita-",
+        "lemma":"pūjay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"aṅgam",
+        "lemma":"aṅga",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:2",
     "original":"jñānādisarvanilayaṃ guṇarājavantam |",
     "analyzed":"jñāna ādi sarva nilayam guṇa rājavantam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nilayam",
+        "lemma":"nilaya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"guṇa-",
+        "lemma":"guṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rājavantam",
+        "lemma":"rājavat",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:3",
     "original":"jñānādhipaṃ guṇamayaṃ guṇavṛddhimantaṃ",
     "analyzed":"jñāna adhipam guṇa mayam guṇa vṛddhimantam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhipam",
+        "lemma":"adhipa",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"guṇa-",
+        "lemma":"guṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mayam",
+        "lemma":"maya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"guṇa-",
+        "lemma":"guṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vṛddhimantam",
+        "lemma":"vṛddhimat",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:4",
     "original":"vāgīśvaraṃ suraguruṃ satataṃ namāmi || 1 ||",
     "analyzed":"vāc īśvaram suragurum satatam namāmi ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"vāgīśvaram",
+        "lemma":"vāgīśvara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"suragurum",
+        "lemma":"suraguru",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"satatam",
+        "lemma":"satatam",
+        "tag":""
+      },
+      {
+        "unsandhied":"namāmi",
+        "lemma":"nam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:5",
     "original":"vedādiśāstraracanākhilamantravijñaṃ",
     "analyzed":"veda ādi śāstra racana akhila mantra vijñam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"veda-",
+        "lemma":"veda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śāstra-",
+        "lemma":"śāstra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"racana-",
+        "lemma":"racana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"akhila-",
+        "lemma":"akhila",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mantra-",
+        "lemma":"mantra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vijñam",
+        "lemma":"vijña",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:6",
     "original":"stotraiḥ kathādibhiraśeṣasugītaśabdam |",
     "analyzed":"stotraiḥ kathā ādibhiḥ aśeṣa su gīta śabdam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"stotraiḥ",
+        "lemma":"stotra",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"kathā-",
+        "lemma":"kathā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādibhiḥ",
+        "lemma":"ādi",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"aśeṣa-",
+        "lemma":"aśeṣa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"su",
+        "lemma":"su",
+        "tag":""
+      },
+      {
+        "unsandhied":"gīta-",
+        "lemma":"gīta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śabdam",
+        "lemma":"śabda",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:7",
     "original":"yaṃ kīryayanti munayo naravāṇyabhijñaṃ",
     "analyzed":"yam kīryayanti munayaḥ nara vāṇī abhijñam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"yam",
+        "lemma":"yad",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kīryayanti",
+        "lemma":"kīryay",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"munayaḥ",
+        "lemma":"muni",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"nara-",
+        "lemma":"nara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vāṇī-",
+        "lemma":"vāṇī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"abhijñam",
+        "lemma":"abhijña",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:8",
     "original":"vāgīśvaraṃ suraguruṃ satataṃ namāmi || 2 ||",
     "analyzed":"vāc īśvaram suragurum satatam namāmi ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"vāgīśvaram",
+        "lemma":"vāgīśvara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"suragurum",
+        "lemma":"suraguru",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"satatam",
+        "lemma":"satatam",
+        "tag":""
+      },
+      {
+        "unsandhied":"namāmi",
+        "lemma":"nam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:9",
     "original":"jñānapradhānakaśarīramacintyabuddhiṃ",
     "analyzed":"jñāna pradhānaka śarīram acintya buddhim ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pradhānaka-",
+        "lemma":"pradhānaka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śarīram",
+        "lemma":"śarīra",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"acintya-",
+        "lemma":"acintya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"buddhim",
+        "lemma":"buddhi",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:10",
     "original":"vācaspatiṃ divi bhuvi stutakīrtidaṃ tam |",
     "analyzed":"vācaspatim divi bhuvi stuta kīrti dam tam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"vācaspatim",
+        "lemma":"vācaspati",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"divi",
+        "lemma":"div",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhuvi",
+        "lemma":"bhū",
+        "tag":"Case=Locative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"stuta-",
+        "lemma":"stu",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"kīrti-",
+        "lemma":"kīrti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dam",
+        "lemma":"da",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tam",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:11",
     "original":"jñāneśvaraṃ tribhuvaneśacarācaraṃ taṃ",
     "analyzed":"jñāneśvaram tribhuvana īśa carācaram tam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"jñāneśvaram",
+        "lemma":"jñāneśvara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tribhuvana-",
+        "lemma":"tribhuvana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"īśa-",
+        "lemma":"īśa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"carācaram",
+        "lemma":"carācara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tam",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:12",
     "original":"vāgīśvaraṃ suraguruṃ satataṃ namāmi || 3 ||",
     "analyzed":"vāc īśvaram suragurum satatam namāmi ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"vāgīśvaram",
+        "lemma":"vāgīśvara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"suragurum",
+        "lemma":"suraguru",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"satatam",
+        "lemma":"satatam",
+        "tag":""
+      },
+      {
+        "unsandhied":"namāmi",
+        "lemma":"nam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:13",
     "original":"ratnādiśilpaparikalpanapūrṇajñeyaṃ",
     "analyzed":"ratna ādi śilpa parikalpana pūrṇa jñeyam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"ratna-",
+        "lemma":"ratna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śilpa-",
+        "lemma":"śilpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"parikalpana-",
+        "lemma":"parikalpana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pūrṇa-",
+        "lemma":"pṛ",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"jñeyam",
+        "lemma":"jñā",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Gdv"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:14",
     "original":"citraṃ vicitritaguṇaṃ janamānanīyam |",
     "analyzed":"citram vicitrita guṇam jana mānanīyam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"citram",
+        "lemma":"citra",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vicitrita-",
+        "lemma":"vicitrita",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"guṇam",
+        "lemma":"guṇa",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"jana-",
+        "lemma":"jana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mānanīyam",
+        "lemma":"mānay",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Gdv"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:15",
     "original":"sarvajñakārakadharād hṛdi brahmapuñjaṃ",
     "analyzed":"            ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_T01_n897u:16",
     "original":"vāgīśvaraṃ suraguruṃ satataṃ namāmi || 4 ||",
     "analyzed":"vāc īśvaram suragurum satatam namāmi ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"vāgīśvaram",
+        "lemma":"vāgīśvara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"suragurum",
+        "lemma":"suraguru",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"satatam",
+        "lemma":"satatam",
+        "tag":""
+      },
+      {
+        "unsandhied":"namāmi",
+        "lemma":"nam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:17",
     "original":"caryāvidhau ratipatiṃ sthiradhairyabodhiṃ",
     "analyzed":"caryā vidhau rati patim sthira dhairya bodhim ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"caryā-",
+        "lemma":"caryā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vidhau",
+        "lemma":"vidhi",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"rati-",
+        "lemma":"rati",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"patim",
+        "lemma":"pati",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sthira-",
+        "lemma":"sthira",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dhairya-",
+        "lemma":"dhairya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bodhim",
+        "lemma":"bodhi",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:18",
     "original":"dhyānādhipaṃ vividhinā sukharañjanīyam |",
     "analyzed":"dhyāna adhipam vividhinā sukha rañjanīyam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"dhyāna-",
+        "lemma":"dhyāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhipam",
+        "lemma":"adhipa",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vividhinā",
+        "lemma":"vividhi",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sukha-",
+        "lemma":"sukha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rañjanīyam",
+        "lemma":"rañjay",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Gdv"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:19",
     "original":"vidyāpratiṣṭhitaguruṃ bhuvanetipūrṇaṃ",
     "analyzed":"vidyā pratiṣṭhita gurum bhuvana iti pūrṇam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"vidyā-",
+        "lemma":"vidyā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pratiṣṭhita-",
+        "lemma":"pratiṣṭhā",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"gurum",
+        "lemma":"guru",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhuvana-",
+        "lemma":"bhuvana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"pūrṇam",
+        "lemma":"pṛ",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:20",
     "original":"vāgīśvaraṃ suraguruṃ satataṃ namāmi || 5 ||",
     "analyzed":"vāc īśvaram suragurum satatam namāmi ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"vāgīśvaram",
+        "lemma":"vāgīśvara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"suragurum",
+        "lemma":"suraguru",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"satatam",
+        "lemma":"satatam",
+        "tag":""
+      },
+      {
+        "unsandhied":"namāmi",
+        "lemma":"nam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:21",
     "original":"vāṇīpatiṃ bhujacatuṣṭayabāṇacāpaṃ",
     "analyzed":"vāṇīpatim bhuja catuṣṭaya bāṇa cāpam ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"vāṇīpatim",
+        "lemma":"vāṇīpati",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhuja-",
+        "lemma":"bhuja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"catuṣṭaya-",
+        "lemma":"catuṣṭaya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bāṇa-",
+        "lemma":"bāṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"cāpam",
+        "lemma":"cāpa",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:22",
     "original":"pustaṃ kṛpāṇamaniśaṃ kramaśo dadhānam |",
     "analyzed":"pustam kṛpāṇam aniśam kramaśas dadhānam ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"pustam",
+        "lemma":"pusta",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kṛpāṇam",
+        "lemma":"kṛpāṇa",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"aniśam",
+        "lemma":"aniśam",
+        "tag":""
+      },
+      {
+        "unsandhied":"kramaśas",
+        "lemma":"kramaśas",
+        "tag":""
+      },
+      {
+        "unsandhied":"dadhānam",
+        "lemma":"dhā",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:23",
     "original":"sarveṣṭadaṃ jagati yaccaṇāravindaṃ",
     "analyzed":"sarva iṣṭa dam jagati yat caṇa aravindam ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"iṣṭa-",
+        "lemma":"iṣ",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"dam",
+        "lemma":"da",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"jagati",
+        "lemma":"jagatī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"caṇa-",
+        "lemma":"caṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"aravindam",
+        "lemma":"aravinda",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:24",
     "original":"vāgīśvaraṃ suraguruṃ satataṃ namāmi || 6 ||",
     "analyzed":"vāc īśvaram suragurum satatam namāmi ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"vāgīśvaram",
+        "lemma":"vāgīśvara",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"suragurum",
+        "lemma":"suraguru",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"satatam",
+        "lemma":"satatam",
+        "tag":""
+      },
+      {
+        "unsandhied":"namāmi",
+        "lemma":"nam",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n897u:25",
     "original":"śrīvāgīśvaravarṇanāstotraṃ samāptam |",
     "analyzed":"śrī vāgīśvara varṇanā stotram samāptam ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"śrī-",
+        "lemma":"śrī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vāgīśvara-",
+        "lemma":"vāgīśvara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varṇanā-",
+        "lemma":"varṇanā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptam",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   }
 ]

@@ -3,156 +3,1017 @@
     "segmentnr":"SA_K10_kbavk75u:0",
     "original":"sarvam avidyāmūlaṃ saṃsārataruprakāravaicitryam \/",
     "analyzed":"sarvam avidyā mūlam saṃsāra taru prakāra vaicitryam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"sarvam",
+        "lemma":"sarva",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"avidyā-",
+        "lemma":"avidyā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mūlam",
+        "lemma":"mūla",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"saṃsāra-",
+        "lemma":"saṃsāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"taru-",
+        "lemma":"taru",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"prakāra-",
+        "lemma":"prakāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vaicitryam",
+        "lemma":"vaicitrya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:1",
     "original":"jñātum vaktuṃ hantuṃ kaḥ śakto 'nyatra sarvajñāt \/\/ KAvk_75.1 \/\/",
     "analyzed":"jñātum vaktum hantum kaḥ śaktaḥ anyatra sarvajñāt ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"jñātum",
+        "lemma":"jñā",
+        "tag":"VerbForm=Inf"
+      },
+      {
+        "unsandhied":"vaktum",
+        "lemma":"vac",
+        "tag":"VerbForm=Inf"
+      },
+      {
+        "unsandhied":"hantum",
+        "lemma":"han",
+        "tag":"VerbForm=Inf"
+      },
+      {
+        "unsandhied":"kaḥ",
+        "lemma":"ka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śaktaḥ",
+        "lemma":"śak",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"anyatra",
+        "lemma":"anyatra",
+        "tag":""
+      },
+      {
+        "unsandhied":"sarvajñāt",
+        "lemma":"sarvajña",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kavk-",
+        "lemma":"kavk",
+        "tag":"Compound"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:2",
     "original":"śrāvastyāṃ svastimān pūrvaṃ jino jetavane sthitaḥ \/",
     "analyzed":"śrāvastyām svastimān pūrvam jinaḥ jetavane sthitaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śrāvastyām",
+        "lemma":"śrāvastī",
+        "tag":"Case=Locative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"svastimān",
+        "lemma":"svastimat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pūrvam",
+        "lemma":"pūrvam",
+        "tag":""
+      },
+      {
+        "unsandhied":"jinaḥ",
+        "lemma":"jina",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"jetavane",
+        "lemma":"jetavana",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"sthitaḥ",
+        "lemma":"sthā",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:3",
     "original":"aśeṣadarśī bhagavān bhikṣusaṃgham abhāṣata \/\/ KAvk_75.2 \/\/",
     "analyzed":"aśeṣa darśī bhagavān bhikṣu saṃgham abhāṣata ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"aśeṣa-",
+        "lemma":"aśeṣa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"darśī",
+        "lemma":"darśin",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhagavān",
+        "lemma":"bhagavant",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhikṣu-",
+        "lemma":"bhikṣu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃgham",
+        "lemma":"saṃgha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"abhāṣata",
+        "lemma":"bhāṣ",
+        "tag":"Tense=Imperativef, Mood=Indicative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:4",
     "original":"śṛṇuta śreyase jñānālokanirmalamānasāḥ \/",
     "analyzed":"śṛṇuta śreyase jñāna āloka nirmala mānasāḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śṛṇuta",
+        "lemma":"śru",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Plural"
+      },
+      {
+        "unsandhied":"śreyase",
+        "lemma":"śreyas",
+        "tag":"Case=Dative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"jñāna-",
+        "lemma":"jñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āloka-",
+        "lemma":"āloka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirmala-",
+        "lemma":"nirmala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mānasāḥ",
+        "lemma":"mānasa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:5",
     "original":"pratītyasamutpādaṃ vaḥ kathayāmi yathākramam \/\/ KAvk_75.3 \/\/",
     "analyzed":"pratītyasamutpādam vaḥ kathayāmi yathākramam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"pratītyasamutpādam",
+        "lemma":"pratītyasamutpāda",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vaḥ",
+        "lemma":"tvad",
+        "tag":"Case=Accusative, Number=Plural"
+      },
+      {
+        "unsandhied":"kathayāmi",
+        "lemma":"kathay",
+        "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Singular"
+      },
+      {
+        "unsandhied":"yathākramam",
+        "lemma":"yathākramam",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:6",
     "original":"avidyāvāsanaiveyaṃ duḥkhaskandhasya bhūyasaḥ \/",
     "analyzed":"avidyā vāsanā evā iyam duḥkha skandhasya bhūyasaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"avidyā-",
+        "lemma":"avidyā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vāsanā",
+        "lemma":"vāsanā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"evā",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"iyam",
+        "lemma":"idam",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"duḥkha-",
+        "lemma":"duḥkha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"skandhasya",
+        "lemma":"skandha",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhūyasaḥ",
+        "lemma":"bhūyas",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:7",
     "original":"saṃsāraviṣavṛkṣasya mūlabandhavidhāyinī \/\/ KAvk_75.4 \/\/",
     "analyzed":"             ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"saṃsāra-",
+        "lemma":"saṃsāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"viṣa-",
+        "lemma":"viṣa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vṛkṣasya",
+        "lemma":"vṛkṣa",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mūlabandha-",
+        "lemma":"mūlabandha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vidhāyinī",
+        "lemma":"vidhāyin",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:8",
     "original":"tatpratyayas tu saṃskārāḥ kāyavāṅmānasātmakāḥ \/",
     "analyzed":"tad pratyayaḥ tu saṃskārāḥ kāya vāc mānasa ātmakāḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"tad-",
+        "lemma":"tad",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pratyayaḥ",
+        "lemma":"pratyaya",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tu",
+        "lemma":"tu",
+        "tag":""
+      },
+      {
+        "unsandhied":"saṃskārāḥ",
+        "lemma":"saṃskāra",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"kāya-",
+        "lemma":"kāya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vāc-",
+        "lemma":"vāc",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mānasa-",
+        "lemma":"mānasa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ātmakāḥ",
+        "lemma":"ātmaka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:9",
     "original":"saṃskārotthaṃ ca vijñānaṃ manaḥṣaṣṭhendriyātmakamn \/\/ KAvk_75.5 \/\/",
     "analyzed":"saṃskāra uttham ca vijñānam manaḥ ṣaṣṭha indriya ātmakam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"saṃskāra-",
+        "lemma":"saṃskāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"uttham",
+        "lemma":"uttha",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"vijñānam",
+        "lemma":"vijñāna",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"manaḥ-",
+        "lemma":"manas",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ṣaṣṭha-",
+        "lemma":"ṣaṣṭha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"indriya-",
+        "lemma":"indriya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ātmakam",
+        "lemma":"ātmaka",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:10",
     "original":"tatpratyayaṃ nāmarūpaṃ saṃjñāsaṃdarśanābhidham \/",
     "analyzed":"tad pratyayam nāma rūpam saṃjñā saṃdarśana abhidham ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"tad-",
+        "lemma":"tad",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pratyayam",
+        "lemma":"pratyaya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"nāma-",
+        "lemma":"nāman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpam",
+        "lemma":"rūpa",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"saṃjñā-",
+        "lemma":"saṃjñā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃdarśana-",
+        "lemma":"saṃdarśana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"abhidham",
+        "lemma":"abhidhā",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:11",
     "original":"manaḥṣaṣṭhendriyasthānaṃ ṣaḍāyatanam apy ataḥ \/\/ KAvk_75.6 \/\/",
     "analyzed":"manaḥ ṣaṣṭha indriya sthānam ṣaṣ āyatanam api atas ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"manaḥ-",
+        "lemma":"manas",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ṣaṣṭha-",
+        "lemma":"ṣaṣṭha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"indriya-",
+        "lemma":"indriya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sthānam",
+        "lemma":"sthāna",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"ṣaṣ-",
+        "lemma":"ṣaṣ",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āyatanam",
+        "lemma":"āyatana",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"api",
+        "lemma":"api",
+        "tag":""
+      },
+      {
+        "unsandhied":"atas",
+        "lemma":"atas",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:12",
     "original":"ṣaḍāyatanasaṃśleṣaḥ sparśa ity abhidhīyate \/",
     "analyzed":"ṣaṣ āyatana saṃśleṣaḥ sparśaḥ iti abhidhīyate ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"ṣaṣ-",
+        "lemma":"ṣaṣ",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āyatana-",
+        "lemma":"āyatana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃśleṣaḥ",
+        "lemma":"saṃśleṣa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sparśaḥ",
+        "lemma":"sparśa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"abhidhīyate",
+        "lemma":"abhidhā",
+        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:13",
     "original":"ṣaṭsparśānubhavo yaś ca vedanā sā prakīrtitā \/\/ KAvk_75.7 \/\/",
     "analyzed":"ṣaṣ sparśa anubhavaḥ yaḥ ca vedanā sā prakīrtitā ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"ṣaṣ-",
+        "lemma":"ṣaṣ",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sparśa-",
+        "lemma":"sparśa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"anubhavaḥ",
+        "lemma":"anubhava",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"yaḥ",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"vedanā",
+        "lemma":"vedanā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"sā",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"prakīrtitā",
+        "lemma":"prakīrtay",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:14",
     "original":"tayā viṣayasaṃkleśarāgāt tṛṣṇā prajāyate \/",
     "analyzed":"tayā viṣaya saṃkleśa rāgāt tṛṣṇā prajāyate ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"tayā",
+        "lemma":"tad",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"viṣaya-",
+        "lemma":"viṣaya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃkleśa-",
+        "lemma":"saṃkleśa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rāgāt",
+        "lemma":"rāga",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tṛṣṇā",
+        "lemma":"tṛṣṇā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"prajāyate",
+        "lemma":"prajan",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:15",
     "original":"kāmādiṣu tadudbhūtam upādānaṃ pravartate \/\/ KAvk_75.8 \/\/",
     "analyzed":"kāma ādiṣu tat udbhūtam upādānam pravartate ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"kāma-",
+        "lemma":"kāma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādiṣu",
+        "lemma":"ādi",
+        "tag":"Case=Locative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"udbhūtam",
+        "lemma":"udbhū",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"upādānam",
+        "lemma":"upādāna",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pravartate",
+        "lemma":"pravṛt",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:16",
     "original":"upādānodbhavaḥ kāmarūpārūpyamayo bhavaḥ \/",
     "analyzed":"            ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:17",
     "original":"nānāyoniparāvṛttyā jātir bhavasamudbhavā \/\/ KAvk_75.9 \/\/",
     "analyzed":"nānā yoni parāvṛttyā jātiḥ bhava samudbhavā ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"nānā",
+        "lemma":"nānā",
+        "tag":""
+      },
+      {
+        "unsandhied":"yoni-",
+        "lemma":"yoni",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"parāvṛttyā",
+        "lemma":"parāvṛtti",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"jātiḥ",
+        "lemma":"jāti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhava-",
+        "lemma":"bhava",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samudbhavā",
+        "lemma":"samudbhava",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:18",
     "original":"jarāmaraṇaśokādisaṃtatir jātisaṃśrayā \/",
     "analyzed":"jarā maraṇa śoka ādi saṃtatiḥ jāti saṃśrayā ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"jarā-",
+        "lemma":"jarā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"maraṇa-",
+        "lemma":"maraṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śoka-",
+        "lemma":"śoka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃtatiḥ",
+        "lemma":"saṃtati",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"jāti-",
+        "lemma":"jāti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃśrayā",
+        "lemma":"saṃśraya",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:19",
     "original":"avidyādinirodhena teṣāṃ vyuparamakramaḥ \/\/ KAvk_75.10 \/\/",
     "analyzed":"            ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"avidyā-",
+        "lemma":"avidyā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirodhena",
+        "lemma":"nirodha",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"teṣām",
+        "lemma":"tad",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vyuparama-",
+        "lemma":"vyuparama",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kramaḥ",
+        "lemma":"krama",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:20",
     "original":"pratītyotpādo 'yaṃ bahugatir avidyākṛtapadaḥ",
     "analyzed":"pratītya utpādaḥ ayam bahu gatiḥ avidyā kṛta padaḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"pratītya",
+        "lemma":"pratī",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"utpādaḥ",
+        "lemma":"utpāda",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ayam",
+        "lemma":"idam",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bahu-",
+        "lemma":"bahu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gatiḥ",
+        "lemma":"gati",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"avidyā-",
+        "lemma":"avidyā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kṛta-",
+        "lemma":"kṛ",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"padaḥ",
+        "lemma":"pada",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:21",
     "original":"sa cintyo yuṣmābhir vijanavanaviśrāmaśamibhiḥ \/",
     "analyzed":"sa cintyaḥ yuṣmābhiḥ vijana vana viśrāma śamibhiḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"sa",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"cintyaḥ",
+        "lemma":"cintay",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"yuṣmābhiḥ",
+        "lemma":"tvad",
+        "tag":"Case=Instrumental, Number=Plural"
+      },
+      {
+        "unsandhied":"vijana-",
+        "lemma":"vijana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vana-",
+        "lemma":"vana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"viśrāma-",
+        "lemma":"viśrāma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"śamibhiḥ",
+        "lemma":"śamin",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:22",
     "original":"parijñātaḥ samyag vrajati kila kālena tanutāṃ",
     "analyzed":"parijñātaḥ samyak vrajati kila kālena tanu tām ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"parijñātaḥ",
+        "lemma":"parijñā",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"samyak",
+        "lemma":"samyak",
+        "tag":""
+      },
+      {
+        "unsandhied":"vrajati",
+        "lemma":"vraj",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"kila",
+        "lemma":"kila",
+        "tag":""
+      },
+      {
+        "unsandhied":"kālena",
+        "lemma":"kāla",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tanu-",
+        "lemma":"tanu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tām",
+        "lemma":"tā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:23",
     "original":"tanutvaṃ saṃprāptaḥ sukhataranivāryaś ca bhavati \/\/ KAvk_75.11 \/\/",
     "analyzed":"tanu tvam saṃprāptaḥ sukhatara nivāryaḥ ca bhavati ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"tanu-",
+        "lemma":"tanu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tvam",
+        "lemma":"tva",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"saṃprāptaḥ",
+        "lemma":"samprāp",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"sukhatara-",
+        "lemma":"sukhatara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nivāryaḥ",
+        "lemma":"nivāray",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"bhavati",
+        "lemma":"bhū",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:24",
     "original":"iti kṣemendraviracitāyāṃ bodhisattvāvadānakalpalatāyāṃ",
     "analyzed":"iti kṣemendra viracitāyām bodhisattva avadāna kalpalatāyām ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"kṣemendra-",
+        "lemma":"kṣemendra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"viracitāyām",
+        "lemma":"viracay",
+        "tag":"Case=Locative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"bodhisattvāvadānakalpalatāyām",
+        "lemma":"bodhisattvāvadānakalpalatā",
+        "tag":"Case=Locative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_kbavk75u:25",
     "original":"pratītyasamutpādāvadānaṃ pañcasaptatitamaḥ pallavaḥ \/",
     "analyzed":"pratītyasamutpāda avadānam pañcasaptatitamaḥ pallavaḥ ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"pratītyasamutpāda-",
+        "lemma":"pratītyasamutpāda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"avadānam",
+        "lemma":"avadāna",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pañcasaptatitamaḥ",
+        "lemma":"pañcasaptatitama",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pallavaḥ",
+        "lemma":"pallava",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   }
 ]

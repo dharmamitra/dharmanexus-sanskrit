@@ -1,268 +1,1096 @@
 [
   {
-    "segmentnr": "SA_T01_jambhalastou:0",
-    "original": "oṁ namo jambhālāya|",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:0",
+    "original":"oṁ namo jambhālāya|",
+    "analyzed":"om namaḥ jambhālāya ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"om",
+        "lemma":"oṃ",
+        "tag":""
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"jambhālāya",
+        "lemma":"jambhāla",
+        "tag":"Case=Dative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:1",
-    "original": "śatamakhadahanacaturmukha-",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:1",
+    "original":"śatamakhadahanacaturmukha-",
+    "analyzed":"śatamakha dahana caturmukha ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śatamakha-",
+        "lemma":"śatamakha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dahana-",
+        "lemma":"dahana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"caturmukha",
+        "lemma":"caturmukha",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:2",
-    "original": "hariharadivasakaranamitacaraṇayuga|",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:2",
+    "original":"hariharadivasakaranamitacaraṇayuga|",
+    "analyzed":"hari hara divasakara namita caraṇa yuga ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"hari-",
+        "lemma":"hari",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"hara-",
+        "lemma":"hara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"divasakara-",
+        "lemma":"divasakara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"namita-",
+        "lemma":"namay",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"caraṇa-",
+        "lemma":"caraṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yuga",
+        "lemma":"yuga",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:3",
-    "original": "bhagavan mayi viniveśaya",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:3",
+    "original":"bhagavan mayi viniveśaya",
+    "analyzed":"bhagavat mayi viniveśaya ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"bhagavat",
+        "lemma":"bhagavat",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"mayi",
+        "lemma":"mad",
+        "tag":"Case=Locative, Number=Singular"
+      },
+      {
+        "unsandhied":"viniveśaya",
+        "lemma":"viniveśay",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:4",
-    "original": "duḥkhini kamalāyatāṁ dṛṣṭim||1||",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:4",
+    "original":"duḥkhini kamalāyatāṁ dṛṣṭim||1||",
+    "analyzed":"duḥkhini kamala āyatāṁ dṛṣṭim ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"duḥkhini",
+        "lemma":"duḥkhin",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kamala-",
+        "lemma":"kamala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āyatāṁ",
+        "lemma":"āyam",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural, VerbForm=Part"
+      },
+      {
+        "unsandhied":"dṛṣṭim",
+        "lemma":"dṛṣṭi",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:5",
-    "original": "udakacalukena tuṣyasi",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:5",
+    "original":"udakacalukena tuṣyasi",
+    "analyzed":"udaka calukena tuṣyasi ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"udaka-",
+        "lemma":"udaka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"calukena",
+        "lemma":"caluka",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tuṣyasi",
+        "lemma":"tuṣ",
+        "tag":"Tense=Present, Mood=Indicative, Person=2, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:6",
-    "original": "vada bhavataḥ ko'paro dayālur ataḥ|",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:6",
+    "original":"vada bhavataḥ ko'paro dayālur ataḥ|",
+    "analyzed":"vada bhavataḥ koparaḥ dayāluḥ atas ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"vada",
+        "lemma":"vad",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"bhavataḥ",
+        "lemma":"bhavat",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"koparaḥ",
+        "lemma":"kopara",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dayāluḥ",
+        "lemma":"dayālu",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"atas",
+        "lemma":"atas",
+        "tag":""
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:7",
-    "original": "agaṇitapūjāvidhayas",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:7",
+    "original":"agaṇitapūjāvidhayas",
+    "analyzed":"agaṇita pūjā vidhayaḥ ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"agaṇita-",
+        "lemma":"agaṇita",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pūjā-",
+        "lemma":"pūjā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vidhayaḥ",
+        "lemma":"vidhi",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:8",
-    "original": "tvatsadṛśā durlabhāḥ prāyaḥ||2||",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:8",
+    "original":"tvatsadṛśā durlabhāḥ prāyaḥ||2||",
+    "analyzed":"tvad sadṛśāḥ durlabhāḥ prāyas ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"tvad-",
+        "lemma":"tvad",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sadṛśāḥ",
+        "lemma":"sadṛśa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"durlabhāḥ",
+        "lemma":"durlabha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"prāyas",
+        "lemma":"prāyas",
+        "tag":""
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:9",
-    "original": "sukhayasi durgatipatitān",
-    "analyzed": "",
-    "folio": 1,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:9",
+    "original":"sukhayasi durgatipatitān",
+    "analyzed":"sukhayasi durgati patitān ",
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"sukhayasi",
+        "lemma":"sukhay",
+        "tag":"Tense=Present, Mood=Indicative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"durgati-",
+        "lemma":"durgati",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"patitān",
+        "lemma":"pat",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural, VerbForm=Part"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:10",
-    "original": "anviṣyānviṣya yatnataḥ kṛpayā|",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:10",
+    "original":"anviṣyānviṣya yatnataḥ kṛpayā|",
+    "analyzed":"anviṣya anviṣya yatnataḥ kṛpayā ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"anviṣya",
+        "lemma":"anviṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"anviṣya",
+        "lemma":"anviṣ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"yatnataḥ",
+        "lemma":"yatna",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kṛpayā",
+        "lemma":"kṛpā",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:11",
-    "original": "purataḥ katham api paśyasi|",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:11",
+    "original":"purataḥ katham api paśyasi|",
+    "analyzed":"puratas katham api paśyasi ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"puratas",
+        "lemma":"puratas",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"katham",
+        "lemma":"katham",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"api",
+        "lemma":"api",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"paśyasi",
+        "lemma":"paś",
+        "tag":"Tense=Present, Mood=Indicative, Person=2, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:12",
-    "original": "kim iti na mām aśrumalinamukham||3||",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:12",
+    "original":"kim iti na mām aśrumalinamukham||3||",
+    "analyzed":"kim iti na mām aśru malina mukham ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"kim",
+        "lemma":"ka",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"mām",
+        "lemma":"mad",
+        "tag":"Case=Accusative, Number=Singular"
+      },
+      {
+        "unsandhied":"aśru-",
+        "lemma":"aśru",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"malina-",
+        "lemma":"malina",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mukham",
+        "lemma":"mukha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:13",
-    "original": "pravitatakaruṇādhanuṣi",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:13",
+    "original":"pravitatakaruṇādhanuṣi",
+    "analyzed":"pravitata karuṇā dhanuṣi ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"pravitata-",
+        "lemma":"pravitan",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"karuṇā-",
+        "lemma":"karuṇā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dhanuṣi",
+        "lemma":"dhanus",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:14",
-    "original": "tvayy api tiṣṭhaty aho kathaṁ janatā||",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:14",
+    "original":"tvayy api tiṣṭhaty aho kathaṁ janatā||",
+    "analyzed":"tvayi api tiṣṭhati aho kathaṁ janatā ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"tvayi",
+        "lemma":"tvad",
+        "tag":"Case=Locative, Number=Singular"
+      },
+      {
+        "unsandhied":"api",
+        "lemma":"api",
+        "tag":""
+      },
+      {
+        "unsandhied":"tiṣṭhati",
+        "lemma":"sthā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"aho",
+        "lemma":"aho",
+        "tag":""
+      },
+      {
+        "unsandhied":"kathaṁ",
+        "lemma":"katham",
+        "tag":""
+      },
+      {
+        "unsandhied":"janatā",
+        "lemma":"janatā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:15",
-    "original": "durvāraduḥkhataskara-",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:15",
+    "original":"durvāraduḥkhataskara-",
+    "analyzed":"durvāra duḥkha taskara ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"durvāra-",
+        "lemma":"durvāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"duḥkha-",
+        "lemma":"duḥkha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"taskara",
+        "lemma":"taskara",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:16",
-    "original": "sainyena vilupyate bhagavan||4||",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:16",
+    "original":"sainyena vilupyate bhagavan||4||",
+    "analyzed":"sainyena vilupyate bhagavan ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"sainyena",
+        "lemma":"sainya",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vilupyate",
+        "lemma":"vilup",
+        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"bhagavan",
+        "lemma":"bhagavant",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:17",
-    "original": "vividhamaṇiratnavarṣaṁ",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:17",
+    "original":"vividhamaṇiratnavarṣaṁ",
+    "analyzed":"vividha maṇi ratna ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"vividha-",
+        "lemma":"vividha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"maṇi-",
+        "lemma":"maṇi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ratna-",
+        "lemma":"ratna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varṣaṁ",
+        "lemma":"varṣa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:18",
-    "original": "varṣasi kila nātha sattvahitahetoḥ|",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:18",
+    "original":"varṣasi kila nātha sattvahitahetoḥ|",
+    "analyzed":"varṣasi kila nātha sattva hita hetoḥ ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"varṣasi",
+        "lemma":"vṛṣ",
+        "tag":"Tense=Present, Mood=Indicative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"kila",
+        "lemma":"kila",
+        "tag":""
+      },
+      {
+        "unsandhied":"nātha",
+        "lemma":"nātha",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sattva-",
+        "lemma":"sattva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"hita-",
+        "lemma":"hita",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"hetoḥ",
+        "lemma":"hetu",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:19",
-    "original": "mayi tava guṇaikaniṣṭhe",
-    "analyzed": "",
-    "folio": 2,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:19",
+    "original":"mayi tava guṇaikaniṣṭhe",
+    "analyzed":"mayi tava guṇa ekaniṣṭhe ",
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"mayi",
+        "lemma":"mad",
+        "tag":"Case=Locative, Number=Singular"
+      },
+      {
+        "unsandhied":"tava",
+        "lemma":"tvad",
+        "tag":"Case=Genitive, Number=Singular"
+      },
+      {
+        "unsandhied":"guṇa-",
+        "lemma":"guṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ekaniṣṭhe",
+        "lemma":"ekaniṣṭha",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:20",
-    "original": "prasaranti na bindavo'pi kutaḥ||5||",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:20",
+    "original":"prasaranti na bindavo'pi kutaḥ||5||",
+    "analyzed":"prasaranti na bindavaḥ api kutas ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"prasaranti",
+        "lemma":"prasṛ",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"bindavaḥ",
+        "lemma":"bindu",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"api",
+        "lemma":"api",
+        "tag":""
+      },
+      {
+        "unsandhied":"kutas",
+        "lemma":"kutas",
+        "tag":""
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:21",
-    "original": "tvayi sati dahanti sutarāṁ",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:21",
+    "original":"tvayi sati dahanti sutarāṁ",
+    "analyzed":"tvayi sati dahanti sutarāṁ ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"tvayi",
+        "lemma":"tvad",
+        "tag":"Case=Locative, Number=Singular"
+      },
+      {
+        "unsandhied":"sati",
+        "lemma":"as",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      },
+      {
+        "unsandhied":"dahanti",
+        "lemma":"dah",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"sutarāṁ",
+        "lemma":"sutarāṁ",
+        "tag":""
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:22",
-    "original": "jvālā iva pāvakasya māṁ vipadaḥ|",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:22",
+    "original":"jvālā iva pāvakasya māṁ vipadaḥ|",
+    "analyzed":"jvālā iva pāvakasya māṁ vipadaḥ ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"jvālā",
+        "lemma":"jvālā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"iva",
+        "lemma":"iva",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"pāvakasya",
+        "lemma":"pāvaka",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"māṁ",
+        "lemma":"māṁ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vipadaḥ",
+        "lemma":"vipad",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Plural"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:23",
-    "original": "tribhuvanagṛhītabhārā",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:23",
+    "original":"tribhuvanagṛhītabhārā",
+    "analyzed":"tribhuvana gṛhīta bhārā ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"tribhuvana-",
+        "lemma":"tribhuvana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gṛhīta-",
+        "lemma":"grah",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"bhārā",
+        "lemma":"bhāra",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:24",
-    "original": "karuṇādhenuḥ kuto yātā||6||",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:24",
+    "original":"karuṇādhenuḥ kuto yātā||6||",
+    "analyzed":"karuṇā dhenuḥ kutas yātā ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"karuṇā-",
+        "lemma":"karuṇā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dhenuḥ",
+        "lemma":"dhenu",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"kutas",
+        "lemma":"kutas",
+        "tag":""
+      },
+      {
+        "unsandhied":"yātā",
+        "lemma":"yā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:25",
-    "original": "bhadraghaṭakalpapādapa-",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:25",
+    "original":"bhadraghaṭakalpapādapa-",
+    "analyzed":"bhadra ghaṭa kalpapādapa ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"bhadra-",
+        "lemma":"bhadra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ghaṭa-",
+        "lemma":"ghaṭa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kalpapādapa",
+        "lemma":"kalpapādapa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:26",
-    "original": "cintāmaṇayo 'py acetanāvantaḥ|",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:26",
+    "original":"cintāmaṇayo 'py acetanāvantaḥ|",
+    "analyzed":"cintāmaṇayaḥ pi acetanāvantaḥ ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"cintāmaṇayaḥ",
+        "lemma":"cintāmaṇi",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"pi",
+        "lemma":"pi",
+        "tag":""
+      },
+      {
+        "unsandhied":"acetanāvantaḥ",
+        "lemma":"acetanāvat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:27",
-    "original": "te 'pi sukhayanti sattvān",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:27",
+    "original":"te 'pi sukhayanti sattvān",
+    "analyzed":"te pi sukhayanti sattvān ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"te",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"pi",
+        "lemma":"pi",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"sukhayanti",
+        "lemma":"sukhay",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"sattvān",
+        "lemma":"sattva",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:28",
-    "original": "kim u bhagavān svīkṛtaḥ kṛpayā||7||",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:28",
+    "original":"kim u bhagavān svīkṛtaḥ kṛpayā||7||",
+    "analyzed":"kim u bhagavān svīkṛtaḥ kṛpayā ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"kim",
+        "lemma":"kim",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"u",
+        "lemma":"u",
+        "tag":"_"
+      },
+      {
+        "unsandhied":"bhagavān",
+        "lemma":"bhagavant",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"svīkṛtaḥ",
+        "lemma":"svīkṛ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, Tense=Past, VerbForm=Part"
+      },
+      {
+        "unsandhied":"kṛpayā",
+        "lemma":"kṛpā",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:29",
-    "original": "jambhalajalendra iti yaḥ",
-    "analyzed": "",
-    "folio": 3,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:29",
+    "original":"jambhalajalendra iti yaḥ",
+    "analyzed":"jambhalajalendraḥ iti yaḥ ",
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"jambhalajalendraḥ",
+        "lemma":"jambhalajalendra",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"yaḥ",
+        "lemma":"ya",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:30",
-    "original": "kṣaṇam api gṛhṇāti nāmadheyaṁ te|",
-    "analyzed": "",
-    "folio": 4,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:30",
+    "original":"kṣaṇam api gṛhṇāti nāmadheyaṁ te|",
+    "analyzed":"kṣaṇam api gṛhṇāti nāmadheyaṁ te ",
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"kṣaṇam",
+        "lemma":"kṣaṇa",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"api",
+        "lemma":"api",
+        "tag":""
+      },
+      {
+        "unsandhied":"gṛhṇāti",
+        "lemma":"grah",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"nāmadheyaṁ",
+        "lemma":"nāmadheya",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Genitive, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:31",
-    "original": "kamalākara iva tasmin",
-    "analyzed": "",
-    "folio": 4,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:31",
+    "original":"kamalākara iva tasmin",
+    "analyzed":"kamala ākare iva tasmin ",
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"kamala-",
+        "lemma":"kamala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākare",
+        "lemma":"ākara",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"iva",
+        "lemma":"iva",
+        "tag":""
+      },
+      {
+        "unsandhied":"tasmin",
+        "lemma":"tad",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:32",
-    "original": "nivasati lakṣmīḥ sphuratkamalā||8||",
-    "analyzed": "",
-    "folio": 4,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:32",
+    "original":"nivasati lakṣmīḥ sphuratkamalā||8||",
+    "analyzed":"nivasati lakṣmīḥ sphurat kamalā ",
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"nivasati",
+        "lemma":"nivas",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"lakṣmīḥ",
+        "lemma":"lakṣmī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"sphurat-",
+        "lemma":"sphur",
+        "tag":"Compound, Tense=Present, VerbForm=Part"
+      },
+      {
+        "unsandhied":"kamalā",
+        "lemma":"kamala",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:33",
-    "original": "iti tava hatabhava purataḥ",
-    "analyzed": "",
-    "folio": 4,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:33",
+    "original":"iti tava hatabhava purataḥ",
+    "analyzed":"iti tava hata bhava puratas ",
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"tava",
+        "lemma":"tvad",
+        "tag":"Case=Genitive, Number=Singular"
+      },
+      {
+        "unsandhied":"hata-",
+        "lemma":"han",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"bhava",
+        "lemma":"bhava",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"puratas",
+        "lemma":"puratas",
+        "tag":""
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:34",
-    "original": "kṛtvākrandaṁ visarpi yat puṇyam|",
-    "analyzed": "",
-    "folio": 4,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:34",
+    "original":"kṛtvākrandaṁ visarpi yat puṇyam|",
+    "analyzed":"kṛtvā ākrandaṁ visarpi yat puṇyam ",
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"kṛtvā",
+        "lemma":"kṛ",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"ākrandaṁ",
+        "lemma":"ākranda",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"visarpi",
+        "lemma":"visarpin",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"puṇyam",
+        "lemma":"puṇya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:35",
-    "original": "tena samīhitaphaladas",
-    "analyzed": "",
-    "folio": 4,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:35",
+    "original":"tena samīhitaphaladas",
+    "analyzed":"tena samīhita phala daḥ ",
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"tena",
+        "lemma":"tena",
+        "tag":""
+      },
+      {
+        "unsandhied":"samīhita-",
+        "lemma":"samīh",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"phala-",
+        "lemma":"phala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"daḥ",
+        "lemma":"da",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:36",
-    "original": "tvam iva jano jāyatāṁ bhagavan||9||",
-    "analyzed": "",
-    "folio": 4,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:36",
+    "original":"tvam iva jano jāyatāṁ bhagavan||9||",
+    "analyzed":"tvam iva janaḥ jāyatāṁ bhagavan ",
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"tvam",
+        "lemma":"tvad",
+        "tag":"Case=Nominative, Number=Singular"
+      },
+      {
+        "unsandhied":"iva",
+        "lemma":"iva",
+        "tag":""
+      },
+      {
+        "unsandhied":"janaḥ",
+        "lemma":"jana",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"jāyatāṁ",
+        "lemma":"jan",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"bhagavan",
+        "lemma":"bhagavat",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
-    "segmentnr": "SA_T01_jambhalastou:37",
-    "original": "iti candragomiviracitaṁ jambhalastotraṁ samāptam||",
-    "analyzed": "",
-    "folio": 4,
-    "full_analysis": []
+    "segmentnr":"SA_T01_jambhalastou:37",
+    "original":"iti candragomiviracitaṁ jambhalastotraṁ samāptam||",
+    "analyzed":"iti candragomi viracitaṁ jambhala stotraṁ samāptam ",
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"candragomi-",
+        "lemma":"candragomin",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"viracitaṁ",
+        "lemma":"viracay",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"jambhala-",
+        "lemma":"jambhala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptam",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   }
 ]

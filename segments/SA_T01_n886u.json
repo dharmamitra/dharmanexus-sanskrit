@@ -3,96 +3,566 @@
     "segmentnr":"SA_T01_n886u:0",
     "original":"ṣaḍabhijñastotram",
     "analyzed":"ṣaḍabhijña stotram ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"ṣaḍabhijña-",
+        "lemma":"ṣaḍabhijña",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:1",
     "original":"rūpalakṣaṇasaṃpūrṇo hīnoccasamasevanaḥ |",
     "analyzed":"rūpa lakṣaṇa saṃpūrṇaḥ hīna ucca sama sevanaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"lakṣaṇa-",
+        "lemma":"lakṣaṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃpūrṇaḥ",
+        "lemma":"sampṛ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"hīna-",
+        "lemma":"hā",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"ucca-",
+        "lemma":"ucca",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sama-",
+        "lemma":"sama",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sevanaḥ",
+        "lemma":"sevana",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:2",
     "original":"sandarśaya sadā dānaṃ namaste dānapāraga || 1 ||",
     "analyzed":"sandarśaya sadā dānam namaḥ te dānapāraga ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"sandarśaya",
+        "lemma":"saṃdarśay",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"sadā",
+        "lemma":"sadā",
+        "tag":""
+      },
+      {
+        "unsandhied":"dānam",
+        "lemma":"dāna",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"dānapāraga",
+        "lemma":"dānapāraga",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:3",
     "original":"śabdalakṣaṇasaṃpūrṇaḥ suśobho guṇasāgaraḥ |",
     "analyzed":"śabda lakṣaṇa saṃpūrṇaḥ su śobhaḥ guṇa sāgaraḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śabda-",
+        "lemma":"śabda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"lakṣaṇa-",
+        "lemma":"lakṣaṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃpūrṇaḥ",
+        "lemma":"sampṛ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"su",
+        "lemma":"su",
+        "tag":""
+      },
+      {
+        "unsandhied":"śobhaḥ",
+        "lemma":"śobhā",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"guṇa-",
+        "lemma":"guṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sāgaraḥ",
+        "lemma":"sāgara",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:4",
     "original":"saṃśrāvaya sadā śīlaṃ namaste śīlapāraga || 2 ||",
     "analyzed":"saṃśrāvaya sadā śīlam namaḥ te śīla pāraga ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"saṃśrāvaya",
+        "lemma":"saṃśrāvay",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"sadā",
+        "lemma":"sadā",
+        "tag":""
+      },
+      {
+        "unsandhied":"śīlam",
+        "lemma":"śīla",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"śīla-",
+        "lemma":"śīla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pāraga",
+        "lemma":"pāraga",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:5",
     "original":"gandhalakṣaṇasaṃpūrṇo divyaprāṇo vināyakaḥ |",
     "analyzed":"          ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_T01_n886u:6",
     "original":"saṃprāpaya jina kṣāntiṃ namaste kṣāntipāraga || 3 ||",
     "analyzed":"saṃprāpaya jina kṣāntim namaḥ te kṣānti pāraga ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"saṃprāpaya",
+        "lemma":"samprāpay",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"jina",
+        "lemma":"jina",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kṣāntim",
+        "lemma":"kṣānti",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"kṣāntipāraga",
+        "lemma":"kṣāntipāraga",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:7",
     "original":"rasalakṣaṇasaṃpūrṇaḥ sujihvo dharmadeśakaḥ |",
     "analyzed":"rasa lakṣaṇa saṃpūrṇaḥ su jihvaḥ dharma deśakaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"rasa-",
+        "lemma":"rasa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"lakṣaṇa-",
+        "lemma":"lakṣaṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃpūrṇaḥ",
+        "lemma":"sampṛ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"sujihvaḥ",
+        "lemma":"sujihva",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dharma-",
+        "lemma":"dharma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"deśakaḥ",
+        "lemma":"deśaka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:8",
     "original":"bhāṣasva saugataṃ dharmaṃ namaste vīryapāragaḥ || 4 ||",
     "analyzed":"bhāṣasva saugatam dharmam namaḥ te vīrya pāragaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"bhāṣasva",
+        "lemma":"bhāṣ",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"saugatam",
+        "lemma":"saugata",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dharmam",
+        "lemma":"dharma",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vīrya-",
+        "lemma":"vīrya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pāragaḥ",
+        "lemma":"pāraga",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:9",
     "original":"sparśalakṣaṇasaṃpūrṇaḥ aniruddho nirīhakaḥ |",
     "analyzed":"sparśa lakṣaṇa saṃpūrṇaḥ aniruddhaḥ nirīhakaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_T01_n886u:10",
     "original":"saṃsparśaya jina dhyānaṃ namaste dhyānapāraga || 5 ||",
     "analyzed":"saṃsparśaya jina dhyānam namaḥ te dhyānapāraga ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"saṃsparśaya",
+        "lemma":"saṃsparśay",
+        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"jina",
+        "lemma":"jina",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dhyānam",
+        "lemma":"dhyāna",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"dhyānapāraga",
+        "lemma":"dhyānapāraga",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:11",
     "original":"dharmalakṣaṇasaṃpūrṇaḥ sattveṣu samacintakaḥ |",
     "analyzed":"dharma lakṣaṇa saṃpūrṇaḥ sattveṣu sama cintakaḥ ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"dharma-",
+        "lemma":"dharma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"lakṣaṇa-",
+        "lemma":"lakṣaṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃpūrṇaḥ",
+        "lemma":"sampṛ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"sattveṣu",
+        "lemma":"sattva",
+        "tag":"Case=Locative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"sama-",
+        "lemma":"sama",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"cintakaḥ",
+        "lemma":"cintaka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:12",
     "original":"prajñopāyamahāprāpta namaste buddhipāraga || 6 ||",
     "analyzed":"prajñā upāya mahā prāpta namaḥ te buddhi pāraga ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"prajñā-",
+        "lemma":"prajñā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"upāya-",
+        "lemma":"upāya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mahā-",
+        "lemma":"mahat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"prāpta",
+        "lemma":"prāp",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Genitive, Number=Singular"
+      },
+      {
+        "unsandhied":"buddhi-",
+        "lemma":"buddhi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pāraga",
+        "lemma":"pāraga",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:13",
     "original":"ṣaḍabhijñastavaṃ yo'yaṃ trisandhyaṃ bhaktimān paṭhet |",
     "analyzed":"ṣaḍabhijña stavam yaḥ ayam trisandhyam bhaktimān paṭhet ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"ṣaḍabhijña-",
+        "lemma":"ṣaḍabhijña",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stavam",
+        "lemma":"stava",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"yaḥ",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ayam",
+        "lemma":"idam",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"trisandhyam",
+        "lemma":"trisaṃdhya",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"bhaktimān",
+        "lemma":"bhaktimat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"paṭhet",
+        "lemma":"paṭh",
+        "tag":"Tense=Present, Mood=Optative, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:14",
     "original":"saṃsārabandhanaṃ hitvā sa yāti paramāṃ gatim || 7 ||",
     "analyzed":"saṃsāra bandhanam hitvā sa yāti paramām gatim ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"saṃsāra-",
+        "lemma":"saṃsāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bandhanam",
+        "lemma":"bandhana",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"hitvā",
+        "lemma":"hā",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"sa",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"yāti",
+        "lemma":"yā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"paramām",
+        "lemma":"parama",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"gatim",
+        "lemma":"gati",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n886u:15",
     "original":"śrīmahābuddhabhaṭṭārakasya ṣaḍabhijñastotraṃ samāptam |",
     "analyzed":"śrī mahābuddha bhaṭṭārakasya ṣaḍabhijña stotram samāptam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"śrī-",
+        "lemma":"śrī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mahābuddha-",
+        "lemma":"mahābuddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bhaṭṭārakasya",
+        "lemma":"bhaṭṭāraka",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"ṣaḍabhijña-",
+        "lemma":"ṣaḍabhijña",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptam",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   }
 ]

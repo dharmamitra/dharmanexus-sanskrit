@@ -3,120 +3,1105 @@
     "segmentnr":"SA_K10_sf90_sc:0",
     "original":"Śroṇasūtra (2nd)",
     "analyzed":"śroṇasūtra ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śroṇasūtra-",
+        "lemma":"śroṇasūtra",
+        "tag":"Compound"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:1",
     "original":"rājagṛhe nidānam \/",
     "analyzed":"rājagṛhe nidānam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"rājagṛhe",
+        "lemma":"rājagṛha",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"nidānam",
+        "lemma":"nidāna",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:2",
     "original":"atha śroṇo gṛhapatiputro divādinam eva jaṁghāvihāreṇānucaṁkramyamāṇo ’nuvicaran pādābhyām",
     "analyzed":"atha śroṇaḥ gṛhapati putraḥ divā dinam eva pādābhyām ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"atha",
+        "lemma":"atha",
+        "tag":""
+      },
+      {
+        "unsandhied":"śroṇaḥ",
+        "lemma":"śroṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"gṛhapati-",
+        "lemma":"gṛhapati",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"putraḥ",
+        "lemma":"putra",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"divā",
+        "lemma":"divā",
+        "tag":""
+      },
+      {
+        "unsandhied":"dinam",
+        "lemma":"dina",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"jaṁghā-",
+        "lemma":"jaṅghā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vihāreṇa",
+        "lemma":"vihāra",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"anucaṁkramyamāṇaḥ",
+        "lemma":"anucaṃkram",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part, Voice=Passive"
+      },
+      {
+        "unsandhied":"anuvicaran",
+        "lemma":"anuvicar",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      },
+      {
+        "unsandhied":"pādābhyām",
+        "lemma":"pāda",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Dual"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:3",
     "original":"eva gṛdhrakūṭaparvatam abhiruhya yenāyuṣmāṁc chāriputras tenopasaṁkrānta \/ upasaṁkramyāyuṣmanaḥ",
     "analyzed":"eva gṛdhrakūṭa parvatam abhiruhya yena āyuṣmāt śāriputraḥ tena upasakrāntaḥ upasakramya āyuṣmanaḥ ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"gṛdhrakūṭa-",
+        "lemma":"gṛdhrakūṭa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"parvatam",
+        "lemma":"parvata",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"abhiruhya",
+        "lemma":"abhiruh",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"yena",
+        "lemma":"yena",
+        "tag":""
+      },
+      {
+        "unsandhied":"āyuṣmāṁt",
+        "lemma":"āyuṣmat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śāriputraḥ",
+        "lemma":"śāriputra",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tena",
+        "lemma":"tena",
+        "tag":""
+      },
+      {
+        "unsandhied":"upasaṃkrānta",
+        "lemma":"upasaṃkram",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"upasaṃkramya",
+        "lemma":"upasaṃkram",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"āyuṣmanaḥ",
+        "lemma":"āyuṣmat",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:4",
     "original":"śāriputrasya pādau śirasā vanditvaikānte niṣaṇṇaḥ \/ ekānte niṣaṇṇaṁ śroṇaṁ gṛhapatiputram",
     "analyzed":"śāriputrasya pādau śirasā vanditvā ekānte niṣaṇṇaḥ ekānte niṣaṇṇam śroṇam gṛhapati putram ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śāriputrasya",
+        "lemma":"śāriputra",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pādau",
+        "lemma":"pāda",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Dual"
+      },
+      {
+        "unsandhied":"śirasā",
+        "lemma":"śiras",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vanditvā",
+        "lemma":"vand",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"ekānte",
+        "lemma":"ekānta",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"niṣaṇṇaḥ",
+        "lemma":"niṣad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"ekānte",
+        "lemma":"ekānta",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"niṣaṇṇam",
+        "lemma":"niṣad",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"śroṇam",
+        "lemma":"śroṇa",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"gṛhapati-",
+        "lemma":"gṛhapati",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"putram",
+        "lemma":"putra",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:5",
     "original":"āyusmāṁc chāriputra idam avocat \/",
     "analyzed":"āyusmāt śāriputraḥ idam avocat ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"āyusmān",
+        "lemma":"āyusmat",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śāriputraḥ",
+        "lemma":"śāriputra",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"idam",
+        "lemma":"idam",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"avocat",
+        "lemma":"vac",
+        "tag":"Tense=Past, Mood=Indicative, Formation=them, Person=3, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:6",
     "original":"ye ke cic chroṇa śramaṇā vā brāhmaṇā vā rūpaṁ yathābhūtaṁ na prajānanti rūpasamudayaṁ",
     "analyzed":"ye ke cit śroṇa śramaṇāḥ vā brāhmaṇāḥ vā rūpam yathābhūtam na prajānanti rūpa samudaya ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"ye",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"ke",
+        "lemma":"ka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"cit",
+        "lemma":"cit",
+        "tag":""
+      },
+      {
+        "unsandhied":"śroṇa",
+        "lemma":"śroṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"brāhmaṇāḥ",
+        "lemma":"brāhmaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"rūpam",
+        "lemma":"rūpa",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"yathābhūtaṁ",
+        "lemma":"yathābhūta",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"prajānanti",
+        "lemma":"prajñā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samudayaṁ",
+        "lemma":"samudaya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:7",
     "original":"rūpanirodhaṁ rūpanirodhagāminīṁ pratipadaṁ yathābhūtaṁ na prajānanty abhavyās te",
     "analyzed":"rūpa nirodham rūpa nirodha gāminīm pratipadam yathābhūtam na prajānanti abhavyāḥ te ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirodhaṁ",
+        "lemma":"nirodha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirodha-",
+        "lemma":"nirodha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gāminīṁ",
+        "lemma":"gāmin",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"pratipadaṁ",
+        "lemma":"pratipad",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"yathābhūtaṁ",
+        "lemma":"yathābhūtam",
+        "tag":""
+      },
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"prajānanti",
+        "lemma":"prajñā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"abhavyāḥ",
+        "lemma":"abhavya",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:8",
     "original":"śroṇa śramaṇā vā brāhmaṇā vā tad rūpaṁ parijñātuṁ \/",
     "analyzed":"śroṇa śramaṇāḥ vā brāhmaṇāḥ vā tat rūpam parijñātum ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śroṇa",
+        "lemma":"śroṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"brāhmaṇāḥ",
+        "lemma":"brāhmaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"rūpaṁ",
+        "lemma":"rūpa",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"parijñātuṁ",
+        "lemma":"parijñā",
+        "tag":"VerbForm=Inf"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:9",
     "original":"ye ke cic chroṇa śramaṇā vā brāhmaṇā vā vedanāṁ saṁjñām saṁskārān vijñānaṁ yathābhūtaṁ",
     "analyzed":"ye ke cit śroṇa śramaṇāḥ vā brāhmaṇāḥ vā vedanām sajñām saskārān vijñānam yathābhūta ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"ye",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"ke",
+        "lemma":"ka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"cit",
+        "lemma":"cit",
+        "tag":""
+      },
+      {
+        "unsandhied":"śroṇa",
+        "lemma":"śroṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"brāhmaṇāḥ",
+        "lemma":"brāhmaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"vedanāṁ",
+        "lemma":"vedanā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Plural"
+      },
+      {
+        "unsandhied":"saṁjñām",
+        "lemma":"saṃjñā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"saṁskārān",
+        "lemma":"saṃskāra",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vijñānaṁ",
+        "lemma":"vijñāna",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"yathābhūtaṁ",
+        "lemma":"yathābhūtam",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:10",
     "original":"na prajānanti vijñānasamudayaṁ vijñānanirodhaṁ vijñānanirodhagāminīṁ pratipadaṁ yathābhūtaṁ",
     "analyzed":"na prajānanti vijñāna samudayam vijñāna nirodham vijñāna nirodha gāminīm pratipadam yathābhūta ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"prajānanti",
+        "lemma":"prajñā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"vijñāna-",
+        "lemma":"vijñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samudayaṁ",
+        "lemma":"samudaya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vijñāna-",
+        "lemma":"vijñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirodhaṁ",
+        "lemma":"nirodha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vijñāna-",
+        "lemma":"vijñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirodha-",
+        "lemma":"nirodha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gāminīṁ",
+        "lemma":"gāmin",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"pratipadaṁ",
+        "lemma":"pratipad",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"yathābhūtaṁ",
+        "lemma":"yathābhūtam",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:11",
     "original":"na prajānanty abhavyās te śroṇa śramaṇā vā brāhmaṇā vā tad vijñānaṁ parijñātuṁ \/",
     "analyzed":"na prajānanti abhavyāḥ te śroṇa śramaṇāḥ vā brāhmaṇāḥ vā tat vijñānam parijñātum ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"prajānanti",
+        "lemma":"prajñā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"abhavyāḥ",
+        "lemma":"abhavya",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Genitive, Number=Singular"
+      },
+      {
+        "unsandhied":"śroṇa",
+        "lemma":"śroṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"brāhmaṇāḥ",
+        "lemma":"brāhmaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vijñānam",
+        "lemma":"vijñāna",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"parijñātuṁ",
+        "lemma":"parijñā",
+        "tag":"VerbForm=Inf"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:12",
     "original":"ye tu ke cic chroṇa śramaṇā vā brāhmaṇā vā rūpaṁ yathābhūtaṁ prajānanti \/ rūpasamudayaṁ",
     "analyzed":"ye tu ke cid śroṇa śramaṇāḥ vā brāhmaṇāḥ vā rūpam yathābhūtam prajānanti rūpa samudaya ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"ye",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"tu",
+        "lemma":"tu",
+        "tag":""
+      },
+      {
+        "unsandhied":"ke",
+        "lemma":"ka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"cit",
+        "lemma":"cit",
+        "tag":""
+      },
+      {
+        "unsandhied":"śroṇa",
+        "lemma":"śroṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"brāhmaṇāḥ",
+        "lemma":"brāhmaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"rūpaṁ",
+        "lemma":"rūpa",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"yathābhūtaṁ",
+        "lemma":"yathābhūtam",
+        "tag":""
+      },
+      {
+        "unsandhied":"prajānanti",
+        "lemma":"prajñā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samudayaṁ",
+        "lemma":"samudaya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:13",
     "original":"rūpanirodhaṁ rūpanirodhagāminīṁ pratipadaṁ yathābhūtaṁ prajānanti \/ bhavyās te śroṇa",
     "analyzed":"rūpa nirodham rūpa nirodha gāminīm pratipadam yathābhūtam prajānanti bhavyāḥ te śroṇa ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirodhaṁ",
+        "lemma":"nirodha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirodha-",
+        "lemma":"nirodha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gāminīṁ",
+        "lemma":"gāmin",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"pratipadaṁ",
+        "lemma":"pratipad",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"yathābhūtam",
+        "lemma":"yathābhūtam",
+        "tag":""
+      },
+      {
+        "unsandhied":"prajānanti",
+        "lemma":"prajñā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"bhavyāḥ",
+        "lemma":"bhū",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"śroṇa",
+        "lemma":"śroṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:14",
     "original":"śramaṇā vā brāhmaṇā vā tad rūpaṁ parijñātum \/",
     "analyzed":"śramaṇāḥ vā brāhmaṇāḥ vā tat rūpam parijñātum ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"brāhmaṇāḥ",
+        "lemma":"brāhmaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"rūpaṁ",
+        "lemma":"rūpa",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"parijñātum",
+        "lemma":"parijñā",
+        "tag":"VerbForm=Inf"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:15",
     "original":"ye tu ke cic chroṇa śramaṇā vā brāhmaṇā vā vedanāṁ saṁjñāṁ saṁskārān vijñānaṁ yathābhūtaṁ",
     "analyzed":"ye tu ke cit śroṇa śramaṇāḥ vā brāhmaṇāḥ vā vedanām sajñām saskārān vijñānam yathā bhūta ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"ye",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"tu",
+        "lemma":"tu",
+        "tag":""
+      },
+      {
+        "unsandhied":"ke",
+        "lemma":"ka",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"cit",
+        "lemma":"cit",
+        "tag":""
+      },
+      {
+        "unsandhied":"śroṇa",
+        "lemma":"śroṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"brāhmaṇāḥ",
+        "lemma":"brāhmaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"vedanāṁ",
+        "lemma":"vedanā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Plural"
+      },
+      {
+        "unsandhied":"saṁjñāṁ",
+        "lemma":"saṃjñā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Plural"
+      },
+      {
+        "unsandhied":"saṁskārān",
+        "lemma":"saṃskāra",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vijñānaṁ",
+        "lemma":"vijñāna",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"yathābhūtam",
+        "lemma":"yathābhūtam",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:16",
     "original":"prajānanti vijñānasamudayaṁ vijñānanirodhaṁ vijñānanirodhagāminīṁ pratipadaṁ yathābhūtaṁ",
     "analyzed":"prajānanti vijñāna samudayam vijñāna nirodham vijñāna nirodha gāminīm pratipadam yathābhūta ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"prajānanti",
+        "lemma":"prajñā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"vijñāna-",
+        "lemma":"vijñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samudayaṁ",
+        "lemma":"samudaya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vijñāna-",
+        "lemma":"vijñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirodhaṁ",
+        "lemma":"nirodha",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vijñāna-",
+        "lemma":"vijñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirodha-",
+        "lemma":"nirodha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gāminīṁ",
+        "lemma":"gāmin",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"pratipadaṁ",
+        "lemma":"pratipad",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"yathābhūtaṁ",
+        "lemma":"yathābhūtam",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:17",
     "original":"prajānanti bhavyās te śroṇa śramaṇā vā brāhmaṇā vā tad vijñānaṁ parijñātum \/",
     "analyzed":"prajānanti bhavyāḥ te śroṇa śramaṇāḥ vā brāhmaṇāḥ vā tat vijñānam parijñātum ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"prajānanti",
+        "lemma":"prajñā",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"bhavyāḥ",
+        "lemma":"bhū",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Genitive, Number=Singular"
+      },
+      {
+        "unsandhied":"śroṇa",
+        "lemma":"śroṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"brāhmaṇāḥ",
+        "lemma":"brāhmaṇa",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"tat",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vijñānaṁ",
+        "lemma":"vijñāna",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"parijñātum",
+        "lemma":"parijñā",
+        "tag":"VerbForm=Inf"
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:18",
     "original":"kiṁ manyase śroṇa rūpaṁ nityaṁ vā anityaṁ vā \/",
     "analyzed":"kim manyase śroṇa rūpam nityam vā anityam vā ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"kiṁ",
+        "lemma":"ka",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"manyase",
+        "lemma":"man",
+        "tag":"Tense=Present, Mood=Indicative, Person=2, Number=Singular"
+      },
+      {
+        "unsandhied":"śroṇa",
+        "lemma":"śroṇa",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"rūpaṁ",
+        "lemma":"rūpa",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"nityaṁ",
+        "lemma":"nitya",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
+        "unsandhied":"anityaṁ",
+        "lemma":"anitya",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      }
+    ]
   },
   {
     "segmentnr":"SA_K10_sf90_sc:19",
     "original":"anityam idaṁ bhadanta śāriputra …",
     "analyzed":"anityam idam bhadanta śāriputra ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"anityam",
+        "lemma":"anitya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"idaṁ",
+        "lemma":"idam",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"bhadanta",
+        "lemma":"bhadanta",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śāriputra",
+        "lemma":"śāriputra",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   }
 ]

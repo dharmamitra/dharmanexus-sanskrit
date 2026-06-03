@@ -3,324 +3,1840 @@
     "segmentnr":"SA_T01_n908u:0",
     "original":"vajrayoginīpraṇāmaikaviśikā",
     "analyzed":"           ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_T01_n908u:1",
     "original":"om namaḥ śrīvajrayoginyai",
     "analyzed":"om namaḥ śrī vajrayoginyai ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"om",
+        "lemma":"oṃ",
+        "tag":""
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"śrī-",
+        "lemma":"śrī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vajrayoginyai",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Dative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:2",
     "original":"evaṃkārasamāsīnā (ne)",
     "analyzed":"evaṃkāra samāsīnāḥ ne ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"evaṃkāra-",
+        "lemma":"evaṃkāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"samāsīnāḥ",
+        "lemma":"samās",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:3",
     "original":"sahajānandarūpiṇi |",
     "analyzed":"sahaja ānanda rūpiṇi ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"sahaja-",
+        "lemma":"sahaja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ānanda-",
+        "lemma":"ānanda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpiṇi",
+        "lemma":"rūpin",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:4",
     "original":"prajñā(vi)jñānadehasthā (sthe)",
     "analyzed":"prajñā vijñāna deha sthāḥ sthe ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"prajñā-",
+        "lemma":"prajñā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vijñāna-",
+        "lemma":"vijñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"deha-",
+        "lemma":"deha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sthā",
+        "lemma":"sthā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:5",
     "original":"namaste vajrayogini || 1 ||",
     "analyzed":"namaḥ te vajrayogini ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:6",
     "original":"vicitrādipramo(bhe)",
     "analyzed":"vicitra ādi pramā ubhe ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"vicitra-",
+        "lemma":"vicitra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pramaḥ",
+        "lemma":"prama",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:7",
     "original":"dena caturānandadehade |",
     "analyzed":"catur ānanda deha de ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"caturānanda-",
+        "lemma":"caturānanda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"deha-",
+        "lemma":"deha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"de",
+        "lemma":"da",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:8",
     "original":"rāgapāramitāprāpte namaste vajrayogini || 2 ||",
     "analyzed":"rāga pāramitā prāpte namaḥ te vajra yogini ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"rāgapāramitā-",
+        "lemma":"rāgapāramitā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"prāpte",
+        "lemma":"prāp",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:9",
     "original":"śaratpūrṇendusaṃkāśe sattvajāṣṭakayogaje |",
     "analyzed":"śarad pūrṇa indu saṃkāśe sattva ja aṣṭaka yoga je ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śarad-",
+        "lemma":"śarad",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pūrṇa-",
+        "lemma":"pūrṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"indu-",
+        "lemma":"indu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃkāśe",
+        "lemma":"saṃkāśa",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"sattva-",
+        "lemma":"sattva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ja-",
+        "lemma":"ja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"aṣṭaka-",
+        "lemma":"aṣṭaka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yoga-",
+        "lemma":"yoga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"je",
+        "lemma":"ja",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:10",
     "original":"varṇāgrabījasaṃbhūte namaste vajrayogini || 3 ||",
     "analyzed":"varṇa agra bīja saṃbhūte namaḥ te vajrayogini ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"varṇa-",
+        "lemma":"varṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"agra-",
+        "lemma":"agra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bīja-",
+        "lemma":"bīja",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃbhūte",
+        "lemma":"sambhū",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:11",
     "original":"bhāvābhāvadvayātīte ādyantamadhyavarjite |",
     "analyzed":"bhāva abhāva dvaya atīte ādi anta madhya varjite ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"bhāva-",
+        "lemma":"bhāva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"abhāva-",
+        "lemma":"abhāva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dvaya-",
+        "lemma":"dvaya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"atīte",
+        "lemma":"atī",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"anta-",
+        "lemma":"anta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"madhya-",
+        "lemma":"madhya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varjite",
+        "lemma":"varjay",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:12",
     "original":"svaparatvavinirmukte namaste vajrayogini || 4 ||",
     "analyzed":"sva para tva vinirmukte namaḥ te vajrayogini ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"sva-",
+        "lemma":"sva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"para-",
+        "lemma":"para",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tva-",
+        "lemma":"tva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vinirmukte",
+        "lemma":"vinirmuc",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:13",
     "original":"rāgārāgayormiśraṃ (śre)",
     "analyzed":"rāga arāgayoḥ miśram śre ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"rāga-",
+        "lemma":"rāga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"arāgayoḥ",
+        "lemma":"arāga",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Dual"
+      },
+      {
+        "unsandhied":"miśram",
+        "lemma":"miśra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:14",
     "original":"saṃkalpatrayavarjitaṃ (te) |",
     "analyzed":"saṃkalpa traya varjitam te ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"saṃkalpa-",
+        "lemma":"saṃkalpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"traya-",
+        "lemma":"traya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"varjitam",
+        "lemma":"varjay",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:15",
     "original":"mahāsukhasukhakāre namaste vajrayogini || 5 ||",
     "analyzed":"mahā sukha sukha kāre namaḥ te vajrayogini ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"mahā-",
+        "lemma":"mahat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sukha-",
+        "lemma":"sukha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sukha-",
+        "lemma":"sukha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kāre",
+        "lemma":"kāra",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:16",
     "original":"sattvārthakaraṇairyukte jātasaṃbhogarūpiṇi |",
     "analyzed":"sattva artha karaṇaiḥ yukte jāta saṃbhoga rūpiṇi ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"sattva-",
+        "lemma":"sattva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"artha-",
+        "lemma":"artha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"karaṇaiḥ",
+        "lemma":"karaṇa",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Plural"
+      },
+      {
+        "unsandhied":"yukte",
+        "lemma":"yuj",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"jāta-",
+        "lemma":"jan",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"saṃbhoga-",
+        "lemma":"sambhoga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpiṇi",
+        "lemma":"rūpin",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:17",
     "original":"karuṇāraktadehaste (sthe)",
     "analyzed":"karuṇā rakta dehaḥ te sthe ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"karuṇā-",
+        "lemma":"karuṇā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rakta-",
+        "lemma":"rañj",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"dehaḥ",
+        "lemma":"deha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Dual"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:18",
     "original":"namaste vajrayogini || 6 ||",
     "analyzed":"namaḥ te vajrayogini ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:19",
     "original":"bhavanirvāṇamārūḍhe rūpākāravirājite |",
     "analyzed":"bhava nirvāṇam ārūḍhe rūpa ākāra virājite ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"bhava-",
+        "lemma":"bhava",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirvāṇam",
+        "lemma":"nirvāṇa",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"ārūḍhe",
+        "lemma":"āruh",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"rūpa-",
+        "lemma":"rūpa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākāra-",
+        "lemma":"ākāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"virājite",
+        "lemma":"virāj",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:20",
     "original":"kāyavākacittanetrāya (dye)",
     "analyzed":"kāya vāka citta netrāya dye ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"kāya-",
+        "lemma":"kāya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vāka-",
+        "lemma":"vāka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"citta-",
+        "lemma":"citta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"netrāya",
+        "lemma":"netra",
+        "tag":"Case=Dative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:21",
     "original":"namaste vajrayogini || 7 ||",
     "analyzed":"namaḥ te vajrayogini ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:22",
     "original":"vāme kapālakhaṭvāṅge dakṣiṇe kartidhāriṇi |",
     "analyzed":"vāme kapāla khaṭvāṅge dakṣiṇe karti dhāriṇi ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"vāme",
+        "lemma":"vāma",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kapāla-",
+        "lemma":"kapāla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"khaṭvāṅge",
+        "lemma":"khaṭvāṅga",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dakṣiṇe",
+        "lemma":"dakṣiṇa",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"karti-",
+        "lemma":"karti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dhāriṇi",
+        "lemma":"dhārin",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:23",
     "original":"śūnyatākaruṇāvāhi namaste vajrayogini || 8 ||",
     "analyzed":"śūnyatā karuṇā vāhi namaḥ te vajrayogini ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"śūnyatā-",
+        "lemma":"śūnyatā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"karuṇā-",
+        "lemma":"karuṇā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vāhi",
+        "lemma":"vāhin",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:24",
     "original":"jinadurdāntabībhatsi (tse)",
     "analyzed":"jina durdānta bībhatsi tse ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"jina-",
+        "lemma":"jina",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"durdānta-",
+        "lemma":"durdānta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bībhatsi",
+        "lemma":"bībhatsin",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:25",
     "original":"sarvamāraniṣūdini |",
     "analyzed":"sarva māra niṣūdini ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"māra-",
+        "lemma":"māra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"niṣūdini",
+        "lemma":"niṣūda",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:26",
     "original":"nirjitāśeṣasevāgre namaste vajrayogini || 9 ||",
     "analyzed":"nirjita aśeṣa sevā agre namaḥ te vajrayogini ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"nirjita-",
+        "lemma":"nirji",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"aśeṣa-",
+        "lemma":"aśeṣa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sevā-",
+        "lemma":"sevā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"agre",
+        "lemma":"agra",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:27",
     "original":"kalā(kalāpa)",
     "analyzed":"kalā kalāpa ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"kalā",
+        "lemma":"kalā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:28",
     "original":"saṃyukte śmaśānāṣṭanivāsini |",
     "analyzed":"saṃyukte śmaśāna aṣṭa nivāsini ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"saṃyukte",
+        "lemma":"saṃyuj",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"śmaśāna-",
+        "lemma":"śmaśāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"aṣṭa-",
+        "lemma":"aṣṭan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nivāsini",
+        "lemma":"nivāsin",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:29",
     "original":"buddhanāṭarasairyukte namaste vajrayogini || 10 ||",
     "analyzed":"buddha nāṭa rasaiḥ yukte namaḥ te vajrayogini ",
-    "folio":3
+    "folio":3,
+    "full_analysis":[
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nāṭa-",
+        "lemma":"nāṭa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rasaiḥ",
+        "lemma":"rasa",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"yukte",
+        "lemma":"yuj",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:30",
     "original":"sattvāśayavaśenaiva nirmitānekarūpiṇo (ṇi) |",
     "analyzed":"sattva āśaya vaśena eva nirmita aneka rūpiṇaḥ ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"sattva-",
+        "lemma":"sattva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"āśaya-",
+        "lemma":"āśaya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vaśena",
+        "lemma":"vaśa",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"nirmita-",
+        "lemma":"nirmā",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"aneka-",
+        "lemma":"aneka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"rūpiṇaḥ",
+        "lemma":"rūpin",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:31",
     "original":"śyāmapītasitābhāse namaste vajrayogini || 11 ||",
     "analyzed":"śyāma pīta sita ābhāse namaḥ te vajrayogini ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"śyāma-",
+        "lemma":"śyāma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pīta-",
+        "lemma":"pīta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"sita-",
+        "lemma":"sita",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ābhāse",
+        "lemma":"ābhāsa",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:32",
     "original":"pañcabuddhajanotpanne pañcayoginitāṃ gate |",
     "analyzed":"pañca buddha jana utpanne pañca yoginī tām gate ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"pañca-",
+        "lemma":"pañcan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"buddha-",
+        "lemma":"buddha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"jana-",
+        "lemma":"jana",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"utpanne",
+        "lemma":"utpad",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"pañca-",
+        "lemma":"pañcan",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yogini-",
+        "lemma":"yoginī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tām",
+        "lemma":"tā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"gate",
+        "lemma":"gam",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:33",
     "original":"tathā paramāṇusaṃkhyāte namaste vajrayogini || 12 ||",
     "analyzed":"tathā paramāṇu saṃkhyāte namaḥ te vajrayogini ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"tathā",
+        "lemma":"tathā",
+        "tag":""
+      },
+      {
+        "unsandhied":"paramāṇu-",
+        "lemma":"paramāṇu",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"saṃkhyāte",
+        "lemma":"saṃkhyā",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:34",
     "original":"śaive śaktiriti khyāte tīrthe caṇḍīti kalpite |",
     "analyzed":"śaive śaktiḥ iti khyāte tīrthe caṇḍī iti kalpite ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"śaive",
+        "lemma":"śaiva",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"śaktiḥ",
+        "lemma":"śakti",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"khyāte",
+        "lemma":"khyā",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"tīrthe",
+        "lemma":"tīrtha",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"caṇḍī",
+        "lemma":"caṇḍī",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"kalpite",
+        "lemma":"kalpay",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:35",
     "original":"vede vedeti prakhyāte namaste vajrayogini || 13 ||",
     "analyzed":"vede veda iti prakhyāte namaḥ te vajrayogini ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"vede",
+        "lemma":"veda",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"veda-",
+        "lemma":"veda",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"prakhyāte",
+        "lemma":"prakhyā",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:36",
     "original":"kulākhye kubjikākhyāte ātmaveṣavatī mate |",
     "analyzed":"kula ākhye kubjikā ākhyāte ātma veṣavatī mate ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"kula-",
+        "lemma":"kula",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākhye",
+        "lemma":"ākhyā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Dual"
+      },
+      {
+        "unsandhied":"kubjikā-",
+        "lemma":"kubjikā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākhyāte",
+        "lemma":"ākhyā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Dual, VerbForm=Part"
+      },
+      {
+        "unsandhied":"ātma-",
+        "lemma":"ātman",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"veṣavatī",
+        "lemma":"veṣavat",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Dual"
+      },
+      {
+        "unsandhied":"mate",
+        "lemma":"man",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Dual, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:37",
     "original":"viśvarūpe kriyākāre namaste vajrayogini || 14 ||",
     "analyzed":"viśvarūpe kriyākāre namaḥ te vajrayogini  ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"viśvarūpe",
+        "lemma":"viśvarūpā",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"kriyākāre",
+        "lemma":"kriyākāra",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:38",
     "original":"sattvadṛṣṭivirodhena gatā naiva vidhāyini |",
     "analyzed":"sattva dṛṣṭi virodhena gatā nā eva vidhāyini ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"sattva-",
+        "lemma":"sattva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dṛṣṭi-",
+        "lemma":"dṛṣṭi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"virodhena",
+        "lemma":"virodha",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"gatāḥ",
+        "lemma":"gam",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Part"
+      },
+      {
+        "unsandhied":"nā",
+        "lemma":"na",
+        "tag":""
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"vidhāyini",
+        "lemma":"vidhāyin",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:39",
     "original":"sarvākāravaropete namaste vajrayogini || 15 ||",
     "analyzed":"sarva ākāra vara upete namaḥ te vajrayogini ",
-    "folio":4
+    "folio":4,
+    "full_analysis":[
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ākāra-",
+        "lemma":"ākāra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vara-",
+        "lemma":"vara",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"upete",
+        "lemma":"upe",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:40",
     "original":"nairātmyadharmagambhīrayogadṛṣṭyaikagocare |",
     "analyzed":"nairātmya dharma gambhīra yoga dṛṣṭyā eka gocare ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[
+      {
+        "unsandhied":"nairātmya-",
+        "lemma":"nairātmya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dharma-",
+        "lemma":"dharma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gambhīra-",
+        "lemma":"gambhīra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yoga-",
+        "lemma":"yoga",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dṛṣṭyā",
+        "lemma":"dṛṣṭi",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"eka-",
+        "lemma":"eka",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"gocare",
+        "lemma":"gocara",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:41",
     "original":"sadasatkalpanātīte namaste vajrayogini || 16 ||",
     "analyzed":"sat asat kalpanā atīte namaḥ te vajrayogini ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[
+      {
+        "unsandhied":"sat-",
+        "lemma":"as",
+        "tag":"Compound, Tense=Present, VerbForm=Part"
+      },
+      {
+        "unsandhied":"asat-",
+        "lemma":"asat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kalpanā-",
+        "lemma":"kalpanā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"atīte",
+        "lemma":"atī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:42",
     "original":"śyāmapītādinirmukte varṇāvarṇavivarjite |",
     "analyzed":"śyāma pīta ādi nirmukte varṇa avarṇa vivarjite ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[
+      {
+        "unsandhied":"śyāma-",
+        "lemma":"śyāma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pīta-",
+        "lemma":"pīta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"nirmukte",
+        "lemma":"nirmuc",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"varṇa-",
+        "lemma":"varṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"avarṇa-",
+        "lemma":"avarṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vivarjite",
+        "lemma":"vivarjay",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:43",
     "original":"prajñāpāramitāmātarnamaste vajrayogini || 17 ||",
     "analyzed":"prajñāpāramitā mātar namaḥ te vajrayogini ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[
+      {
+        "unsandhied":"prajñāpāramitā-",
+        "lemma":"prajñāpāramitā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mātar",
+        "lemma":"mātṛ",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:44",
     "original":"nirvikalpe nirālambe niṣprapañce nirālaye |",
     "analyzed":"              ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[]
   },
   {
     "segmentnr":"SA_T01_n908u:45",
     "original":"viyadvayāpi(ni)",
     "analyzed":"viyat vayāpini ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[
+      {
+        "unsandhied":"viyat-",
+        "lemma":"viyant",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vayāpi",
+        "lemma":"vayāpin",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:46",
     "original":"nairātmye namaste vajrayogini || 18 ||",
     "analyzed":"nairātmye namaḥ te vajrayogini ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[
+      {
+        "unsandhied":"nairātmye",
+        "lemma":"nairātmya",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:47",
     "original":"sarvaratnavidāṃ pātre janani vajrayogini |",
     "analyzed":"sarva ratna vidām pātre janani vajrayogini ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ratna-",
+        "lemma":"ratna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vidām",
+        "lemma":"vid",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"pātre",
+        "lemma":"pātra",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"janani",
+        "lemma":"jananī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"vajra-",
+        "lemma":"vajra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yogini",
+        "lemma":"yogin",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:48",
     "original":"namaste vajravārāhi namaste vajrayogini || 19 ||",
     "analyzed":"namaḥ te vajra vārāhi namaḥ te vajrayogini ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajra-",
+        "lemma":"vajra",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vārāhi",
+        "lemma":"vārāhī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:49",
     "original":"tvaṃ sadgurumukhakamalānnirgatā kāmarūpiṇī |",
     "analyzed":"tvam sat guru mukha kamalāt nirgatā kāmarūpiṇī ",
-    "folio":5
+    "folio":5,
+    "full_analysis":[
+      {
+        "unsandhied":"tvam",
+        "lemma":"tvad",
+        "tag":"Case=Nominative, Number=Singular"
+      },
+      {
+        "unsandhied":"sat-",
+        "lemma":"sat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"guru-",
+        "lemma":"guru",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mukha-",
+        "lemma":"mukha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"kamalāt",
+        "lemma":"kamala",
+        "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"nirgatā",
+        "lemma":"nirgam",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"kāmarūpiṇī",
+        "lemma":"kāmarūpin",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:50",
     "original":"mahā'jñānavināśāya namaste vajrayogini || 20 ||",
     "analyzed":"mahā ajñāna vināśāya namaḥ te vajrayogini ",
-    "folio":6
+    "folio":6,
+    "full_analysis":[
+      {
+        "unsandhied":"mahā-",
+        "lemma":"mahat",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ajñāna-",
+        "lemma":"ajñāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vināśāya",
+        "lemma":"vināśa",
+        "tag":"Case=Dative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"namaḥ",
+        "lemma":"namas",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"te",
+        "lemma":"tvad",
+        "tag":"Case=Dative, Number=Singular"
+      },
+      {
+        "unsandhied":"vajrayogini",
+        "lemma":"vajrayoginī",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:51",
     "original":"iti guṇayuktāyā māturvidhāyaikaviṃśikām |",
     "analyzed":"iti guṇa yuktāyāḥ mātuḥ vidhāya ekaviṃśikām ",
-    "folio":6
+    "folio":6,
+    "full_analysis":[
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"guṇa-",
+        "lemma":"guṇa",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"yuktāyāḥ",
+        "lemma":"yuj",
+        "tag":"Case=Genitive, Gender=Feminine, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"mātuḥ",
+        "lemma":"mātṛ",
+        "tag":"Case=Genitive, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"vidhāya",
+        "lemma":"vidhā",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"ekaviṃśikām",
+        "lemma":"ekaviṃśikā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:52",
     "original":"puṇyaṃ yadavāptaṃ tena janāḥ santu(labhantu) pūrṇatvam || 21 ||",
     "analyzed":"puṇyam yat avāptam tena janāḥ pūrṇa tvam ",
-    "folio":6
+    "folio":6,
+    "full_analysis":[
+      {
+        "unsandhied":"puṇyam",
+        "lemma":"puṇya",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"avāptam",
+        "lemma":"avāp",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      },
+      {
+        "unsandhied":"tena",
+        "lemma":"tad",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"janāḥ",
+        "lemma":"jana",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+      },
+      {
+        "unsandhied":"santu",
+        "lemma":"as",
+        "tag":"Tense=Present, Mood=Imperative, Person=3, Number=Plural"
+      },
+      {
+        "unsandhied":"pūrṇa-",
+        "lemma":"pṛ",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"tvam",
+        "lemma":"tva",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T01_n908u:53",
     "original":"śrīvajrayoginīpraṇāmaikaviṃśikā samāptā |",
     "analyzed":"śrī vajrayoginī praṇāma ekaviṃśikā samāptā ",
-    "folio":6
+    "folio":6,
+    "full_analysis":[
+      {
+        "unsandhied":"śrī-",
+        "lemma":"śrī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vajrayoginī-",
+        "lemma":"vajrayoginī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"praṇāma-",
+        "lemma":"praṇāma",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ekaviṃśikā",
+        "lemma":"ekaviṃśikā",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptā",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Part"
+      }
+    ]
   }
 ]

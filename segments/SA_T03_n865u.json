@@ -3,84 +3,592 @@
     "segmentnr":"SA_T03_n865u:0",
     "original":"ṣaṭpāramitāstotram",
     "analyzed":"ṣaṣ pāramitā stotram ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"ṣaṣ-",
+        "lemma":"ṣaṣ",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pāramitā-",
+        "lemma":"pāramitā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:1",
     "original":"dānabalena samudgatabuddho dānabalādhipatā narasiṃhe |",
     "analyzed":"dāna balena samudgata buddhaḥ dāna bala adhipatā narasiṃhe ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"dāna-",
+        "lemma":"dāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"balena",
+        "lemma":"bala",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samudgata-",
+        "lemma":"samudgam",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"buddhaḥ",
+        "lemma":"buddha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dāna-",
+        "lemma":"dāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhipatā",
+        "lemma":"adhipati",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"narasiṃhe",
+        "lemma":"narasiṃha",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:2",
     "original":"dānabalekṣaka śrūyati śabdaḥ kāruṇikena pure praviśantam || 1 ||",
     "analyzed":"dāna bala īkṣaka śrūyati śabdaḥ kāruṇikena pure praviśantam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"dāna-",
+        "lemma":"dāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"īkṣaka",
+        "lemma":"īkṣaka",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śrūyati",
+        "lemma":"śru",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"śabdaḥ",
+        "lemma":"śabda",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kāruṇikena",
+        "lemma":"kāruṇika",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pure",
+        "lemma":"pura",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"praviśantam",
+        "lemma":"praviś",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:3",
     "original":"śīlabalena samudgatabuddho śīlabalādhipatā narasiṃhe |",
     "analyzed":"śīla balena samudgata buddhaḥ śīla bala adhipatā narasiṃhe ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śīla-",
+        "lemma":"śīla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"balena",
+        "lemma":"bala",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samudgata-",
+        "lemma":"samudgam",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"buddhaḥ",
+        "lemma":"buddha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śīla-",
+        "lemma":"śīla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhipatā",
+        "lemma":"adhipati",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"narasiṃhe",
+        "lemma":"narasiṃha",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:4",
     "original":"śīlabalekṣaka śrūyati śabdaḥ kāruṇikena pure praviśantam || 2 ||",
     "analyzed":"śīla bala īkṣaka śrūyati śabdaḥ kāruṇikena pure praviśantam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śīla-",
+        "lemma":"śīla",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"īkṣaka",
+        "lemma":"īkṣaka",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śrūyati",
+        "lemma":"śru",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"śabdaḥ",
+        "lemma":"śabda",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kāruṇikena",
+        "lemma":"kāruṇika",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pure",
+        "lemma":"pura",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"praviśantam",
+        "lemma":"praviś",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:5",
     "original":"kṣāntibalena samudgatabuddho kṣāntibalādhipatā narasiṃhe |",
     "analyzed":"kṣānti balena samudgata buddhaḥ kṣānti bala adhipatā narasiṃhe ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"kṣānti-",
+        "lemma":"kṣānti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"balena",
+        "lemma":"bala",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samudgata-",
+        "lemma":"samudgam",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"buddhaḥ",
+        "lemma":"buddha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kṣānti-",
+        "lemma":"kṣānti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhipatā",
+        "lemma":"adhipati",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"narasiṃhe",
+        "lemma":"narasiṃha",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:6",
     "original":"kṣāntibalekṣaka śrūyati śabdaḥ kāruṇikena pure praviśantam || 3 ||",
     "analyzed":"kṣānti bala īkṣaka śrūyati śabdaḥ kāruṇikena pure praviśantam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"kṣānti-",
+        "lemma":"kṣānti",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"īkṣaka",
+        "lemma":"īkṣaka",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śrūyati",
+        "lemma":"śru",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"śabdaḥ",
+        "lemma":"śabda",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kāruṇikena",
+        "lemma":"kāruṇika",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pure",
+        "lemma":"pura",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"praviśantam",
+        "lemma":"praviś",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:7",
     "original":"vīryabalena samudgatabuddho vīryabalādhipatā narasiṃhe |",
     "analyzed":"vīrya balena samudgata buddhaḥ vīrya bala adhipatā narasiṃhe ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"vīrya-",
+        "lemma":"vīrya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"balena",
+        "lemma":"bala",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samudgata-",
+        "lemma":"samudgam",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"buddhaḥ",
+        "lemma":"buddha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vīrya-",
+        "lemma":"vīrya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhipatā",
+        "lemma":"adhipati",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"narasiṃhe",
+        "lemma":"narasiṃha",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:8",
     "original":"vīryabalekṣaka śruyati śabdaḥ kāruṇikena pure praviśantam || 4 ||",
     "analyzed":"vīrya bala īkṣaka śabdaḥ kāruṇikena pure praviśantam ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"śabdaḥ",
+        "lemma":"śabda",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kāruṇikena",
+        "lemma":"kāruṇika",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pure",
+        "lemma":"pura",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"praviśantam",
+        "lemma":"praviś",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:9",
     "original":"dhyānabalena samudgatabuddho dhyānabalādhipatā narasiṃhe |",
     "analyzed":"dhyāna balena samudgata buddhaḥ dhyāna bala adhipatā narasiṃhe ",
-    "folio":1
+    "folio":1,
+    "full_analysis":[
+      {
+        "unsandhied":"dhyāna-",
+        "lemma":"dhyāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"balena",
+        "lemma":"bala",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samudgata-",
+        "lemma":"samudgam",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"buddhaḥ",
+        "lemma":"buddha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"dhyāna-",
+        "lemma":"dhyāna",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhipatā",
+        "lemma":"adhipati",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"narasiṃhe",
+        "lemma":"narasiṃha",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:10",
     "original":"dhyānabalekṣaka śruyati śabdaḥ kāruṇikena pure praviśantam || 5 ||",
     "analyzed":"dhyāna bala īkṣaka śabdaḥ kāruṇikena pure praviśantam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"śabdaḥ",
+        "lemma":"śabda",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kāruṇikena",
+        "lemma":"kāruṇika",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pure",
+        "lemma":"pura",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"praviśantam",
+        "lemma":"praviś",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:11",
     "original":"prajñabalena samudgatabuddhaḥ prajñabalādhipatā narasiṃhe |",
     "analyzed":"prajña balena samudgata buddhaḥ prajña bala adhipatā narasiṃhe ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"prajña-",
+        "lemma":"prajña",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"balena",
+        "lemma":"bala",
+        "tag":"Case=Instrumental, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samudgata-",
+        "lemma":"samudgam",
+        "tag":"Compound, VerbForm=Part"
+      },
+      {
+        "unsandhied":"buddhaḥ",
+        "lemma":"buddha",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"prajña-",
+        "lemma":"prajña",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"adhipatā",
+        "lemma":"adhipati",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"narasiṃhe",
+        "lemma":"narasiṃha",
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:12",
     "original":"prajñabalekṣaka śrūyati śabdaḥ kāruṇikena pure praviśantam || 6 ||",
     "analyzed":"prajña bala īkṣaka śrūyati śabdaḥ kāruṇikena pure praviśantam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"prajña-",
+        "lemma":"prajña",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"bala-",
+        "lemma":"bala",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"īkṣaka",
+        "lemma":"īkṣaka",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"śrūyati",
+        "lemma":"śru",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"śabdaḥ",
+        "lemma":"śabda",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"kāruṇikena",
+        "lemma":"kāruṇika",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"pure",
+        "lemma":"pura",
+        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"praviśantam",
+        "lemma":"praviś",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T03_n865u:13",
     "original":"śrīṣaṭpāramitāstotraṃ samāptam |",
     "analyzed":"śrī ṣaṣ pāramitā stotram samāptam ",
-    "folio":2
+    "folio":2,
+    "full_analysis":[
+      {
+        "unsandhied":"śrī-",
+        "lemma":"śrī",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ṣaṣ-",
+        "lemma":"ṣaṣ",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"pāramitā-",
+        "lemma":"pāramitā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"stotram",
+        "lemma":"stotra",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"samāptam",
+        "lemma":"samāp",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+      }
+    ]
   }
 ]
