@@ -8,4 +8,4 @@ We also conduct ongoing efforts of collection and digitization of Sanskrit mater
 We are heavily indebted to all the projects that made their data available under permissive licenses for shared use. 
 
 ## Catalogue order
-`SA_files.json` is kept in library order: collection (order of `SA_collection-names.json`) → category (order of `SA_category-names.json`) → main entry, i.e. the author as catalogued, with anonymous works entered under their title → title. Filing ignores diacritics and case, and numbers sort numerically. After adding or editing entries, run `python sort_catalog.py`; `python sort_catalog.py --check` only tests the order.
+`SA_files.json` is kept in library order: collection (order of `SA_collection-names.json`) → category (order of `SA_category-names.json`) → author (alphabetical, as catalogued; works without an author follow at the end of the category) → title (alphabetical). Filing ignores diacritics and case, and numbers sort numerically. After adding or editing entries, run `python sort_catalog.py`; `python sort_catalog.py --check` only tests the order.

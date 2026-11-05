@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Sort SA_files.json in library order: collection -> category -> main entry (author) -> title.
+"""Sort SA_files.json in library order: collection -> category -> author (alphabetical) -> title (alphabetical).
 
 * collection: order of SA_collection-names.json
 * category:   order of SA_category-names.json (categories missing from it follow, by code)
-* main entry: the author field as catalogued (several authors: the full "A, B" string, so a root
-  text's commentaries file right after the root text's author); works without an author are
-  entered under their title, interfiled with the authors (dictionary-catalogue practice)
-* then title, then filename.
+* author:     the author field as catalogued (several authors: the full "A, B" string, so a root
+  text's commentaries file right after the root text's author); works without an author follow
+  the authored ones at the end of the category
+* title:      alphabetical within each author (and among the anonymous works), then filename.
 Filing ignores diacritics, case and punctuation (ALA-LC style) and compares numbers numerically
 (part 2 before part 10).
 
@@ -31,11 +31,11 @@ def filing(s):
 
 def sort_key(e, coll_ix, cat_ix):
     title = e.get('uniformtitle') or e.get('displayName') or ''
-    heading = e.get('author') or title
+    author = e.get('author') or ''
     cat = e.get('category', '')
     return (coll_ix.get(e.get('collection'), len(coll_ix)), e.get('collection', ''),
             cat_ix.get(cat, len(cat_ix)), cat,
-            filing(heading), filing(title), heading, title, e['filename'])
+            not author, filing(author), filing(title), author, title, e['filename'])
 
 
 def main():
