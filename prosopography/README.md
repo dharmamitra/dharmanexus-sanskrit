@@ -4,6 +4,17 @@ A person authority file for the authors of the texts in `SA_files.json`. It exte
 
 **Status: LLM-generated draft, checked automatically but not yet by a specialist.** Records with status `X`, and everything in `review_queue.tsv`, still need review.
 
+## Fields in `SA_files.json` and `metadata/*.json`
+
+Every catalogue entry with an author (1,958 texts) now has these fields:
+
+- **`author`:** the same persons in the same order as before. Spelling variants of one person are unified to the form most frequent in the catalogue (e.g. Jīvagosvāmī → Jīva Gosvāmin, Śrīdharasvāmin → Śrīdhara Svāmin). The field is never changed to a *different* name. Where the person file identifies or re-attributes (Vararuci = Kātyāyana, Vidyāraṇya = Mādhava, Ānandagarbha's text → Bodhigarbha), the catalogue name stays and only the id carries the identification. `displayName` prefixes are kept in step: 90 texts changed.
+- **`author_id`:** person ids aligned with `author` (comma-separated); they key into `persons.json`. ATII ids (`P…`) where the person is in ATII, otherwise new `P0SA####` ids. Pseudepigraphic attributions point to `pseudo-<Name>` persons.
+- **`authors`:** per slot `{name, id, person, role, attribution}`, where `person` is the label of the person record and `attribution` is `secure` / `traditional` / `disputed` / `pseudepigraphic`.
+- **`raw_metadata`:** the header has a matching `**Author ID:**` line under `**Author:**`. The ilx_skt and Muktabodha sections are unchanged.
+
+The fields are written by `apply_to_catalog.py` in the pipeline.
+
 ## Licence
 
 The person records are cross-linked to Pandit data, taken from the [Pāṇḍitya export](https://github.com/tylergneill/panditya), which is CC BY-NC-SA 4.0. The files in this directory therefore inherit **CC BY-NC-SA 4.0**. That includes Pandit ids, years and work relations used for linking and checking.
@@ -18,7 +29,7 @@ The person records are cross-linked to Pandit data, taken from the [Pāṇḍity
 | `attestations.tsv` | evidence per person. `kind=literature`: verbatim quote from the secondary literature (reference-literature, hamburg-ardi, dharmanexus-modern-japanese); `verified` = quote found verbatim in the retrieved passage. `kind=web`: claim tied to a Google Search result by the grounding metadata; `reliable_source` = reference-grade source (academic publisher, university repository, archive.org, catalogues, Wikipedia) |
 | `crosswalk.tsv` | person ↔ ATII ids ↔ Pandit ids |
 | `review_queue.tsv` | persons needing review (status X, confidence < 0.75, or several soft flags), lowest confidence first |
-| `authority_corrections.tsv` | proposed corrections to ATII, Pandit and ilx_skt: records that lump several persons, duplicate records, dates that disagree, wrong names (e.g. ATII P7641 Kamalaśīla has `names_skt` = "Jayasena") |
+| `authority_corrections.tsv` | proposed corrections to ATII, Pandit and ilx_skt: records that lump several persons, duplicate records, dates that disagree, wrong names (e.g. ATII P7641 Kamalaśīla has `names_skt` = "Jayasena"; ATII P0AT0214 lumps Bhaṭṭa Vāmadeva and Yogarāja) |
 | `validation.tsv`, `validation_summary.json` | checks against `raw_metadata` and dating evidence (below) |
 | `eval_pandit_holdout.tsv` | evaluation against Pandit e-text links that were hidden from the model |
 | `summary.json` | counts and token usage |
@@ -28,12 +39,12 @@ Person records follow ATII conventions. Status `OK` means identity and floruit (
 ## Numbers
 
 **Persons**
-- 906 persons:
-  - 282 linked to an existing ATII record;
-  - 624 new;
-  - 400 linked to Pandit;
+- 910 persons:
+  - 281 linked to an existing ATII record;
+  - 629 new;
+  - 403 linked to Pandit;
   - 39 pseudo-persons.
-- 684 have status OK.
+- 688 have status OK.
 - 47 non-pseudo persons have no date.
 
 **Links**
@@ -45,7 +56,7 @@ Person records follow ATII conventions. Status `OK` means identity and floruit (
 
 **Evidence**
 - 2,654 attestations, 2,590 of them verified.
-- 819 persons have at least one verified attestation.
+- 823 persons have at least one verified attestation.
 
 **Evaluation**
 - **Pandit holdout:** 212/221 held-out links agree. The rest:
@@ -66,7 +77,7 @@ Pipeline code: `~/code/sanskrit-prosopography` (not in this repository; `run.sh`
    - links each person to ATII or Pandit records;
    - assigns roles, attribution status and a floruit;
    - gives quotes, which are checked verbatim in code.
-4. **Merge and checks.** Persons are merged across clusters on shared ATII, Pandit or Muktabodha ids or declared spelling variants, unless their floruits differ by more than 250 years. Each ATII id belongs to one person only. The merged records are checked against:
+4. **Merge and checks.** Persons are merged across clusters on shared ATII, Pandit or Muktabodha ids or declared spelling variants, unless their floruits differ by more than 250 years. A shared id merges only if the names also agree, because authority records sometimes lump persons. Placeholder ATII rows (id `?`) are ignored. Each ATII id belongs to one person only. The merged records are checked against:
    - ATII and Pandit dates;
    - the statistical text dates;
    - commentary order (a commentator cannot predate the base-text author);

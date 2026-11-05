@@ -1806,6 +1806,8 @@
    "pro2"
   ],
   "flags": [
+   "authority: shares Pandit id 85636 with 'Mādhava (brother of Sāyaṇa)' but names differ (authority record may lump persons)",
+   "authority: shares Pandit id 85636 with 'Vidyāraṇya' but names differ (authority record may lump persons)",
    "soft: 1 unverified quote(s)"
   ],
   "uids": [
@@ -1865,74 +1867,6 @@
   "flags": [],
   "uids": [
    "27:0"
-  ]
- },
- {
-  "id": "P0AT0266",
-  "label": "Bhāskarakaṇṭha",
-  "names_skt": [
-   "Bhāskarakaṇṭha",
-   "Bhāskara",
-   "Rājānaka Bhāskara",
-   "Bhāskararāya",
-   "Bhāskararāya Makhin",
-   "Bhāsurānandanātha",
-   "Bhāskara Rāya Dīkṣita"
-  ],
-  "floruit_not_before": 1650,
-  "floruit_not_after": 1700,
-  "origin": "Kashmir",
-  "atii_ids": [
-   "P0AT0266"
-  ],
-  "lumped_atii": [],
-  "pandit_ids": [
-   "86285",
-   "86415"
-  ],
-  "new_person": false,
-  "pseudo": false,
-  "status": "OK",
-  "confidence": 0.99,
-  "roles": "ma,tr",
-  "may_be_same_as": [],
-  "not_to_be_confused_with": [
-   "Bhaṭṭa Bhāskara",
-   "Bhāskarakaṇṭha",
-   "Bhāskararāya"
-  ],
-  "candidate_corrections": "Pandit 86415 and 87154 are duplicates of the same person; merging them here. | Pandit 86285 lists 'Setubodhanī on Amṛtānandanātha's Yoginiḥṛdayadipīkā', which is an error for 'Setubandha on Nityāṣoḍaśikārṇava and Yoginīhṛdaya'. 'Varibhasyarahasya' is a typo for 'Varivasyārahasya'.",
-  "justification": "Bhāskarakaṇṭha (also known as Rājānaka Bhāskara) was a Kashmiri scholar who authored the Mokṣopāyaṭīkā, the Bhāskarī commentary on Abhinavagupta's Īśvarapratyabhijñāvimarśinī, the Cittānubodhaśāstra, and a Sanskrit translation of the Lalleśvarīvākyāni. Modern scholarship (e.g., Sanderson 2007) places him in the late 17th century, correcting earlier assumptions of an 18th-century date. He is distinct from the South Indian Śrīvidyā author Bhāskararāya and from the earlier Śaiva author Bhaṭṭa Bhāskara. | web review: The identity and floruit of the Kashmiri author Bhāskarakaṇṭha are well-established in modern scholarship (e.g., Sanderson 2007). The cluster incorrectly merges him with the 18th-century South Indian Śrīvidyā author Bhāskararāya Makhin. I have marked Bhāskarakaṇṭha's works as secure and Bhāskararāya's works as disputed for this person. | All texts in this cluster belong to the famous 18th-century Śrīvidyā authority Bhāskararāya Makhin (dīkṣā name Bhāsurānandanātha), son of Gambhīrarāya. The previous automatic merge with the Kashmiri author Bhāskarakaṇṭha was incorrect, as they are distinct persons. Pandit 86285 correctly identifies him, though with some typos in the works list. | web review: The identity and floruit of the Kashmiri author Bhāskarakaṇṭha are well-established in modern scholarship (e.g., Sanderson 2007). The cluster incorrectly merges him with the 18th-century South Indian Śrīvidyā author Bhāskararāya Makhin. I have marked Bhāskarakaṇṭha's works as secure and Bhāskararāya's works as disputed for this person.",
-  "texts": [
-   "SA_GSP27_motik_1u",
-   "SA_GSP27_motik_2u",
-   "SA_GSP27_motik_3u",
-   "SA_GSP27_motik_4u",
-   "SA_GSP35_sa_bhAskarakaNTha-mokSopAyaTIkA",
-   "SA_MB_IPV_HK",
-   "SA_MB_LallesvarivakyaniHK",
-   "SA_MB_MahaayaagakramaHK",
-   "SA_MB_ilx_mb_bhAskararAya_gurukalA_M00682",
-   "SA_MB_kaulopanisadsHK",
-   "SA_MB_nityaasodasikaarnavaHK",
-   "SA_MB_saubhagyabhaskariHK",
-   "SA_MB_saundaryalahariHK",
-   "SA_MB_varivasyaarahasyaHK"
-  ],
-  "clusters": [
-   "bhāskarakaṇṭha",
-   "bhāskararāya"
-  ],
-  "model": [
-   "pro2+web"
-  ],
-  "flags": [
-   "authority: linked to several Pandit records ['86285', '86415']",
-   "authority: shares Muktabodha id mbP0062 with 'Bhaṭṭa Bhāskara (Śaiva)' but dates differ by 725y (authority record may lump persons)"
-  ],
-  "uids": [
-   "67:0",
-   "68:0"
   ]
  },
  {
@@ -4157,7 +4091,111 @@
   ]
  },
  {
+  "id": "P0AT0266",
+  "label": "Bhāskarakaṇṭha",
+  "names_skt": [
+   "Bhāskarakaṇṭha",
+   "Bhāskara",
+   "Rājānaka Bhāskara"
+  ],
+  "floruit_not_before": 1650,
+  "floruit_not_after": 1700,
+  "origin": "Kashmir",
+  "atii_ids": [
+   "P0AT0266"
+  ],
+  "lumped_atii": [],
+  "pandit_ids": [
+   "86415"
+  ],
+  "new_person": false,
+  "pseudo": false,
+  "status": "OK",
+  "confidence": 1.0,
+  "roles": "ma,tr",
+  "may_be_same_as": [],
+  "not_to_be_confused_with": [
+   "Bhaṭṭa Bhāskara",
+   "Bhāskararāya"
+  ],
+  "candidate_corrections": "Pandit 86415 and 87154 are duplicates of the same person; merging them here.",
+  "justification": "Bhāskarakaṇṭha (also known as Rājānaka Bhāskara) was a Kashmiri scholar who authored the Mokṣopāyaṭīkā, the Bhāskarī commentary on Abhinavagupta's Īśvarapratyabhijñāvimarśinī, the Cittānubodhaśāstra, and a Sanskrit translation of the Lalleśvarīvākyāni. Modern scholarship (e.g., Sanderson 2007) places him in the late 17th century, correcting earlier assumptions of an 18th-century date. He is distinct from the South Indian Śrīvidyā author Bhāskararāya and from the earlier Śaiva author Bhaṭṭa Bhāskara. | web review: The identity and floruit of the Kashmiri author Bhāskarakaṇṭha are well-established in modern scholarship (e.g., Sanderson 2007). The cluster incorrectly merges him with the 18th-century South Indian Śrīvidyā author Bhāskararāya Makhin. I have marked Bhāskarakaṇṭha's works as secure and Bhāskararāya's works as disputed for this person.",
+  "texts": [
+   "SA_GSP27_motik_1u",
+   "SA_GSP27_motik_2u",
+   "SA_GSP27_motik_3u",
+   "SA_GSP27_motik_4u",
+   "SA_GSP35_sa_bhAskarakaNTha-mokSopAyaTIkA",
+   "SA_MB_IPV_HK",
+   "SA_MB_LallesvarivakyaniHK"
+  ],
+  "clusters": [
+   "bhāskarakaṇṭha"
+  ],
+  "model": [
+   "pro2+web"
+  ],
+  "flags": [
+   "authority: shares Muktabodha id mbP0062 with 'Bhaṭṭa Bhāskara (Śaiva)' but dates differ by 725y (authority record may lump persons)",
+   "authority: shares Muktabodha id mbP0062 with 'Bhāskararāya Makhin' but names differ (authority record may lump persons)"
+  ],
+  "uids": [
+   "67:0"
+  ]
+ },
+ {
   "id": "P0SA0027",
+  "label": "Bhāskararāya Makhin",
+  "names_skt": [
+   "Bhāskararāya",
+   "Bhāskararāya Makhin",
+   "Bhāsurānandanātha",
+   "Bhāskara Rāya Dīkṣita"
+  ],
+  "floruit_not_before": 1650,
+  "floruit_not_after": 1700,
+  "origin": "South India / Maharashtra / Varanasi",
+  "atii_ids": [],
+  "lumped_atii": [],
+  "pandit_ids": [
+   "86285"
+  ],
+  "new_person": true,
+  "pseudo": false,
+  "status": "OK",
+  "confidence": 0.99,
+  "roles": "ma",
+  "may_be_same_as": [],
+  "not_to_be_confused_with": [
+   "Bhaṭṭa Bhāskara",
+   "Bhāskarakaṇṭha"
+  ],
+  "candidate_corrections": "Pandit 86285 lists 'Setubodhanī on Amṛtānandanātha's Yoginiḥṛdayadipīkā', which is an error for 'Setubandha on Nityāṣoḍaśikārṇava and Yoginīhṛdaya'. 'Varibhasyarahasya' is a typo for 'Varivasyārahasya'.",
+  "justification": "All texts in this cluster belong to the famous 18th-century Śrīvidyā authority Bhāskararāya Makhin (dīkṣā name Bhāsurānandanātha), son of Gambhīrarāya. The previous automatic merge with the Kashmiri author Bhāskarakaṇṭha was incorrect, as they are distinct persons. Pandit 86285 correctly identifies him, though with some typos in the works list. | web review: The identity and floruit of the Kashmiri author Bhāskarakaṇṭha are well-established in modern scholarship (e.g., Sanderson 2007). The cluster incorrectly merges him with the 18th-century South Indian Śrīvidyā author Bhāskararāya Makhin. I have marked Bhāskarakaṇṭha's works as secure and Bhāskararāya's works as disputed for this person.",
+  "texts": [
+   "SA_MB_MahaayaagakramaHK",
+   "SA_MB_ilx_mb_bhAskararAya_gurukalA_M00682",
+   "SA_MB_kaulopanisadsHK",
+   "SA_MB_nityaasodasikaarnavaHK",
+   "SA_MB_saubhagyabhaskariHK",
+   "SA_MB_saundaryalahariHK",
+   "SA_MB_varivasyaarahasyaHK"
+  ],
+  "clusters": [
+   "bhāskararāya"
+  ],
+  "model": [
+   "pro2+web"
+  ],
+  "flags": [
+   "authority: shares Muktabodha id mbP0062 with 'Bhāskarakaṇṭha' but names differ (authority record may lump persons)"
+  ],
+  "uids": [
+   "68:0"
+  ]
+ },
+ {
+  "id": "P0SA0028",
   "label": "Kevalānanda Sarasvatī",
   "names_skt": [
    "Kevalānanda Sarasvatī",
@@ -4247,7 +4285,7 @@
   ]
  },
  {
-  "id": "P0SA0028",
+  "id": "P0SA0029",
   "label": "Rāmatoṣaṇa Vidyālaṅkāra",
   "names_skt": [
    "Rāmatoṣaṇa Vidyālaṅkāra",
@@ -4292,7 +4330,7 @@
   ]
  },
  {
-  "id": "P0SA0029",
+  "id": "P0SA0030",
   "label": "Nāgārjuna (tantric)",
   "names_skt": [
    "Nāgārjuna",
@@ -4346,7 +4384,7 @@
   ]
  },
  {
-  "id": "P0SA0030",
+  "id": "P0SA0031",
   "label": "Gautama (author of Dharmasūtra)",
   "names_skt": [
    "Gautama"
@@ -4391,7 +4429,7 @@
   ]
  },
  {
-  "id": "P0SA0031",
+  "id": "P0SA0032",
   "label": "Āryadeva (tantric)",
   "names_skt": [
    "Āryadeva"
@@ -4485,7 +4523,7 @@
   ]
  },
  {
-  "id": "P0SA0032",
+  "id": "P0SA0033",
   "label": "Āpastamba",
   "names_skt": [
    "Āpastamba"
@@ -4668,7 +4706,7 @@
   ]
  },
  {
-  "id": "P0SA0033",
+  "id": "P0SA0034",
   "label": "Sadyojyoti",
   "names_skt": [
    "Sadyojyoti",
@@ -4713,7 +4751,7 @@
   ]
  },
  {
-  "id": "P0SA0034",
+  "id": "P0SA0035",
   "label": "Pūrṇānanda",
   "names_skt": [
    "Pūrṇānanda",
@@ -4757,7 +4795,7 @@
   ]
  },
  {
-  "id": "P0SA0035",
+  "id": "P0SA0036",
   "label": "Ānandabodhendra Sarasvatī",
   "names_skt": [
    "Ānandabodhendra Sarasvatī",
@@ -4850,7 +4888,7 @@
   ]
  },
  {
-  "id": "P0SA0036",
+  "id": "P0SA0037",
   "label": "Devaṇabhaṭṭa",
   "names_skt": [
    "Devaṇabhaṭṭa",
@@ -4892,7 +4930,7 @@
   ]
  },
  {
-  "id": "P0SA0037",
+  "id": "P0SA0038",
   "label": "Hemādri",
   "names_skt": [
    "Hemādri"
@@ -4981,7 +5019,7 @@
   ]
  },
  {
-  "id": "P0SA0038",
+  "id": "P0SA0039",
   "label": "Bhoja of Dhārā",
   "names_skt": [
    "Bhoja",
@@ -5076,7 +5114,7 @@
   ]
  },
  {
-  "id": "P0SA0039",
+  "id": "P0SA0040",
   "label": "Bhaṭṭoji Dīkṣita",
   "names_skt": [
    "Bhaṭṭoji Dīkṣita",
@@ -5171,7 +5209,7 @@
   ]
  },
  {
-  "id": "P0SA0040",
+  "id": "P0SA0041",
   "label": "Vātsyāyana Pakṣilasvāmin",
   "names_skt": [
    "Vātsyāyana",
@@ -5218,7 +5256,7 @@
   ]
  },
  {
-  "id": "P0SA0041",
+  "id": "P0SA0042",
   "label": "Parāśara (smṛtikāra)",
   "names_skt": [
    "Parāśara"
@@ -5303,7 +5341,7 @@
   ]
  },
  {
-  "id": "P0SA0042",
+  "id": "P0SA0043",
   "label": "Bhavabhūti",
   "names_skt": [
    "Bhavabhūti",
@@ -5573,7 +5611,7 @@
   ]
  },
  {
-  "id": "P0SA0043",
+  "id": "P0SA0044",
   "label": "Rāghavendratīrtha",
   "names_skt": [
    "Rāghavendratīrtha",
@@ -5861,7 +5899,7 @@
   ]
  },
  {
-  "id": "P0SA0044",
+  "id": "P0SA0045",
   "label": "Cakrapāṇidatta",
   "names_skt": [
    "Cakrapāṇidatta",
@@ -5947,7 +5985,7 @@
   ]
  },
  {
-  "id": "P0SA0045",
+  "id": "P0SA0046",
   "label": "Rāmaśāraka",
   "names_skt": [
    "Rāmaśāraka",
@@ -5988,7 +6026,7 @@
   ]
  },
  {
-  "id": "P0SA0046",
+  "id": "P0SA0047",
   "label": "Jayaratha",
   "names_skt": [
    "Jayaratha",
@@ -6075,7 +6113,7 @@
   ]
  },
  {
-  "id": "P0SA0047",
+  "id": "P0SA0048",
   "label": "Bharata Muni",
   "names_skt": [
    "Bharata",
@@ -6513,7 +6551,7 @@
   ]
  },
  {
-  "id": "P0SA0048",
+  "id": "P0SA0049",
   "label": "Śūnyasamādhivajra",
   "names_skt": [
    "Śūnyasamādhivajra",
@@ -6603,7 +6641,7 @@
   ]
  },
  {
-  "id": "P0SA0049",
+  "id": "P0SA0050",
   "label": "V. Subramaniam",
   "names_skt": [
    "V. Subramaniam",
@@ -6646,7 +6684,7 @@
   ]
  },
  {
-  "id": "P0SA0050",
+  "id": "P0SA0051",
   "label": "Īśānaśivagurudeva",
   "names_skt": [
    "Īśānaśivagurudeva",
@@ -6686,7 +6724,7 @@
   ]
  },
  {
-  "id": "P0SA0051",
+  "id": "P0SA0052",
   "label": "Mañjuśrīyaśas",
   "names_skt": [
    "Mañjuśrīyaśas",
@@ -6729,7 +6767,7 @@
   ]
  },
  {
-  "id": "P0SA0052",
+  "id": "P0SA0053",
   "label": "Kātyāyana (Vararuci)",
   "names_skt": [
    "Kātyāyana",
@@ -6777,7 +6815,7 @@
   ]
  },
  {
-  "id": "P0SA0053",
+  "id": "P0SA0054",
   "label": "Kṛṣṇabrahmatantraparakālasvāmin",
   "names_skt": [
    "Kṛṣṇabrahmatantraparakālasvāmin",
@@ -6822,7 +6860,7 @@
   ]
  },
  {
-  "id": "P0SA0054",
+  "id": "P0SA0055",
   "label": "Kauṇḍabhaṭṭa",
   "names_skt": [
    "Kauṇḍabhaṭṭa",
@@ -6864,7 +6902,7 @@
   ]
  },
  {
-  "id": "P0SA0055",
+  "id": "P0SA0056",
   "label": "Harabhaṭṭa Śāstrī",
   "names_skt": [
    "Harabhaṭṭa Śāstrī",
@@ -6910,7 +6948,7 @@
   ]
  },
  {
-  "id": "P0SA0056",
+  "id": "P0SA0057",
   "label": "Sāhib Kaul",
   "names_skt": [
    "Sāhib Kaul",
@@ -6955,7 +6993,7 @@
   ]
  },
  {
-  "id": "P0SA0057",
+  "id": "P0SA0058",
   "label": "Jñānaprakāśa of Śālivāṭipura",
   "names_skt": [
    "Jñānaprakāśa",
@@ -7000,7 +7038,7 @@
   ]
  },
  {
-  "id": "P0SA0058",
+  "id": "P0SA0059",
   "label": "Prativādibhayaṅkara Aṇṇa",
   "names_skt": [
    "Prativādibhayaṅkara Aṇṇa",
@@ -7090,61 +7128,6 @@
   "uids": [
    "190:0",
    "199:0"
-  ]
- },
- {
-  "id": "P0AT0214",
-  "label": "Yogarāja",
-  "names_skt": [
-   "Yogarāja",
-   "Rājānaka Yogarāja",
-   "Vāmadeva",
-   "Bhaṭṭa Vāmadeva"
-  ],
-  "floruit_not_before": 1050,
-  "floruit_not_after": 1100,
-  "origin": "Kashmir",
-  "atii_ids": [
-   "P0AT0214"
-  ],
-  "lumped_atii": [],
-  "pandit_ids": [
-   "41197",
-   "85377"
-  ],
-  "new_person": false,
-  "pseudo": false,
-  "status": "OK",
-  "confidence": 0.9,
-  "roles": "ma",
-  "may_be_same_as": [
-   "Yogarāja"
-  ],
-  "not_to_be_confused_with": [
-   "Vāmadeva",
-   "Vāmaśambhu (Kalacuri Rājaguru)"
-  ],
-  "candidate_corrections": "ATII P0AT0214 (and Pandit 85377) erroneously conflate Yogarāja with Vāmadeva (author of the Janmamaraṇavicāra). They are distinct authors. | ATII and Pandit merge Vāmadeva with the Kashmiri author Yogarāja. While they belong to a similar milieu and period, this identification is not universally established and they are kept distinct here pending further evidence.",
-  "justification": "Yogarāja is the well-known Kashmiri author of the Vivṛti on Abhinavagupta's Paramārthasāra. As a direct disciple of Kṣemarāja, his floruit is securely placed in the second half of the 11th century. The ATII record conflates him with Vāmadeva. | Bhaṭṭa Vāmadeva is the author of the Janmamaraṇavicāra, a text published in the Kashmir Series of Texts and Studies. Nemec dates the text to 1050–1125. He is distinct from the 11th-century Kalacuri Rājaguru Vāmadeva (Vāmaśambhu) mentioned in inscriptions.",
-  "texts": [
-   "SA_GSP30_aparmyou",
-   "SA_MB_paramarthasaraHK",
-   "SA_GSP30_vamjanmu",
-   "SA_MB_janmamaranavicaaraHK"
-  ],
-  "clusters": [
-   "vāmadeva",
-   "yogarāja"
-  ],
-  "model": [
-   "pro2"
-  ],
-  "flags": [
-   "authority: linked to several Pandit records ['41197', '85377']"
-  ],
-  "uids": [
-   "229:0",
-   "231:0"
   ]
  },
  {
@@ -7328,7 +7311,7 @@
   ]
  },
  {
-  "id": "P0SA0059",
+  "id": "P0SA0060",
   "label": "Bhaṭṭa Nārāyaṇa (Kashmir Śaiva poet)",
   "names_skt": [
    "Bhaṭṭa Nārāyaṇa",
@@ -7414,7 +7397,7 @@
   ]
  },
  {
-  "id": "P0SA0060",
+  "id": "P0SA0061",
   "label": "Nīlakaṇṭha Śivācārya",
   "names_skt": [
    "Nīlakaṇṭha",
@@ -7526,7 +7509,7 @@
   ]
  },
  {
-  "id": "P0SA0061",
+  "id": "P0SA0062",
   "label": "Melputtūr Nārāyaṇa Bhaṭṭatiri",
   "names_skt": [
    "Nārāyaṇabhaṭṭa",
@@ -7569,7 +7552,7 @@
   ]
  },
  {
-  "id": "P0SA0062",
+  "id": "P0SA0063",
   "label": "Allaṭa",
   "names_skt": [
    "Allaṭa",
@@ -7702,7 +7685,7 @@
   ]
  },
  {
-  "id": "P0SA0063",
+  "id": "P0SA0064",
   "label": "Kamalaśīla",
   "names_skt": [
    "Kamalaśīla"
@@ -7745,7 +7728,7 @@
   ]
  },
  {
-  "id": "P0SA0064",
+  "id": "P0SA0065",
   "label": "Pravarasena II",
   "names_skt": [
    "Pravarasena"
@@ -7786,7 +7769,7 @@
   ]
  },
  {
-  "id": "P0SA0065",
+  "id": "P0SA0066",
   "label": "Maskarin",
   "names_skt": [
    "Maskarin",
@@ -8001,7 +7984,7 @@
   ]
  },
  {
-  "id": "P0SA0066",
+  "id": "P0SA0067",
   "label": "Śāntibhikṣu Śāstrī",
   "names_skt": [
    "Śāntibhikṣu Śāstrī",
@@ -8221,7 +8204,7 @@
   ]
  },
  {
-  "id": "P0SA0067",
+  "id": "P0SA0068",
   "label": "Pratāpasiṃha Śāha",
   "names_skt": [
    "Pratāpasiṃha Śāha",
@@ -8259,7 +8242,7 @@
   ]
  },
  {
-  "id": "P0SA0068",
+  "id": "P0SA0069",
   "label": "Bhuvanamohana Sāṅkhyatīrtha",
   "names_skt": [
    "Bhuvanamohana Sāṅkhyatīrtha"
@@ -8298,7 +8281,7 @@
   ]
  },
  {
-  "id": "P0SA0069",
+  "id": "P0SA0070",
   "label": "Varuṇaśiva",
   "names_skt": [
    "Varuṇaśiva",
@@ -8522,7 +8505,7 @@
   ]
  },
  {
-  "id": "P0SA0070",
+  "id": "P0SA0071",
   "label": "Aparārka",
   "names_skt": [
    "Aparārka",
@@ -8567,7 +8550,7 @@
   ]
  },
  {
-  "id": "P0SA0071",
+  "id": "P0SA0072",
   "label": "Bhāruci",
   "names_skt": [
    "Bhāruci"
@@ -8608,7 +8591,7 @@
   ]
  },
  {
-  "id": "P0SA0072",
+  "id": "P0SA0073",
   "label": "Gaṇapati Muni",
   "names_skt": [
    "Gaṇapati Muni",
@@ -8691,7 +8674,7 @@
   ]
  },
  {
-  "id": "P0SA0073",
+  "id": "P0SA0074",
   "label": "Saṅghatrāta",
   "names_skt": [
    "Saṅghatrāta",
@@ -8734,7 +8717,7 @@
   ]
  },
  {
-  "id": "P0SA0074",
+  "id": "P0SA0075",
   "label": "Sarvarakṣita",
   "names_skt": [
    "Sarvarakṣita"
@@ -8771,7 +8754,7 @@
   ]
  },
  {
-  "id": "P0SA0075",
+  "id": "P0SA0076",
   "label": "Vyāsa (commentator on Yogasūtra)",
   "names_skt": [
    "Vyāsa"
@@ -8953,53 +8936,6 @@
   "uids": [
    "260:0",
    "470:0"
-  ]
- },
- {
-  "id": "P0SA0076",
-  "label": "Puṇyānanda",
-  "names_skt": [
-   "Puṇyānanda",
-   "Puṇyānandanātha",
-   "Puṇyānandayogin",
-   "Vimarśānandanātha"
-  ],
-  "floruit_not_before": 1300,
-  "floruit_not_after": 1350,
-  "origin": "South India",
-  "atii_ids": [],
-  "lumped_atii": [],
-  "pandit_ids": [],
-  "new_person": true,
-  "pseudo": false,
-  "status": "X",
-  "confidence": 0.6,
-  "roles": "ma",
-  "may_be_same_as": [
-   "Puṇyānanda",
-   "vimarśānandanātha"
-  ],
-  "not_to_be_confused_with": [],
-  "candidate_corrections": "",
-  "justification": "Puṇyānanda (also known as Puṇyānandanātha or Puṇyānandayogin) is the well-known author of the Kāmakalāvilāsa, a foundational text of the Śrīvidyā tradition. He was the guru of Amṛtānanda (fl. 1325–1375), which securely places his floruit in the first half of the 14th century. | web review: The record conflates Puṇyānanda (14th century), author of the Kāmakalāvilāsa, with Vimarśānandanātha (post-16th century), author of the Kālīkalpalatā. Since the texts cannot be regrouped and the identity of the person in this record is a conflation of two distinct authors living centuries apart, the status must be X. | Vimarśānandanātha is known as the author of the Kālīkalpalatā from its colophons. The previous automated pass suggested a merge with Puṇyānanda, but without further evidence, it is safer to keep him as a separate, obscure Tantric author whose exact dates are unknown. | web review: The record conflates Puṇyānanda (14th century), author of the Kāmakalāvilāsa, with Vimarśānandanātha (post-16th century), author of the Kālīkalpalatā. Since the texts cannot be regrouped and the identity of the person in this record is a conflation of two distinct authors living centuries apart, the status must be X.",
-  "texts": [
-   "SA_MB_kaamakalaavilaasaHK",
-   "SA_MB_kamakalavilasaHK",
-   "SA_MB_kalikalpalataHK"
-  ],
-  "clusters": [
-   "puṇyānanda",
-   "vimarśānandanātha"
-  ],
-  "model": [
-   "pro2+web"
-  ],
-  "flags": [
-   "soft: 1 unverified quote(s)"
-  ],
-  "uids": [
-   "264:0",
-   "533:0"
   ]
  },
  {
@@ -11429,6 +11365,51 @@
   ]
  },
  {
+  "id": "P0AT0214",
+  "label": "Yogarāja",
+  "names_skt": [
+   "Yogarāja",
+   "Rājānaka Yogarāja"
+  ],
+  "floruit_not_before": 1050,
+  "floruit_not_after": 1100,
+  "origin": "Kashmir",
+  "atii_ids": [
+   "P0AT0214"
+  ],
+  "lumped_atii": [],
+  "pandit_ids": [
+   "41197"
+  ],
+  "new_person": false,
+  "pseudo": false,
+  "status": "OK",
+  "confidence": 1.0,
+  "roles": "ma",
+  "may_be_same_as": [],
+  "not_to_be_confused_with": [
+   "Vāmadeva"
+  ],
+  "candidate_corrections": "ATII P0AT0214 (and Pandit 85377) erroneously conflate Yogarāja with Vāmadeva (author of the Janmamaraṇavicāra). They are distinct authors.",
+  "justification": "Yogarāja is the well-known Kashmiri author of the Vivṛti on Abhinavagupta's Paramārthasāra. As a direct disciple of Kṣemarāja, his floruit is securely placed in the second half of the 11th century. The ATII record conflates him with Vāmadeva.",
+  "texts": [
+   "SA_GSP30_aparmyou",
+   "SA_MB_paramarthasaraHK"
+  ],
+  "clusters": [
+   "yogarāja"
+  ],
+  "model": [
+   "pro2"
+  ],
+  "flags": [
+   "authority: shares ATII id P0AT0214 with 'Bhaṭṭa Vāmadeva' but names differ (authority record may lump persons)"
+  ],
+  "uids": [
+   "229:0"
+  ]
+ },
+ {
   "id": "P0AT0265",
   "label": "Avadhūtasiddha",
   "names_skt": [
@@ -11470,6 +11451,54 @@
   ]
  },
  {
+  "id": "P0SA0104",
+  "label": "Bhaṭṭa Vāmadeva",
+  "names_skt": [
+   "Vāmadeva",
+   "Bhaṭṭa Vāmadeva"
+  ],
+  "floruit_not_before": 1050,
+  "floruit_not_after": 1125,
+  "origin": "Kashmir",
+  "atii_ids": [],
+  "lumped_atii": [
+   "P0AT0214"
+  ],
+  "pandit_ids": [
+   "85377"
+  ],
+  "new_person": true,
+  "pseudo": false,
+  "status": "OK",
+  "confidence": 0.9,
+  "roles": "ma",
+  "may_be_same_as": [
+   "Yogarāja"
+  ],
+  "not_to_be_confused_with": [
+   "Vāmaśambhu (Kalacuri Rājaguru)"
+  ],
+  "candidate_corrections": "ATII and Pandit merge Vāmadeva with the Kashmiri author Yogarāja. While they belong to a similar milieu and period, this identification is not universally established and they are kept distinct here pending further evidence.",
+  "justification": "Bhaṭṭa Vāmadeva is the author of the Janmamaraṇavicāra, a text published in the Kashmir Series of Texts and Studies. Nemec dates the text to 1050–1125. He is distinct from the 11th-century Kalacuri Rājaguru Vāmadeva (Vāmaśambhu) mentioned in inscriptions.",
+  "texts": [
+   "SA_GSP30_vamjanmu",
+   "SA_MB_janmamaranavicaaraHK"
+  ],
+  "clusters": [
+   "vāmadeva"
+  ],
+  "model": [
+   "pro2"
+  ],
+  "flags": [
+   "authority: ATII record(s) ['P0AT0214'] already assigned to another person: ATII record lumps several persons; split off",
+   "authority: shares ATII id P0AT0214 with 'Yogarāja' but names differ (authority record may lump persons)"
+  ],
+  "uids": [
+   "231:0"
+  ]
+ },
+ {
   "id": "P0AT0217",
   "label": "Vātūlanātha",
   "names_skt": [
@@ -11508,7 +11537,7 @@
   ]
  },
  {
-  "id": "P0SA0104",
+  "id": "P0SA0105",
   "label": "Anantaśaktipāda",
   "names_skt": [
    "Anantaśaktipāda"
@@ -11633,7 +11662,7 @@
   ]
  },
  {
-  "id": "P0SA0105",
+  "id": "P0SA0106",
   "label": "Jagannāthatīrtha",
   "names_skt": [
    "Jagannāthatīrtha",
@@ -11674,7 +11703,7 @@
   ]
  },
  {
-  "id": "P0SA0106",
+  "id": "P0SA0107",
   "label": "Jagannāthayati",
   "names_skt": [
    "Jagannāthayati",
@@ -11715,7 +11744,7 @@
   ]
  },
  {
-  "id": "P0SA0107",
+  "id": "P0SA0108",
   "label": "Prativādibhayaṅkara Aṇṇaṅgarācārya (20th c.)",
   "names_skt": [
    "Prativādibhayaṅkara Aṇṇaṅgarācārya",
@@ -11799,7 +11828,7 @@
   ]
  },
  {
-  "id": "P0SA0108",
+  "id": "P0SA0109",
   "label": "Rāhulabhadra",
   "names_skt": [
    "Rāhulabhadra"
@@ -11842,7 +11871,7 @@
   ]
  },
  {
-  "id": "P0SA0109",
+  "id": "P0SA0110",
   "label": "Dīpaṃkarabhadra",
   "names_skt": [
    "Dīpaṃkarabhadra",
@@ -11885,7 +11914,7 @@
   ]
  },
  {
-  "id": "P0SA0110",
+  "id": "P0SA0111",
   "label": "Dauḍīpāda",
   "names_skt": [
    "Dauḍīpāda",
@@ -11923,7 +11952,7 @@
   ]
  },
  {
-  "id": "P0SA0111",
+  "id": "P0SA0112",
   "label": "Śūnyasamādhipāda",
   "names_skt": [
    "Śūnyasamādhipāda",
@@ -12008,7 +12037,7 @@
   ]
  },
  {
-  "id": "P0SA0112",
+  "id": "P0SA0113",
   "label": "Prabhākaragupta",
   "names_skt": [
    "Prabhākaragupta"
@@ -12051,7 +12080,7 @@
   ]
  },
  {
-  "id": "P0SA0113",
+  "id": "P0SA0114",
   "label": "Śiromaṇi",
   "names_skt": [
    "Śiromaṇi"
@@ -12298,7 +12327,7 @@
   ]
  },
  {
-  "id": "P0SA0114",
+  "id": "P0SA0115",
   "label": "Karṇakagomin",
   "names_skt": [
    "Karṇakagomin"
@@ -12416,7 +12445,7 @@
   ]
  },
  {
-  "id": "P0SA0115",
+  "id": "P0SA0116",
   "label": "Trilocanaśivācārya",
   "names_skt": [
    "Trilocanaśivācārya",
@@ -12455,7 +12484,7 @@
   ]
  },
  {
-  "id": "P0SA0116",
+  "id": "P0SA0117",
   "label": "Bhojadeva",
   "names_skt": [
    "Bhojadeva",
@@ -12498,7 +12527,50 @@
   ]
  },
  {
-  "id": "P0SA0117",
+  "id": "P0SA0118",
+  "label": "Puṇyānanda",
+  "names_skt": [
+   "Puṇyānanda",
+   "Puṇyānandanātha",
+   "Puṇyānandayogin"
+  ],
+  "floruit_not_before": 1300,
+  "floruit_not_after": 1350,
+  "origin": "South India",
+  "atii_ids": [],
+  "lumped_atii": [],
+  "pandit_ids": [],
+  "new_person": true,
+  "pseudo": false,
+  "status": "OK",
+  "confidence": 1.0,
+  "roles": "ma",
+  "may_be_same_as": [
+   "vimarśānandanātha"
+  ],
+  "not_to_be_confused_with": [],
+  "candidate_corrections": "",
+  "justification": "Puṇyānanda (also known as Puṇyānandanātha or Puṇyānandayogin) is the well-known author of the Kāmakalāvilāsa, a foundational text of the Śrīvidyā tradition. He was the guru of Amṛtānanda (fl. 1325–1375), which securely places his floruit in the first half of the 14th century. | web review: The record conflates Puṇyānanda (14th century), author of the Kāmakalāvilāsa, with Vimarśānandanātha (post-16th century), author of the Kālīkalpalatā. Since the texts cannot be regrouped and the identity of the person in this record is a conflation of two distinct authors living centuries apart, the status must be X.",
+  "texts": [
+   "SA_MB_kaamakalaavilaasaHK",
+   "SA_MB_kamakalavilasaHK"
+  ],
+  "clusters": [
+   "puṇyānanda"
+  ],
+  "model": [
+   "pro2+web"
+  ],
+  "flags": [
+   "authority: shares Muktabodha id mbP0020 with 'Vimarśānandanātha' but names differ (authority record may lump persons)",
+   "soft: 1 unverified quote(s)"
+  ],
+  "uids": [
+   "264:0"
+  ]
+ },
+ {
+  "id": "P0SA0119",
   "label": "Naṭanānanda",
   "names_skt": [
    "Naṭanānanda",
@@ -12535,7 +12607,7 @@
   ]
  },
  {
-  "id": "P0SA0118",
+  "id": "P0SA0120",
   "label": "Rājānaka Lakṣmīrāma",
   "names_skt": [
    "Lakṣmīrāma",
@@ -12577,7 +12649,7 @@
   ]
  },
  {
-  "id": "P0SA0119",
+  "id": "P0SA0121",
   "label": "Śivāgrayogin",
   "names_skt": [
    "Śivāgrayogin",
@@ -12615,7 +12687,7 @@
   ]
  },
  {
-  "id": "P0SA0120",
+  "id": "P0SA0122",
   "label": "Rāghavabhaṭṭa",
   "names_skt": [
    "Rāghavabhaṭṭa",
@@ -12654,7 +12726,7 @@
   ]
  },
  {
-  "id": "P0SA0121",
+  "id": "P0SA0123",
   "label": "Umāpatiśivācārya",
   "names_skt": [
    "Umāpatiśivācārya",
@@ -12691,7 +12763,7 @@
   ]
  },
  {
-  "id": "P0SA0122",
+  "id": "P0SA0124",
   "label": "Brahmānandagiri",
   "names_skt": [
    "Brahmānandagiri",
@@ -12734,7 +12806,7 @@
   ]
  },
  {
-  "id": "P0SA0123",
+  "id": "P0SA0125",
   "label": "Navamīsiṃha",
   "names_skt": [
    "Navamīsiṃha",
@@ -12772,7 +12844,7 @@
   ]
  },
  {
-  "id": "P0SA0124",
+  "id": "P0SA0126",
   "label": "Hāritāyana",
   "names_skt": [
    "Hāritāyana",
@@ -12813,7 +12885,7 @@
   ]
  },
  {
-  "id": "P0SA0125",
+  "id": "P0SA0127",
   "label": "Caraka",
   "names_skt": [
    "Caraka"
@@ -12894,7 +12966,7 @@
   ]
  },
  {
-  "id": "P0SA0126",
+  "id": "P0SA0128",
   "label": "Bhaṭṭa Akalaṅka",
   "names_skt": [
    "Akalaṅka",
@@ -12938,7 +13010,7 @@
   ]
  },
  {
-  "id": "P0SA0127",
+  "id": "P0SA0129",
   "label": "Hemacandra",
   "names_skt": [
    "Hemacandra",
@@ -13108,7 +13180,7 @@
   ]
  },
  {
-  "id": "P0SA0128",
+  "id": "P0SA0130",
   "label": "Jineśvara Sūri (12th c.)",
   "names_skt": [
    "Jineśvara",
@@ -13148,7 +13220,7 @@
   ]
  },
  {
-  "id": "P0SA0129",
+  "id": "P0SA0131",
   "label": "Kamalākarabhaṭṭa",
   "names_skt": [
    "Kamalākarabhaṭṭa",
@@ -13193,7 +13265,7 @@
   ]
  },
  {
-  "id": "P0SA0130",
+  "id": "P0SA0132",
   "label": "Yāska",
   "names_skt": [
    "Yāska"
@@ -13231,7 +13303,7 @@
   ]
  },
  {
-  "id": "P0SA0131",
+  "id": "P0SA0133",
   "label": "Kṣitigarbha",
   "names_skt": [
    "Kṣitigarbha"
@@ -13271,7 +13343,7 @@
   ]
  },
  {
-  "id": "P0SA0132",
+  "id": "P0SA0134",
   "label": "Prakāśātman",
   "names_skt": [
    "Prakāśātman",
@@ -13356,7 +13428,7 @@
   ]
  },
  {
-  "id": "P0SA0133",
+  "id": "P0SA0135",
   "label": "Maritoṇṭadārya",
   "names_skt": [
    "Maritoṇṭadārya",
@@ -13397,7 +13469,7 @@
   ]
  },
  {
-  "id": "P0SA0134",
+  "id": "P0SA0136",
   "label": "Vimalaprabodha",
   "names_skt": [
    "Vimalaprabodha"
@@ -13433,7 +13505,7 @@
   ]
  },
  {
-  "id": "P0SA0135",
+  "id": "P0SA0137",
   "label": "Sadāśiva Brahmendra",
   "names_skt": [
    "Sadāśiva Brahmendra",
@@ -13475,7 +13547,7 @@
   ]
  },
  {
-  "id": "P0SA0136",
+  "id": "P0SA0138",
   "label": "Sureśvara",
   "names_skt": [
    "Sureśvara",
@@ -13514,7 +13586,7 @@
   ]
  },
  {
-  "id": "P0SA0137",
+  "id": "P0SA0139",
   "label": "Nāgārjuna (ayurvedic)",
   "names_skt": [
    "Nāgārjuna"
@@ -13559,7 +13631,7 @@
   ]
  },
  {
-  "id": "P0SA0138",
+  "id": "P0SA0140",
   "label": "Nārāyaṇa Paṇḍitācārya",
   "names_skt": [
    "Nārāyaṇa Paṇḍitācārya",
@@ -13600,7 +13672,7 @@
   ]
  },
  {
-  "id": "P0SA0139",
+  "id": "P0SA0141",
   "label": "pseudo-Upamanyu (attributions)",
   "names_skt": [
    "Upamanyu"
@@ -13678,7 +13750,7 @@
   ]
  },
  {
-  "id": "P0SA0140",
+  "id": "P0SA0142",
   "label": "Samartha Rāmadāsa",
   "names_skt": [
    "Rāmadāsa",
@@ -13719,7 +13791,7 @@
   ]
  },
  {
-  "id": "P0SA0141",
+  "id": "P0SA0143",
   "label": "Kavikarṇapūra",
   "names_skt": [
    "Kavikarṇapūra",
@@ -13760,7 +13832,7 @@
   ]
  },
  {
-  "id": "P0SA0142",
+  "id": "P0SA0144",
   "label": "Vallabhācārya",
   "names_skt": [
    "Vallabhācārya",
@@ -13801,7 +13873,7 @@
   ]
  },
  {
-  "id": "P0SA0143",
+  "id": "P0SA0145",
   "label": "pseudo-Rāvaṇa (attributions)",
   "names_skt": [
    "Rāvaṇa"
@@ -13841,7 +13913,7 @@
   ]
  },
  {
-  "id": "P0SA0144",
+  "id": "P0SA0146",
   "label": "Śaunaka",
   "names_skt": [
    "Śaunaka"
@@ -13927,7 +13999,7 @@
   ]
  },
  {
-  "id": "P0SA0145",
+  "id": "P0SA0147",
   "label": "Maśaka Gārgya",
   "names_skt": [
    "Maśaka",
@@ -14007,7 +14079,7 @@
   ]
  },
  {
-  "id": "P0SA0146",
+  "id": "P0SA0148",
   "label": "Divākaracandra",
   "names_skt": [
    "Divākaracandra"
@@ -14083,61 +14155,7 @@
   ]
  },
  {
-  "id": "?",
-  "label": "Kauṭilya",
-  "names_skt": [
-   "Kauṭilya",
-   "Kauṭalya",
-   "Cāṇakya",
-   "Viṣṇugupta",
-   "Agniveśa"
-  ],
-  "floruit_not_before": -325,
-  "floruit_not_after": -280,
-  "origin": "Ancient India",
-  "atii_ids": [
-   "?"
-  ],
-  "lumped_atii": [],
-  "pandit_ids": [
-   "109692",
-   "40969"
-  ],
-  "new_person": false,
-  "pseudo": false,
-  "status": "X",
-  "confidence": 0.75,
-  "roles": "ma",
-  "may_be_same_as": [],
-  "not_to_be_confused_with": [
-   "Agniveśa (author of Añjananidāna)"
-  ],
-  "candidate_corrections": "The ATII candidate ID was given as '?', so it has been omitted. | The ATII record lacks an ID ('?'). Pandit 40969 records an Agniveśa credited solely with the Añjananidāna, a late medieval ophthalmological treatise; that work is either pseudepigraphic or by a later namesake.",
-  "justification": "The Arthaśāstra is traditionally attributed to Kauṭilya (also known as Cāṇakya or Viṣṇugupta), the chief minister of Candragupta Maurya (late 4th century BCE). However, modern scholarship is deeply divided on the authorship and date of the text. While some scholars (e.g., R.P. Kangle) defend the traditional Mauryan date and single authorship, others (e.g., Thomas Trautmann 1971, Patrick Olivelle 2013) argue based on statistical and historical analysis that the text is a multi-authored compilation from the 2nd or 3rd century CE, possibly incorporating earlier material. The attribution is therefore marked as disputed. The floruit reflects the traditional dates of the historical Kauṭilya. | Agniveśa is traditionally the disciple of Punarvasu Ātreya and the author of the original Agniveśatantra, which forms the mūla text underlying the Carakasaṃhitā (redacted by Caraka in ca. 1st–2nd c. CE and later Dṛḍhabala in ca. 5th c. CE). Because Agniveśa belongs to the semi-legendary early period of Āyurveda and his exact historical dates cannot be established independently of Caraka's redaction, status is X. | web review: Agniveśa is a semi-legendary early figure in Āyurveda. While his identity as the traditional author of the Agniveśatantra (mūla of Carakasaṃhitā) and the Añjananidāna is clear, his historical date cannot be established to within a century. Therefore, the status remains X.",
-  "texts": [
-   "SA_GS38_kautil",
-   "SA_GS40_caraka"
-  ],
-  "clusters": [
-   "agniveśa",
-   "kauṭilya"
-  ],
-  "model": [
-   "flash+web",
-   "pro2"
-  ],
-  "flags": [
-   "linked to several Pandit records ['109692', '40969']",
-   "soft: ATII link ? added (model marked person as existing, single exact-name candidate)",
-   "soft: ATII link ? from web review"
-  ],
-  "uids": [
-   "326:0",
-   "327:0"
-  ]
- },
- {
-  "id": "P0SA0147",
+  "id": "P0SA0149",
   "label": "Jñānaśambhu",
   "names_skt": [
    "Jñānaśambhu",
@@ -14224,7 +14242,7 @@
   ]
  },
  {
-  "id": "P0SA0148",
+  "id": "P0SA0150",
   "label": "Vācaspati Miśra II",
   "names_skt": [
    "Vācaspati Miśra",
@@ -14266,7 +14284,7 @@
   ]
  },
  {
-  "id": "P0SA0149",
+  "id": "P0SA0151",
   "label": "Merutuṅgasūri",
   "names_skt": [
    "Merutuṅgasūri",
@@ -14310,7 +14328,7 @@
   ]
  },
  {
-  "id": "P0SA0150",
+  "id": "P0SA0152",
   "label": "Lakṣmaṇadeśikendra",
   "names_skt": [
    "Lakṣmaṇadeśikendra",
@@ -14400,7 +14418,7 @@
   ]
  },
  {
-  "id": "P0SA0151",
+  "id": "P0SA0153",
   "label": "Śaṅkarabhāratī",
   "names_skt": [
    "Śaṅkarabhāratī",
@@ -14489,7 +14507,7 @@
   ]
  },
  {
-  "id": "P0SA0152",
+  "id": "P0SA0154",
   "label": "Mahādeva (author of Vaijayantī)",
   "names_skt": [
    "Mahādeva",
@@ -14579,7 +14597,7 @@
   ]
  },
  {
-  "id": "P0SA0153",
+  "id": "P0SA0155",
   "label": "Vāgbhaṭa (alchemist)",
   "names_skt": [
    "Vāgbhaṭa"
@@ -14624,7 +14642,7 @@
   ]
  },
  {
-  "id": "P0SA0154",
+  "id": "P0SA0156",
   "label": "Bhaṭṭa Bhāskara (Śaiva)",
   "names_skt": [
    "Bhāskara",
@@ -14667,7 +14685,7 @@
   ]
  },
  {
-  "id": "P0SA0155",
+  "id": "P0SA0157",
   "label": "Śaṅkara (author of Padyavāhinī)",
   "names_skt": [
    "Śaṅkara"
@@ -14705,7 +14723,7 @@
   ]
  },
  {
-  "id": "P0SA0156",
+  "id": "P0SA0158",
   "label": "pseudo-Matsyendranātha (attributions)",
   "names_skt": [
    "Matsyendranātha",
@@ -14741,7 +14759,7 @@
   ]
  },
  {
-  "id": "P0SA0157",
+  "id": "P0SA0159",
   "label": "Kṛṣṇācārya (Dvaita)",
   "names_skt": [
    "Kṛṣṇācārya"
@@ -14778,7 +14796,7 @@
   ]
  },
  {
-  "id": "P0SA0158",
+  "id": "P0SA0160",
   "label": "Śrīdhara (author of Smṛtyarthasāra)",
   "names_skt": [
    "Śrīdhara"
@@ -14813,7 +14831,7 @@
   ]
  },
  {
-  "id": "P0SA0159",
+  "id": "P0SA0161",
   "label": "Śrīdhara (author of Nyāyakandalī)",
   "names_skt": [
    "Śrīdhara"
@@ -14894,7 +14912,7 @@
   ]
  },
  {
-  "id": "P0SA0160",
+  "id": "P0SA0162",
   "label": "Vāmana (grammarian)",
   "names_skt": [
    "Vāmana"
@@ -14980,7 +14998,7 @@
   ]
  },
  {
-  "id": "P0SA0161",
+  "id": "P0SA0163",
   "label": "Samantabhadra (Jaina)",
   "names_skt": [
    "Samantabhadra"
@@ -15027,7 +15045,7 @@
   ]
  },
  {
-  "id": "P0SA0162",
+  "id": "P0SA0164",
   "label": "Nīlakaṇṭha Bhaṭṭa",
   "names_skt": [
    "Nīlakaṇṭha",
@@ -15070,7 +15088,7 @@
   ]
  },
  {
-  "id": "P0SA0163",
+  "id": "P0SA0165",
   "label": "Nīlakaṇṭhayati",
   "names_skt": [
    "Nīlakaṇṭha",
@@ -15146,7 +15164,7 @@
   ]
  },
  {
-  "id": "P0SA0164",
+  "id": "P0SA0166",
   "label": "Āryaśūra III",
   "names_skt": [
    "Āryaśūra",
@@ -15190,7 +15208,7 @@
   ]
  },
  {
-  "id": "P0SA0165",
+  "id": "P0SA0167",
   "label": "Vararuci (author of Sārasamuccaya)",
   "names_skt": [
    "Vararuci"
@@ -15225,7 +15243,7 @@
   ]
  },
  {
-  "id": "P0SA0166",
+  "id": "P0SA0168",
   "label": "Nārāyaṇa Bhaṭṭa of Vārāṇasī",
   "names_skt": [
    "Nārāyaṇa Bhaṭṭa",
@@ -15265,7 +15283,7 @@
   ]
  },
  {
-  "id": "P0SA0167",
+  "id": "P0SA0169",
   "label": "Kātyāyana (author of Karmapradīpa)",
   "names_skt": [
    "Kātyāyana"
@@ -15392,7 +15410,7 @@
   ]
  },
  {
-  "id": "P0SA0168",
+  "id": "P0SA0170",
   "label": "Śrīkaṇṭha (grammarian)",
   "names_skt": [
    "Śrīkaṇṭha"
@@ -15433,7 +15451,7 @@
   ]
  },
  {
-  "id": "P0SA0169",
+  "id": "P0SA0171",
   "label": "Śrīnivāsācārya",
   "names_skt": [
    "Śrīnivāsa",
@@ -15474,7 +15492,7 @@
   ]
  },
  {
-  "id": "P0SA0170",
+  "id": "P0SA0172",
   "label": "Amṛtānanda (Vajrācārya)",
   "names_skt": [
    "Amṛtānanda",
@@ -15512,7 +15530,7 @@
   ]
  },
  {
-  "id": "P0SA0171",
+  "id": "P0SA0173",
   "label": "pseudo-Dharmakīrti (attributions)",
   "names_skt": [
    "Dharmakīrti"
@@ -15551,7 +15569,7 @@
   ]
  },
  {
-  "id": "P0SA0172",
+  "id": "P0SA0174",
   "label": "Viśveśvara (Śaiva ritualist)",
   "names_skt": [
    "Viśveśvara"
@@ -15590,7 +15608,7 @@
   ]
  },
  {
-  "id": "P0SA0173",
+  "id": "P0SA0175",
   "label": "Nandikeśvara (author of Abhinayadarpaṇa)",
   "names_skt": [
    "Nandikeśvara"
@@ -15625,7 +15643,7 @@
   ]
  },
  {
-  "id": "P0SA0174",
+  "id": "P0SA0176",
   "label": "Nandikeśvara (author of Liṅgadhāraṇacandrikā)",
   "names_skt": [
    "Nandikeśvara",
@@ -15664,7 +15682,7 @@
   ]
  },
  {
-  "id": "P0SA0175",
+  "id": "P0SA0177",
   "label": "Jalhaṇa",
   "names_skt": [
    "Jalhaṇa",
@@ -15784,7 +15802,7 @@
   ]
  },
  {
-  "id": "P0SA0176",
+  "id": "P0SA0178",
   "label": "pseudo-Kalhaṇa (attributions)",
   "names_skt": [
    "Kalhaṇa"
@@ -15821,7 +15839,7 @@
   ]
  },
  {
-  "id": "P0SA0177",
+  "id": "P0SA0179",
   "label": "Śrīnivāsamakhin (Vaikhānasa)",
   "names_skt": [
    "Śrīnivāsamakhin",
@@ -15862,7 +15880,7 @@
   ]
  },
  {
-  "id": "P0SA0178",
+  "id": "P0SA0180",
   "label": "Śrīnivāsamakhin (phonetician)",
   "names_skt": [
    "Śrīnivāsamakhin",
@@ -15902,7 +15920,7 @@
   ]
  },
  {
-  "id": "P0SA0179",
+  "id": "P0SA0181",
   "label": "Narahari (author of Rājanighaṇṭu)",
   "names_skt": [
    "Narahari",
@@ -15992,7 +16010,7 @@
   ]
  },
  {
-  "id": "P0SA0180",
+  "id": "P0SA0182",
   "label": "Śaṅkarasvāmin (Buddhist logician)",
   "names_skt": [
    "Śaṅkarasvāmin"
@@ -16081,7 +16099,7 @@
   ]
  },
  {
-  "id": "P0SA0181",
+  "id": "P0SA0183",
   "label": "Vimalaśiva",
   "names_skt": [
    "Vimalaśiva"
@@ -16119,7 +16137,7 @@
   ]
  },
  {
-  "id": "P0SA0182",
+  "id": "P0SA0184",
   "label": "Vimalācārya",
   "names_skt": [
    "Vimalācārya",
@@ -16159,7 +16177,7 @@
   ]
  },
  {
-  "id": "P0SA0183",
+  "id": "P0SA0185",
   "label": "Anantadeva (śikṣākāra)",
   "names_skt": [
    "Anantadeva"
@@ -16199,7 +16217,7 @@
   ]
  },
  {
-  "id": "P0SA0184",
+  "id": "P0SA0186",
   "label": "Anantadeva of Mātṛpura",
   "names_skt": [
    "Anantadeva"
@@ -16239,7 +16257,7 @@
   ]
  },
  {
-  "id": "P0SA0185",
+  "id": "P0SA0187",
   "label": "Mallavādin Kṣamāśramaṇa",
   "names_skt": [
    "Mallavādin",
@@ -16278,7 +16296,7 @@
   ]
  },
  {
-  "id": "P0SA0186",
+  "id": "P0SA0188",
   "label": "Mallavādin (author of Dharmottaraṭippanaka)",
   "names_skt": [
    "Mallavādin"
@@ -16317,7 +16335,7 @@
   ]
  },
  {
-  "id": "P0SA0187",
+  "id": "P0SA0189",
   "label": "Piṅgala (author of Chandaḥsūtra)",
   "names_skt": [
    "Piṅgala",
@@ -16360,7 +16378,7 @@
   ]
  },
  {
-  "id": "P0SA0188",
+  "id": "P0SA0190",
   "label": "Piṅgala (author of Prākṛtapaiṅgala)",
   "names_skt": [
    "Piṅgala",
@@ -16398,7 +16416,7 @@
   ]
  },
  {
-  "id": "P0SA0189",
+  "id": "P0SA0191",
   "label": "Vasiṣṭha (dharmasūtra)",
   "names_skt": [
    "Vasiṣṭha"
@@ -16438,7 +16456,7 @@
   ]
  },
  {
-  "id": "P0SA0190",
+  "id": "P0SA0192",
   "label": "pseudo-Vasiṣṭha (attributions)",
   "names_skt": [
    "Vasiṣṭha"
@@ -16517,7 +16535,7 @@
   ]
  },
  {
-  "id": "P0SA0191",
+  "id": "P0SA0193",
   "label": "pseudo-Padmavajra (attributions)",
   "names_skt": [
    "Padmavajra"
@@ -16552,7 +16570,7 @@
   ]
  },
  {
-  "id": "P0SA0192",
+  "id": "P0SA0194",
   "label": "Laugākṣi",
   "names_skt": [
    "Laugākṣi"
@@ -16589,7 +16607,7 @@
   ]
  },
  {
-  "id": "P0SA0193",
+  "id": "P0SA0195",
   "label": "pseudo-Laugākṣi (attributions)",
   "names_skt": [
    "Laugākṣi"
@@ -16627,7 +16645,7 @@
   ]
  },
  {
-  "id": "P0SA0194",
+  "id": "P0SA0196",
   "label": "Ānandatīrtha (son of Mudgalārya)",
   "names_skt": [
    "Ānandatīrtha"
@@ -16664,7 +16682,7 @@
   ]
  },
  {
-  "id": "P0SA0195",
+  "id": "P0SA0197",
   "label": "Lakṣmīdhara Kavi",
   "names_skt": [
    "Lakṣmīdhara",
@@ -16705,7 +16723,7 @@
   ]
  },
  {
-  "id": "P0SA0196",
+  "id": "P0SA0198",
   "label": "Lakṣmīdhara (commentator)",
   "names_skt": [
    "Lakṣmīdhara",
@@ -16790,7 +16808,7 @@
   ]
  },
  {
-  "id": "P0SA0197",
+  "id": "P0SA0199",
   "label": "Vemabhūpāla",
   "names_skt": [
    "Vemabhūpāla",
@@ -16868,7 +16886,7 @@
   ]
  },
  {
-  "id": "P0SA0198",
+  "id": "P0SA0200",
   "label": "Jinaratna",
   "names_skt": [
    "Jinaratna"
@@ -16903,7 +16921,7 @@
   ]
  },
  {
-  "id": "P0SA0199",
+  "id": "P0SA0201",
   "label": "Murāri",
   "names_skt": [
    "Murāri"
@@ -16944,7 +16962,7 @@
   ]
  },
  {
-  "id": "P0SA0200",
+  "id": "P0SA0202",
   "label": "Śūdraka",
   "names_skt": [
    "Śūdraka"
@@ -16981,7 +16999,7 @@
   ]
  },
  {
-  "id": "P0SA0201",
+  "id": "P0SA0203",
   "label": "Budhasvāmin",
   "names_skt": [
    "Budhasvāmin",
@@ -17017,7 +17035,7 @@
   ]
  },
  {
-  "id": "P0SA0202",
+  "id": "P0SA0204",
   "label": "Rādhādāmodara",
   "names_skt": [
    "Rādhādāmodara",
@@ -17055,7 +17073,86 @@
   ]
  },
  {
-  "id": "P0SA0203",
+  "id": "P0SA0205",
+  "label": "Kauṭilya",
+  "names_skt": [
+   "Kauṭilya",
+   "Kauṭalya",
+   "Cāṇakya",
+   "Viṣṇugupta"
+  ],
+  "floruit_not_before": -325,
+  "floruit_not_after": -280,
+  "origin": "",
+  "atii_ids": [],
+  "lumped_atii": [],
+  "pandit_ids": [
+   "109692"
+  ],
+  "new_person": true,
+  "pseudo": false,
+  "status": "OK",
+  "confidence": 0.9,
+  "roles": "ma",
+  "may_be_same_as": [],
+  "not_to_be_confused_with": [],
+  "candidate_corrections": "The ATII candidate ID was given as '?', so it has been omitted.",
+  "justification": "The Arthaśāstra is traditionally attributed to Kauṭilya (also known as Cāṇakya or Viṣṇugupta), the chief minister of Candragupta Maurya (late 4th century BCE). However, modern scholarship is deeply divided on the authorship and date of the text. While some scholars (e.g., R.P. Kangle) defend the traditional Mauryan date and single authorship, others (e.g., Thomas Trautmann 1971, Patrick Olivelle 2013) argue based on statistical and historical analysis that the text is a multi-authored compilation from the 2nd or 3rd century CE, possibly incorporating earlier material. The attribution is therefore marked as disputed. The floruit reflects the traditional dates of the historical Kauṭilya.",
+  "texts": [
+   "SA_GS38_kautil"
+  ],
+  "clusters": [
+   "kauṭilya"
+  ],
+  "model": [
+   "pro2"
+  ],
+  "flags": [],
+  "uids": [
+   "326:0"
+  ]
+ },
+ {
+  "id": "P0SA0206",
+  "label": "Agniveśa",
+  "names_skt": [
+   "Agniveśa"
+  ],
+  "floruit_not_before": -600,
+  "floruit_not_after": -100,
+  "origin": "Ancient India",
+  "atii_ids": [],
+  "lumped_atii": [],
+  "pandit_ids": [
+   "40969"
+  ],
+  "new_person": true,
+  "pseudo": false,
+  "status": "X",
+  "confidence": 0.75,
+  "roles": "ma",
+  "may_be_same_as": [],
+  "not_to_be_confused_with": [
+   "Agniveśa (author of Añjananidāna)"
+  ],
+  "candidate_corrections": "The ATII record lacks an ID ('?'). Pandit 40969 records an Agniveśa credited solely with the Añjananidāna, a late medieval ophthalmological treatise; that work is either pseudepigraphic or by a later namesake.",
+  "justification": "Agniveśa is traditionally the disciple of Punarvasu Ātreya and the author of the original Agniveśatantra, which forms the mūla text underlying the Carakasaṃhitā (redacted by Caraka in ca. 1st–2nd c. CE and later Dṛḍhabala in ca. 5th c. CE). Because Agniveśa belongs to the semi-legendary early period of Āyurveda and his exact historical dates cannot be established independently of Caraka's redaction, status is X. | web review: Agniveśa is a semi-legendary early figure in Āyurveda. While his identity as the traditional author of the Agniveśatantra (mūla of Carakasaṃhitā) and the Añjananidāna is clear, his historical date cannot be established to within a century. Therefore, the status remains X.",
+  "texts": [
+   "SA_GS40_caraka"
+  ],
+  "clusters": [
+   "agniveśa"
+  ],
+  "model": [
+   "flash+web"
+  ],
+  "flags": [],
+  "uids": [
+   "327:0"
+  ]
+ },
+ {
+  "id": "P0SA0207",
   "label": "Suśruta",
   "names_skt": [
    "Suśruta"
@@ -17092,7 +17189,7 @@
   ]
  },
  {
-  "id": "P0SA0204",
+  "id": "P0SA0208",
   "label": "Āpadeva",
   "names_skt": [
    "Āpadeva"
@@ -17174,7 +17271,7 @@
   ]
  },
  {
-  "id": "P0SA0205",
+  "id": "P0SA0209",
   "label": "Śaṅkarārya",
   "names_skt": [
    "Śaṅkarārya",
@@ -17212,7 +17309,7 @@
   ]
  },
  {
-  "id": "P0SA0206",
+  "id": "P0SA0210",
   "label": "Gobhila",
   "names_skt": [
    "Gobhila"
@@ -17251,7 +17348,7 @@
   ]
  },
  {
-  "id": "P0SA0207",
+  "id": "P0SA0211",
   "label": "Vīryaśrīdatta",
   "names_skt": [
    "Vīryaśrīdatta"
@@ -17415,7 +17512,7 @@
   ]
  },
  {
-  "id": "P0SA0208",
+  "id": "P0SA0212",
   "label": "Pratīhārendurāja",
   "names_skt": [
    "Pratīhārendurāja",
@@ -17497,7 +17594,7 @@
   ]
  },
  {
-  "id": "P0SA0209",
+  "id": "P0SA0213",
   "label": "Mādhava Upādhyāya",
   "names_skt": [
    "Mādhava Upādhyāya",
@@ -17538,7 +17635,7 @@
   ]
  },
  {
-  "id": "P0SA0210",
+  "id": "P0SA0214",
   "label": "Vidyānātha",
   "names_skt": [
    "Vidyānātha"
@@ -17579,7 +17676,7 @@
   ]
  },
  {
-  "id": "P0SA0211",
+  "id": "P0SA0215",
   "label": "Mitradhara",
   "names_skt": [
    "Mitradhara"
@@ -17695,7 +17792,7 @@
   ]
  },
  {
-  "id": "P0SA0212",
+  "id": "P0SA0216",
   "label": "Ghaṭakarpara",
   "names_skt": [
    "Ghaṭakarpara"
@@ -17774,7 +17871,7 @@
   ]
  },
  {
-  "id": "P0SA0213",
+  "id": "P0SA0217",
   "label": "Caitanya",
   "names_skt": [
    "Caitanya",
@@ -17811,7 +17908,7 @@
   ]
  },
  {
-  "id": "P0SA0214",
+  "id": "P0SA0218",
   "label": "Tulsīdās",
   "names_skt": [
    "Tulsīdās",
@@ -17888,7 +17985,7 @@
   ]
  },
  {
-  "id": "P0SA0215",
+  "id": "P0SA0219",
   "label": "Harinārāyaṇa Dīkṣita",
   "names_skt": [
    "Harinārāyaṇa Dīkṣita",
@@ -17965,7 +18062,7 @@
   ]
  },
  {
-  "id": "P0SA0216",
+  "id": "P0SA0220",
   "label": "Dāmodaragupta",
   "names_skt": [
    "Dāmodaragupta"
@@ -18043,7 +18140,7 @@
   ]
  },
  {
-  "id": "P0SA0217",
+  "id": "P0SA0221",
   "label": "Kuśalamiśra",
   "names_skt": [
    "Kuśalamiśra",
@@ -18124,7 +18221,7 @@
   ]
  },
  {
-  "id": "P0SA0218",
+  "id": "P0SA0222",
   "label": "Rāmabhadra Dīkṣita",
   "names_skt": [
    "Rāmabhadra Dīkṣita",
@@ -18164,7 +18261,7 @@
   ]
  },
  {
-  "id": "P0SA0219",
+  "id": "P0SA0223",
   "label": "Śvetāraṇya Nārāyaṇa Śarman",
   "names_skt": [
    "Śvetāraṇya Nārāyaṇa Śarman",
@@ -18200,7 +18297,7 @@
   ]
  },
  {
-  "id": "P0SA0220",
+  "id": "P0SA0224",
   "label": "Gosvāmī Harirāya",
   "names_skt": [
    "Gosvāmī Harirāya",
@@ -18238,7 +18335,7 @@
   ]
  },
  {
-  "id": "P0SA0221",
+  "id": "P0SA0225",
   "label": "pseudo-Laṅkeśvara (attributions)",
   "names_skt": [
    "Laṅkeśvara",
@@ -18562,7 +18659,7 @@
   ]
  },
  {
-  "id": "P0SA0222",
+  "id": "P0SA0226",
   "label": "Viśākhadatta",
   "names_skt": [
    "Viśākhadatta",
@@ -18640,7 +18737,7 @@
   ]
  },
  {
-  "id": "P0SA0223",
+  "id": "P0SA0227",
   "label": "Hemavijayagaṇi",
   "names_skt": [
    "Hemavijaya",
@@ -18719,7 +18816,7 @@
   ]
  },
  {
-  "id": "P0SA0224",
+  "id": "P0SA0228",
   "label": "Vidyānanda",
   "names_skt": [
    "Vidyānanda",
@@ -18760,7 +18857,7 @@
   ]
  },
  {
-  "id": "P0SA0225",
+  "id": "P0SA0229",
   "label": "Ramyadeva Bhaṭṭa",
   "names_skt": [
    "Ramyadeva Bhaṭṭa",
@@ -18798,7 +18895,7 @@
   ]
  },
  {
-  "id": "P0SA0226",
+  "id": "P0SA0230",
   "label": "Kauṇḍinya (Pāśupata)",
   "names_skt": [
    "Kauṇḍinya"
@@ -18836,7 +18933,7 @@
   ]
  },
  {
-  "id": "P0SA0227",
+  "id": "P0SA0231",
   "label": "Puṣpadanta",
   "names_skt": [
    "Puṣpadanta",
@@ -18956,7 +19053,7 @@
   ]
  },
  {
-  "id": "P0SA0228",
+  "id": "P0SA0232",
   "label": "Sanātana Gosvāmin",
   "names_skt": [
    "Sanātana Gosvāmin"
@@ -19078,7 +19175,7 @@
   ]
  },
  {
-  "id": "P0SA0229",
+  "id": "P0SA0233",
   "label": "Govindabhaṭṭācārya Vidyāvinoda",
   "names_skt": [
    "Govindabhaṭṭācārya",
@@ -19277,7 +19374,7 @@
   ]
  },
  {
-  "id": "P0SA0230",
+  "id": "P0SA0234",
   "label": "Devaśarman (pupil of Gaṅgādhara)",
   "names_skt": [
    "Devaśarman"
@@ -19400,7 +19497,7 @@
   ]
  },
  {
-  "id": "P0SA0231",
+  "id": "P0SA0235",
   "label": "pseudo-Purūravas (attributions)",
   "names_skt": [
    "Purūravas"
@@ -19519,7 +19616,7 @@
   ]
  },
  {
-  "id": "P0SA0232",
+  "id": "P0SA0236",
   "label": "Caturbhujamiśra",
   "names_skt": [
    "Caturbhujamiśra"
@@ -19557,7 +19654,7 @@
   ]
  },
  {
-  "id": "P0SA0233",
+  "id": "P0SA0237",
   "label": "Bhūdeva Mukhopādhyāya",
   "names_skt": [
    "Bhūdeva Mukhopādhyāya",
@@ -19720,7 +19817,7 @@
   ]
  },
  {
-  "id": "P0SA0234",
+  "id": "P0SA0238",
   "label": "pseudo-Vāhaṭa (attributions)",
   "names_skt": [
    "Vāhaṭa",
@@ -19759,7 +19856,7 @@
   ]
  },
  {
-  "id": "P0SA0235",
+  "id": "P0SA0239",
   "label": "Nityabodha Vidyāratna",
   "names_skt": [
    "Nityabodhavidyāratna",
@@ -19840,7 +19937,7 @@
   ]
  },
  {
-  "id": "P0SA0236",
+  "id": "P0SA0240",
   "label": "Balabhadra Daivajña",
   "names_skt": [
    "Balabhadra Daivajña",
@@ -19878,7 +19975,7 @@
   ]
  },
  {
-  "id": "P0SA0237",
+  "id": "P0SA0241",
   "label": "Bhāskara I",
   "names_skt": [
    "Bhāskara",
@@ -19917,7 +20014,7 @@
   ]
  },
  {
-  "id": "P0SA0238",
+  "id": "P0SA0242",
   "label": "Someśvara (astronomer)",
   "names_skt": [
    "Someśvara"
@@ -19956,7 +20053,7 @@
   ]
  },
  {
-  "id": "P0SA0239",
+  "id": "P0SA0243",
   "label": "Mantreśvara",
   "names_skt": [
    "Mantreśvara"
@@ -19991,7 +20088,7 @@
   ]
  },
  {
-  "id": "P0SA0240",
+  "id": "P0SA0244",
   "label": "Brahmagupta",
   "names_skt": [
    "Brahmagupta"
@@ -20026,7 +20123,7 @@
   ]
  },
  {
-  "id": "P0SA0241",
+  "id": "P0SA0245",
   "label": "Bṛhaspati (smṛtikāra)",
   "names_skt": [
    "Bṛhaspati"
@@ -20143,7 +20240,7 @@
   ]
  },
  {
-  "id": "P0SA0242",
+  "id": "P0SA0246",
   "label": "Gadādhara Bhaṭṭācārya",
   "names_skt": [
    "Gadādhara Bhaṭṭācārya"
@@ -20224,7 +20321,7 @@
   ]
  },
  {
-  "id": "P0SA0243",
+  "id": "P0SA0247",
   "label": "Siddharṣigaṇin",
   "names_skt": [
    "Siddharṣigaṇin",
@@ -20263,7 +20360,7 @@
   ]
  },
  {
-  "id": "P0SA0244",
+  "id": "P0SA0248",
   "label": "T. Lakṣmaṇācārya",
   "names_skt": [
    "Lakṣmaṇācārya",
@@ -20303,7 +20400,7 @@
   ]
  },
  {
-  "id": "P0SA0245",
+  "id": "P0SA0249",
   "label": "Vyomaśiva",
   "names_skt": [
    "Vyomaśiva"
@@ -20507,7 +20604,7 @@
   ]
  },
  {
-  "id": "P0SA0246",
+  "id": "P0SA0250",
   "label": "Candrānanda",
   "names_skt": [
    "Candrānanda"
@@ -20587,7 +20684,7 @@
   ]
  },
  {
-  "id": "P0SA0247",
+  "id": "P0SA0251",
   "label": "Nimbārka",
   "names_skt": [
    "Nimbārka",
@@ -20628,7 +20725,7 @@
   ]
  },
  {
-  "id": "P0SA0248",
+  "id": "P0SA0252",
   "label": "P. B. Aṇṇaṅgarācārya",
   "names_skt": [
    "Prativādibhayaṅkara Aṇṇaṅgarācārya",
@@ -20666,7 +20763,7 @@
   ]
  },
  {
-  "id": "P0SA0249",
+  "id": "P0SA0253",
   "label": "Avalokitasiṃha",
   "names_skt": [
    "Avalokitasiṃha"
@@ -20701,7 +20798,7 @@
   ]
  },
  {
-  "id": "P0SA0250",
+  "id": "P0SA0254",
   "label": "Candradāsa (author of Āryatārāstuti)",
   "names_skt": [
    "Candradāsa"
@@ -20738,7 +20835,7 @@
   ]
  },
  {
-  "id": "P0SA0251",
+  "id": "P0SA0255",
   "label": "Patañjali (Grammarian)",
   "names_skt": [
    "Patañjali"
@@ -20779,7 +20876,7 @@
   ]
  },
  {
-  "id": "P0SA0252",
+  "id": "P0SA0256",
   "label": "pseudo-Patañjali (attributions)",
   "names_skt": [
    "Patañjali"
@@ -20894,7 +20991,7 @@
   ]
  },
  {
-  "id": "P0SA0253",
+  "id": "P0SA0257",
   "label": "Rāmacandra Kavibhāratī",
   "names_skt": [
    "Rāmacandra Kavibhāratī",
@@ -20931,7 +21028,7 @@
   ]
  },
  {
-  "id": "P0SA0254",
+  "id": "P0SA0258",
   "label": "pseudo-Yaśodharā (attributions)",
   "names_skt": [
    "Yaśodharā"
@@ -20969,7 +21066,7 @@
   ]
  },
  {
-  "id": "P0SA0255",
+  "id": "P0SA0259",
   "label": "Mañjugarbha (mythological)",
   "names_skt": [
    "Mañjugarbha"
@@ -21087,7 +21184,7 @@
   ]
  },
  {
-  "id": "P0SA0256",
+  "id": "P0SA0260",
   "label": "Kukkuripa",
   "names_skt": [
    "Kukkuripa",
@@ -21398,7 +21495,7 @@
   ]
  },
  {
-  "id": "P0SA0257",
+  "id": "P0SA0261",
   "label": "Sīradeva",
   "names_skt": [
    "Sīradeva"
@@ -21435,7 +21532,7 @@
   ]
  },
  {
-  "id": "P0SA0258",
+  "id": "P0SA0262",
   "label": "Phra Suntharnadhammathada",
   "names_skt": [
    "Phra Suntharnadhammathada",
@@ -21473,7 +21570,7 @@
   ]
  },
  {
-  "id": "P0SA0259",
+  "id": "P0SA0263",
   "label": "Dhyānacandra",
   "names_skt": [
    "Dhyānacandra",
@@ -21560,7 +21657,7 @@
   ]
  },
  {
-  "id": "P0SA0260",
+  "id": "P0SA0264",
   "label": "Anaṅgayogin",
   "names_skt": [
    "Anaṅgayogin",
@@ -21636,7 +21733,7 @@
   ]
  },
  {
-  "id": "P0SA0261",
+  "id": "P0SA0265",
   "label": "Rāmaśaṅkara Tripāṭhī",
   "names_skt": [
    "Rāmaśaṅkara Tripāṭhī",
@@ -21675,7 +21772,7 @@
   ]
  },
  {
-  "id": "P0SA0262",
+  "id": "P0SA0266",
   "label": "Kambalapāda (author of Navaślokī)",
   "names_skt": [
    "Kambalapāda",
@@ -21838,7 +21935,7 @@
   ]
  },
  {
-  "id": "P0SA0263",
+  "id": "P0SA0267",
   "label": "Priyānanda",
   "names_skt": [
    "Priyānanda"
@@ -21875,7 +21972,7 @@
   ]
  },
  {
-  "id": "P0SA0264",
+  "id": "P0SA0268",
   "label": "Saṅgharakkhita Mahāsāmi",
   "names_skt": [
    "Saṅgharakkhita",
@@ -22029,7 +22126,7 @@
   ]
  },
  {
-  "id": "P0SA0265",
+  "id": "P0SA0269",
   "label": "Jagannātha Upādhyāya",
   "names_skt": [
    "Jagannātha Upādhyāya"
@@ -22108,7 +22205,7 @@
   ]
  },
  {
-  "id": "P0SA0266",
+  "id": "P0SA0270",
   "label": "Buddhaghoṣa (author of Padyacūḍāmaṇi)",
   "names_skt": [
    "Buddhaghoṣa"
@@ -22147,7 +22244,7 @@
   ]
  },
  {
-  "id": "P0SA0267",
+  "id": "P0SA0271",
   "label": "Sundarānanda",
   "names_skt": [
    "Sundarānanda"
@@ -22184,7 +22281,7 @@
   ]
  },
  {
-  "id": "P0SA0268",
+  "id": "P0SA0272",
   "label": "Jatindra Bimal Chaudhuri",
   "names_skt": [
    "Yatīndravimala Caturdhurīṇa",
@@ -22222,7 +22319,7 @@
   ]
  },
  {
-  "id": "P0SA0269",
+  "id": "P0SA0273",
   "label": "Haradatta (Pāśupata)",
   "names_skt": [
    "Haradatta",
@@ -22301,7 +22398,7 @@
   ]
  },
  {
-  "id": "P0SA0270",
+  "id": "P0SA0274",
   "label": "Bhadravyūha",
   "names_skt": [
    "Bhadravyūha",
@@ -22337,7 +22434,7 @@
   ]
  },
  {
-  "id": "P0SA0271",
+  "id": "P0SA0275",
   "label": "Embar Krishnamacharya",
   "names_skt": [
    "Embar Kṛṣṇamācārya",
@@ -22378,7 +22475,7 @@
   ]
  },
  {
-  "id": "P0SA0272",
+  "id": "P0SA0276",
   "label": "Wangchuk Dorjee Negi",
   "names_skt": [
    "Wangchuk Dorjee Negi",
@@ -22417,7 +22514,7 @@
   ]
  },
  {
-  "id": "P0SA0273",
+  "id": "P0SA0277",
   "label": "Kumāralāta",
   "names_skt": [
    "Kumāralāta"
@@ -22497,7 +22594,7 @@
   ]
  },
  {
-  "id": "P0SA0274",
+  "id": "P0SA0278",
   "label": "Prakāśānanda (author of Cinmantramālinī)",
   "names_skt": [
    "Prakāśānanda"
@@ -22536,7 +22633,7 @@
   ]
  },
  {
-  "id": "P0SA0275",
+  "id": "P0SA0279",
   "label": "Aiyyaṇācārya",
   "names_skt": [
    "Aiyyaṇācārya",
@@ -22572,7 +22669,7 @@
   ]
  },
  {
-  "id": "P0SA0276",
+  "id": "P0SA0280",
   "label": "Śrīkumāra",
   "names_skt": [
    "Śrīkumāra"
@@ -22612,7 +22709,7 @@
   ]
  },
  {
-  "id": "P0SA0277",
+  "id": "P0SA0281",
   "label": "Kṛṣṇānanda Āgamavāgīśa",
   "names_skt": [
    "Kṛṣṇānanda Āgamavāgīśa",
@@ -22648,7 +22745,7 @@
   ]
  },
  {
-  "id": "P0SA0278",
+  "id": "P0SA0282",
   "label": "Śrīvatsa",
   "names_skt": [
    "Śrīvatsa",
@@ -22687,7 +22784,7 @@
   ]
  },
  {
-  "id": "P0SA0279",
+  "id": "P0SA0283",
   "label": "Jīvanātha Śarman",
   "names_skt": [
    "Jīvanātha Śarman",
@@ -22725,7 +22822,7 @@
   ]
  },
  {
-  "id": "P0SA0280",
+  "id": "P0SA0284",
   "label": "Lalleśvarī",
   "names_skt": [
    "Lalleśvarī",
@@ -22762,7 +22859,7 @@
   ]
  },
  {
-  "id": "P0SA0281",
+  "id": "P0SA0285",
   "label": "Śitikaṇṭha (author of Mahānayaprakāśa)",
   "names_skt": [
    "Śitikaṇṭha",
@@ -22806,7 +22903,7 @@
   ]
  },
  {
-  "id": "P0SA0282",
+  "id": "P0SA0286",
   "label": "Maheśvarānanda",
   "names_skt": [
    "Maheśvarānanda",
@@ -22846,7 +22943,7 @@
   ]
  },
  {
-  "id": "P0SA0283",
+  "id": "P0SA0287",
   "label": "Bhaṭṭa Nārāyaṇakaṇṭha",
   "names_skt": [
    "Nārāyaṇakaṇṭha",
@@ -22887,7 +22984,7 @@
   ]
  },
  {
-  "id": "P0SA0284",
+  "id": "P0SA0288",
   "label": "Hariharānanda Bhāratī",
   "names_skt": [
    "Hariharānanda Bhāratī",
@@ -22923,7 +23020,7 @@
   ]
  },
  {
-  "id": "P0SA0285",
+  "id": "P0SA0289",
   "label": "Bhaṭṭāraka Sundara",
   "names_skt": [
    "Bhaṭṭāraka Sundara",
@@ -22959,7 +23056,7 @@
   ]
  },
  {
-  "id": "P0SA0286",
+  "id": "P0SA0290",
   "label": "Devanandanasiṃha",
   "names_skt": [
    "Devanandanasiṃha",
@@ -22995,7 +23092,7 @@
   ]
  },
  {
-  "id": "P0SA0287",
+  "id": "P0SA0291",
   "label": "Narasiṃha Ṭhakkura",
   "names_skt": [
    "Narasiṃha Ṭhakkura",
@@ -23033,7 +23130,7 @@
   ]
  },
  {
-  "id": "P0SA0288",
+  "id": "P0SA0292",
   "label": "Vairocana",
   "names_skt": [
    "Vairocana"
@@ -23071,7 +23168,7 @@
   ]
  },
  {
-  "id": "P0SA0289",
+  "id": "P0SA0293",
   "label": "Bhaṭṭa Kallaṭa",
   "names_skt": [
    "Bhaṭṭa Kallaṭa",
@@ -23108,7 +23205,7 @@
   ]
  },
  {
-  "id": "P0SA0290",
+  "id": "P0SA0294",
   "label": "Śivānandācārya",
   "names_skt": [
    "Śivānandācārya",
@@ -23150,7 +23247,7 @@
   ]
  },
  {
-  "id": "P0SA0291",
+  "id": "P0SA0295",
   "label": "pseudo-Sāmba (attributions)",
   "names_skt": [
    "Sāmba"
@@ -23185,7 +23282,7 @@
   ]
  },
  {
-  "id": "P0SA0292",
+  "id": "P0SA0296",
   "label": "pseudo-Yājñavalkya (attributions)",
   "names_skt": [
    "Yājñavalkya"
@@ -23222,7 +23319,7 @@
   ]
  },
  {
-  "id": "P0SA0293",
+  "id": "P0SA0297",
   "label": "Yadunātha Cakravartin",
   "names_skt": [
    "Yadunātha Cakravartin",
@@ -23258,7 +23355,7 @@
   ]
  },
  {
-  "id": "P0SA0294",
+  "id": "P0SA0298",
   "label": "Sarvānandanātha",
   "names_skt": [
    "Sarvānandanātha",
@@ -23297,7 +23394,7 @@
   ]
  },
  {
-  "id": "P0SA0295",
+  "id": "P0SA0299",
   "label": "Subhagānandanātha",
   "names_skt": [
    "Subhagānandanātha",
@@ -23335,7 +23432,7 @@
   ]
  },
  {
-  "id": "P0SA0296",
+  "id": "P0SA0300",
   "label": "Prakāśānandanātha",
   "names_skt": [
    "Prakāśānandanātha",
@@ -23373,7 +23470,7 @@
   ]
  },
  {
-  "id": "P0SA0297",
+  "id": "P0SA0301",
   "label": "Nirmalamaṇi",
   "names_skt": [
    "Nirmalamaṇi"
@@ -23408,7 +23505,7 @@
   ]
  },
  {
-  "id": "P0SA0298",
+  "id": "P0SA0302",
   "label": "Rājānaka Ānanda",
   "names_skt": [
    "Rājānaka Ānanda",
@@ -23448,7 +23545,7 @@
   ]
  },
  {
-  "id": "P0SA0299",
+  "id": "P0SA0303",
   "label": "Nigamajñānamuni",
   "names_skt": [
    "Nigamajñānamuni",
@@ -23487,7 +23584,7 @@
   ]
  },
  {
-  "id": "P0SA0300",
+  "id": "P0SA0304",
   "label": "Gaṇapatibhaṭṭa",
   "names_skt": [
    "Gaṇapatibhaṭṭa"
@@ -23522,7 +23619,7 @@
   ]
  },
  {
-  "id": "P0SA0301",
+  "id": "P0SA0305",
   "label": "Cidānandanātha (author of Svacchandapaddhati)",
   "names_skt": [
    "Cidānandanātha"
@@ -23562,7 +23659,7 @@
   ]
  },
  {
-  "id": "P0SA0302",
+  "id": "P0SA0306",
   "label": "Gauḍapāda (Sāṃkhya)",
   "names_skt": [
    "Gauḍapāda"
@@ -23604,7 +23701,7 @@
   ]
  },
  {
-  "id": "P0SA0303",
+  "id": "P0SA0307",
   "label": "Śivayogiśivācārya",
   "names_skt": [
    "Śivayogiśivācārya",
@@ -23643,7 +23740,7 @@
   ]
  },
  {
-  "id": "P0SA0304",
+  "id": "P0SA0308",
   "label": "Maritoṇḍadārya",
   "names_skt": [
    "Maritoṇḍadārya",
@@ -23681,7 +23778,7 @@
   ]
  },
  {
-  "id": "P0SA0305",
+  "id": "P0SA0309",
   "label": "Vaktraśambhu",
   "names_skt": [
    "Vaktraśambhu",
@@ -23718,7 +23815,7 @@
   ]
  },
  {
-  "id": "P0SA0306",
+  "id": "P0SA0310",
   "label": "pseudo-Paraśurāma (attributions)",
   "names_skt": [
    "Paraśurāma"
@@ -23755,7 +23852,7 @@
   ]
  },
  {
-  "id": "P0SA0307",
+  "id": "P0SA0311",
   "label": "Rāmeśvara",
   "names_skt": [
    "Rāmeśvara"
@@ -23795,7 +23892,7 @@
   ]
  },
  {
-  "id": "P0SA0308",
+  "id": "P0SA0312",
   "label": "Śivasvāmyupādhyāya",
   "names_skt": [
    "Śivasvāmyupādhyāya",
@@ -23835,7 +23932,7 @@
   ]
  },
  {
-  "id": "P0SA0309",
+  "id": "P0SA0313",
   "label": "Govinda Kaula",
   "names_skt": [
    "Govindakaula",
@@ -23873,7 +23970,7 @@
   ]
  },
  {
-  "id": "P0SA0310",
+  "id": "P0SA0314",
   "label": "Vidyāraṇyayati",
   "names_skt": [
    "Vidyāraṇyayati",
@@ -23911,7 +24008,7 @@
   ]
  },
  {
-  "id": "P0SA0311",
+  "id": "P0SA0315",
   "label": "Trilocanaśiva",
   "names_skt": [
    "Trilocanaśiva",
@@ -23947,7 +24044,7 @@
   ]
  },
  {
-  "id": "P0SA0312",
+  "id": "P0SA0316",
   "label": "Varuṇaśivācārya",
   "names_skt": [
    "Varuṇaśivācārya",
@@ -23983,7 +24080,7 @@
   ]
  },
  {
-  "id": "P0SA0313",
+  "id": "P0SA0317",
   "label": "Devanātha Ṭhakkura Tarkapañcānana",
   "names_skt": [
    "Devanātha Ṭhakkura",
@@ -24020,7 +24117,7 @@
   ]
  },
  {
-  "id": "P0SA0314",
+  "id": "P0SA0318",
   "label": "Jñānānandaparamahaṃsa",
   "names_skt": [
    "Jñānānandaparamahaṃsa",
@@ -24058,7 +24155,7 @@
   ]
  },
  {
-  "id": "P0SA0315",
+  "id": "P0SA0319",
   "label": "Vimalānandasvāmī",
   "names_skt": [
    "Vimalānandasvāmī",
@@ -24095,7 +24192,7 @@
   ]
  },
  {
-  "id": "P0SA0316",
+  "id": "P0SA0320",
   "label": "Mummaḍi Kṛṣṇarāja Voḍeyar (Kṛṣṇarāja III)",
   "names_skt": [
    "Kṛṣṇarāja Voḍeyar III",
@@ -24135,7 +24232,7 @@
   ]
  },
  {
-  "id": "P0SA0317",
+  "id": "P0SA0321",
   "label": "Dakṣiṇāmūrti (author of Uddhārakośa)",
   "names_skt": [
    "Dakṣiṇāmūrti"
@@ -24172,7 +24269,7 @@
   ]
  },
  {
-  "id": "P0SA0318",
+  "id": "P0SA0322",
   "label": "Jagaddhara Bhaṭṭa",
   "names_skt": [
    "Jagaddhara Bhaṭṭa",
@@ -24212,7 +24309,7 @@
   ]
  },
  {
-  "id": "P0SA0319",
+  "id": "P0SA0323",
   "label": "Brahmānanda (author of Jyotsnā)",
   "names_skt": [
    "Brahmānanda"
@@ -24253,7 +24350,7 @@
   ]
  },
  {
-  "id": "P0SA0320",
+  "id": "P0SA0324",
   "label": "Premavallabha Tripāṭhī",
   "names_skt": [
    "Premavallabha Tripāṭhī"
@@ -24288,7 +24385,7 @@
   ]
  },
  {
-  "id": "P0SA0321",
+  "id": "P0SA0325",
   "label": "Guṇākara (Śvetāmbara)",
   "names_skt": [
    "Guṇākara",
@@ -24330,7 +24427,7 @@
   ]
  },
  {
-  "id": "P0SA0322",
+  "id": "P0SA0326",
   "label": "Āśāditya Tripāṭhin",
   "names_skt": [
    "Āśāditya Tripāṭhin",
@@ -24366,7 +24463,46 @@
   ]
  },
  {
-  "id": "P0SA0323",
+  "id": "P0SA0327",
+  "label": "Vimarśānandanātha",
+  "names_skt": [
+   "Vimarśānandanātha"
+  ],
+  "floruit_not_before": 1300,
+  "floruit_not_after": 1350,
+  "origin": "",
+  "atii_ids": [],
+  "lumped_atii": [],
+  "pandit_ids": [],
+  "new_person": true,
+  "pseudo": false,
+  "status": "X",
+  "confidence": 0.6,
+  "roles": "ma",
+  "may_be_same_as": [
+   "Puṇyānanda"
+  ],
+  "not_to_be_confused_with": [],
+  "candidate_corrections": "",
+  "justification": "Vimarśānandanātha is known as the author of the Kālīkalpalatā from its colophons. The previous automated pass suggested a merge with Puṇyānanda, but without further evidence, it is safer to keep him as a separate, obscure Tantric author whose exact dates are unknown. | web review: The record conflates Puṇyānanda (14th century), author of the Kāmakalāvilāsa, with Vimarśānandanātha (post-16th century), author of the Kālīkalpalatā. Since the texts cannot be regrouped and the identity of the person in this record is a conflation of two distinct authors living centuries apart, the status must be X.",
+  "texts": [
+   "SA_MB_kalikalpalataHK"
+  ],
+  "clusters": [
+   "vimarśānandanātha"
+  ],
+  "model": [
+   "pro2+web"
+  ],
+  "flags": [
+   "shares Muktabodha id mbP0020 with 'Puṇyānanda' but names differ (authority record may lump persons)"
+  ],
+  "uids": [
+   "533:0"
+  ]
+ },
+ {
+  "id": "P0SA0328",
   "label": "Hṛdayaśiva",
   "names_skt": [
    "Hṛdayaśiva"
@@ -24403,7 +24539,7 @@
   ]
  },
  {
-  "id": "P0SA0324",
+  "id": "P0SA0329",
   "label": "Dharmācārya (author of Pañcastavī)",
   "names_skt": [
    "Dharmācārya"
@@ -24440,7 +24576,7 @@
   ]
  },
  {
-  "id": "P0SA0325",
+  "id": "P0SA0330",
   "label": "Pṛthvīdharācārya",
   "names_skt": [
    "Pṛthvīdharācārya",
@@ -24478,7 +24614,7 @@
   ]
  },
  {
-  "id": "P0SA0326",
+  "id": "P0SA0331",
   "label": "Padmanābha (author of Bhuvaneśvarīmahāstotrabhāṣya)",
   "names_skt": [
    "Padmanābha",
@@ -24516,7 +24652,7 @@
   ]
  },
  {
-  "id": "P0SA0327",
+  "id": "P0SA0332",
   "label": "Gaṇananāthabhaṭṭa",
   "names_skt": [
    "Gaṇananāthabhaṭṭa",
@@ -24552,7 +24688,7 @@
   ]
  },
  {
-  "id": "P0SA0328",
+  "id": "P0SA0333",
   "label": "Mukunda (author of Saubhāgyataraṅgiṇī)",
   "names_skt": [
    "Mukunda"
@@ -24587,7 +24723,7 @@
   ]
  },
  {
-  "id": "P0SA0329",
+  "id": "P0SA0334",
   "label": "Kāṇḍadvayātītayogī",
   "names_skt": [
    "Kāṇḍadvayātītayogī"
@@ -24622,7 +24758,7 @@
   ]
  },
  {
-  "id": "P0SA0330",
+  "id": "P0SA0335",
   "label": "Ramāramaṇadeva",
   "names_skt": [
    "Ramāramaṇadeva",
@@ -24658,7 +24794,7 @@
   ]
  },
  {
-  "id": "P0SA0331",
+  "id": "P0SA0336",
   "label": "Kacchapeśvaraśivācārya",
   "names_skt": [
    "Kacchapeśvaraśivācārya",
@@ -24695,7 +24831,7 @@
   ]
  },
  {
-  "id": "P0SA0332",
+  "id": "P0SA0337",
   "label": "T. G. Siddapparādhya",
   "names_skt": [
    "Siddapparādhya",
@@ -24733,7 +24869,7 @@
   ]
  },
  {
-  "id": "P0SA0333",
+  "id": "P0SA0338",
   "label": "Śivakumāra Śāstrī",
   "names_skt": [
    "Śivakumāra Śāstrī",
@@ -24770,7 +24906,7 @@
   ]
  },
  {
-  "id": "P0SA0334",
+  "id": "P0SA0339",
   "label": "Lakṣmīnārāyaṇa Gosvāmī",
   "names_skt": [
    "Lakṣmīnārāyaṇa Gosvāmī"
@@ -24808,7 +24944,7 @@
   ]
  },
  {
-  "id": "P0SA0335",
+  "id": "P0SA0340",
   "label": "Svatantrānandanātha",
   "names_skt": [
    "Svatantrānandanātha"
@@ -24843,7 +24979,7 @@
   ]
  },
  {
-  "id": "P0SA0336",
+  "id": "P0SA0341",
   "label": "Śivānanda",
   "names_skt": [
    "Śivānanda",
@@ -24886,7 +25022,7 @@
   ]
  },
  {
-  "id": "P0SA0337",
+  "id": "P0SA0342",
   "label": "Śrīpati Paṇḍitācārya",
   "names_skt": [
    "Śrīpati",
@@ -24927,7 +25063,7 @@
   ]
  },
  {
-  "id": "P0SA0338",
+  "id": "P0SA0343",
   "label": "Ātmasukha",
   "names_skt": [
    "Ātmasukha"
@@ -24964,7 +25100,7 @@
   ]
  },
  {
-  "id": "P0SA0339",
+  "id": "P0SA0344",
   "label": "Mummaḍi Devarāya",
   "names_skt": [
    "Mummaḍi Devarāya",
@@ -25005,7 +25141,7 @@
   ]
  },
  {
-  "id": "P0SA0340",
+  "id": "P0SA0345",
   "label": "Laghubhaṭṭāraka",
   "names_skt": [
    "Laghubhaṭṭāraka",
@@ -25042,7 +25178,7 @@
   ]
  },
  {
-  "id": "P0SA0341",
+  "id": "P0SA0346",
   "label": "Rāghavānanda Muni",
   "names_skt": [
    "Rāghavānanda",
@@ -25084,7 +25220,7 @@
   ]
  },
  {
-  "id": "P0SA0342",
+  "id": "P0SA0347",
   "label": "pseudo-Durvāsas (attributions)",
   "names_skt": [
    "Durvāsas",
@@ -25122,7 +25258,7 @@
   ]
  },
  {
-  "id": "P0SA0343",
+  "id": "P0SA0348",
   "label": "Prāṇamañjarī",
   "names_skt": [
    "Prāṇamañjarī"
@@ -25157,7 +25293,7 @@
   ]
  },
  {
-  "id": "P0SA0344",
+  "id": "P0SA0349",
   "label": "Bhaṭṭanāga",
   "names_skt": [
    "Bhaṭṭanāga",
@@ -25193,7 +25329,7 @@
   ]
  },
  {
-  "id": "P0SA0345",
+  "id": "P0SA0350",
   "label": "Varuṇaśivācārya",
   "names_skt": [
    "Varuṇa",
@@ -25233,7 +25369,7 @@
   ]
  },
  {
-  "id": "P0SA0346",
+  "id": "P0SA0351",
   "label": "Bhaṭṭa Śivottama",
   "names_skt": [
    "Bhaṭṭa Śivottama",
@@ -25310,7 +25446,7 @@
   ]
  },
  {
-  "id": "P0SA0347",
+  "id": "P0SA0352",
   "label": "Jñānacandra",
   "names_skt": [
    "Jñānacandra",
@@ -25349,7 +25485,7 @@
   ]
  },
  {
-  "id": "P0SA0348",
+  "id": "P0SA0353",
   "label": "Ghanadeva",
   "names_skt": [
    "Ghanadeva",
@@ -25507,7 +25643,7 @@
   ]
  },
  {
-  "id": "P0SA0349",
+  "id": "P0SA0354",
   "label": "Saroruha",
   "names_skt": [
    "Saroruha",
@@ -25586,7 +25722,7 @@
   ]
  },
  {
-  "id": "P0SA0350",
+  "id": "P0SA0355",
   "label": "Muniśrībhadra",
   "names_skt": [
    "Muniśrībhadra",
@@ -25624,7 +25760,7 @@
   ]
  },
  {
-  "id": "P0SA0351",
+  "id": "P0SA0356",
   "label": "Dharmākaraśānti",
   "names_skt": [
    "Dharmākaraśānti"
@@ -25663,7 +25799,7 @@
   ]
  },
  {
-  "id": "P0SA0352",
+  "id": "P0SA0357",
   "label": "Siṃhasūri",
   "names_skt": [
    "Siṃhasūri",
@@ -25700,7 +25836,7 @@
   ]
  },
  {
-  "id": "P0SA0353",
+  "id": "P0SA0358",
   "label": "Anantavīrya",
   "names_skt": [
    "Anantavīrya"
@@ -25737,7 +25873,7 @@
   ]
  },
  {
-  "id": "P0SA0354",
+  "id": "P0SA0359",
   "label": "Umāsvāti",
   "names_skt": [
    "Umāsvāti",
@@ -25776,7 +25912,7 @@
   ]
  },
  {
-  "id": "P0SA0355",
+  "id": "P0SA0360",
   "label": "Pūjyapāda Devanandin",
   "names_skt": [
    "Pūjyapāda",
@@ -25816,7 +25952,7 @@
   ]
  },
  {
-  "id": "P0SA0356",
+  "id": "P0SA0361",
   "label": "Jñānadāsa",
   "names_skt": [
    "Jñānadāsa"
@@ -25851,7 +25987,7 @@
   ]
  },
  {
-  "id": "P0SA0357",
+  "id": "P0SA0362",
   "label": "Bhela",
   "names_skt": [
    "Bhela",
@@ -25890,7 +26026,7 @@
   ]
  },
  {
-  "id": "P0SA0358",
+  "id": "P0SA0363",
   "label": "Vṛnda",
   "names_skt": [
    "Vṛnda"
@@ -25974,7 +26110,7 @@
   ]
  },
  {
-  "id": "P0SA0359",
+  "id": "P0SA0364",
   "label": "Śrīdharadāsa",
   "names_skt": [
    "Śrīdharadāsa"
@@ -26009,7 +26145,7 @@
   ]
  },
  {
-  "id": "P0SA0360",
+  "id": "P0SA0365",
   "label": "Ratneśvara",
   "names_skt": [
    "Ratneśvara"
@@ -26091,7 +26227,7 @@
   ]
  },
  {
-  "id": "P0SA0361",
+  "id": "P0SA0366",
   "label": "pseudo-Āryadeva (attributions)",
   "names_skt": [
    "Āryadeva"
@@ -26128,7 +26264,7 @@
   ]
  },
  {
-  "id": "P0SA0362",
+  "id": "P0SA0367",
   "label": "Bhadrapāda",
   "names_skt": [
    "Bhadrapāda",
@@ -26166,7 +26302,7 @@
   ]
  },
  {
-  "id": "P0SA0363",
+  "id": "P0SA0368",
   "label": "Varāhasvāmin",
   "names_skt": [
    "Varāhasvāmin",
@@ -26321,7 +26457,7 @@
   ]
  },
  {
-  "id": "P0SA0364",
+  "id": "P0SA0369",
   "label": "Chappaṇṇaya",
   "names_skt": [
    "Chappaṇṇaya",
@@ -26358,7 +26494,7 @@
   ]
  },
  {
-  "id": "P0SA0365",
+  "id": "P0SA0370",
   "label": "Dhanapāla",
   "names_skt": [
    "Dhanapāla",
@@ -26396,7 +26532,7 @@
   ]
  },
  {
-  "id": "P0SA0366",
+  "id": "P0SA0371",
   "label": "Dhaneśvara Muni",
   "names_skt": [
    "Dhaneśvara",
@@ -26438,7 +26574,7 @@
   ]
  },
  {
-  "id": "P0SA0367",
+  "id": "P0SA0372",
   "label": "Jayavallabha",
   "names_skt": [
    "Jayavallabha"
@@ -26473,7 +26609,7 @@
   ]
  },
  {
-  "id": "P0SA0368",
+  "id": "P0SA0373",
   "label": "Koūhala",
   "names_skt": [
    "Kautūhala",
@@ -26509,7 +26645,7 @@
   ]
  },
  {
-  "id": "P0SA0369",
+  "id": "P0SA0374",
   "label": "Vimalasūri",
   "names_skt": [
    "Vimalasūri",
@@ -26548,7 +26684,7 @@
   ]
  },
  {
-  "id": "P0SA0370",
+  "id": "P0SA0375",
   "label": "Vākpatirāja",
   "names_skt": [
    "Vākpatirāja",
@@ -26589,7 +26725,7 @@
   ]
  },
  {
-  "id": "P0SA0371",
+  "id": "P0SA0376",
   "label": "Bhadrabāhu II",
   "names_skt": [
    "Bhadrabāhu"
@@ -26628,7 +26764,7 @@
   ]
  },
  {
-  "id": "P0SA0372",
+  "id": "P0SA0377",
   "label": "Mpu Ḍusun",
   "names_skt": [
    "Mpu Ḍusun",
@@ -26664,7 +26800,7 @@
   ]
  },
  {
-  "id": "P0SA0373",
+  "id": "P0SA0378",
   "label": "Rādhasvāmin",
   "names_skt": [
    "Rādhasvāmin",
@@ -26818,7 +26954,7 @@
   ]
  },
  {
-  "id": "P0SA0374",
+  "id": "P0SA0379",
   "label": "Govindarāja",
   "names_skt": [
    "Govindarāja"
@@ -26858,7 +26994,7 @@
   ]
  },
  {
-  "id": "P0SA0375",
+  "id": "P0SA0380",
   "label": "Jīmūtavāhana",
   "names_skt": [
    "Jīmūtavāhana"
@@ -26897,7 +27033,7 @@
   ]
  },
  {
-  "id": "P0SA0376",
+  "id": "P0SA0381",
   "label": "Kāmandaki",
   "names_skt": [
    "Kāmandaki",
@@ -26937,7 +27073,7 @@
   ]
  },
  {
-  "id": "P0SA0377",
+  "id": "P0SA0382",
   "label": "Kullūkabhaṭṭa",
   "names_skt": [
    "Kullūka",
@@ -26975,7 +27111,7 @@
   ]
  },
  {
-  "id": "P0SA0378",
+  "id": "P0SA0383",
   "label": "Nārada (jurist)",
   "names_skt": [
    "Nārada"
@@ -27012,7 +27148,7 @@
   ]
  },
  {
-  "id": "P0SA0379",
+  "id": "P0SA0384",
   "label": "Madanasiṃha",
   "names_skt": [
    "Madanasiṃha",
@@ -27050,7 +27186,7 @@
   ]
  },
  {
-  "id": "P0SA0380",
+  "id": "P0SA0385",
   "label": "Baudhāyana",
   "names_skt": [
    "Baudhāyana",
@@ -27090,7 +27226,7 @@
   ]
  },
  {
-  "id": "P0SA0381",
+  "id": "P0SA0386",
   "label": "Pratāparudradeva Gajapati",
   "names_skt": [
    "Pratāparudra",
@@ -27131,7 +27267,7 @@
   ]
  },
  {
-  "id": "P0SA0382",
+  "id": "P0SA0387",
   "label": "Raghunandana Bhaṭṭācārya",
   "names_skt": [
    "Raghunandana",
@@ -27169,7 +27305,7 @@
   ]
  },
  {
-  "id": "P0SA0383",
+  "id": "P0SA0388",
   "label": "Dakṣa",
   "names_skt": [
    "Dakṣa"
@@ -27206,7 +27342,7 @@
   ]
  },
  {
-  "id": "P0SA0384",
+  "id": "P0SA0389",
   "label": "Patrick Olivelle",
   "names_skt": [
    "Patrick Olivelle"
@@ -27243,7 +27379,7 @@
   ]
  },
  {
-  "id": "P0SA0385",
+  "id": "P0SA0390",
   "label": "Viśvarūpa",
   "names_skt": [
    "Viśvarūpa"
@@ -27283,7 +27419,7 @@
   ]
  },
  {
-  "id": "P0SA0386",
+  "id": "P0SA0391",
   "label": "Yādavaprakāśa",
   "names_skt": [
    "Yādavaprakāśa",
@@ -27361,7 +27497,7 @@
   ]
  },
  {
-  "id": "P0SA0387",
+  "id": "P0SA0392",
   "label": "Ādiśeṣa",
   "names_skt": [
    "Ādiśeṣa",
@@ -27403,7 +27539,7 @@
   ]
  },
  {
-  "id": "P0SA0388",
+  "id": "P0SA0393",
   "label": "Kapardisvāmin",
   "names_skt": [
    "Kapardisvāmin",
@@ -27439,7 +27575,7 @@
   ]
  },
  {
-  "id": "P0SA0389",
+  "id": "P0SA0394",
   "label": "Karavindasvāmin",
   "names_skt": [
    "Karavinda",
@@ -27475,7 +27611,7 @@
   ]
  },
  {
-  "id": "P0SA0390",
+  "id": "P0SA0395",
   "label": "Sundararāja",
   "names_skt": [
    "Sundararāja"
@@ -27510,7 +27646,7 @@
   ]
  },
  {
-  "id": "P0SA0391",
+  "id": "P0SA0396",
   "label": "Yuvarāja of Koṭiliṅgapura",
   "names_skt": [
    "Yuvarāja",
@@ -27548,7 +27684,7 @@
   ]
  },
  {
-  "id": "P0SA0392",
+  "id": "P0SA0397",
   "label": "Lolimbarāja",
   "names_skt": [
    "Lolimbarāja"
@@ -27585,7 +27721,7 @@
   ]
  },
  {
-  "id": "P0SA0393",
+  "id": "P0SA0398",
   "label": "Kṣamā Rāva",
   "names_skt": [
    "Kṣamā Rāva",
@@ -27623,7 +27759,7 @@
   ]
  },
  {
-  "id": "P0SA0394",
+  "id": "P0SA0399",
   "label": "Ravideva (author of Rākṣasakāvya)",
   "names_skt": [
    "Ravideva"
@@ -27660,7 +27796,7 @@
   ]
  },
  {
-  "id": "P0SA0395",
+  "id": "P0SA0400",
   "label": "Kulacēkara Āḻvār",
   "names_skt": [
    "Kulacēkara Āḻvār",
@@ -27699,7 +27835,7 @@
   ]
  },
  {
-  "id": "P0SA0396",
+  "id": "P0SA0401",
   "label": "Periyavāccāṉ Piḷḷai",
   "names_skt": [
    "Periyavāccāṉ Piḷḷai",
@@ -27738,7 +27874,7 @@
   ]
  },
  {
-  "id": "P0SA0397",
+  "id": "P0SA0402",
   "label": "Anubhūtisvarūpācārya",
   "names_skt": [
    "Anubhūtisvarūpācārya",
@@ -27776,7 +27912,7 @@
   ]
  },
  {
-  "id": "P0SA0398",
+  "id": "P0SA0403",
   "label": "Pūrṇasarasvatī",
   "names_skt": [
    "Pūrṇasarasvatī"
@@ -27813,7 +27949,7 @@
   ]
  },
  {
-  "id": "P0SA0399",
+  "id": "P0SA0404",
   "label": "Indranandin (10th c.)",
   "names_skt": [
    "Indranandin"
@@ -27890,7 +28026,7 @@
   ]
  },
  {
-  "id": "P0SA0400",
+  "id": "P0SA0405",
   "label": "Dakṣiṇāvartanātha",
   "names_skt": [
    "Dakṣiṇāvartanātha"
@@ -27927,7 +28063,7 @@
   ]
  },
  {
-  "id": "P0SA0401",
+  "id": "P0SA0406",
   "label": "Mallinātha",
   "names_skt": [
    "Mallinātha",
@@ -27969,7 +28105,7 @@
   ]
  },
  {
-  "id": "P0SA0402",
+  "id": "P0SA0407",
   "label": "Sumativijaya",
   "names_skt": [
    "Sumativijaya",
@@ -28007,7 +28143,7 @@
   ]
  },
  {
-  "id": "P0SA0403",
+  "id": "P0SA0408",
   "label": "Malliṣeṇasūri",
   "names_skt": [
    "Malliṣeṇasūri",
@@ -28045,7 +28181,7 @@
   ]
  },
  {
-  "id": "P0SA0404",
+  "id": "P0SA0409",
   "label": "Bandhuṣeṇa",
   "names_skt": [
    "Bandhuṣeṇa"
@@ -28080,7 +28216,7 @@
   ]
  },
  {
-  "id": "P0SA0405",
+  "id": "P0SA0410",
   "label": "Someśvaradeva",
   "names_skt": [
    "Someśvaradeva",
@@ -28120,7 +28256,7 @@
   ]
  },
  {
-  "id": "P0SA0406",
+  "id": "P0SA0411",
   "label": "Lakṣmaṇa Dīkṣita",
   "names_skt": [
    "Lakṣmaṇa",
@@ -28161,7 +28297,7 @@
   ]
  },
  {
-  "id": "P0SA0407",
+  "id": "P0SA0412",
   "label": "Śarvavarman",
   "names_skt": [
    "Śarvavarman"
@@ -28240,7 +28376,7 @@
   ]
  },
  {
-  "id": "P0SA0408",
+  "id": "P0SA0413",
   "label": "Ānandavana",
   "names_skt": [
    "Ānandavana"
@@ -28275,7 +28411,7 @@
   ]
  },
  {
-  "id": "P0SA0409",
+  "id": "P0SA0414",
   "label": "Nigamajñānadeśika",
   "names_skt": [
    "Nigamajñānadeśika",
@@ -28312,7 +28448,7 @@
   ]
  },
  {
-  "id": "P0SA0410",
+  "id": "P0SA0415",
   "label": "Śeṣaśāstrī (son of Veṅkaṭeśa)",
   "names_skt": [
    "Śeṣaśāstrī",
@@ -28348,7 +28484,7 @@
   ]
  },
  {
-  "id": "P0SA0411",
+  "id": "P0SA0416",
   "label": "Saṃpādanasiddhavīra",
   "names_skt": [
    "Saṃpādanasiddhavīra",
@@ -28386,7 +28522,7 @@
   ]
  },
  {
-  "id": "P0SA0412",
+  "id": "P0SA0417",
   "label": "Anantaśambhu",
   "names_skt": [
    "Anantaśambhu",
@@ -28424,7 +28560,7 @@
   ]
  },
  {
-  "id": "P0SA0413",
+  "id": "P0SA0418",
   "label": "Bhānudīkṣita",
   "names_skt": [
    "भानुदीक्षित",
@@ -28464,7 +28600,7 @@
   ]
  },
  {
-  "id": "P0SA0414",
+  "id": "P0SA0419",
   "label": "Vidyākaṇṭha II",
   "names_skt": [
    "Vidyākaṇṭha",
@@ -28502,7 +28638,7 @@
   ]
  },
  {
-  "id": "P0SA0415",
+  "id": "P0SA0420",
   "label": "Utpala Vaiṣṇava",
   "names_skt": [
    "Bhagavatutpala",
@@ -28541,7 +28677,7 @@
   ]
  },
  {
-  "id": "P0SA0416",
+  "id": "P0SA0421",
   "label": "Pañcākṣaranātha",
   "names_skt": [
    "Pañcākṣaranātha"
@@ -28576,7 +28712,7 @@
   ]
  },
  {
-  "id": "P0SA0417",
+  "id": "P0SA0422",
   "label": "Cannabasaveśvara (Sudhāpura)",
   "names_skt": [
    "Cannabasaveśvara",
@@ -28615,7 +28751,7 @@
   ]
  },
  {
-  "id": "P0SA0418",
+  "id": "P0SA0423",
   "label": "Dāmodara, son of Gaṅgādhara",
   "names_skt": [
    "Dāmodara"
@@ -28657,7 +28793,7 @@
   ]
  },
  {
-  "id": "P0SA0419",
+  "id": "P0SA0424",
   "label": "Kṛṣṇakavi (Kashmiri)",
   "names_skt": [
    "Kṛṣṇakavi",
@@ -28697,7 +28833,7 @@
   ]
  },
  {
-  "id": "P0SA0420",
+  "id": "P0SA0425",
   "label": "Rūpa Bhavānī",
   "names_skt": [
    "Rūpa Bhavānī",
@@ -28734,7 +28870,7 @@
   ]
  },
  {
-  "id": "P0SA0421",
+  "id": "P0SA0426",
   "label": "Gosvāmin Janārdanabhaṭṭa",
   "names_skt": [
    "Janārdanabhaṭṭa",
@@ -28775,7 +28911,7 @@
   ]
  },
  {
-  "id": "P0SA0422",
+  "id": "P0SA0427",
   "label": "Rāmeśvara Adhvarin",
   "names_skt": [
    "Rāmeśvara Adhvarin",
@@ -28811,7 +28947,7 @@
   ]
  },
  {
-  "id": "P0SA0423",
+  "id": "P0SA0428",
   "label": "Mānasarāma",
   "names_skt": [
    "Mānasarāma"
@@ -28848,7 +28984,7 @@
   ]
  },
  {
-  "id": "P0SA0424",
+  "id": "P0SA0429",
   "label": "Maheśvarācārya",
   "names_skt": [
    "Maheśvarācārya",
@@ -28887,7 +29023,7 @@
   ]
  },
  {
-  "id": "P0SA0425",
+  "id": "P0SA0430",
   "label": "Maunappapaṇḍita",
   "names_skt": [
    "Maunappapaṇḍita",
@@ -28923,7 +29059,7 @@
   ]
  },
  {
-  "id": "P0SA0426",
+  "id": "P0SA0431",
   "label": "Rāmakiśora",
   "names_skt": [
    "Rāmakiśora"
@@ -28960,7 +29096,7 @@
   ]
  },
  {
-  "id": "P0SA0427",
+  "id": "P0SA0432",
   "label": "Nāgabhaṭṭa",
   "names_skt": [
    "Nāgabhaṭṭa"
@@ -28998,7 +29134,7 @@
   ]
  },
  {
-  "id": "P0SA0428",
+  "id": "P0SA0433",
   "label": "Govindācārya",
   "names_skt": [
    "Govindācārya"
@@ -29037,7 +29173,7 @@
   ]
  },
  {
-  "id": "P0SA0429",
+  "id": "P0SA0434",
   "label": "Takṣakavarta",
   "names_skt": [
    "Takṣakavarta",
@@ -29073,7 +29209,7 @@
   ]
  },
  {
-  "id": "P0SA0430",
+  "id": "P0SA0435",
   "label": "Sosale Vīraṇārādhya",
   "names_skt": [
    "Vīraṇārādhya",
@@ -29111,7 +29247,7 @@
   ]
  },
  {
-  "id": "P0SA0431",
+  "id": "P0SA0436",
   "label": "Sosale Revaṇārādhya",
   "names_skt": [
    "Revaṇārādhya",
@@ -29147,7 +29283,7 @@
   ]
  },
  {
-  "id": "P0SA0432",
+  "id": "P0SA0437",
   "label": "Rāmasiṃha (compiler of Sāvaratantramantrasaṃgraha)",
   "names_skt": [
    "Rāmasiṃha"
@@ -29186,7 +29322,7 @@
   ]
  },
  {
-  "id": "P0SA0433",
+  "id": "P0SA0438",
   "label": "Sūtradhāra Maṇḍana",
   "names_skt": [
    "Maṇḍana",
@@ -29224,7 +29360,7 @@
   ]
  },
  {
-  "id": "P0SA0434",
+  "id": "P0SA0439",
   "label": "Vidyānandanātha (Śrīnivāsa Bhaṭṭa Gosvāmin)",
   "names_skt": [
    "Vidyānandanātha",
@@ -29264,7 +29400,7 @@
   ]
  },
  {
-  "id": "P0SA0435",
+  "id": "P0SA0440",
   "label": "Acyutakṛṣṇānandatīrtha",
   "names_skt": [
    "Acyutakṛṣṇānandatīrtha",
@@ -29300,7 +29436,7 @@
   ]
  },
  {
-  "id": "P0SA0436",
+  "id": "P0SA0441",
   "label": "Somanātha (son of Maheśa)",
   "names_skt": [
    "Somanātha"
@@ -29339,7 +29475,7 @@
   ]
  },
  {
-  "id": "P0SA0437",
+  "id": "P0SA0442",
   "label": "Araśūrī Tyāgarāyaguru",
   "names_skt": [
    "Tyāgarāyaguru",
@@ -29375,7 +29511,7 @@
   ]
  },
  {
-  "id": "P0SA0438",
+  "id": "P0SA0443",
   "label": "Buddhirāja",
   "names_skt": [
    "Buddhirāja"
@@ -29412,7 +29548,7 @@
   ]
  },
  {
-  "id": "P0SA0439",
+  "id": "P0SA0444",
   "label": "Vīracannabasava",
   "names_skt": [
    "Vīracannabasava",
@@ -29448,7 +29584,7 @@
   ]
  },
  {
-  "id": "P0SA0440",
+  "id": "P0SA0445",
   "label": "Gurudeva",
   "names_skt": [
    "Gurudeva"
@@ -29488,7 +29624,7 @@
   ]
  },
  {
-  "id": "P0SA0441",
+  "id": "P0SA0446",
   "label": "Vīrabhadrārādhya",
   "names_skt": [
    "Vīrabhadrārādhya"
@@ -29523,7 +29659,7 @@
   ]
  },
  {
-  "id": "P0SA0442",
+  "id": "P0SA0447",
   "label": "Niṣṭhūra Nañjaṇa",
   "names_skt": [
    "Niṣṭhūra Nañjaṇa",
@@ -29560,7 +29696,7 @@
   ]
  },
  {
-  "id": "P0SA0443",
+  "id": "P0SA0448",
   "label": "Vimalānanda",
   "names_skt": [
    "Vimalānanda",
@@ -29599,7 +29735,7 @@
   ]
  },
  {
-  "id": "P0SA0444",
+  "id": "P0SA0449",
   "label": "Virūpākṣanātha (author of Virūpākṣapañcāśikā)",
   "names_skt": [
    "Virūpākṣanātha",
@@ -29635,7 +29771,7 @@
   ]
  },
  {
-  "id": "P0SA0445",
+  "id": "P0SA0450",
   "label": "Liṅgarāja",
   "names_skt": [
    "Liṅgarāja"
@@ -29670,7 +29806,7 @@
   ]
  },
  {
-  "id": "P0SA0446",
+  "id": "P0SA0451",
   "label": "Māyideva",
   "names_skt": [
    "Māyideva",
@@ -29708,7 +29844,7 @@
   ]
  },
  {
-  "id": "P0SA0447",
+  "id": "P0SA0452",
   "label": "Premanidhi Pantha",
   "names_skt": [
    "Premanidhi Pantha",
@@ -29745,7 +29881,7 @@
   ]
  },
  {
-  "id": "P0SA0448",
+  "id": "P0SA0453",
   "label": "Śivānandanātha",
   "names_skt": [
    "शिवानन्दनाथ",
@@ -29787,7 +29923,7 @@
   ]
  },
  {
-  "id": "P0SA0449",
+  "id": "P0SA0454",
   "label": "Abhinavaśaṅkara",
   "names_skt": [
    "Abhinavaśaṅkara",
@@ -29826,7 +29962,7 @@
   ]
  },
  {
-  "id": "P0SA0450",
+  "id": "P0SA0455",
   "label": "Śivānubhava Śivācārya",
   "names_skt": [
    "Śivānubhava Śivācārya"
@@ -29863,7 +29999,7 @@
   ]
  },
  {
-  "id": "P0SA0451",
+  "id": "P0SA0456",
   "label": "Svaprabhānanda",
   "names_skt": [
    "Svaprabhānanda"
@@ -29900,7 +30036,7 @@
   ]
  },
  {
-  "id": "P0SA0452",
+  "id": "P0SA0457",
   "label": "Śambhudeva",
   "names_skt": [
    "Śaṃbhudeva",
@@ -29939,7 +30075,7 @@
   ]
  },
  {
-  "id": "P0SA0453",
+  "id": "P0SA0458",
   "label": "Śivānandasarasvatī",
   "names_skt": [
    "Śivānandasarasvatī",
@@ -29977,7 +30113,7 @@
   ]
  },
  {
-  "id": "P0SA0454",
+  "id": "P0SA0459",
   "label": "Mallayārya",
   "names_skt": [
    "Mallayārya"
@@ -30012,7 +30148,7 @@
   ]
  },
  {
-  "id": "P0SA0455",
+  "id": "P0SA0460",
   "label": "Siddhanañjeśa Śivācārya",
   "names_skt": [
    "Siddhanañjeśa",
@@ -30048,7 +30184,7 @@
   ]
  },
  {
-  "id": "P0SA0456",
+  "id": "P0SA0461",
   "label": "Bhagavantarāya",
   "names_skt": [
    "Bhagavantarāya",
@@ -30084,7 +30220,7 @@
   ]
  },
  {
-  "id": "P0SA0457",
+  "id": "P0SA0462",
   "label": "Kumbhārī Vāsudevācārya",
   "names_skt": [
    "Vāsudevācārya",
@@ -30122,7 +30258,7 @@
   ]
  },
  {
-  "id": "P0SA0458",
+  "id": "P0SA0463",
   "label": "Hulagī Śrīnāthācārya",
   "names_skt": [
    "Śrīnātha",
@@ -30162,7 +30298,7 @@
   ]
  },
  {
-  "id": "P0SA0459",
+  "id": "P0SA0464",
   "label": "Kāśī Timmaṇṇācārya",
   "names_skt": [
    "Kāśī Timmaṇṇācārya",
@@ -30198,7 +30334,7 @@
   ]
  },
  {
-  "id": "P0SA0460",
+  "id": "P0SA0465",
   "label": "Śarkarā Śrīnivāsa",
   "names_skt": [
    "Śarkarā Śrīnivāsa",
@@ -30240,7 +30376,7 @@
   ]
  },
  {
-  "id": "P0SA0461",
+  "id": "P0SA0466",
   "label": "Raṅgarāmānuja",
   "names_skt": [
    "Raṅgarāmānuja",
@@ -30279,7 +30415,7 @@
   ]
  },
  {
-  "id": "P0SA0462",
+  "id": "P0SA0467",
   "label": "Rājagopāla (44th Pontiff of Ahobila Maṭha)",
   "names_skt": [
    "Rājagopāla",
@@ -30318,7 +30454,7 @@
   ]
  },
  {
-  "id": "P0SA0463",
+  "id": "P0SA0468",
   "label": "Karrā Agnihotra Śāstrin",
   "names_skt": [
    "Karrā Agnihotra Śāstrin",
@@ -30354,7 +30490,7 @@
   ]
  },
  {
-  "id": "P0SA0464",
+  "id": "P0SA0469",
   "label": "Bhāratītīrtha",
   "names_skt": [
    "Bhāratītīrtha"
@@ -30393,7 +30529,7 @@
   ]
  },
  {
-  "id": "P0SA0465",
+  "id": "P0SA0470",
   "label": "Giridharācārya",
   "names_skt": [
    "Giridharācārya"
@@ -30430,7 +30566,7 @@
   ]
  },
  {
-  "id": "P0SA0466",
+  "id": "P0SA0471",
   "label": "Kṛṣṇayajvan",
   "names_skt": [
    "Kṛṣṇayajvan",
@@ -30468,7 +30604,7 @@
   ]
  },
  {
-  "id": "P0SA0467",
+  "id": "P0SA0472",
   "label": "Lakṣmīpuram Śrīnivāsācārya",
   "names_skt": [
    "Lakṣmīpuram Śrīnivāsācārya",
@@ -30506,7 +30642,7 @@
   ]
  },
  {
-  "id": "P0SA0468",
+  "id": "P0SA0473",
   "label": "Viśvanātha Pañcānana Bhaṭṭācārya",
   "names_skt": [
    "Viśvanātha Pañcānana",
@@ -30543,7 +30679,7 @@
   ]
  },
  {
-  "id": "P0SA0469",
+  "id": "P0SA0474",
   "label": "Gaurīśaṅkarabhikṣu",
   "names_skt": [
    "Gaurīśaṅkarabhikṣu",
@@ -30582,7 +30718,7 @@
   ]
  },
  {
-  "id": "P0SA0470",
+  "id": "P0SA0475",
   "label": "Mādanūru Viṣṇutīrtha",
   "names_skt": [
    "Viṣṇutīrtha",
@@ -30621,7 +30757,7 @@
   ]
  },
  {
-  "id": "P0SA0471",
+  "id": "P0SA0476",
   "label": "Gaṅgādharendra Sarasvatī",
   "names_skt": [
    "Gaṅgādharendra Sarasvatī",
@@ -30660,7 +30796,7 @@
   ]
  },
  {
-  "id": "P0SA0472",
+  "id": "P0SA0477",
   "label": "Kedāranātha Tripāṭhī",
   "names_skt": [
    "Kedāranātha Tripāṭhī"
@@ -30697,7 +30833,7 @@
   ]
  },
  {
-  "id": "P0SA0473",
+  "id": "P0SA0478",
   "label": "Rāmānujācārya (Prābhākara)",
   "names_skt": [
    "Rāmānujācārya"
@@ -30742,7 +30878,7 @@
   ]
  },
  {
-  "id": "P0SA0474",
+  "id": "P0SA0479",
   "label": "Garuḍācalayajvan",
   "names_skt": [
    "Garuḍācalayajvan",
@@ -30779,7 +30915,7 @@
   ]
  },
  {
-  "id": "P0SA0475",
+  "id": "P0SA0480",
   "label": "Vātsya Varadaguru",
   "names_skt": [
    "Varadaguru",
@@ -30822,7 +30958,7 @@
   ]
  },
  {
-  "id": "P0SA0476",
+  "id": "P0SA0481",
   "label": "Vīrarāghavadāsa",
   "names_skt": [
    "Vīrarāghavadāsa",
@@ -30860,7 +30996,7 @@
   ]
  },
  {
-  "id": "P0SA0477",
+  "id": "P0SA0482",
   "label": "Śaṅkaramiśra",
   "names_skt": [
    "Śaṅkaramiśra",
@@ -30902,7 +31038,7 @@
   ]
  },
  {
-  "id": "P0SA0478",
+  "id": "P0SA0483",
   "label": "Bucci Veṅkaṭācārya",
   "names_skt": [
    "Bucci Veṅkaṭācārya",
@@ -30944,7 +31080,7 @@
   ]
  },
  {
-  "id": "P0SA0479",
+  "id": "P0SA0484",
   "label": "Dharmarājādhvarīndra",
   "names_skt": [
    "Dharmarājādhvarīndra",
@@ -30983,7 +31119,7 @@
   ]
  },
  {
-  "id": "P0SA0480",
+  "id": "P0SA0485",
   "label": "Candraśekhara Bhāratī (Śaṅkarācārya of Sringeri)",
   "names_skt": [
    "Candraśekhara Bhāratī"
@@ -31022,7 +31158,7 @@
   ]
  },
  {
-  "id": "P0SA0481",
+  "id": "P0SA0486",
   "label": "Śrīnivāsadāsa (author of Yatīndramatadīpikā)",
   "names_skt": [
    "Śrīnivāsadāsa",
@@ -31063,7 +31199,7 @@
   ]
  },
  {
-  "id": "P0SA0482",
+  "id": "P0SA0487",
   "label": "Penna Madhusūdana",
   "names_skt": [
    "Pennā Madhusūdana",
@@ -31104,7 +31240,7 @@
   ]
  },
  {
-  "id": "P0SA0483",
+  "id": "P0SA0488",
   "label": "Anantārya (Śeṣa lineage)",
   "names_skt": [
    "अनन्तार्य",
@@ -31149,7 +31285,7 @@
   ]
  },
  {
-  "id": "P0SA0484",
+  "id": "P0SA0489",
   "label": "Raghunātha Parvate",
   "names_skt": [
    "Raghunātha Parvate",
@@ -31188,7 +31324,7 @@
   ]
  },
  {
-  "id": "P0SA0485",
+  "id": "P0SA0490",
   "label": "Kauśikadeśika",
   "names_skt": [
    "Kauśikadeśika",
@@ -31268,7 +31404,7 @@
   ]
  },
  {
-  "id": "P0SA0486",
+  "id": "P0SA0491",
   "label": "Saubhari",
   "names_skt": [
    "Saubhari"
@@ -31305,7 +31441,7 @@
   ]
  },
  {
-  "id": "P0SA0487",
+  "id": "P0SA0492",
   "label": "pseudo-Nala (attributions)",
   "names_skt": [
    "Nala"
@@ -31344,7 +31480,7 @@
   ]
  },
  {
-  "id": "P0SA0488",
+  "id": "P0SA0493",
   "label": "Śārṅgadeva",
   "names_skt": [
    "Śārṅgadeva",
@@ -31380,7 +31516,7 @@
   ]
  },
  {
-  "id": "P0SA0489",
+  "id": "P0SA0494",
   "label": "Narahari Cakravartin",
   "names_skt": [
    "Narahari Cakravartin",
@@ -31420,7 +31556,7 @@
   ]
  },
  {
-  "id": "P0SA0490",
+  "id": "P0SA0495",
   "label": "pseudo-Devala (attributions)",
   "names_skt": [
    "Devala"
@@ -31458,7 +31594,7 @@
   ]
  },
  {
-  "id": "P0SA0491",
+  "id": "P0SA0496",
   "label": "Vatsarāja",
   "names_skt": [
    "Vatsarāja"
@@ -31496,7 +31632,7 @@
   ]
  },
  {
-  "id": "P0SA0492",
+  "id": "P0SA0497",
   "label": "Jñāneśvara",
   "names_skt": [
    "Jñāneśvara",
@@ -31537,7 +31673,7 @@
   ]
  },
  {
-  "id": "P0SA0493",
+  "id": "P0SA0498",
   "label": "Śrīdhara Veṅkaṭeśa",
   "names_skt": [
    "Śrīdhara Veṅkaṭeśa",
@@ -31576,7 +31712,7 @@
   ]
  },
  {
-  "id": "P0SA0494",
+  "id": "P0SA0499",
   "label": "Amṛtānandayogin",
   "names_skt": [
    "Amṛtānandayogin",
@@ -31614,7 +31750,7 @@
   ]
  },
  {
-  "id": "P0SA0495",
+  "id": "P0SA0500",
   "label": "Svāmī Vivekānanda",
   "names_skt": [
    "Vivekānanda",
@@ -31651,7 +31787,7 @@
   ]
  },
  {
-  "id": "P0SA0496",
+  "id": "P0SA0501",
   "label": "pseudo-Dattātreya (attributions)",
   "names_skt": [
    "Dattātreya"
@@ -31688,7 +31824,7 @@
   ]
  },
  {
-  "id": "P0SA0497",
+  "id": "P0SA0502",
   "label": "Vādibhītikarārya",
   "names_skt": [
    "Vādibhītikarārya",
@@ -31724,7 +31860,7 @@
   ]
  },
  {
-  "id": "P0SA0498",
+  "id": "P0SA0503",
   "label": "Ballāla",
   "names_skt": [
    "Ballāla"
@@ -31763,7 +31899,7 @@
   ]
  },
  {
-  "id": "P0SA0499",
+  "id": "P0SA0504",
   "label": "Kambham Cokkaṇṇa",
   "names_skt": [
    "Kambham Cokkaṇṇa",
@@ -31799,7 +31935,7 @@
   ]
  },
  {
-  "id": "P0SA0500",
+  "id": "P0SA0505",
   "label": "Anantabhaṭṭa",
   "names_skt": [
    "Anantabhaṭṭa",
@@ -31839,7 +31975,7 @@
   ]
  },
  {
-  "id": "P0SA0501",
+  "id": "P0SA0506",
   "label": "Śaṅkarānanda",
   "names_skt": [
    "Śaṅkarānanda",
@@ -31879,7 +32015,7 @@
   ]
  },
  {
-  "id": "P0SA0502",
+  "id": "P0SA0507",
   "label": "Bhadrācala Rāmadāsa",
   "names_skt": [
    "Bhadrācala Rāmadāsa",
@@ -31918,7 +32054,7 @@
   ]
  },
  {
-  "id": "P0SA0503",
+  "id": "P0SA0508",
   "label": "Umāpatidvivedin",
   "names_skt": [
    "Umāpatidvivedin",
@@ -31958,7 +32094,7 @@
   ]
  },
  {
-  "id": "P0SA0504",
+  "id": "P0SA0509",
   "label": "Vijñānendra",
   "names_skt": [
    "Vijñānendra"
@@ -31993,7 +32129,7 @@
   ]
  },
  {
-  "id": "P0SA0505",
+  "id": "P0SA0510",
   "label": "Navanāthasiddha",
   "names_skt": [
    "Navanāthasiddha"
@@ -32030,7 +32166,7 @@
   ]
  },
  {
-  "id": "P0SA0506",
+  "id": "P0SA0511",
   "label": "Kalyāṇīdevī",
   "names_skt": [
    "Kalyāṇīdevī"
@@ -32067,7 +32203,7 @@
   ]
  },
  {
-  "id": "P0SA0507",
+  "id": "P0SA0512",
   "label": "Nayacandrasūri",
   "names_skt": [
    "Nayacandrasūri"
@@ -32102,7 +32238,7 @@
   ]
  },
  {
-  "id": "P0SA0508",
+  "id": "P0SA0513",
   "label": "D. T. Tātācārya",
   "names_skt": [
    "D. T. Tātācārya",
@@ -32142,7 +32278,7 @@
   ]
  },
  {
-  "id": "P0SA0509",
+  "id": "P0SA0514",
   "label": "K. N. Ezhuthachan",
   "names_skt": [
    "K. N. Eḻuttacchan",
@@ -32183,7 +32319,7 @@
   ]
  },
  {
-  "id": "P0SA0510",
+  "id": "P0SA0515",
   "label": "Jīvānanda Vidyāsāgara",
   "names_skt": [
    "Jīvānanda Vidyāsāgara",
@@ -32225,7 +32361,7 @@
   ]
  },
  {
-  "id": "P0SA0511",
+  "id": "P0SA0516",
   "label": "Harihara (Rukmi dynasty)",
   "names_skt": [
    "Harihara"
@@ -32260,7 +32396,7 @@
   ]
  },
  {
-  "id": "P0SA0512",
+  "id": "P0SA0517",
   "label": "pseudo-Śukadeva (attributions)",
   "names_skt": [
    "Śukadeva",
@@ -32299,7 +32435,7 @@
   ]
  },
  {
-  "id": "P0SA0513",
+  "id": "P0SA0518",
   "label": "Somaśekharayajvan",
   "names_skt": [
    "Somaśekharayajvan"
@@ -32334,7 +32470,7 @@
   ]
  },
  {
-  "id": "P0SA0514",
+  "id": "P0SA0519",
   "label": "Yajñeśa Kolācala",
   "names_skt": [
    "Yajñeśa",
@@ -32370,7 +32506,7 @@
   ]
  },
  {
-  "id": "P0SA0515",
+  "id": "P0SA0520",
   "label": "Kūreśa",
   "names_skt": [
    "Kūreśa",
@@ -32410,7 +32546,7 @@
   ]
  },
  {
-  "id": "P0SA0516",
+  "id": "P0SA0521",
   "label": "Deśamaṅgalavārya",
   "names_skt": [
    "Deśamaṅgalavārya",
@@ -32446,7 +32582,7 @@
   ]
  },
  {
-  "id": "P0SA0517",
+  "id": "P0SA0522",
   "label": "Varadarāja (Kashmirian Śaiva)",
   "names_skt": [
    "Varadarāja",
@@ -32486,7 +32622,7 @@
   ]
  },
  {
-  "id": "P0SA0518",
+  "id": "P0SA0523",
   "label": "Varadarāja (Dharmaśāstra)",
   "names_skt": [
    "Varadarāja"
@@ -32523,7 +32659,7 @@
   ]
  },
  {
-  "id": "P0SA0519",
+  "id": "P0SA0524",
   "label": "Varadarāja (Vedic commentator)",
   "names_skt": [
    "Varadarāja"
@@ -32560,7 +32696,7 @@
   ]
  },
  {
-  "id": "P0SA0520",
+  "id": "P0SA0525",
   "label": "Varadarāja (Kathāsaṅgraha author)",
   "names_skt": [
    "Varadarāja"
@@ -32595,7 +32731,7 @@
   ]
  },
  {
-  "id": "P0SA0521",
+  "id": "P0SA0526",
   "label": "pseudo-Vaiśampāyana (attributions)",
   "names_skt": [
    "Vaiśampāyana"
@@ -32632,7 +32768,7 @@
   ]
  },
  {
-  "id": "P0SA0522",
+  "id": "P0SA0527",
   "label": "Sarasvatī Gaṅgādhara",
   "names_skt": [
    "Sarasvatī Gaṅgādhara",
@@ -32670,7 +32806,7 @@
   ]
  },
  {
-  "id": "P0SA0523",
+  "id": "P0SA0528",
   "label": "Elattūr Sundararāja Bhaṭṭācārya",
   "names_skt": [
    "Elattūr Sundararāja Bhaṭṭācārya",
@@ -32707,7 +32843,7 @@
   ]
  },
  {
-  "id": "P0SA0524",
+  "id": "P0SA0529",
   "label": "Tulasīdāsa",
   "names_skt": [
    "Tulasīdāsa",
@@ -32745,7 +32881,7 @@
   ]
  },
  {
-  "id": "P0SA0525",
+  "id": "P0SA0530",
   "label": "Veṅkaṭādhvarin",
   "names_skt": [
    "Veṅkaṭādhvarin",
@@ -32785,7 +32921,7 @@
   ]
  },
  {
-  "id": "P0SA0526",
+  "id": "P0SA0531",
   "label": "Śambhu (Kashmiri poet)",
   "names_skt": [
    "Śambhu"
@@ -32823,7 +32959,7 @@
   ]
  },
  {
-  "id": "P0SA0527",
+  "id": "P0SA0532",
   "label": "Mathurānātha Śukla",
   "names_skt": [
    "Mathurānātha Śukla",
@@ -32864,7 +33000,7 @@
   ]
  },
  {
-  "id": "P0SA0528",
+  "id": "P0SA0533",
   "label": "T. K. Rāmacandra Ayyar",
   "names_skt": [
    "T. K. Rāmacandra Ayyar",
@@ -32900,7 +33036,7 @@
   ]
  },
  {
-  "id": "P0SA0529",
+  "id": "P0SA0534",
   "label": "Acyutayati",
   "names_skt": [
    "Acyutayati"
@@ -32935,7 +33071,7 @@
   ]
  },
  {
-  "id": "P0SA0530",
+  "id": "P0SA0535",
   "label": "Parāśara (astrologer)",
   "names_skt": [
    "Parāśara"
@@ -32974,7 +33110,7 @@
   ]
  },
  {
-  "id": "P0SA0531",
+  "id": "P0SA0536",
   "label": "Rājamaṇiśarman",
   "names_skt": [
    "Rājamaṇiśarman"
@@ -33009,7 +33145,7 @@
   ]
  },
  {
-  "id": "P0SA0532",
+  "id": "P0SA0537",
   "label": "Sūryakavi Daivajña",
   "names_skt": [
    "Sūryakavi",
@@ -33046,7 +33182,7 @@
   ]
  },
  {
-  "id": "P0SA0533",
+  "id": "P0SA0538",
   "label": "Mahimabhaṭṭa",
   "names_skt": [
    "Mahimabhaṭṭa",
@@ -33087,7 +33223,7 @@
   ]
  },
  {
-  "id": "P0SA0534",
+  "id": "P0SA0539",
   "label": "Nārāyaṇaguru",
   "names_skt": [
    "Nārāyaṇaguru",
@@ -33125,7 +33261,7 @@
   ]
  },
  {
-  "id": "P0SA0535",
+  "id": "P0SA0540",
   "label": "Tyāgarāja",
   "names_skt": [
    "Tyāgarāja"
@@ -33162,7 +33298,7 @@
   ]
  },
  {
-  "id": "P0SA0536",
+  "id": "P0SA0541",
   "label": "Śivānandāvadhūta",
   "names_skt": [
    "Śivānandāvadhūta"
@@ -33197,7 +33333,7 @@
   ]
  },
  {
-  "id": "P0SA0537",
+  "id": "P0SA0542",
   "label": "Kṛṣṇarāja Woḍeyar III",
   "names_skt": [
    "Kṛṣṇarāja Woḍeyar",
@@ -33240,7 +33376,7 @@
   ]
  },
  {
-  "id": "P0SA0538",
+  "id": "P0SA0543",
   "label": "pseudo-Agastya (attributions)",
   "names_skt": [
    "Agastya"
@@ -33277,7 +33413,7 @@
   ]
  },
  {
-  "id": "P0SA0539",
+  "id": "P0SA0544",
   "label": "pseudo-Bhṛgu (attributions)",
   "names_skt": [
    "Bhṛgu"
@@ -33316,7 +33452,7 @@
   ]
  },
  {
-  "id": "P0SA0540",
+  "id": "P0SA0545",
   "label": "Anantarāva Āṭhavale",
   "names_skt": [
    "Anantarāva Āṭhavale"
@@ -33351,7 +33487,7 @@
   ]
  },
  {
-  "id": "P0SA0541",
+  "id": "P0SA0546",
   "label": "Śivābhinavanṛsiṃhabhāratī",
   "names_skt": [
    "Śivābhinavanṛsiṃhabhāratī",
@@ -33391,7 +33527,7 @@
   ]
  },
  {
-  "id": "P0SA0542",
+  "id": "P0SA0547",
   "label": "Mūkakavi",
   "names_skt": [
    "Mūkakavi",
@@ -33428,7 +33564,7 @@
   ]
  },
  {
-  "id": "P0SA0543",
+  "id": "P0SA0548",
   "label": "Sukumāra",
   "names_skt": [
    "Sukumāra",
@@ -33466,7 +33602,7 @@
   ]
  },
  {
-  "id": "P0SA0544",
+  "id": "P0SA0549",
   "label": "Śivadattamiśra (author of Raghunāthāṣṭaka)",
   "names_skt": [
    "Śivadattamiśra",
@@ -33506,7 +33642,7 @@
   ]
  },
  {
-  "id": "P0SA0545",
+  "id": "P0SA0550",
   "label": "Amaradāsa (author of Śrīrāmacandrāṣṭaka)",
   "names_skt": [
    "Amaradāsa"
@@ -33543,7 +33679,7 @@
   ]
  },
  {
-  "id": "P0SA0546",
+  "id": "P0SA0551",
   "label": "Saccidānandaśivābhinavanṛsiṃhabhāratī",
   "names_skt": [
    "Saccidānandaśivābhinavanṛsiṃhabhāratī",
@@ -33584,7 +33720,7 @@
   ]
  },
  {
-  "id": "P0SA0547",
+  "id": "P0SA0552",
   "label": "Divākara (author of Śrīsiddhivināyakastotra)",
   "names_skt": [
    "Divākara"
@@ -33619,7 +33755,7 @@
   ]
  },
  {
-  "id": "P0SA0548",
+  "id": "P0SA0553",
   "label": "Nṛsiṃhabhāratī (Śṛṅgeri Jagadguru)",
   "names_skt": [
    "Nṛsiṃhabhāratī",
@@ -33655,7 +33791,7 @@
   ]
  },
  {
-  "id": "P0SA0549",
+  "id": "P0SA0554",
   "label": "Govindadāsa Sena",
   "names_skt": [
    "Govindadāsa",
@@ -33697,7 +33833,7 @@
   ]
  },
  {
-  "id": "P0SA0550",
+  "id": "P0SA0555",
   "label": "Brahmaśaṅkara Miśra",
   "names_skt": [
    "Brahmaśaṅkara Miśra",
@@ -33733,7 +33869,7 @@
   ]
  },
  {
-  "id": "P0SA0551",
+  "id": "P0SA0556",
   "label": "pseudo-Hārīta (attributions)",
   "names_skt": [
    "Hārīta"
@@ -33771,7 +33907,7 @@
   ]
  },
  {
-  "id": "P0SA0552",
+  "id": "P0SA0557",
   "label": "Mādhavakara",
   "names_skt": [
    "Mādhavakara",
@@ -33812,7 +33948,7 @@
   ]
  },
  {
-  "id": "P0SA0553",
+  "id": "P0SA0558",
   "label": "Bhāskarayajvan",
   "names_skt": [
    "Bhaṭṭabhāskara",
@@ -33854,7 +33990,7 @@
   ]
  },
  {
-  "id": "P0SA0554",
+  "id": "P0SA0559",
   "label": "Yogānandanātha",
   "names_skt": [
    "Yogānandanātha"
@@ -33895,7 +34031,7 @@
   ]
  },
  {
-  "id": "P0SA0555",
+  "id": "P0SA0560",
   "label": "Śārṅgadhara",
   "names_skt": [
    "Śārṅgadhara"
@@ -33936,7 +34072,7 @@
   ]
  },
  {
-  "id": "P0SA0556",
+  "id": "P0SA0561",
   "label": "Śobhanātha",
   "names_skt": [
    "Śobhanātha"
@@ -33974,7 +34110,7 @@
   ]
  },
  {
-  "id": "P0SA0557",
+  "id": "P0SA0562",
   "label": "Gaṅgādāsa",
   "names_skt": [
    "Gaṅgādāsa"
@@ -34011,7 +34147,7 @@
   ]
  },
  {
-  "id": "P0SA0558",
+  "id": "P0SA0563",
   "label": "Haridatta Śāstrī",
   "names_skt": [
    "हरिदत्तशास्त्री",
@@ -34049,7 +34185,7 @@
   ]
  },
  {
-  "id": "P0SA0559",
+  "id": "P0SA0564",
   "label": "Śaṅkaradeva Śāstrī",
   "names_skt": [
    "Śaṅkaradeva Śāstrī"
@@ -34086,7 +34222,7 @@
   ]
  },
  {
-  "id": "P0SA0560",
+  "id": "P0SA0565",
   "label": "Munīśvara",
   "names_skt": [
    "Munīśvara",
@@ -34125,7 +34261,7 @@
   ]
  },
  {
-  "id": "P0SA0561",
+  "id": "P0SA0566",
   "label": "Satyāṣāḍha Hiraṇyakeśin",
   "names_skt": [
    "Satyāṣāḍha",
@@ -34167,7 +34303,7 @@
   ]
  },
  {
-  "id": "P0SA0562",
+  "id": "P0SA0567",
   "label": "Gopīnātha Dīkṣita",
   "names_skt": [
    "गोपीनाथदीक्षित",
@@ -34208,7 +34344,7 @@
   ]
  },
  {
-  "id": "P0SA0563",
+  "id": "P0SA0568",
   "label": "Nemānabhairava",
   "names_skt": [
    "Nemānabhairava"
@@ -34245,7 +34381,7 @@
   ]
  },
  {
-  "id": "P0SA0564",
+  "id": "P0SA0569",
   "label": "Putumana Somayājin",
   "names_skt": [
    "Putumana Somayājin"
@@ -34282,7 +34418,7 @@
   ]
  },
  {
-  "id": "P0SA0565",
+  "id": "P0SA0570",
   "label": "Nārāyaṇopādhyāya",
   "names_skt": [
    "Nārāyaṇopādhyāya",
@@ -34320,7 +34456,7 @@
   ]
  },
  {
-  "id": "P0SA0566",
+  "id": "P0SA0571",
   "label": "Candrakānta Tarkālaṅkāra",
   "names_skt": [
    "Candrakānta Tarkālaṅkāra"
@@ -34355,7 +34491,7 @@
   ]
  },
  {
-  "id": "P0SA0567",
+  "id": "P0SA0572",
   "label": "Śambhumiśra",
   "names_skt": [
    "Śambhumiśra",
@@ -34394,7 +34530,7 @@
   ]
  },
  {
-  "id": "P0SA0568",
+  "id": "P0SA0573",
   "label": "Śatakratu Caturvedi Śrīnivāsa Dīkṣita",
   "names_skt": [
    "Śrīnivāsadīkṣita",
@@ -34435,7 +34571,7 @@
   ]
  },
  {
-  "id": "P0SA0569",
+  "id": "P0SA0574",
   "label": "Gopāladeva",
   "names_skt": [
    "Gopāladeva",
@@ -34478,7 +34614,7 @@
   ]
  },
  {
-  "id": "P0SA0570",
+  "id": "P0SA0575",
   "label": "Devapāla",
   "names_skt": [
    "Devapāla"
@@ -34515,7 +34651,7 @@
   ]
  },
  {
-  "id": "P0SA0571",
+  "id": "P0SA0576",
   "label": "Cakra",
   "names_skt": [
    "Cakra"
@@ -34550,7 +34686,7 @@
   ]
  },
  {
-  "id": "P0SA0572",
+  "id": "P0SA0577",
   "label": "Vasatirāma Śarman",
   "names_skt": [
    "Vasatirāma Śarman",
@@ -34588,7 +34724,7 @@
   ]
  },
  {
-  "id": "P0SA0573",
+  "id": "P0SA0578",
   "label": "pseudo-Śaṅkarācārya (attributions)",
   "names_skt": [
    "Śaṅkarācārya"
@@ -34626,7 +34762,7 @@
   ]
  },
  {
-  "id": "P0SA0574",
+  "id": "P0SA0579",
   "label": "Veṇīmādhava Śukla",
   "names_skt": [
    "Veṇīmādhava Śukla",
@@ -34664,7 +34800,7 @@
   ]
  },
  {
-  "id": "P0SA0575",
+  "id": "P0SA0580",
   "label": "Śāntanava",
   "names_skt": [
    "Śāntanava"
@@ -34705,7 +34841,7 @@
   ]
  },
  {
-  "id": "P0SA0576",
+  "id": "P0SA0581",
   "label": "Bālakṛṣṇa, son of Sadāśiva",
   "names_skt": [
    "Bālakṛṣṇa"
@@ -34743,7 +34879,7 @@
   ]
  },
  {
-  "id": "P0SA0577",
+  "id": "P0SA0582",
   "label": "Ratnamaṇḍanasūri",
   "names_skt": [
    "Ratnamaṇḍanasūri",
@@ -34783,7 +34919,7 @@
   ]
  },
  {
-  "id": "P0SA0578",
+  "id": "P0SA0583",
   "label": "Keśavārya",
   "names_skt": [
    "Keśavārya",
@@ -34825,7 +34961,7 @@
   ]
  },
  {
-  "id": "P0SA0579",
+  "id": "P0SA0584",
   "label": "Bhaṭṭa Gopīnātha Dīkṣita Oka",
   "names_skt": [
    "Bhaṭṭagopīnāthadīkṣita",
@@ -34864,7 +35000,7 @@
   ]
  },
  {
-  "id": "P0SA0580",
+  "id": "P0SA0585",
   "label": "Kamalākara (astronomer)",
   "names_skt": [
    "Kamalākara"
@@ -34906,7 +35042,7 @@
   ]
  },
  {
-  "id": "P0SA0581",
+  "id": "P0SA0586",
   "label": "Jayantasvāmin",
   "names_skt": [
    "Jayantasvāmin"
@@ -34948,7 +35084,7 @@
   ]
  },
  {
-  "id": "P0SA0582",
+  "id": "P0SA0587",
   "label": "Jayakṛṣṇa (author of Sāramañjarī)",
   "names_skt": [
    "Jayakṛṣṇa"
@@ -34985,7 +35121,7 @@
   ]
  },
  {
-  "id": "P0SA0583",
+  "id": "P0SA0588",
   "label": "Kālīpada Tarkācārya",
   "names_skt": [
    "Kālīpada Tarkācārya",
@@ -35024,7 +35160,7 @@
   ]
  },
  {
-  "id": "P0SA0584",
+  "id": "P0SA0589",
   "label": "Śrīkṛṣṇavallabhācārya",
   "names_skt": [
    "Śrīkṛṣṇavallabhācārya",
@@ -35064,7 +35200,7 @@
   ]
  },
  {
-  "id": "P0SA0585",
+  "id": "P0SA0590",
   "label": "Keśavācārya (author of Uccodarki)",
   "names_skt": [
    "Keśavācārya"
@@ -35101,7 +35237,7 @@
   ]
  },
  {
-  "id": "P0SA0586",
+  "id": "P0SA0591",
   "label": "Dayānanda Sarasvatī",
   "names_skt": [
    "Dayānanda Sarasvatī",
@@ -35142,7 +35278,7 @@
   ]
  },
  {
-  "id": "P0SA0587",
+  "id": "P0SA0592",
   "label": "Vaidyanātha Bhaṭṭa (author of Lakṣaṇaratna)",
   "names_skt": [
    "Vaidyanātha Bhaṭṭa",
@@ -35181,7 +35317,7 @@
   ]
  },
  {
-  "id": "P0SA0588",
+  "id": "P0SA0593",
   "label": "Harivallabha",
   "names_skt": [
    "Harivallabha",
@@ -35219,7 +35355,7 @@
   ]
  },
  {
-  "id": "P0SA0589",
+  "id": "P0SA0594",
   "label": "Harirāma Kāla",
   "names_skt": [
    "Harirāma Kāla",
@@ -35261,7 +35397,7 @@
   ]
  },
  {
-  "id": "P0SA0590",
+  "id": "P0SA0595",
   "label": "Śaṅkara Śāstrin",
   "names_skt": [
    "Śaṅkara Śāstrin",
@@ -35299,7 +35435,7 @@
   ]
  },
  {
-  "id": "P0SA0591",
+  "id": "P0SA0596",
   "label": "Rāmacandra (son of Siddheśvara)",
   "names_skt": [
    "रामचन्द्र",
@@ -35340,7 +35476,7 @@
   ]
  },
  {
-  "id": "P0SA0592",
+  "id": "P0SA0597",
   "label": "Madhusūdana (author of Aṣṭavikṛtivivaraṇa)",
   "names_skt": [
    "Madhusūdana"
@@ -35377,7 +35513,7 @@
   ]
  },
  {
-  "id": "P0SA0593",
+  "id": "P0SA0598",
   "label": "Śeṣakṛṣṇa",
   "names_skt": [
    "Śeṣakṛṣṇa",
@@ -35421,7 +35557,7 @@
   ]
  },
  {
-  "id": "P0SA0594",
+  "id": "P0SA0599",
   "label": "Kṛṣṇabhaṭṭa Mauni",
   "names_skt": [
    "Kṛṣṇabhaṭṭa Maunī",
@@ -35461,7 +35597,7 @@
   ]
  },
  {
-  "id": "P0SA0595",
+  "id": "P0SA0600",
   "label": "Nārāyaṇa Goḍabole",
   "names_skt": [
    "Nārāyaṇa Goḍabole",
@@ -35497,7 +35633,7 @@
   ]
  },
  {
-  "id": "P0SA0596",
+  "id": "P0SA0601",
   "label": "Hariyaśomiśra",
   "names_skt": [
    "Hariyaśomiśra"
@@ -35534,7 +35670,7 @@
   ]
  },
  {
-  "id": "P0SA0597",
+  "id": "P0SA0602",
   "label": "Puṇyarāja",
   "names_skt": [
    "Puṇyarāja"
@@ -35571,7 +35707,7 @@
   ]
  },
  {
-  "id": "P0SA0598",
+  "id": "P0SA0603",
   "label": "Helarāja",
   "names_skt": [
    "Helarāja",
@@ -35609,7 +35745,7 @@
   ]
  },
  {
-  "id": "P0SA0599",
+  "id": "P0SA0604",
   "label": "Sūrabhaṭṭa",
   "names_skt": [
    "Sūrabhaṭṭa"
@@ -35646,7 +35782,7 @@
   ]
  },
  {
-  "id": "P0SA0600",
+  "id": "P0SA0605",
   "label": "Dhūrtasvāmin",
   "names_skt": [
    "Dhūrtasvāmin"
@@ -35683,7 +35819,7 @@
   ]
  },
  {
-  "id": "P0SA0601",
+  "id": "P0SA0606",
   "label": "Rāmāgnicit",
   "names_skt": [
    "Rāmāgnicit"
@@ -35722,7 +35858,7 @@
   ]
  },
  {
-  "id": "P0SA0602",
+  "id": "P0SA0607",
   "label": "Āpiśali",
   "names_skt": [
    "Āpiśali"
@@ -35759,7 +35895,7 @@
   ]
  },
  {
-  "id": "P0SA0603",
+  "id": "P0SA0608",
   "label": "Setumādhavācārya",
   "names_skt": [
    "Setumādhavācārya",
@@ -35799,7 +35935,7 @@
   ]
  },
  {
-  "id": "P0SA0604",
+  "id": "P0SA0609",
   "label": "Hariyogin Śailavācārya",
   "names_skt": [
    "Hariyogin",
@@ -35835,7 +35971,7 @@
   ]
  },
  {
-  "id": "P0SA0605",
+  "id": "P0SA0610",
   "label": "Narasiṃhasūri (author of Ṛgvarṇakramalakṣaṇa)",
   "names_skt": [
    "Narasiṃha",
@@ -35873,7 +36009,7 @@
   ]
  },
  {
-  "id": "P0SA0606",
+  "id": "P0SA0611",
   "label": "Rabhasanandin",
   "names_skt": [
    "Rabhasanandin"
@@ -35912,7 +36048,7 @@
   ]
  },
  {
-  "id": "P0SA0607",
+  "id": "P0SA0612",
   "label": "Rāmakṛṣṇa (author of Ṣoḍaśaślokīśikṣā)",
   "names_skt": [
    "Rāmakṛṣṇa"
@@ -35947,7 +36083,7 @@
   ]
  },
  {
-  "id": "P0SA0608",
+  "id": "P0SA0613",
   "label": "Varāhaguru",
   "names_skt": [
    "Varāhaguru",
@@ -35984,7 +36120,7 @@
   ]
  },
  {
-  "id": "P0SA0609",
+  "id": "P0SA0614",
   "label": "Ravi",
   "names_skt": [
    "Ravi"
@@ -36022,7 +36158,7 @@
   ]
  },
  {
-  "id": "P0SA0610",
+  "id": "P0SA0615",
   "label": "Alaśiṅgabhaṭṭa",
   "names_skt": [
    "Alaśiṅgabhaṭṭa",
@@ -36058,7 +36194,7 @@
   ]
  },
  {
-  "id": "P0SA0611",
+  "id": "P0SA0616",
   "label": "Bhaṭṭaratnākara",
   "names_skt": [
    "Bhaṭṭaratnākara",
@@ -36097,7 +36233,7 @@
   ]
  },
  {
-  "id": "P0SA0612",
+  "id": "P0SA0617",
   "label": "Divākarendra",
   "names_skt": [
    "Divākarendra",
@@ -36135,7 +36271,7 @@
   ]
  },
  {
-  "id": "P0SA0613",
+  "id": "P0SA0618",
   "label": "Cūḍā",
   "names_skt": [
    "Cūḍā",
@@ -36249,7 +36385,7 @@
   ]
  },
  {
-  "id": "P0SA0614",
+  "id": "P0SA0619",
   "label": "Śīlasāgara",
   "names_skt": [
    "Śīlasāgara"
@@ -36331,7 +36467,7 @@
   ]
  },
  {
-  "id": "P0SA0615",
+  "id": "P0SA0620",
   "label": "Alakakalaśa",
   "names_skt": [
    "Alakakalaśa",
@@ -36370,7 +36506,7 @@
   ]
  },
  {
-  "id": "P0SA0616",
+  "id": "P0SA0621",
   "label": "Chātrakumāradatta",
   "names_skt": [
    "Chātrakumāradatta",
@@ -36560,7 +36696,7 @@
   ]
  },
  {
-  "id": "P0SA0617",
+  "id": "P0SA0622",
   "label": "Nūtanānaṅgavajra",
   "names_skt": [
    "Nūtanānaṅgavajra"
@@ -36599,7 +36735,7 @@
   ]
  },
  {
-  "id": "P0SA0618",
+  "id": "P0SA0623",
   "label": "Parahitarakṣita",
   "names_skt": [
    "Parahitarakṣita"
@@ -36676,7 +36812,7 @@
   ]
  },
  {
-  "id": "P0SA0619",
+  "id": "P0SA0624",
   "label": "Tatakaragupta",
   "names_skt": [
    "Tatakaragupta",
@@ -36716,7 +36852,7 @@
   ]
  },
  {
-  "id": "P0SA0620",
+  "id": "P0SA0625",
   "label": "Jīvaharṣa",
   "names_skt": [
    "Jīvaharṣa",
@@ -36832,7 +36968,7 @@
   ]
  },
  {
-  "id": "P0SA0621",
+  "id": "P0SA0626",
   "label": "Yoginī Cintā",
   "names_skt": [
    "Cintā",
@@ -37105,7 +37241,7 @@
   ]
  },
  {
-  "id": "P0SA0622",
+  "id": "P0SA0627",
   "label": "Caryāvratin",
   "names_skt": [
    "Caryāvratin",
@@ -37182,7 +37318,7 @@
   ]
  },
  {
-  "id": "P0SA0623",
+  "id": "P0SA0628",
   "label": "pseudo-Jaimini (attributions)",
   "names_skt": [
    "Jaimini"
@@ -37219,7 +37355,7 @@
   ]
  },
  {
-  "id": "P0SA0624",
+  "id": "P0SA0629",
   "label": "pseudo-Kaṇāda (attributions)",
   "names_skt": [
    "Kaṇāda"
