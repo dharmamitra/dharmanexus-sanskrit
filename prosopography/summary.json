@@ -1,0 +1,102 @@
+{
+ "clusters": 882,
+ "clusters_missing": 0,
+ "persons": 906,
+ "persons_linked_existing_atii": 282,
+ "persons_new": 624,
+ "persons_with_pandit": 400,
+ "pseudo_persons": 39,
+ "status_OK": 684,
+ "web_review": {
+  "persons": 263,
+  "floruit updated": 95,
+  "X->OK": 63,
+  "atii linked": 6,
+  "pandit linked": 4,
+  "text status changed": 68,
+  "floruit set": 34,
+  "one-sided bound set": 3
+ },
+ "authority_corrections": {
+  "ATII / record lumps several persons": 15,
+  "ATII / date": 9,
+  "ilx_skt/ATII / name of record": 4,
+  "Pandit / duplicate records": 7,
+  "ilx_skt/Muktabodha / id lumps several persons": 4,
+  "Pandit / date": 16,
+  "ATII / duplicate records": 1,
+  "ilx_skt/ATII / record lumps several persons": 4
+ },
+ "review_queue": 243,
+ "links": 2406,
+ "link_status": {
+  "disputed": 132,
+  "pseudepigraphic": 133,
+  "secure": 1913,
+  "traditional": 228
+ },
+ "attestations": 2654,
+ "attestations_verified": 2590,
+ "persons_with_verified_attestation": 819,
+ "merges": 61,
+ "merge_reasons": {
+  "ATII": 28,
+  "Pandit": 13,
+  "declared": 16,
+  "Muktabodha": 4
+ },
+ "atii_rescued": 21,
+ "ilx_route": {
+  "agrees": 139,
+  "linked": 16,
+  "name differs": 4,
+  "dates differ": 4,
+  "other id": 1
+ },
+ "derge_links": 8,
+ "commentary_order_flags": 0,
+ "flag_types": {
+  "soft: ": 53,
+  "authority: shares ATII id P": 10,
+  "soft: date conflict with statistical date of": 115,
+  "soft: web review considers": 43,
+  "authority: floruit differs from ATII P": 9,
+  "soft: ATII link P": 47,
+  "authority: ilx_skt metadata links this name to ATII P": 8,
+  "authority: linked to several Pandit records ": 5,
+  "authority: shares Muktabodha id mbP": 4,
+  "web review moved floruit from -": 1,
+  "Pandit links": 4,
+  "declared same as ": 3,
+  "authority: floruit differs from Pandit ": 16,
+  "soft: floruit from web sources of low reliability only": 19,
+  "authority: linked to several ATII records ": 1,
+  "authority: ATII record(s) ": 5,
+  "linked to several Pandit records ": 2,
+  "merged floruits do not overlap": 1,
+  "soft: Derge numbers point to several ATII authors ": 1,
+  "soft: ATII link ? added": 1,
+  "soft: ATII link ? from web review": 1,
+  "web review moved floruit from ": 8,
+  "ilx_skt metadata links this name to ATII P": 1
+ },
+ "eval_pandit_holdout": {
+  "correct": 212,
+  "no Pandit link": 5,
+  "different person": 4
+ },
+ "tokens": {
+  "flash": [
+   2523976,
+   1311716
+  ],
+  "pro": [
+   480020,
+   271011
+  ],
+  "pro2": [
+   1479681,
+   821208
+  ]
+ }
+}
