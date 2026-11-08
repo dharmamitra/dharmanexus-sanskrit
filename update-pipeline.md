@@ -144,6 +144,12 @@ chunks from `full_analysis`, root < commentary relations and the anchor/constrai
      - a meta entry in `meta.json`
      - chunk rows in `chunks_dense.tsv`/`chunks_fw.pkl`, computed with `extract_chunks.py`'s
        `chunk_feats` (100 segments per chunk, ≥ 200 tokens)
+     - an `anchor` line in `manual_constraints.tsv` for every new text with a securely attributed,
+       datable author, using the window of that author's other anchored works (grep the author in
+       `manual_constraints.tsv`, `literature_anchors.tsv` and `dated_gibbs_full.tsv`). The model
+       does **not** pass an author's date on to their other works; without an anchor a short text is
+       dated from stylometry alone, and the result can be centuries off (the Pañcaskandhaka first came
+       out as 105 BCE – 532 CE; with the Vasubandhu anchor 350–430 it is 340–438 CE)
      - `order` lines in `manual_constraints.tsv`, e.g. root text before its commentary when the
        title rule in `extract_relations.py` doesn't catch the pair
      - translation termini in `translation_taq.tsv` (`not_after` = date of the Chinese
