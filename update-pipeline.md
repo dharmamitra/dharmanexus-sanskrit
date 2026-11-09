@@ -132,7 +132,8 @@ chunks from `full_analysis`, root < commentary relations and the anchor/constrai
 
 - **Whole-corpus re-run:** `build_meta.py`, `extract_morph.py`, `extract_chunks.py`,
   `extract_relations.py`, `date_gibbs_full.py`, then `utils/provenance/apply.py`. This changes the
-  dates of every entry; the published dates come from the 13 Oct 2026 run
+  dates of every entry; the published dates come from the 9 Nov 2026 run (`rerun.20261109.log`:
+  the 13 Oct inputs + the Pañcaskandhaka + author-floruit anchors), before that the 13 Oct 2026 run
   (`rerun.20261013c.log`). `build_meta.py`, `extract_chunks.py` and `extract_morph.py` hard-code
   `~/data/dharmanexus-sanskrit`.
 - **Adding a few texts without moving the published dates:**
@@ -144,19 +145,22 @@ chunks from `full_analysis`, root < commentary relations and the anchor/constrai
      - a meta entry in `meta.json`
      - chunk rows in `chunks_dense.tsv`/`chunks_fw.pkl`, computed with `extract_chunks.py`'s
        `chunk_feats` (100 segments per chunk, ≥ 200 tokens)
-     - an `anchor` line in `manual_constraints.tsv` for every new text with a securely attributed,
-       datable author, using the window of that author's other anchored works (grep the author in
-       `manual_constraints.tsv`, `literature_anchors.tsv` and `dated_gibbs_full.tsv`). The model
-       does **not** pass an author's date on to their other works; without an anchor a short text is
-       dated from stylometry alone, and the result can be centuries off (the Pañcaskandhaka first came
-       out as 105 BCE – 532 CE; with the Vasubandhu anchor 350–430 it is 340–438 CE)
+     - author anchors: rerun `build_author_anchors.py <worktree>/SA_files.json
+       ~/code/sanskrit-prosopography/out/persons_atii_schema.tsv` so that new texts get their author's
+       floruit (needs the `authors` field with a person id). If the author is not in the
+       prosopography yet, add an `anchor` line by hand in `manual_constraints.tsv` using the window
+       of that author's other works. Without an anchor, a short text is dated from stylometry alone
+       and can come out centuries off (the Pañcaskandhaka first came out as 105 BCE – 532 CE)
      - `order` lines in `manual_constraints.tsv`, e.g. root text before its commentary when the
        title rule in `extract_relations.py` doesn't catch the pair
      - translation termini in `translation_taq.tsv` (`not_after` = date of the Chinese
        translation − 20)
-  4. Run it and take only the new texts' rows. Also check how many existing works moved.
+  4. Run it and take only the new texts' rows (`head -1` + `grep` them into a separate tsv before
+     `apply_dates_to_catalog.py`). Also check how many existing works moved.
 - **Write the result to the entry:** `not_before`/`not_after` = `crI_lo95`/`crI_hi95`, plus the
-  `## Date estimate` section (format: `date_section()` in `utils/provenance/apply.py`). Keep the new
+  `## Date estimate` section: `python ~/code/sanskrit-dating/apply_dates_to_catalog.py
+  <dated_gibbs_full.tsv> <worktree>/SA_files.json changes.tsv` (touches only changed entries; same
+  format as `date_section()` in `utils/provenance/apply.py`). Keep the new
   constraint lines in `~/code/sanskrit-dating` too, so the next full re-run includes them.
 
 ## 5. Sanskrit ↔ Tibetan / Chinese alignment ("multilingual")
