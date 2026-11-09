@@ -1,12 +1,29 @@
 {
-  "displayName": "Bhaṭṭojidīkṣita, Jñānendrasarasvatī: Siddhāntakaumudī-w-Tattvabodhinī",
+  "displayName": "Bhaṭṭoji Dīkṣita, Jñānendrasarasvatī: Siddhāntakaumudī with Tattvabodhinī",
   "textname": "SA_GS24_Bhaṭṭojidīkṣita_Siddhāntakaumudī-w-Tattvabodhinī",
   "filename": "SA_GS24_Bhaṭṭojidīkṣita_Siddhāntakaumudī-w-Tattvabodhinī",
   "collection": "Treatises",
   "category": "GS24",
   "filenr": "GS24siddhantak",
-  "uniformtitle": "Siddhāntakaumudī-w-Tattvabodhinī",
-  "author": "Bhaṭṭojidīkṣita, Jñānendrasarasvatī",
+  "uniformtitle": "Siddhāntakaumudī with Tattvabodhinī",
+  "author": "Bhaṭṭoji Dīkṣita, Jñānendrasarasvatī",
+  "author_id": "P0SA0040, P0SA0638",
+  "authors": [
+    {
+      "name": "Bhaṭṭoji Dīkṣita",
+      "id": "P0SA0040",
+      "person": "Bhaṭṭoji Dīkṣita",
+      "role": "mūla",
+      "attribution": "secure"
+    },
+    {
+      "name": "Jñānendrasarasvatī",
+      "id": "P0SA0638",
+      "person": "Jñānendrasarasvatī",
+      "role": "commentary",
+      "attribution": "secure"
+    }
+  ],
   "source": "[tex cleanup applied]",
   "notes": "Contains DharmaNexus SA_GS24_siddhantakau (lib_in_dn 0.282, dn_in_lib 0.874) | DN has the Siddhāntakaumudī; new here: Tattvabodhinī and a Prauḍhamanoramā excerpt. The main file is actually an āhnika-wise Mahābhāṣya gloss."
 }

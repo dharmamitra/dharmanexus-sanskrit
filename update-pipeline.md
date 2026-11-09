@@ -48,8 +48,15 @@ not in `/tmp`: `/tmp` is a tmpfs and is lost on reboot.
 - **Catalog entry** in `SA_files.json` with these fields:
   - `displayName` ("Author: Title"), `textname` = `filename`, `collection`, `category`, `filenr`,
     `uniformtitle`, `author`
-  - `author_id`/`authors` (Dharmamitra person id; copy it from another entry by the same author, or run
-    `~/code/sanskrit-prosopography/apply_to_catalog.py`)
+  - `author_id`/`authors` (Dharmamitra person id). Do not pick an id by name: homonyms are common
+    (several Śaṅkaras, Lakṣmīdharas, Parāśaras). Run the incremental prosopography round
+    (`~/code/sanskrit-prosopography/increment.py`, see its README) for the new texts; it offers the model
+    the existing persons of similar name and writes the ids with `apply_to_catalog.py --only`.
+    Never run `apply_to_catalog.py` without `--only`: it would revert catalog edits made since the
+    prosopography run.
+  - `displayName` title part in catalog style, not file-name style: `Title (act 3)`, `(vol. 2, part 1)`,
+    `(chapters 41–45)`, `Title with Commentary`, `(second e-text)` for a second e-text of the same
+    edition; no hyphenated file-name suffixes (`-anka3`, `-w-`, `-v2`); no non-person "authors" (`Āgama`)
   - `source`, `raw_metadata`, `raw_metadata_confidence`, `not_before`/`not_after` (step 4)
 - **`metadata/<fn>-metadata.json`** holds the plain catalog fields (`displayName`, `textname`,
   `filename`, `collection`, `category`, `filenr`, `uniformtitle`, `author`, `source`), indent 2.
@@ -306,6 +313,8 @@ the parallels need the segments.
 
 - The 272 texts of Etexts_202610 still have no dating, no versions section and no full provenance
   write-up. They also never went through step 5, because the 5 Nov run read a stale checkout.
+  Their authors (171 texts) were linked to the prosopography and their file-name titles rewritten on
+  2026-11-09; the dating model still lacks them (no chunks extracted).
 - The backend's own `metadata/SA_files.json` on prod dates from April 2026;
   `backfill-primary-metadata-task --lang=sa` has not been run.
 - Older prod rows (~4.5M sa-sa, ~66k sa-bo, ~7k sa-zh) still have NULL `root_collection`/`par_collection`.
