@@ -664169,8 +664169,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15119",
-    "original":"sati kāraṇe kāraṇāntarasyābhāve kāryasyābhāvo dṛṣṭo bhāve ca punarbhāvistadyathāṅkurasya \/",
-    "analyzed":"sati kāraṇe kāraṇa antarasya abhāve kāryasya abhāvaḥ dṛṣṭaḥ bhāve ca punar bhāviḥ tat yathā aṅkurasya ",
+    "original":"sati kāraṇe kāraṇāntarasyābhāve kāryasyābhāvo dṛṣṭo bhāve ca punarbhāvastadyathāṅkurasya \/",
+    "analyzed":"sati kāraṇe kāraṇa antarasya abhāve kāryasya abhāvaḥ dṛṣṭaḥ bhāve ca punarbhāvaḥ tat yathā aṅkurasya ",
     "folio":461,
     "full_analysis":[
       {
@@ -664229,9 +664229,9 @@
         "tag":""
       },
       {
-        "unsandhied":"bhāviḥ",
-        "lemma":"bhāvin",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "unsandhied":"bhāvaḥ",
+        "lemma":"bhāva",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"tat",
@@ -664813,13 +664813,18 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15132",
-    "original":"saṃbhinnasvabhāvatvāt skandhebhyo'nyo vaktavya itaretaraskandhavat \/",
-    "analyzed":"saṃbhinna svabhāva tvāt skandhebhyaḥ nyaḥ vaktavyaḥ itaretara skandha vat ",
+    "original":"sa bhinnasvabhāvatvāt skandhebhyo'nyo vaktavya itaretaraskandhavat \/",
+    "analyzed":"sa bhinna svabhāva tvāt skandhebhyaḥ nyaḥ vaktavyaḥ itaretara skandha vat ",
     "folio":461,
     "full_analysis":[
       {
-        "unsandhied":"saṃbhinna-",
-        "lemma":"sambhid",
+        "unsandhied":"sa",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"bhinna-",
+        "lemma":"bhid",
         "tag":"Compound, VerbForm=Part"
       },
       {
@@ -665006,8 +665011,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15138",
-    "original":"naiva hi dravyato'sti nāpi prajñaptitaḥ \/",
-    "analyzed":"na eva hi dravyataḥ usti na api prajñaptitaḥ ",
+    "original":"naiva hi sa dravyato'sti nāpi prajñaptitaḥ \/",
+    "analyzed":"na eva hi sa dravyataḥ asti na api prajñaptitaḥ ",
     "folio":461,
     "full_analysis":[
       {
@@ -665024,6 +665029,11 @@
         "unsandhied":"hi",
         "lemma":"hi",
         "tag":""
+      },
+      {
+        "unsandhied":"sa",
+        "lemma":"tad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"dravyataḥ",
@@ -665191,8 +665201,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15143",
-    "original":"yadyayamarthaḥ skandhānāṃ lakṣyate, teṣveva pudgalaprajñaptiḥ prāpnoti \/",
-    "analyzed":"yadi ayam arthaḥ skandhānām lakṣyate teṣu eva pudgala prajñaptiḥ prāpnoti ",
+    "original":"yadyayamarthaḥ skandhān ālambyeti, teṣveva pudgalaprajñaptiḥ prāpnoti \/",
+    "analyzed":"yadi ayam arthaḥ skandhān ālambya iti teṣu eva pudgala prajñaptiḥ prāpnoti ",
     "folio":461,
     "full_analysis":[
       {
@@ -665211,14 +665221,19 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"skandhānām",
+        "unsandhied":"skandhān",
         "lemma":"skandha",
-        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
       },
       {
-        "unsandhied":"lakṣyate",
-        "lemma":"lakṣay",
-        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
+        "unsandhied":"ālambya",
+        "lemma":"ālamb",
+        "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
       },
       {
         "unsandhied":"teṣu",
@@ -665297,8 +665312,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15145",
-    "original":"athāyamarthaḥ skandhān pratīyeti,",
-    "analyzed":"atha ayam arthaḥ skandhān pratīya iti ",
+    "original":"athāyamarthaḥ skandhān pratītyeti,",
+    "analyzed":"atha ayam arthaḥ skandhān pratītya iti ",
     "folio":461,
     "full_analysis":[
       {
@@ -665322,9 +665337,9 @@
         "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
       },
       {
-        "unsandhied":"pratīya",
+        "unsandhied":"pratītya",
         "lemma":"pratī",
-        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Singular"
+        "tag":"VerbForm=Conv"
       },
       {
         "unsandhied":"iti",
@@ -665495,8 +665510,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15151",
-    "original":"na hi vinendhanenāgniḥ prajñapyate nacānya indhanādagniḥ śakyate prajñapayituṃ nāpyananyaḥ \/",
-    "analyzed":"na hi vinā indhanena agniḥ prajñapyate na ca anyaḥ indhanāt agniḥ śakyate prajñapayitum na api ananyaḥ ",
+    "original":"na hi vinendhanenāgniḥ prajñapyate nacānya indhanādagniḥ śakyate pratijñātuṃ nāpyananyaḥ \/",
+    "analyzed":"na hi vinā indhanena agniḥ prajñapyate na ca anyaḥ indhanāt agniḥ śakyate pratijñātum na api ananyaḥ ",
     "folio":462,
     "full_analysis":[
       {
@@ -665560,8 +665575,8 @@
         "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
       },
       {
-        "unsandhied":"prajñapayitum",
-        "lemma":"prajñapay",
+        "unsandhied":"pratijñātum",
+        "lemma":"pratijñā",
         "tag":"VerbForm=Inf"
       },
       {
@@ -665894,7 +665909,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15159",
-    "original":"kimatra vaktavyaṃ dāhyamindhanaṃ dāhako'gniḥ \/",
+    "original":"kimatra vaktavyaṃ \/ dāhyamindhanaṃ dāhako'gniḥ \/",
     "analyzed":"kim atra vaktavyam dāhyam indhanam dāhakaḥ agniḥ ",
     "folio":462,
     "full_analysis":[
@@ -665937,8 +665952,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15160",
-    "original":"etadevātra vaktavyaṃ kiṃ dāhyaṃ ko dāhaka iti \/",
-    "analyzed":"etat eva atra vaktavyam kim dāhyam kaḥ dāhakaḥ iti ",
+    "original":"etadevātra vaktavyaṃ kiṃ dāhyaṃ ko vā dāhaka iti \/",
+    "analyzed":"etat eva atra vaktavyam kim dāhyam kaḥ vā dāhakaḥ iti ",
     "folio":462,
     "full_analysis":[
       {
@@ -665975,6 +665990,11 @@
         "unsandhied":"kaḥ",
         "lemma":"ka",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
       },
       {
         "unsandhied":"dāhakaḥ",
@@ -666316,8 +666336,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15168",
-    "original":"anyaśca sa tasmādbhinnakālatvāt \/",
-    "analyzed":"anyaḥ ca sa tasmāt bhinna kāla tvāt ",
+    "original":"anyaśca tasmādbhinnakālatvāt \/",
+    "analyzed":"anyaḥ ca tasmāt bhinna kāla tvāt ",
     "folio":462,
     "full_analysis":[
       {
@@ -666331,14 +666351,9 @@
         "tag":""
       },
       {
-        "unsandhied":"sa",
-        "lemma":"tad",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
-      },
-      {
         "unsandhied":"tasmāt",
-        "lemma":"tasmāt",
-        "tag":""
+        "lemma":"tad",
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"bhinna-",
@@ -666894,8 +666909,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15179",
-    "original":"indhanabhāva ivāgnyabhāvaḥ \/",
-    "analyzed":"indhana bhāvaḥ iva agni abhāvaḥ ",
+    "original":"indhanābhāva ivāgnyabhāvaḥ \/",
+    "analyzed":"indhana abhāvaḥ iva agni abhāvaḥ ",
     "folio":462,
     "full_analysis":[
       {
@@ -666904,8 +666919,8 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"bhāvaḥ",
-        "lemma":"bhāva",
+        "unsandhied":"abhāvaḥ",
+        "lemma":"abhāva",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
@@ -667109,8 +667124,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15184",
-    "original":"anyadapi taduṣṇasvabhāvādagneruṣṇaṃ sidhyatyauṣṇyayogāditi",
-    "analyzed":"anyat api tad uṣṇa svabhāvāt agneḥ uṣṇam sidhyati auṣṇya yogāt iti ",
+    "original":"anyadapi taduṣṇasvabhāvādagneruṣṇaṃ sidhyatyauṣṇyayogāt \/",
+    "analyzed":"anyat api tad uṣṇa svabhāvāt agneḥ uṣṇam sidhyati auṣṇya yogāt ",
     "folio":462,
     "full_analysis":[
       {
@@ -667162,20 +667177,20 @@
         "unsandhied":"yogāt",
         "lemma":"yoga",
         "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
-      },
-      {
-        "unsandhied":"iti",
-        "lemma":"iti",
-        "tag":""
       }
     ]
   },
   {
     "segmentnr":"SA_T07_vakobhau:15185",
-    "original":"nāstyanyatve doṣaḥ \/",
-    "analyzed":"na asti anya tve doṣaḥ ",
+    "original":"iti nāstyanyatve doṣaḥ \/",
+    "analyzed":"iti na asti anya tve doṣaḥ ",
     "folio":462,
     "full_analysis":[
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
       {
         "unsandhied":"na",
         "lemma":"na",
@@ -667601,8 +667616,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15193",
-    "original":"yadā ca pudgalaḥ prajñapyate, ki tāvatskandhānupalabhya prajñapyate' āhosvit pudgalam\/",
-    "analyzed":"yadā ca pudgalaḥ prajñapyate ki tāvat skandhān upalabhya prajñapyate āhosvit pudgalam ",
+    "original":"yadā ca pudgalaḥ prajñapyate, kiṃ tāvatskandhānupalabhya prajñapyate' āhosvit pudgalam\/",
+    "analyzed":"yadā ca pudgalaḥ prajñapyate kim tāvat skandhān upalabhya prajñapyate āhosvit pudgalam ",
     "folio":463,
     "full_analysis":[
       {
@@ -667626,9 +667641,9 @@
         "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
       },
       {
-        "unsandhied":"ki",
-        "lemma":"ka",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "unsandhied":"kim",
+        "lemma":"kim",
+        "tag":""
       },
       {
         "unsandhied":"tāvat",
@@ -668102,8 +668117,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15205",
-    "original":"cakṣurvijñeyāni cedrūpāṇi pratītya pudgalaṃ pratibhāvayati , cakṣurvijñeyaḥ pudgalo vaktavyaḥ, no tu vaktavyo rūpāṇi vā no vā \/",
-    "analyzed":"cakṣuḥ vijñeyāni ced rūpāṇi pratītya pudgalam pratibhāvayati cakṣuḥ vijñeyaḥ pudgalaḥ vaktavyaḥ no tu vaktavyaḥ rūpāṇi vā no vā ",
+    "original":"cakṣurvijñeyāni cedrūpāṇi pratītya pudgalaṃ prativibhāvayati , cakṣurvijñeyaḥ pudgalo vaktavyaḥ \/ no tu vaktavyo rūpāṇi vā no vā \/",
+    "analyzed":"cakṣuḥ vijñeyāni ced rūpāṇi pratītya pudgalam prativibhāvayati cakṣuḥ vijñeyaḥ pudgalaḥ vaktavyaḥ no tu vaktavyaḥ rūpāṇi vā no vā ",
     "folio":463,
     "full_analysis":[
       {
@@ -668137,8 +668152,8 @@
         "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"pratibhāvayati",
-        "lemma":"pratibhāvay",
+        "unsandhied":"prativibhāvayati",
+        "lemma":"prativibhāvay",
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
@@ -668346,8 +668361,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15208",
-    "original":"cakṣurvijñeyāni cedrūpāṇi pratītya kṣīraṃ vibhāvayatyudakaṃ vā , cakṣurvijñeyaṃ kṣīramudakaṃ ceti vaktavyaṃ, no tu vaktavyaṃ rūpāṇi vā no vā \/",
-    "analyzed":"cakṣuḥ vijñeyāni ced rūpāṇi pratītya kṣīram vibhāvayati udakam vā cakṣuḥ vijñeyam kṣīram udakam ca iti vaktavyam no tu vaktavyam rūpāṇi vā no vā ",
+    "original":"cakṣurvijñeyāni cedrūpāṇi pratītya kṣīraṃ prativibhāvayatyudakaṃ vā , cakṣurvijñeyaṃ kṣīramudakaṃ veti vaktavyaṃ \/ no tu vaktavyaṃ rūpāṇi vā no vā \/",
+    "analyzed":"cakṣuḥ vijñeyāni ced rūpāṇi pratītya kṣīram prativibhāvayati udakam vā cakṣuḥ vijñeyam kṣīram udakam vā iti vaktavyam no tu vaktavyam rūpāṇi vā no vā ",
     "folio":463,
     "full_analysis":[
       {
@@ -668381,14 +668396,14 @@
         "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"vibhāvayati",
-        "lemma":"vibhāvay",
+        "unsandhied":"prativibhāvayati",
+        "lemma":"prativibhāvay",
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
         "unsandhied":"udakam",
         "lemma":"udaka",
-        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
         "unsandhied":"vā",
@@ -668396,9 +668411,9 @@
         "tag":""
       },
       {
-        "unsandhied":"cakṣuḥ",
+        "unsandhied":"cakṣuḥ-",
         "lemma":"cakṣus",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "tag":"Compound"
       },
       {
         "unsandhied":"vijñeyam",
@@ -668416,8 +668431,8 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"ca",
-        "lemma":"ca",
+        "unsandhied":"vā",
+        "lemma":"vā",
         "tag":""
       },
       {
@@ -668754,8 +668769,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15214",
-    "original":"kiṃ tāvadrūpāṇi pudgalopalabdheḥ kāraṇaṃ bhavatīti' āhosvidrūpāṇyupalabhamānaḥ pudgalamupalabhata iti \/",
-    "analyzed":"kim tāvat rūpāṇi pudgala upalabdheḥ kāraṇam bhavati iti āhosvit rūpāṇi upalabhamānaḥ pudgalam upalabhate iti ",
+    "original":"kiṃ tāvadrūpāṇi pudgalopalabdheḥ kāraṇaṃ bhavantī' āhosvidrūpāṇyupalabhamānaḥ pudgalamupalabhata iti \/",
+    "analyzed":"kim tāvat rūpāṇi pudgala upalabdheḥ kāraṇam bhavantī āhosvit rūpāṇi upalabhamānaḥ pudgalam upalabhate iti ",
     "folio":463,
     "full_analysis":[
       {
@@ -668789,14 +668804,9 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"bhavati",
+        "unsandhied":"bhavantī",
         "lemma":"bhū",
-        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
-      },
-      {
-        "unsandhied":"iti",
-        "lemma":"iti",
-        "tag":""
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular, Tense=Present, VerbForm=Part"
       },
       {
         "unsandhied":"āhosvit",
@@ -669138,8 +669148,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15222",
-    "original":"idaṃ ca rūpamayaṃ pudgalaḥ kathamidaṃ gamyate \/",
-    "analyzed":"idam ca rūpam ayam pudgalaḥ katham idam gamyate ",
+    "original":"idaṃ ca rūpamayaṃ pudgala iti kathamidaṃ paricchidyate \/",
+    "analyzed":"idam ca rūpam ayam pudgalaḥ iti katham idam paricchidyate ",
     "folio":463,
     "full_analysis":[
       {
@@ -669168,6 +669178,11 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
         "unsandhied":"katham",
         "lemma":"katham",
         "tag":""
@@ -669178,8 +669193,8 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"gamyate",
-        "lemma":"gam",
+        "unsandhied":"paricchidyate",
+        "lemma":"paricchid",
         "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
       }
     ]
@@ -669264,8 +669279,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15224",
-    "original":"upalabdhivaśena hi tasyāstitvaṃ pratijñāyate \/",
-    "analyzed":"upalabdhi vaśena hi tasya astitvam pratijñāyate ",
+    "original":"upalabdhivaśena hi tasyāstitvaṃ pratijñāyeta \/",
+    "analyzed":"upalabdhi vaśena hi tasya astitvam pratijñāyeta ",
     "folio":464,
     "full_analysis":[
       {
@@ -669294,9 +669309,9 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"pratijñāyate",
+        "unsandhied":"pratijñāyeta",
         "lemma":"pratijñā",
-        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
+        "tag":"Tense=Present, Mood=Optative, Voice=Passive, Person=3, Number=Singular"
       }
     ]
   },
@@ -669330,8 +669345,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15226",
-    "original":"athānyathā , bhinnakālopalambhādanyo rūpātprāpnoti \/",
-    "analyzed":"atha anyathā bhinna kāla upalambhāt anyaḥ rūpāt prāpnoti ",
+    "original":"athānyayā , bhinnakālopalambhādanyo rūpātprāpnoti \/",
+    "analyzed":"atha anyayā bhinna kāla upalambhāt anyaḥ rūpāt prāpnoti ",
     "folio":464,
     "full_analysis":[
       {
@@ -669340,9 +669355,9 @@
         "tag":""
       },
       {
-        "unsandhied":"anyathā",
-        "lemma":"anyathā",
-        "tag":""
+        "unsandhied":"anyayā",
+        "lemma":"anya",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
       },
       {
         "unsandhied":"bhinna-",
@@ -669512,8 +669527,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15230",
-    "original":"tena tarhi saṃskṛte'pyavaktavyaṃ bhavatīti siddhāntabhedaḥ \/",
-    "analyzed":"tena tarhi saṃskṛte pi avaktavyam bhavati iti siddhānta bhedaḥ ",
+    "original":"tena tarhi saṃskṛtam apyavaktavyaṃ bhavatīti siddhāntabhedaḥ \/",
+    "analyzed":"tena tarhi saṃskṛtam api a vaktavyam bhavati iti siddhānta bhedaḥ ",
     "folio":464,
     "full_analysis":[
       {
@@ -669527,19 +669542,24 @@
         "tag":""
       },
       {
-        "unsandhied":"saṃskṛte",
+        "unsandhied":"saṃskṛtam",
         "lemma":"saṃskṛta",
-        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"ipi",
-        "lemma":"ipi",
+        "unsandhied":"api",
+        "lemma":"api",
         "tag":""
       },
       {
-        "unsandhied":"avaktavyam",
-        "lemma":"avaktavya",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "unsandhied":"a",
+        "lemma":"a",
+        "tag":""
+      },
+      {
+        "unsandhied":"vaktavyam",
+        "lemma":"vac",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Gdv"
       },
       {
         "unsandhied":"bhavati",
@@ -669853,8 +669873,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15237",
-    "original":"yameva hi viṣayaṃ cakṣurvijñāneṣu pratītyotpadyate vijñānaṃ sa eva tasyālambanapratyayaḥ \/",
-    "analyzed":"yam eva hi viṣayam cakṣuḥ vijñāneṣu pratītya utpadyate vijñānam saḥ eva tasya ālambana pratyayaḥ ",
+    "original":"yameva hi viṣayaṃ pratītyotpadyate vijñānaṃ sa eva tasyālambanapratyayaḥ \/",
+    "analyzed":"yam eva hi viṣayam pratītya utpadyate vijñānam saḥ eva tasya ālambana pratyayaḥ ",
     "folio":464,
     "full_analysis":[
       {
@@ -669876,16 +669896,6 @@
         "unsandhied":"viṣayam",
         "lemma":"viṣaya",
         "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
-      },
-      {
-        "unsandhied":"cakṣuḥ-",
-        "lemma":"cakṣus",
-        "tag":"Compound"
-      },
-      {
-        "unsandhied":"vijñāneṣu",
-        "lemma":"vijñāna",
-        "tag":"Case=Locative, Gender=Neuter, Number=Plural"
       },
       {
         "unsandhied":"pratītya",
@@ -670040,8 +670050,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15241",
-    "original":"“tathā cakṣurbhikṣo hetu rūpāṇi pratyayaścakṣurvijñānasyotpādāya \/",
-    "analyzed":"tathā cakṣuḥ bhikṣaḥ hetu rūpāṇi pratyayaḥ cakṣuḥ vijñānasya utpādāya ",
+    "original":"“tathā cakṣurbhikṣo hetū rūpāṇi pratyayaścakṣurvijñānasyotpādāya \/",
+    "analyzed":"tathā cakṣuḥ bhikṣaḥ hetuḥ rūpāṇi pratyayaḥ cakṣuḥ vijñānasya utpādāya ",
     "folio":464,
     "full_analysis":[
       {
@@ -670057,12 +670067,12 @@
       {
         "unsandhied":"bhikṣaḥ",
         "lemma":"bhikṣu",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"hetu",
+        "unsandhied":"hetuḥ",
         "lemma":"hetu",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"rūpāṇi",
@@ -670217,19 +670227,14 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15245",
-    "original":"“ye hi hetavo ye pratyayā vijñānasyotpādāya te'pyanityā” iti sūtre vacanāt \/",
-    "analyzed":"ye hi hetavaḥ ye pratyayāḥ vijñānasya utpādāya te api anityāḥ iti sūtre vacanāt ",
+    "original":"“ye hetavo ye pratyayā vijñānasyotpādāya te'pyanityā” iti sūtre vacanāt \/",
+    "analyzed":"ye hetavaḥ ye pratyayāḥ vijñānasya utpādāya te api anityāḥ iti sūtre vacanāt ",
     "folio":464,
     "full_analysis":[
       {
         "unsandhied":"ye",
         "lemma":"yad",
         "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
-      },
-      {
-        "unsandhied":"hi",
-        "lemma":"hi",
-        "tag":""
       },
       {
         "unsandhied":"hetavaḥ",
@@ -670444,13 +670449,13 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15249",
-    "original":"caturvijñānavijñeyatvācchabdādanyaḥ prāpnoti rūpavat \/",
-    "analyzed":"catur vijñāna vijñeya tvāt śabdāt anyaḥ prāpnoti rūpa vat ",
+    "original":"cakṣurvijñānavijñeyatvācchabdādanyaḥ prāpnoti rūpavat \/",
+    "analyzed":"cakṣuḥ vijñāna vijñeya tvāt śabdāt anyaḥ prāpnoti rūpa vat ",
     "folio":464,
     "full_analysis":[
       {
-        "unsandhied":"catur-",
-        "lemma":"catur",
+        "unsandhied":"cakṣuḥ-",
+        "lemma":"cakṣus",
         "tag":"Compound"
       },
       {
@@ -670563,8 +670568,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15252",
-    "original":"“yānīmāni brāhmaṇa pañcendriyāṇi nānāgocarāṇi nānāviṣayāṇi svaṃ svaṃ gocaraviṣayaṃ pratyanubhavanti",
-    "analyzed":"yāni imāni brāhmaṇa pañca indriyāṇi nānā gocarāṇi nānā viṣayāṇi svam svam gocara viṣayam pratyanubhavanti ",
+    "original":"“yānīmāni brāhmaṇa pañcendriyāṇi nānāgocarāṇi nānāviṣayāṇi svakaṃ svakaṃ gocaraviṣayaṃ pratyanubhavanti",
+    "analyzed":"yāni imāni brāhmaṇa pañca indriyāṇi nānā gocarāṇi nānā viṣayāṇi svakam svakam gocara viṣayam pratyanubhavanti ",
     "folio":464,
     "full_analysis":[
       {
@@ -670613,13 +670618,13 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Plural"
       },
       {
-        "unsandhied":"svam",
-        "lemma":"sva",
+        "unsandhied":"svakam",
+        "lemma":"svaka",
         "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"svam",
-        "lemma":"sva",
+        "unsandhied":"svakam",
+        "lemma":"svaka",
         "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
@@ -670924,8 +670929,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15259",
-    "original":"ṣaḍimānīndriyāṇi nānāgocarāṇi nānāviṣayāṇi svaṃ svaṃ gocaraviṣayamākāṅkṣantī tyuktaṃ ṣaṭprāṇakopame \/",
-    "analyzed":"ṣaḍ imāni indriyāṇi nānā gocarāṇi nānā viṣayāṇi svam svam gocara viṣayam ākāṅkṣantī ti uktam ṣaṭprāṇakopame ",
+    "original":"ṣaḍimānīndriyāṇi nānāgocarāṇi nānāviṣayāṇi svakaṃ svakam gocaraviṣayamākāṅkṣantī tyuktaṃ ṣaṭprāṇakopame \/",
+    "analyzed":"ṣaḍ imāni indriyāṇi nānā gocarāṇi nānā viṣayāṇi svakam svakam gocara viṣayam ākāṅkṣantī ti uktam ṣaṭprāṇakopame ",
     "folio":464,
     "full_analysis":[
       {
@@ -670964,14 +670969,14 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Plural"
       },
       {
-        "unsandhied":"svam",
-        "lemma":"sva",
-        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+        "unsandhied":"svakam",
+        "lemma":"svaka",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"svam",
-        "lemma":"sva",
-        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+        "unsandhied":"svakam",
+        "lemma":"svaka",
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
       },
       {
         "unsandhied":"gocara-",
@@ -670989,8 +670994,8 @@
         "tag":"Case=Nominative, Gender=Feminine, Number=Singular, Tense=Present, VerbForm=Part"
       },
       {
-        "unsandhied":"iti",
-        "lemma":"iti",
+        "unsandhied":"ti",
+        "lemma":"ti",
         "tag":""
       },
       {
@@ -671098,8 +671103,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15262",
-    "original":"atastadādhipatyādhyākṛta matra manovijñānendriyaṃ kṛtvoktam \/",
-    "analyzed":"atas tad ādhipatya adhyākṛta matra manaḥ vijñāna indriyam kṛtvā uktam ",
+    "original":"atas tadadhipatyādhyāhṛtam atra manovijñānam indriyaṃ kṛtvoktam \/",
+    "analyzed":"atas tad adhipatya adhyāhṛtam atra manaḥ vijñānam indriyam kṛtvā uktam ",
     "folio":465,
     "full_analysis":[
       {
@@ -671113,18 +671118,18 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"ādhipatya-",
-        "lemma":"ādhipatya",
+        "unsandhied":"adhipatya-",
+        "lemma":"adhipati",
         "tag":"Compound"
       },
       {
-        "unsandhied":"adhyākṛta",
-        "lemma":"adhyākṛ",
-        "tag":"Case=Vocative, Gender=Masculine, Number=Singular, VerbForm=Part"
+        "unsandhied":"adhyāhṛtam",
+        "lemma":"adhyāhṛ",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       },
       {
-        "unsandhied":"matra",
-        "lemma":"matra",
+        "unsandhied":"atra",
+        "lemma":"atra",
         "tag":""
       },
       {
@@ -671133,9 +671138,9 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"vijñāna-",
+        "unsandhied":"vijñānam",
         "lemma":"vijñāna",
-        "tag":"Compound"
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
         "unsandhied":"indriyam",
@@ -671156,8 +671161,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15263",
-    "original":"yacca tatkevalaṃ manaādhipatyādhyākṛtaṃ manovijñānaṃ naivaṃ tadanyeṣāṃ viṣayamākāṅkṣatyato nāstyeṣa doṣaḥ \/",
-    "analyzed":"yat ca tat kevalam manaḥ ādhipatya adhyākṛtam manaḥ vijñānam na evam tat anyeṣām viṣayam ākāṅkṣati atas na asti eṣa doṣaḥ ",
+    "original":"yacca tatkevalaṃ manaādhipatyādhyāhṛtaṃ manovijñānaṃ naiva tadanyeṣāṃ viṣayamākāṅkṣatyato nāstyeṣa doṣaḥ \/",
+    "analyzed":"yat ca tat kevalam manaḥ ādhipatya adhyāhṛtam manaḥ vijñānam na eva tat anyeṣām viṣayam ākāṅkṣati atas na asti eṣa doṣaḥ ",
     "folio":465,
     "full_analysis":[
       {
@@ -671191,8 +671196,8 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"adhyākṛtam",
-        "lemma":"adhyākṛ",
+        "unsandhied":"adhyāhṛtam",
+        "lemma":"adhyāhṛ",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       },
       {
@@ -671211,8 +671216,8 @@
         "tag":""
       },
       {
-        "unsandhied":"evam",
-        "lemma":"evam",
+        "unsandhied":"eva",
+        "lemma":"eva",
         "tag":""
       },
       {
@@ -671264,8 +671269,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15264",
-    "original":"uktaṃ ca bhagavatā \"sarvābhijñeyaṃ vo bhikṣavo dharmaparyāyaṃ — deśayiṣyāmī\"tyuktvā",
-    "analyzed":"uktam ca bhagavatā sarva abhijñeyam vaḥ bhikṣavaḥ dharmaparyāyam deśayiṣyāmi iti uktvā ",
+    "original":"uktaṃ ca bhagavatā \"sarvābhijñeyaparijñeyaṃ vo bhikṣavo dharmaparyāyaṃ — deśayiṣyāmī\"tyuktvā",
+    "analyzed":"uktam ca bhagavatā sarva abhijñeya parijñeyam vaḥ bhikṣavaḥ dharmaparyāyam deśayiṣyāmi iti uktvā ",
     "folio":465,
     "full_analysis":[
       {
@@ -671289,14 +671294,19 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"abhijñeyam",
+        "unsandhied":"abhijñeya-",
         "lemma":"abhijñā",
+        "tag":"Compound, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"parijñeyam",
+        "lemma":"parijñā",
         "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Gdv"
       },
       {
         "unsandhied":"vaḥ",
         "lemma":"tvad",
-        "tag":"Case=Dative, Number=Plural"
+        "tag":"Case=Genitive, Number=Plural"
       },
       {
         "unsandhied":"bhikṣavaḥ",
@@ -671410,8 +671420,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15266",
-    "original":"veditaṃ suḥkhaṃ vā aduḥkhāsukhaṃ vā yāvat manaḥsaṃsparśapratyayam\/",
-    "analyzed":"veditam suḥkham vā aduḥkha asukham vā yāvat manaḥ saṃsparśa pratyayam ",
+    "original":"veditaṃ sukhaṃ duḥkhaṃ vā aduḥkhāsukhaṃ vā yāvat manaḥsaṃsparśapratyayam\/",
+    "analyzed":"veditam sukham duḥkham vā aduḥkha asukham vā yāvat manaḥ saṃsparśa pratyayam ",
     "folio":465,
     "full_analysis":[
       {
@@ -671420,8 +671430,13 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       },
       {
-        "unsandhied":"suḥkham",
-        "lemma":"suḥkha",
+        "unsandhied":"sukham",
+        "lemma":"sukha",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"duḥkham",
+        "lemma":"duḥkha",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
@@ -671511,8 +671526,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15268",
-    "original":"ata etāvadevābhijñeyaṃ pratijñeyaṃ cetyavardhāryate na pudgalaḥ\/",
-    "analyzed":"atas etāvat eva abhijñeyam pratijñeyam na pudgalaḥ ",
+    "original":"ata etāvadevābhijñeyaṃ parijñeyaṃ cetyavadhāryate na pudgalaḥ\/",
+    "analyzed":"atas etāvat eva abhijñeyam parijñeyam ca iti avadhāryate na pudgalaḥ ",
     "folio":465,
     "full_analysis":[
       {
@@ -671536,9 +671551,24 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Gdv"
       },
       {
-        "unsandhied":"pratijñeyam",
-        "lemma":"pratijñā",
+        "unsandhied":"parijñeyam",
+        "lemma":"parijñā",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Gdv"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"avadhāryate",
+        "lemma":"avadhāray",
+        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
       },
       {
         "unsandhied":"na",
@@ -671625,8 +671655,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15271",
-    "original":"cakṣuṣā ca pudgalaṃ paśyāma iti paśyanta paudgalikā anātmanā ātmānaṃ paśyāma iti dṛṣṭisthānamāpannā bhavanti\/\/",
-    "analyzed":"cakṣuṣā ca pudgalam paśyāmaḥ iti paśyanta paudgalikāḥ anātmanā ātmānam paśyāmaḥ iti dṛṣṭi sthānam āpannāḥ bhavanti ",
+    "original":"cakṣuṣā ca pudgalaṃ paśyāma iti paśyantaḥ paudgalikā anātmanā ātmānaṃ paśyāma iti dṛṣṭisthānamāpannā bhavanti\/\/",
+    "analyzed":"cakṣuṣā ca pudgalam paśyāmaḥ iti paśyantaḥ paudgalikāḥ anātmanā ātmānam paśyāmaḥ iti dṛṣṭi sthānam āpannāḥ bhavanti ",
     "folio":465,
     "full_analysis":[
       {
@@ -671655,9 +671685,9 @@
         "tag":""
       },
       {
-        "unsandhied":"paśyanta",
-        "lemma":"paś",
-        "tag":"Tense=Imperativef, Mood=Indicative, Person=3, Number=Plural"
+        "unsandhied":"paśyantaḥ",
+        "lemma":"dṛś",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, Tense=Present, VerbForm=Part"
       },
       {
         "unsandhied":"paudgalikāḥ",
@@ -671741,7 +671771,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15273",
-    "original":"\"skandheṣveva pudgalākhye\"ti mānuṣyakasūtram\/",
+    "original":"\"skandheṣveva pudgalākhye\"ti\/ mānuṣyakasūtram\/",
     "analyzed":"skandheṣu eva pudgala ākhyā iti mānuṣyaka sūtram ",
     "folio":465,
     "full_analysis":[
@@ -672066,8 +672096,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15278",
-    "original":"atrāyaṃ vyavahāra ityapi sa āyuṣmān evaṃnāmā evaṃjātya evaṃ gotra evamāhāra evaṃsukhaduḥkhapratisaṃvedī evaṃdīrghāyurevaṃ cirasthitika evamāyuḥparyanta",
-    "analyzed":"atra ayam vyavahāraḥ iti api saḥ āyuṣmān evaṃnāmā evaṃjātyaḥ evam gotraḥ evam āhāraḥ evam sukha duḥkha pratisaṃvedī evam dīrgha āyuḥ evam cirasthitikaḥ evam āyuḥ paryantaḥ ",
+    "original":"atrāyaṃ vyavahāra ityapi sa āyuṣmān evaṃnāmā evaṃjātīya evaṃ gotra evamāhāra evaṃsukhaduḥkhapratisaṃvedī evaṃdīrghāyurevaṃ cirasthitika evamāyuḥparyanta",
+    "analyzed":"atra ayam vyavahāraḥ iti api saḥ āyuṣmān evaṃnāmā evaṃjātīyaḥ evam gotraḥ evam āhāraḥ evam sukha duḥkha pratisaṃvedī evam dīrgha āyuḥ evam cirasthitikaḥ evam āyuḥ paryantaḥ ",
     "folio":465,
     "full_analysis":[
       {
@@ -672111,8 +672141,8 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"evaṃjātyaḥ",
-        "lemma":"evaṃjātya",
+        "unsandhied":"evaṃjātīyaḥ",
+        "lemma":"evaṃjātīya",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
@@ -672212,8 +672242,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15280",
-    "original":"iti hi bhikṣavaḥ saṃjñāmātrakamevaitadvyavahāramātrakamevaitat\/",
-    "analyzed":"iti hi bhikṣavaḥ saṃjñā mātrakam eva etat vyavahāra mātrakam eva etat ",
+    "original":"iti hi bhikṣavaḥ saṃjñāmātrakamevaitatpratijñāmātrakamevaitadvyavahāramātrakamevaitat\/",
+    "analyzed":"iti hi bhikṣavaḥ saṃjñā mātrakam eva etat pratijñā mātrakam eva etat vyavahāra mātrakam eva etat ",
     "folio":465,
     "full_analysis":[
       {
@@ -672234,6 +672264,26 @@
       {
         "unsandhied":"saṃjñā-",
         "lemma":"saṃjñā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"mātrakam",
+        "lemma":"mātraka",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"etat",
+        "lemma":"etad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"pratijñā-",
+        "lemma":"pratijñā",
         "tag":"Compound"
       },
       {
@@ -672275,8 +672325,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15281",
-    "original":"sarva ime dharmāḥ anityāḥ saṃskṛtāśceti tāḥ pratītyasamutpannā iti\/",
-    "analyzed":"sarve ime dharmāḥ anityāḥ saṃskṛtāḥ ca iti tāḥ pratītyasamutpannāḥ iti ",
+    "original":"sarva ime dharmāḥ anityāḥ saṃskṛtāścetitāḥ pratītyasamutpannā iti\/",
+    "analyzed":"sarve ime dharmāḥ anityāḥ saṃskṛtāḥ cetitāḥ pratītyasamutpannāḥ iti ",
     "folio":465,
     "full_analysis":[
       {
@@ -672305,24 +672355,14 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Part"
       },
       {
-        "unsandhied":"ca",
-        "lemma":"ca",
-        "tag":""
-      },
-      {
-        "unsandhied":"iti",
-        "lemma":"iti",
-        "tag":""
-      },
-      {
-        "unsandhied":"tāḥ",
-        "lemma":"tad",
-        "tag":"Case=Nominative, Gender=Feminine, Number=Plural"
+        "unsandhied":"cetitāḥ",
+        "lemma":"cetay",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural, VerbForm=Part"
       },
       {
         "unsandhied":"pratītyasamutpannāḥ",
         "lemma":"pratītyasamutpanna",
-        "tag":"Case=Nominative, Gender=Feminine, Number=Plural"
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
       },
       {
         "unsandhied":"iti",
@@ -672404,8 +672444,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15284",
-    "original":"tathā coktaṃ \"sarvamastīti brāhmaṇa yāvadeva — dvādaśāyanānī\"ti\/",
-    "analyzed":"tathā ca uktam sarvam asti iti brāhmaṇa yāvat eva dvādaśa ayanāni iti ",
+    "original":"tathā coktaṃ \"sarvamastīti brāhmaṇa yāvadeva — dvādaśāyatanānī\"ti\/",
+    "analyzed":"tathā ca uktam sarvam asti iti brāhmaṇa yāvat eva dvādaśa āyatanāni iti ",
     "folio":465,
     "full_analysis":[
       {
@@ -672459,8 +672499,8 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"ayanāni",
-        "lemma":"ayana",
+        "unsandhied":"āyatanāni",
+        "lemma":"āyatana",
         "tag":"Case=Nominative, Gender=Neuter, Number=Plural"
       },
       {
@@ -672573,8 +672613,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15287",
-    "original":"teṣāmapi caivaṃ paśyato \"yāvatā bhikṣo cakṣuryāvatā rūpāṇi vistareṇa, etāvatā bhikṣo tathāgataḥ sarvaṃ ca prajñāpayati sarvaprajñaptiṃ ce\"ti\/\/",
-    "analyzed":"teṣām api ca evam paśyataḥ yāvatā bhikṣo cakṣuḥ yāvatā rūpāṇi vistareṇa etāvatā bhikṣo tathāgataḥ sarvam ca prajñāpayati sarva prajñaptim ca iti ",
+    "original":"teṣāmapi caivaṃ paśyato \"yāvatā bhikṣo cakṣuryāvatā rūpāṇi vistareṇa, etāvatā bhikṣo tathāgataḥ sarvaṃ ca prajñapayati sarvaprajñaptiṃ ce\"ti\/\/",
+    "analyzed":"teṣām api ca evam paśyataḥ yāvatā bhikṣo cakṣuḥ yāvatā rūpāṇi vistareṇa etāvatā bhikṣo tathāgataḥ sarvam ca prajñapayati sarva prajñaptim ca iti ",
     "folio":465,
     "full_analysis":[
       {
@@ -672658,8 +672698,8 @@
         "tag":""
       },
       {
-        "unsandhied":"prajñāpayati",
-        "lemma":"prajñāpay",
+        "unsandhied":"prajñapayati",
+        "lemma":"prajñapay",
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
@@ -672686,8 +672726,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15288",
-    "original":"bimbisārasūtre coktam \"ātmā ātmeti bhikṣavo bālo'śrutavān pṛthagjanaḥ prajñaptimanupatito na tvātrā tmā vā ātmīyaṃ vā' duḥkhamidamutpadya mānamutpadyate\"",
-    "analyzed":"bimbisārasūtre ca uktam ātmā ātmā iti bhikṣavaḥ pṛthagjanaḥ prajñaptim anupatitaḥ na tu atra ātmā vā ātmīyam vā duḥkham idam utpadya mānam utpadyate ",
+    "original":"bimbisārasūtre coktam \/ \"ātmā ātmīyeti bhikṣavo bālo'śrutavān pṛthagjanaḥ prajñaptimanupatito na tvatrātmā vā ātmīyaṃ vā' duḥkhamidamutpadya mānamutpadyate\"",
+    "analyzed":"bimbisārasūtre ca uktam ātmā ātmīyā iti bhikṣavaḥ pṛthagjanaḥ prajñaptim anupatitaḥ na tu atra ātmā vā ātmīyam vā duḥkham idam utpadya mānam utpadyate ",
     "folio":465,
     "full_analysis":[
       {
@@ -672716,9 +672756,9 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"ātmā",
-        "lemma":"ātman",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+        "unsandhied":"ātmīyā",
+        "lemma":"ātmīya",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
       },
       {
         "unsandhied":"iti",
@@ -672827,7 +672867,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15290",
-    "original":"śailayāpyarhantyā māramārabhyoktaṃ \"manyase kiṃ nu sattveti māradṛṣṭigataṃ hi te \/",
+    "original":"śailayāpyarhantyā māramārabhyoktam \/ \"manyase kiṃ nu sattveti māra dṛṣṭigataṃ hi te \/",
     "analyzed":"śailayā api arhantyā māram ārabhya uktam manyase kim nu sattva iti māra dṛṣṭi gatam hi te ",
     "folio":465,
     "full_analysis":[
@@ -672859,7 +672899,7 @@
       {
         "unsandhied":"uktam",
         "lemma":"vac",
-        "tag":"Case=Accusative, Gender=Neuter, Number=Singular, VerbForm=Part"
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       },
       {
         "unsandhied":"manyase",
@@ -672887,9 +672927,9 @@
         "tag":""
       },
       {
-        "unsandhied":"māra-",
+        "unsandhied":"māra",
         "lemma":"māra",
-        "tag":"Compound"
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"dṛṣṭi-",
@@ -673054,13 +673094,13 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15294",
-    "original":"kṣadrake'pi cāgame daridrabrāhmaṇamadhikṛtyoktaṃ",
-    "analyzed":"kṣadrake pi ca āgame daridra brāhmaṇam adhikṛtya uktam ",
+    "original":"kṣudrake'pi cāgame bādaribrāhmaṇamadhikṛtyoktam \/",
+    "analyzed":"kṣudrake api ca āgame bādari brāhmaṇam adhikṛtya uktam ",
     "folio":466,
     "full_analysis":[
       {
-        "unsandhied":"kṣadrake",
-        "lemma":"kṣadraka",
+        "unsandhied":"kṣudrake",
+        "lemma":"kṣudraka",
         "tag":"Case=Locative, Gender=Masculine, Number=Singular"
       },
       {
@@ -673079,8 +673119,8 @@
         "tag":"Case=Locative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"daridra-",
-        "lemma":"daridra",
+        "unsandhied":"bādari-",
+        "lemma":"bādarin",
         "tag":"Compound"
       },
       {
@@ -673102,8 +673142,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15295",
-    "original":"śṛṇu tvaṃ svādare dharmaṃ sarvagranthipramocanam \/",
-    "analyzed":"śṛṇu tvam sva ādare dharmam sarva granthi pramocanam ",
+    "original":"śṛṇu tvaṃ bādare dharmaṃ sarvagranthipramocanam \/",
+    "analyzed":"śṛṇu tvam bādare dharmam sarva granthi pramocanam ",
     "folio":466,
     "full_analysis":[
       {
@@ -673117,14 +673157,9 @@
         "tag":"Case=Nominative, Number=Singular"
       },
       {
-        "unsandhied":"sva-",
-        "lemma":"sva",
-        "tag":"Compound"
-      },
-      {
-        "unsandhied":"ādare",
-        "lemma":"ādara",
-        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+        "unsandhied":"bādare",
+        "lemma":"bādara",
+        "tag":"Case=Vocative, Gender=Feminine, Number=Singular"
       },
       {
         "unsandhied":"dharmam",
@@ -673418,8 +673453,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15302",
-    "original":"na labhyate so'pi kaścidyo bhāvayati śūnyatām”ti \/",
-    "analyzed":"na labhyate saḥ upi kaścid yaḥ bhāvayati ",
+    "original":"na labhyate so'pi kaścidyo bhāvayati śūnyatām \/\/ iti \/",
+    "analyzed":"na labhyate saḥ upi kaścid yaḥ bhāvayati śūnyatām iti ",
     "folio":466,
     "full_analysis":[
       {
@@ -673456,12 +673491,22 @@
         "unsandhied":"bhāvayati",
         "lemma":"bhāvay",
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"śūnyatām",
+        "lemma":"śūnyatā",
+        "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
       }
     ]
   },
   {
     "segmentnr":"SA_T07_vakobhau:15303",
-    "original":"tathoktaṃ \"pañcādīnavā ātmopalambhe \/",
+    "original":"tathoktaṃ \/ \"pañcādīnavā ātmopalambhe \/",
     "analyzed":"tathā uktam pañca ādīnavāḥ ātma upalambhe ",
     "folio":466,
     "full_analysis":[
@@ -673499,8 +673544,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15304",
-    "original":"ātmadṛṣṭirbhavati sattvadṛṣṭiḥ \/",
-    "analyzed":"ātma dṛṣṭiḥ bhavati sattva dṛṣṭiḥ ",
+    "original":"ātmadṛṣṭirbhavati sattvadṛṣṭir jīvadṛṣṭiś ca \/",
+    "analyzed":"ātma dṛṣṭiḥ bhavati sattva dṛṣṭiḥ jīva dṛṣṭiḥ ca ",
     "folio":466,
     "full_analysis":[
       {
@@ -673527,6 +673572,21 @@
         "unsandhied":"dṛṣṭiḥ",
         "lemma":"dṛṣṭi",
         "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"jīva-",
+        "lemma":"jīva",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"dṛṣṭiḥ",
+        "lemma":"dṛṣṭi",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"ca",
+        "lemma":"ca",
+        "tag":""
       }
     ]
   },
@@ -674458,8 +674518,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15327",
-    "original":"iha caivaṃ vikalpyate \"anātmanyātmeti saṃjñāviparyāsa ścittaviparyāso dṛṣṭiviparyāsa\" iti\/",
-    "analyzed":"iha ca evam vikalpyate anātmani ātmā iti saṃjñā viparyāsaḥ ścitta viparyāsaḥ dṛṣṭi viparyāsaḥ iti ",
+    "original":"iha caiva katham vikalpyate \/ \"anātmanyātmeti saṃjñāviparyāsa ścittaviparyāso dṛṣṭiviparyāsa\" iti\/",
+    "analyzed":"iha ca eva katham vikalpyate anātmani ātmā iti saṃjñā viparyāsaḥ ścitta viparyāsaḥ dṛṣṭi viparyāsaḥ iti ",
     "folio":467,
     "full_analysis":[
       {
@@ -674473,8 +674533,13 @@
         "tag":""
       },
       {
-        "unsandhied":"evam",
-        "lemma":"evam",
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
+      },
+      {
+        "unsandhied":"katham",
+        "lemma":"katham",
         "tag":""
       },
       {
@@ -674536,8 +674601,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15328",
-    "original":"anātmanyātmeti viparyāso' na tvātmani \/ kiṃ ca punaḥ",
-    "analyzed":"anātmani ātmā iti viparyāsaḥ na tu ātmani kim ca punar ",
+    "original":"anātmanyātmeti viparyāso' na tvātmani \/ kiṃ ca punar anātmā \/",
+    "analyzed":"anātmani ātmā iti viparyāsaḥ na tu ātmani kim ca punar anātmā ",
     "folio":467,
     "full_analysis":[
       {
@@ -674589,25 +674654,20 @@
         "unsandhied":"punar",
         "lemma":"punar",
         "tag":""
+      },
+      {
+        "unsandhied":"anātmā",
+        "lemma":"anātman",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       }
     ]
   },
   {
     "segmentnr":"SA_T07_vakobhau:15329",
-    "original":"\"nātmā\/ skandhāyatanadhātavaḥ\" yattāvaduktaṃ prāk “no tu vaktavyaṃ rūpāṇi vā no ve\" ti' tattāvadaśocam'\/",
-    "analyzed":"na ātmā skandha āyatana dhātavaḥ yat tāvat uktam prāk no tu vaktavyam rūpāṇi vā no vā iti tat tāvat aśocam ",
+    "original":"skandhāyatanadhātavaḥ \/ yattāvaduktaṃ prāk “no tu vaktavyaṃ rūpāṇi vā no ve\" ti' tattāvadapoḍham'\/",
+    "analyzed":"skandha āyatana dhātavaḥ yat tāvat uktam prāk no tu vaktavyam rūpāṇi vā no vā iti tat tāvat apoḍham ",
     "folio":467,
     "full_analysis":[
-      {
-        "unsandhied":"na",
-        "lemma":"na",
-        "tag":""
-      },
-      {
-        "unsandhied":"ātmā",
-        "lemma":"ātman",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
-      },
       {
         "unsandhied":"skandha-",
         "lemma":"skandha",
@@ -674686,7 +674746,7 @@
       {
         "unsandhied":"tat",
         "lemma":"tad",
-        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
         "unsandhied":"tāvat",
@@ -674694,9 +674754,9 @@
         "tag":""
       },
       {
-        "unsandhied":"aśocam",
-        "lemma":"śuc",
-        "tag":"Tense=Imperativef, Mood=Indicative, Person=1, Number=Singular"
+        "unsandhied":"apoḍham",
+        "lemma":"apavah",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       }
     ]
   },
@@ -675168,8 +675228,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15337",
-    "original":"tasmāt prajñaptisatpudgalo' rāśidhārāvat \/",
-    "analyzed":"tasmāt prajñapti sat pudgalaḥ rāśi dhārāvat ",
+    "original":"tasmāt prajñaptisatpudgalo' rāśidhārādivat \/",
+    "analyzed":"tasmāt prajñapti sat pudgalaḥ rāśi dhārā ādi vat ",
     "folio":467,
     "full_analysis":[
       {
@@ -675198,9 +675258,19 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"dhārāvat",
-        "lemma":"dhārāvat",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "unsandhied":"dhārā-",
+        "lemma":"dhārā",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"ādi-",
+        "lemma":"ādi",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vat",
+        "lemma":"vat",
+        "tag":""
       }
     ]
   },
@@ -675674,8 +675744,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15349",
-    "original":"tathā sarvavideṣṭavyo 'sakṛtsarvasya vedanāt\/",
-    "analyzed":"tathā sarva videṣṭavyaḥ sakṛt sarvasya vedanāt ",
+    "original":"tathā sarvavideṣṭavyo na sakṛtsarvavedanāt\/",
+    "analyzed":"tathā sarva videṣṭavyaḥ na sakṛt sarva vedanāt ",
     "folio":467,
     "full_analysis":[
       {
@@ -675694,14 +675764,19 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Gdv"
       },
       {
+        "unsandhied":"na",
+        "lemma":"na",
+        "tag":""
+      },
+      {
         "unsandhied":"sakṛt",
         "lemma":"sakṛt",
         "tag":""
       },
       {
-        "unsandhied":"sarvasya",
+        "unsandhied":"sarva-",
         "lemma":"sarva",
-        "tag":"Case=Genitive, Gender=Neuter, Number=Singular"
+        "tag":"Compound"
       },
       {
         "unsandhied":"vedanāt",
@@ -675806,8 +675881,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15353",
-    "original":"yaśca' etarhi saṃbuddho bahūnāṃ śokanāśana\" iti\/ skandhā eva ca traiyadhvikā iṣyante na pudgalā yuṣmābhiḥ\/\/",
-    "analyzed":"yaḥ ca etarhi saṃbuddhaḥ bahūnām śoka nāśanaḥ iti skandhāḥ eva ca traiyadhvikāḥ iṣyante na pudgalāḥ yuṣmābhiḥ ",
+    "original":"yaśca' etarhi saṃbuddho bahūnāṃ śokanāśanaḥ \/\/\" iti\/ skandhā eva ca traiyadhvikā iṣyante na pudgalo yuṣmābhiḥ\/\/",
+    "analyzed":"yaḥ ca etarhi saṃbuddhaḥ bahūnām śoka nāśanaḥ iti skandhāḥ eva ca traiyadhvikāḥ iṣyante na pudgalaḥ yuṣmābhiḥ ",
     "folio":467,
     "full_analysis":[
       {
@@ -675881,9 +675956,9 @@
         "tag":""
       },
       {
-        "unsandhied":"pudgalāḥ",
+        "unsandhied":"pudgalaḥ",
         "lemma":"pudgala",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"yuṣmābhiḥ",
@@ -675894,8 +675969,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15354",
-    "original":"yadi skandhā eva pudgalāḥ\/ kasmādidamāha—",
-    "analyzed":"yadi skandhāḥ eva pudgalāḥ kasmāt idam āha ",
+    "original":"yadi skandhā eva pudgalaḥ\/ kasmādidamāha—",
+    "analyzed":"yadi skandhāḥ eva pudgalaḥ kasmāt idam āha ",
     "folio":468,
     "full_analysis":[
       {
@@ -675914,9 +675989,9 @@
         "tag":""
       },
       {
-        "unsandhied":"pudgalāḥ",
+        "unsandhied":"pudgalaḥ",
         "lemma":"pudgala",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"kasmāt",
@@ -676302,8 +676377,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15365",
-    "original":"“yo'sāvāyuṣmānevaṃnāmā yāvadevaṃcirasthitika evamāyuḥparyantaḥ\" sa eṣa yathā vijñāyeta \/",
-    "analyzed":"yaḥ sau āyuṣmān evaṃnāmā yāvat evam cirasthitikaḥ evam āyuḥ paryantaḥ saḥ eṣa yathā vijñāyeta ",
+    "original":"“yo'sāvāyuṣmānevaṃnāmā yāvadevaṃcirasthitika evamāyuḥparyantaḥ\" sa eva yathā vijñāyeta \/",
+    "analyzed":"yaḥ sau āyuṣmān evaṃnāmā yāvat evam cirasthitikaḥ evam āyuḥ paryantaḥ saḥ eva yathā vijñāyeta ",
     "folio":468,
     "full_analysis":[
       {
@@ -676357,9 +676432,9 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"eṣa",
-        "lemma":"etad",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
       },
       {
         "unsandhied":"yathā",
@@ -676375,8 +676450,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15366",
-    "original":"mānyathā vijñāyi nityo vā avaktavyaṃ veti\/",
-    "analyzed":"mā anyathā vijñāyi nityaḥ vai a vaktavyam vā iti ",
+    "original":"mānyathā vijñāyi nityo vāvaktavyo veti\/",
+    "analyzed":"mā anyathā vijñāyi nityaḥ vā a vaktavyaḥ vā iti ",
     "folio":468,
     "full_analysis":[
       {
@@ -676400,8 +676475,8 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"vai",
-        "lemma":"vai",
+        "unsandhied":"vā",
+        "lemma":"vā",
         "tag":""
       },
       {
@@ -676410,9 +676485,9 @@
         "tag":""
       },
       {
-        "unsandhied":"vaktavyam",
+        "unsandhied":"vaktavyaḥ",
         "lemma":"vac",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Gdv"
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Gdv"
       },
       {
         "unsandhied":"vā",
@@ -676665,8 +676740,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15371",
-    "original":"sattvastu yathā'sti tathā vibhakto bhagavateti brūmo mānuṣyakasūtre\/",
-    "analyzed":"sattvaḥ tu yathā asti tathā vibhaktaḥ bhagavatā iti brūmaḥ mānuṣyakasūtre ",
+    "original":"sattvastu tathā'sti yathā vibhakto bhagavateti brūmaḥ\/",
+    "analyzed":"sattvaḥ tu tathā asti yathā vibhaktaḥ bhagavatā iti brūmaḥ ",
     "folio":468,
     "full_analysis":[
       {
@@ -676680,8 +676755,8 @@
         "tag":""
       },
       {
-        "unsandhied":"yathā",
-        "lemma":"yathā",
+        "unsandhied":"tathā",
+        "lemma":"tathā",
         "tag":""
       },
       {
@@ -676690,8 +676765,8 @@
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
-        "unsandhied":"tathā",
-        "lemma":"tathā",
+        "unsandhied":"yathā",
+        "lemma":"yathā",
         "tag":""
       },
       {
@@ -676713,11 +676788,6 @@
         "unsandhied":"brūmaḥ",
         "lemma":"brū",
         "tag":"Tense=Present, Mood=Indicative, Person=1, Number=Plural"
-      },
-      {
-        "unsandhied":"mānuṣyakasūtre",
-        "lemma":"mānuṣyakasūtra",
-        "tag":"Case=Locative, Gender=Neuter, Number=Singular"
       }
     ]
   },
@@ -676897,8 +676967,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15375",
-    "original":"nahyeṣā darśanabhāvanāprahātavyā yujyate,",
-    "analyzed":"na hi eṣā darśana bhāvanā prahātavyā yujyate ",
+    "original":"nahyeṣā satyadarśanabhāvanāprahātavyā yujyate,",
+    "analyzed":"na hi eṣā satya darśana bhāvanā prahātavyā yujyate ",
     "folio":468,
     "full_analysis":[
       {
@@ -676915,6 +676985,11 @@
         "unsandhied":"eṣā",
         "lemma":"etad",
         "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"satya-",
+        "lemma":"satya",
+        "tag":"Compound"
       },
       {
         "unsandhied":"darśana-",
@@ -676940,8 +677015,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15376",
-    "original":"pudgalasya sattveṣvantarbhāvāt \/",
-    "analyzed":"pudgalasya sattveṣu antarbhāvāt ",
+    "original":"pudgalasya satyeṣvanantarbhāvāt \/",
+    "analyzed":"pudgalasya satyeṣu anantarbhāvāt ",
     "folio":468,
     "full_analysis":[
       {
@@ -676950,13 +677025,13 @@
         "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"sattveṣu",
-        "lemma":"sattva",
-        "tag":"Case=Locative, Gender=Masculine, Number=Plural"
+        "unsandhied":"satyeṣu",
+        "lemma":"satya",
+        "tag":"Case=Locative, Gender=Neuter, Number=Plural"
       },
       {
-        "unsandhied":"antarbhāvāt",
-        "lemma":"antarbhāva",
+        "unsandhied":"anantarbhāvāt",
+        "lemma":"anantarbhāva",
         "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
       }
     ]
@@ -677162,8 +677237,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15380",
-    "original":"na sa evamutpadyate yathā skandhā apūrvaprādurbhāvāt\/",
-    "analyzed":"na saḥ evam utpadyate yathā skandhāḥ apūrva prādurbhāvāt ",
+    "original":"na sa evamutpadyate yathā skandhā apūrvaprādurbhāvāḥ\/",
+    "analyzed":"na saḥ evam utpadyate yathā skandhāḥ apūrva prādurbhāvāḥ ",
     "folio":468,
     "full_analysis":[
       {
@@ -677202,9 +677277,9 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"prādurbhāvāt",
+        "unsandhied":"prādurbhāvāḥ",
         "lemma":"prādurbhāva",
-        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
+        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
       }
     ]
   },
@@ -677589,14 +677664,14 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15389",
-    "original":"phalgu sūtre coktam \"upādatta iti phalgu na vadāmīti\/",
-    "analyzed":"phalgu sūtre ca uktam upādatte iti phalgu na vadāmi iti ",
+    "original":"phālguna sūtre coktam \"upādatta iti phālguna vadāmīti\/",
+    "analyzed":"phālguna sūtre ca uktam upādatte iti phālguna vadāmi iti ",
     "folio":468,
     "full_analysis":[
       {
-        "unsandhied":"phalgu",
-        "lemma":"phalgu",
-        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+        "unsandhied":"phālguna",
+        "lemma":"phālguna",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"sūtre",
@@ -677624,14 +677699,9 @@
         "tag":""
       },
       {
-        "unsandhied":"phalgu",
-        "lemma":"phalgu",
-        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
-      },
-      {
-        "unsandhied":"na",
-        "lemma":"na",
-        "tag":""
+        "unsandhied":"phālguna",
+        "lemma":"phālguna",
+        "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"vadāmi",
@@ -677700,8 +677770,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15391",
-    "original":"kaṃ ca tāvadbrūvānyājñikaṃ yāvadvyā dhita madhimucyate \/",
-    "analyzed":"kam ca tāvat brūvān yājñikam yāvat vyā dhita madhimucyate ",
+    "original":"kaṃ ca tāvadbrūvānyājñikaṃ yāvadvyā dhita madhikṛtya",
+    "analyzed":"kam ca tāvat brūvān yājñikam yāvat vyā dhita madhikṛtya ",
     "folio":468,
     "full_analysis":[
       {
@@ -677745,18 +677815,23 @@
         "tag":"Tense=Past, Mood=Indicative, Person=2, Number=Singular"
       },
       {
-        "unsandhied":"madhimucyate",
-        "lemma":"adhimuc",
-        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
+        "unsandhied":"adhikṛtya",
+        "lemma":"adhikṛ",
+        "tag":"VerbForm=Conv"
       }
     ]
   },
   {
     "segmentnr":"SA_T07_vakobhau:15392",
-    "original":"dṛṣṭātaṃ karoti\/ pudgalaṃ yadi \/",
-    "analyzed":"karoti pudgalam yadi ",
+    "original":"dṛṣṭāntaṃ karoti \/ pudgalaṃ yadi",
+    "analyzed":"dṛṣṭāntam karoti pudgalam yadi ",
     "folio":469,
     "full_analysis":[
+      {
+        "unsandhied":"dṛṣṭāntam",
+        "lemma":"dṛṣṭānta",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
+      },
       {
         "unsandhied":"karoti",
         "lemma":"kṛ",
@@ -677794,37 +677869,32 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15394",
-    "original":"atha cittacaittāḥ \/",
-    "analyzed":"atha citta caittāḥ ",
+    "original":"atha",
+    "analyzed":"atha ",
     "folio":469,
     "full_analysis":[
       {
         "unsandhied":"atha",
         "lemma":"atha",
         "tag":""
-      },
+      }
+    ]
+  },
+  {
+    "segmentnr":"SA_T07_vakobhau:15395",
+    "original":"cittacaittān \/",
+    "analyzed":"citta caittān ",
+    "folio":469,
+    "full_analysis":[
       {
         "unsandhied":"citta-",
         "lemma":"citta",
         "tag":"Compound"
       },
       {
-        "unsandhied":"caittāḥ",
+        "unsandhied":"caittān",
         "lemma":"caitta",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
-      }
-    ]
-  },
-  {
-    "segmentnr":"SA_T07_vakobhau:15395",
-    "original":"na \/",
-    "analyzed":"na ",
-    "folio":469,
-    "full_analysis":[
-      {
-        "unsandhied":"na",
-        "lemma":"na",
-        "tag":""
+        "tag":"Case=Accusative, Gender=Masculine, Number=Plural"
       }
     ]
   },
@@ -677995,8 +678065,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15401",
-    "original":"pratiṣiddho hi sāṃkhyīyaḥ pariṇāmavādaḥ \/",
-    "analyzed":"pratiṣiddhaḥ hi sāṃkhyīyaḥ pariṇāma vādaḥ ",
+    "original":"pratiṣiddho hi sāṃkhyaḥ pariṇāmavādaḥ \/",
+    "analyzed":"pratiṣiddhaḥ hi sāṃkhyaḥ pariṇāma vādaḥ ",
     "folio":469,
     "full_analysis":[
       {
@@ -678010,8 +678080,8 @@
         "tag":""
       },
       {
-        "unsandhied":"sāṃkhyīyaḥ",
-        "lemma":"sāṃkhyīya",
+        "unsandhied":"sāṃkhyaḥ",
+        "lemma":"sāṃkhya",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
@@ -678028,8 +678098,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15402",
-    "original":"tasmādadṛṣṭāntā ete \/",
-    "analyzed":"tasmāt adṛṣṭāntāḥ ete ",
+    "original":"tasmādadṛṣṭānta ete \/",
+    "analyzed":"tasmāt adṛṣṭānte ete ",
     "folio":469,
     "full_analysis":[
       {
@@ -678038,14 +678108,14 @@
         "tag":""
       },
       {
-        "unsandhied":"adṛṣṭāntāḥ",
+        "unsandhied":"adṛṣṭānte",
         "lemma":"adṛṣṭānta",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"ete",
         "lemma":"etad",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+        "tag":"Case=Nominative, Gender=Neuter, Number=Dual"
       }
     ]
   },
@@ -678144,8 +678214,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15404",
-    "original":"pañca skandhā ekaḥ pudgala iti bruvatā kathamamyatvaṃ nocyate \/",
-    "analyzed":"pañca skandhāḥ ekaḥ pudgalaḥ iti bruvatā katham amyatvam na ucyate ",
+    "original":"pañca skandhā ekaḥ pudgala iti brūvatā kathamamyatvaṃ nocyate \/",
+    "analyzed":"pañca skandhāḥ ekaḥ pudgalaḥ iti brūvatā katham amyatvam na ucyate ",
     "folio":469,
     "full_analysis":[
       {
@@ -678174,7 +678244,7 @@
         "tag":""
       },
       {
-        "unsandhied":"bruvatā",
+        "unsandhied":"brūvatā",
         "lemma":"brū",
         "tag":"Case=Instrumental, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
       },
@@ -678402,8 +678472,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15410",
-    "original":"yadi skandhamātraṃ pudgalaḥ, kasmāt bhagavatā sa jīvastaccharīrakanyo veti na vyākṛtam\/",
-    "analyzed":"yadi skandha mātram pudgalaḥ kasmāt bhagavatā sa jīvaḥ tad śarīra kanyaḥ vā iti na vyākṛtam ",
+    "original":"yadi skandhamātraṃ pudgalaḥ, kasmāt bhagavatā sa jīvastaccharīramanyo veti na vyākṛtam\/",
+    "analyzed":"yadi skandha mātram pudgalaḥ kasmāt bhagavatā sa jīvaḥ tat śarīram anyaḥ vā iti na vyākṛtam ",
     "folio":469,
     "full_analysis":[
       {
@@ -678447,18 +678517,18 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"tad-",
+        "unsandhied":"tat",
         "lemma":"tad",
-        "tag":"Compound"
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"śarīra-",
+        "unsandhied":"śarīram",
         "lemma":"śarīra",
-        "tag":"Compound"
+        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"kanyaḥ",
-        "lemma":"kanyā",
+        "unsandhied":"anyaḥ",
+        "lemma":"anya",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
@@ -678634,14 +678704,14 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15414",
-    "original":"kaurmasyeva romṇo'ntaḥ kharatā mṛdutā vā \/",
-    "analyzed":"kaurmasya iva romṇaḥ antar khara tā mṛdu tā vā ",
+    "original":"kaurmasyeva romṇaḥ kharatā mṛdutā vā \/",
+    "analyzed":"kaurmasya iva romṇaḥ khara tā mṛdu tā vā ",
     "folio":469,
     "full_analysis":[
       {
         "unsandhied":"kaurmasya",
         "lemma":"kaurma",
-        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+        "tag":"Case=Genitive, Gender=Neuter, Number=Singular"
       },
       {
         "unsandhied":"iva",
@@ -678652,11 +678722,6 @@
         "unsandhied":"romṇaḥ",
         "lemma":"roman",
         "tag":"Case=Genitive, Gender=Neuter, Number=Singular"
-      },
-      {
-        "unsandhied":"antar",
-        "lemma":"antar",
-        "tag":""
       },
       {
         "unsandhied":"khara-",
@@ -678725,8 +678790,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15416",
-    "original":"sthaviro hi nāgasenaḥ kaliṅge na rājñopasaṃkramyoktaḥ",
-    "analyzed":"sthaviraḥ hi nāgasenaḥ kaliṅge na rājñā upasaṃkramya uktaḥ ",
+    "original":"sthaviro hi nāgasenaḥ milindena rājñopasaṃkramyoktaḥ",
+    "analyzed":"sthaviraḥ hi nāgasenaḥ milindena rājñā upasaṃkramya uktaḥ ",
     "folio":469,
     "full_analysis":[
       {
@@ -678745,14 +678810,9 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"kaliṅge",
-        "lemma":"kaliṅga",
-        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
-      },
-      {
-        "unsandhied":"na",
-        "lemma":"na",
-        "tag":""
+        "unsandhied":"milindena",
+        "lemma":"milinda",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"rājñā",
@@ -678773,8 +678833,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15417",
-    "original":"“pṛccheyamahaṃ bhadantaṃ bahuvollakāśca śravaṇā bhavanti \/",
-    "analyzed":"pṛccheyam aham bhadantam bahuvollakāḥ ca śravaṇāḥ bhavanti ",
+    "original":"“pṛccheyamahaṃ bhadantaṃ \/ bahuvollakāśca śramaṇā bhavanti \/",
+    "analyzed":"pṛccheyam aham bhadantam bahuvollakāḥ ca śramaṇāḥ bhavanti ",
     "folio":469,
     "full_analysis":[
       {
@@ -678803,8 +678863,8 @@
         "tag":""
       },
       {
-        "unsandhied":"śravaṇāḥ",
-        "lemma":"śravaṇa",
+        "unsandhied":"śramaṇāḥ",
+        "lemma":"śramaṇa",
         "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
       },
       {
@@ -679327,8 +679387,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15430",
-    "original":"naiva mamāntaḥpure kaścidābhravṛkṣo'stītyāha \/",
-    "analyzed":"na eva mama antaḥpure kaścid ābhra vṛkṣaḥ asti iti āha ",
+    "original":"naiva mamāntaḥpure kaścidāmravṛkṣo'stītyāha \/",
+    "analyzed":"na eva mama antaḥpure kaścid āmra vṛkṣaḥ asti iti āha ",
     "folio":469,
     "full_analysis":[
       {
@@ -679357,8 +679417,8 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"ābhra-",
-        "lemma":"ābhra",
+        "unsandhied":"āmra-",
+        "lemma":"āmra",
         "tag":"Compound"
       },
       {
@@ -679511,7 +679571,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15433",
-    "original":"sa āha kathamasato vṛkṣasya phalānāmamlatāṃ madhuratāṃ vā vyākaromīti \/",
+    "original":"sa āha \/ kathamasato vṛkṣasya phalānāmamlatāṃ madhuratāṃ vā vyākaromīti \/",
     "analyzed":"saḥ āha katham asataḥ vṛkṣasya phalānām amla tām madhura tām vā vyākaromi iti ",
     "folio":469,
     "full_analysis":[
@@ -680224,8 +680284,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15444",
-    "original":"astyātmetyānanda śāśvatāya pareti\/",
-    "analyzed":"asti ātmā iti ānanda śāśvatāya parā iti ",
+    "original":"astyātmetyānanda śāśvatāya paraiti\/",
+    "analyzed":"asti ātmā iti ānanda śāśvatāya paraiti ",
     "folio":470,
     "full_analysis":[
       {
@@ -680254,21 +680314,16 @@
         "tag":"Case=Dative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"parā",
-        "lemma":"para",
-        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
-      },
-      {
-        "unsandhied":"iti",
-        "lemma":"iti",
-        "tag":""
+        "unsandhied":"paraiti",
+        "lemma":"pare",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       }
     ]
   },
   {
     "segmentnr":"SA_T07_vakobhau:15445",
-    "original":"nāstyātmetyānandocchedāya paretīti vistaraḥ\/",
-    "analyzed":"na asti ātmā iti ānanda ucchedāya parā iti iti vistaraḥ ",
+    "original":"nāstyātmetyānandocchedāya paraitīti vistaraḥ\/",
+    "analyzed":"na asti ātmā iti ānanda ucchedāya paraiti iti vistaraḥ ",
     "folio":470,
     "full_analysis":[
       {
@@ -680302,14 +680357,9 @@
         "tag":"Case=Dative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"parā",
-        "lemma":"parā",
-        "tag":""
-      },
-      {
-        "unsandhied":"iti",
-        "lemma":"iti",
-        "tag":""
+        "unsandhied":"paraiti",
+        "lemma":"pare",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
         "unsandhied":"iti",
@@ -680325,7 +680375,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15446",
-    "original":"āha cātra",
+    "original":"āha cātra \/",
     "analyzed":"āha ca atra ",
     "folio":470,
     "full_analysis":[
@@ -680439,7 +680489,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15449",
-    "original":"ātmāstitvaṃ hyupagato bhinnaḥ syāddṛṣṭidaṃṣṭrayā;",
+    "original":"ātmāstitvaṃ hyupagato bhinnaḥ syāddṛṣṭidaṃṣṭrayā \/",
     "analyzed":"ātma astitvam hi upagataḥ bhinnaḥ syāt dṛṣṭi daṃṣṭrayā ",
     "folio":470,
     "full_analysis":[
@@ -680487,7 +680537,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15450",
-    "original":"bhraṃśaṃ kuśalapotasya kuryādaprāpya saṃvṛtimi“ti \/",
+    "original":"bhraṃśaṃ kuśalapotasya kuryādaprāpya saṃvṛtim \/\/ iti \/",
     "analyzed":"bhraṃśam kuśala potasya kuryāt a prāpya saṃvṛtim iti ",
     "folio":470,
     "full_analysis":[
@@ -680535,7 +680585,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15451",
-    "original":"punarāha",
+    "original":"punarāha \/",
     "analyzed":"punar āha ",
     "folio":470,
     "full_analysis":[
@@ -680851,8 +680901,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15458",
-    "original":"tathā hyātmāsti nāstīti pṛṣṭo vāstyeva nāvadat \/",
-    "analyzed":"tathā hi ātmā asti na asti iti pṛṣṭaḥ vā asti eva na avadat ",
+    "original":"tathā hyātmāsti nāstīti pṛṣṭo vātsyena nāvadat \/",
+    "analyzed":"tathā hi ātmā asti na asti iti pṛṣṭaḥ vātsyena na avadat ",
     "folio":470,
     "full_analysis":[
       {
@@ -680896,19 +680946,9 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular, VerbForm=Part"
       },
       {
-        "unsandhied":"vā",
-        "lemma":"vā",
-        "tag":""
-      },
-      {
-        "unsandhied":"asti",
-        "lemma":"as",
-        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
-      },
-      {
-        "unsandhied":"eva",
-        "lemma":"eva",
-        "tag":""
+        "unsandhied":"vātsyena",
+        "lemma":"vātsya",
+        "tag":"Case=Instrumental, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"na",
@@ -681303,8 +681343,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15467",
-    "original":"ato mārgādhīnatvāt parinirvāṇasya caturdhāpi niyamo na vyākriyate, nirgranthaśrāvakacaṭakavat \/\/",
-    "analyzed":"atas mārga adhīna tvāt parinirvāṇasya caturdhā api niyamaḥ na vyākriyate nirgrantha śrāvaka caṭaka vat ",
+    "original":"ato mārgādhīnatvāt parinirvāṇasya caturdhāpi niyamato na vyākriyate, nirgranthaśrāvakacaṭakavat \/\/",
+    "analyzed":"atas mārga adhīna tvāt parinirvāṇasya caturdhā api niyamataḥ na vyākriyate nirgrantha śrāvaka caṭaka vat ",
     "folio":471,
     "full_analysis":[
       {
@@ -681343,9 +681383,9 @@
         "tag":""
       },
       {
-        "unsandhied":"niyamaḥ",
+        "unsandhied":"niyamataḥ",
         "lemma":"niyama",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"na",
@@ -681452,8 +681492,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15470",
-    "original":"tathāhi muktikaḥ parivrājaka eva catuṣkaṃ pṛṣṭvā punaḥ pṛṣṭavān 'kiṃ nu sarvo loko'nena mārgeṇa niryātyāhosvidekadeśo lokasye'ti \/",
-    "analyzed":"tathā hi muktikaḥ parivrājakaḥ eva catuṣkam pṛṣṭvā punar pṛṣṭavān kim nu sarvaḥ lokaḥ ūnena mārgeṇa niryāti āhosvit eka deśaḥ lokasya iti ",
+    "original":"tathāhi uktikaḥ parivrājaka etaṃ catuṣkaṃ pṛṣṭvā punaḥ pṛṣṭavān \/ 'kiṃ nu sarvo loko'nena mārgeṇa niryātyāhosvidekadeśo lokasye'ti \/",
+    "analyzed":"tathā hi uktikaḥ parivrājakaḥ etam catuṣkam pṛṣṭvā punar pṛṣṭavān kim nu sarvaḥ lokaḥ ūnena mārgeṇa niryāti āhosvit eka deśaḥ lokasya iti ",
     "folio":471,
     "full_analysis":[
       {
@@ -681467,8 +681507,8 @@
         "tag":""
       },
       {
-        "unsandhied":"muktikaḥ",
-        "lemma":"muktika",
+        "unsandhied":"uktikaḥ",
+        "lemma":"uktika",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
@@ -681477,9 +681517,9 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"eva",
-        "lemma":"eva",
-        "tag":""
+        "unsandhied":"etam",
+        "lemma":"etad",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"catuṣkam",
@@ -681565,8 +681605,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15471",
-    "original":"sthavira ānanda āha \"yameva tvaṃ muktika tatprathamato bhagavantaṃ praśnaṃ pṛṣṭavāṃstamevaitarhi pṛcchasyanena paryāyeṇe\"ti sarvam \/",
-    "analyzed":"sthaviraḥ ānandaḥ āha yam eva tvam muktika tad prathamatas bhagavantam praśnam pṛṣṭavān tam eva etarhi pṛcchasi anena paryāyeṇa iti sarvam ",
+    "original":"sthavira ānanda āha \"yameva tvam uktika prathamato bhagavantaṃ praśnaṃ pṛṣṭavāṃstamevaitarhi pṛcchasyanena paryāyeṇe\"ti \/",
+    "analyzed":"sthaviraḥ ānandaḥ āha yam eva tvam uktika prathamatas bhagavantam praśnam pṛṣṭavān tam eva etarhi pṛcchasi anena paryāyeṇa iti ",
     "folio":471,
     "full_analysis":[
       {
@@ -681600,14 +681640,9 @@
         "tag":"Case=Nominative, Number=Singular"
       },
       {
-        "unsandhied":"muktika",
-        "lemma":"muktika",
+        "unsandhied":"uktika",
+        "lemma":"uktika",
         "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
-      },
-      {
-        "unsandhied":"tad-",
-        "lemma":"tad",
-        "tag":"Compound"
       },
       {
         "unsandhied":"prathamatas",
@@ -681663,11 +681698,6 @@
         "unsandhied":"iti",
         "lemma":"iti",
         "tag":""
-      },
-      {
-        "unsandhied":"sarvam",
-        "lemma":"sarva",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       }
     ]
   },
@@ -681741,8 +681771,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15473",
-    "original":"sa hi muktvāmānaṃ tathāgataṃ kṛtvā pṛṣṭavān \/",
-    "analyzed":"sa hi muktvā amānam tathāgatam kṛtvā pṛṣṭavān ",
+    "original":"sa hi muktam ātmānaṃ tathāgataṃ kṛtvā pṛṣṭavān \/",
+    "analyzed":"sa hi muktam ātmānam tathāgatam kṛtvā pṛṣṭavān ",
     "folio":471,
     "full_analysis":[
       {
@@ -681756,13 +681786,13 @@
         "tag":""
       },
       {
-        "unsandhied":"muktvā",
+        "unsandhied":"muktam",
         "lemma":"muc",
-        "tag":"VerbForm=Conv"
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
       },
       {
-        "unsandhied":"amānam",
-        "lemma":"amāna",
+        "unsandhied":"ātmānam",
+        "lemma":"ātman",
         "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
@@ -682069,8 +682099,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15479",
-    "original":"yadi ca bhagavān pūrvaṃ pudgalaṃ dṛṣṭvā 'parinirvṛtaṃ punaḥ na' paśyatyajñānānna vyākarotīti, sarvajñatvaṃ śāsturutpāditaṃ bhavati' na vā so'stītyabhyupagantavyam \/",
-    "analyzed":"yadi ca bhagavān pūrvam pudgalam dṛṣṭvā parinirvṛtam punar na paśyati ajñānāt na vyākaroti iti sarvajña tvam śāstuḥ utpāditam bhavati na vā sā usti iti abhyupagantavyam ",
+    "original":"yadi ca bhagavān pūrvaṃ pudgalaṃ dṛṣṭvā 'parinirvṛtaṃ punaḥ na' paśyatyajñānānna vyākarotīti, sarvajñatvaṃ śāsturutsāditaṃ bhavati \/ na vā so'stītyabhyupagantavyam \/",
+    "analyzed":"yadi ca bhagavān pūrvam pudgalam dṛṣṭvā parinirvṛtam punar na paśyati ajñānāt na vyākaroti iti sarvajña tvam śāstuḥ utsāditam bhavati na vā saḥ asti iti abhyupagantavyam ",
     "folio":471,
     "full_analysis":[
       {
@@ -682159,8 +682189,8 @@
         "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"utpāditam",
-        "lemma":"utpāday",
+        "unsandhied":"utsāditam",
+        "lemma":"utsāday",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       },
       {
@@ -682328,8 +682358,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15482",
-    "original":"evaṃ tarhi idamapi śanaiḥ śanairavaktavyaṃ kriyatāṃ sarvajño vā na vā bhagavānna veti \/\/",
-    "analyzed":"evam tarhi idam api śanais śanais avaktavyam kriyatām sarvajñaḥ vā na vā bhagavān na vā iti ",
+    "original":"evaṃ tarhi idamapi śanaiḥ śanairavaktavyaṃ kriyatāṃ sarvajño vā bhagavānna veti \/\/",
+    "analyzed":"evam tarhi idam api śanais śanais avaktavyam kriyatām sarvajñaḥ vā bhagavān na vā iti ",
     "folio":471,
     "full_analysis":[
       {
@@ -682376,16 +682406,6 @@
         "unsandhied":"sarvajñaḥ",
         "lemma":"sarvajña",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
-      },
-      {
-        "unsandhied":"vā",
-        "lemma":"vā",
-        "tag":""
-      },
-      {
-        "unsandhied":"na",
-        "lemma":"na",
-        "tag":""
       },
       {
         "unsandhied":"vā",
@@ -682555,8 +682575,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15486",
-    "original":"ubhayamapi tvetadantagrāhadṛṣṭi śāśvatocchedadṛṣṭisaṃgṛhītamityābhidhārmikāḥ \/",
-    "analyzed":"ubhayam api tu etat anta grāha dṛṣṭi śāśvata uccheda dṛṣṭi saṃgṛhītam iti ābhidhārmikāḥ ",
+    "original":"ubhayamapi tvetadantagrahaṇaṃ śāśvatocchedadṛṣṭisaṃgṛhītamityābhidhārmikāḥ \/",
+    "analyzed":"ubhayam api tu etat anta grahaṇam śāśvata uccheda dṛṣṭi saṃgṛhītam iti ābhidhārmikāḥ ",
     "folio":471,
     "full_analysis":[
       {
@@ -682585,13 +682605,8 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"grāha-",
-        "lemma":"grāha",
-        "tag":"Compound"
-      },
-      {
-        "unsandhied":"dṛṣṭi",
-        "lemma":"dṛṣṭi",
+        "unsandhied":"grahaṇam",
+        "lemma":"grahaṇa",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
@@ -682792,8 +682807,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15490",
-    "original":"nahi saṃsāra eṣa saṃsaratīti yuktam \/",
-    "analyzed":"nahi saṃsāre eṣa saṃsarati iti yuktam ",
+    "original":"nahi saṃsāra eva saṃsaratīti yuktam \/",
+    "analyzed":"nahi saṃsāre eva saṃsarati iti yuktam ",
     "folio":471,
     "full_analysis":[
       {
@@ -682807,9 +682822,9 @@
         "tag":"Case=Locative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"eṣa",
-        "lemma":"etad",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+        "unsandhied":"eva",
+        "lemma":"eva",
+        "tag":""
       },
       {
         "unsandhied":"saṃsarati",
@@ -682967,8 +682982,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15495",
-    "original":"yathā tu kṣaṇiko'gniḥ saṃtatyā saṃsaratītyucyate , tathā sattvākhyaḥ skandhasamudāyastṛṣṇopādānaḥ saṃsaratītyucyate \/",
-    "analyzed":"yathā tu kṣaṇikaḥ agniḥ saṃtatyā saṃsarati iti ucyate tathā sattva ākhyaḥ skandha samudāyaḥ tṛṣṇā upādānaḥ saṃsarati iti ucyate ",
+    "original":"yathā tu kṣaṇiko'gniḥ saṃtatyā saṃcaratītyucyate , tathā sattvākhyaḥ skandhasamudāyastṛṣṇopādānaḥ saṃsaratītyucyate \/",
+    "analyzed":"yathā tu kṣaṇikaḥ agniḥ saṃtatyā saṃcarati iti ucyate tathā sattva ākhyaḥ skandha samudāyaḥ tṛṣṇā upādānaḥ saṃsarati iti ucyate ",
     "folio":472,
     "full_analysis":[
       {
@@ -682997,8 +683012,8 @@
         "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
       },
       {
-        "unsandhied":"saṃsarati",
-        "lemma":"saṃsṛ",
+        "unsandhied":"saṃcarati",
+        "lemma":"saṃcar",
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
@@ -683242,7 +683257,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15500",
-    "original":"sa evāsau \/",
+    "original":"sa evāsau",
     "analyzed":"saḥ eva asau ",
     "folio":472,
     "full_analysis":[
@@ -683265,8 +683280,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15501",
-    "original":"śāśvato hi syāt \/",
-    "analyzed":"śāśvataḥ hi syāt ",
+    "original":"śāśvataḥ tarhi syāt \/",
+    "analyzed":"śāśvataḥ tarhi syāt ",
     "folio":472,
     "full_analysis":[
       {
@@ -683275,9 +683290,9 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"hi",
-        "lemma":"hi",
-        "tag":""
+        "unsandhied":"tarhi",
+        "lemma":"tarhi",
+        "tag":"_"
       },
       {
         "unsandhied":"syāt",
@@ -683437,8 +683452,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15505",
-    "original":"paśyatāṃ cātmagrāho dṛḍhataraḥ syādātmasnehaśca \/",
-    "analyzed":"paśyatām ca ātma grāhaḥ dṛḍhataraḥ syāt ātma snehaḥ ca ",
+    "original":"paśyatāṃ cātmagrāho dṛḍhataraḥ syāt \/",
+    "analyzed":"paśyatām ca ātma grāhaḥ dṛḍhataraḥ syāt ",
     "folio":472,
     "full_analysis":[
       {
@@ -683470,28 +683485,13 @@
         "unsandhied":"syāt",
         "lemma":"as",
         "tag":"Tense=Present, Mood=Optative, Person=3, Number=Singular"
-      },
-      {
-        "unsandhied":"ātma-",
-        "lemma":"ātman",
-        "tag":"Compound"
-      },
-      {
-        "unsandhied":"snehaḥ",
-        "lemma":"sneha",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
-      },
-      {
-        "unsandhied":"ca",
-        "lemma":"ca",
-        "tag":""
       }
     ]
   },
   {
     "segmentnr":"SA_T07_vakobhau:15506",
-    "original":"“ātmani ca satyātmīyaṃ bhavatī'ti sūtre vacanādātmagrāho'pyeṣāṃ skandheṣvadhikaṃ pravarteta \/",
-    "analyzed":"ātmani ca sati ātmīyam bhavati iti sūtre vacanāt ātma grāhaḥ upi eṣām skandheṣu adhikam pravarteta ",
+    "original":"“ātmani ca satyātmīyaṃ bhavatī'ti sūtre vacanādātmīyagrāho'pyeṣāṃ skandheṣvadhikaṃ pravarteta \/",
+    "analyzed":"ātmani ca sati ātmīyam bhavati iti sūtre vacanāt ātmīya grāhaḥ upi eṣām skandheṣu adhikam pravarteta ",
     "folio":472,
     "full_analysis":[
       {
@@ -683535,8 +683535,8 @@
         "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"ātma-",
-        "lemma":"ātman",
+        "unsandhied":"ātmīya-",
+        "lemma":"ātmīya",
         "tag":"Compound"
       },
       {
@@ -683573,8 +683573,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15507",
-    "original":"saiṣā syātsatkāyadṛṣṭiḥ \/",
-    "analyzed":"sā eṣā syāt sat kāyadṛṣṭiḥ ",
+    "original":"saiṣāṃ syātsatkāyadṛṣṭiḥ \/",
+    "analyzed":"sā eṣām syāt sat kāyadṛṣṭiḥ ",
     "folio":472,
     "full_analysis":[
       {
@@ -683583,9 +683583,9 @@
         "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
       },
       {
-        "unsandhied":"eṣā",
-        "lemma":"etad",
-        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+        "unsandhied":"eṣām",
+        "lemma":"idam",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
       },
       {
         "unsandhied":"syāt",
@@ -683644,8 +683644,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15509",
-    "original":"evameṣāṃ dṛḍhatarātmātmīyasneha parisādita bandhanānāṃ mokṣo dūratarībhavet \/",
-    "analyzed":"evam eṣām dṛḍhatara ātma ātmīya sneha parisādita bandhanānām mokṣaḥ dūratarībhavet ",
+    "original":"evameṣāṃ dṛḍhatarātmātmīyasneha parigṛhīta bandhanānāṃ mokṣo dūratarībhavet \/",
+    "analyzed":"evam eṣām dṛḍhatara ātma ātmīya sneha parigṛhīta bandhanānām mokṣaḥ dūratarībhavet ",
     "folio":472,
     "full_analysis":[
       {
@@ -683679,11 +683679,6 @@
         "tag":"Case=Vocative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"parisādita",
-        "lemma":"parisāday",
-        "tag":"Case=Vocative, Gender=Masculine, Number=Singular, VerbForm=Part"
-      },
-      {
         "unsandhied":"bandhanānām",
         "lemma":"bandhana",
         "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
@@ -683702,7 +683697,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15510",
-    "original":"atha mataṃ naivātmani pravartate sneha iti, \/",
+    "original":"atha mataṃ \/ naivātmani pravartate sneha iti, \/",
     "analyzed":"atha matam na eva ātmani pravartate snehaḥ iti ",
     "folio":472,
     "full_analysis":[
@@ -683838,14 +683833,19 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15512",
-    "original":"tasmāt dṛṣṭacyarvudametasmin śāsane utpannaṃ ya eṣa ekeṣāṃ pudgalagrāha ekeṣāṃ sarvanāstitāgrāhaḥ \/",
-    "analyzed":"tasmāt dṛṣṭacyarvudam etasmin śāsane utpannam yaḥ eṣaḥ ekeṣām pudgala grāhaḥ ekeṣām sarva nāstitā grāhaḥ ",
+    "original":"tasmāt tasya dṛṣṭacyarvudametasmin śāsane utpannaṃ ya eṣa ekeṣāṃ pudgalagrāha ekeṣāṃ sarvanāstitāgrāhaḥ \/",
+    "analyzed":"tasmāt tasya dṛṣṭacyarvudam etasmin śāsane utpannam yaḥ eṣaḥ ekeṣām pudgala grāhaḥ ekeṣām sarva nāstitā grāhaḥ ",
     "folio":472,
     "full_analysis":[
       {
         "unsandhied":"tasmāt",
         "lemma":"tasmāt",
         "tag":""
+      },
+      {
+        "unsandhied":"tasya",
+        "lemma":"tad",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"dṛṣṭacyarvudam",
@@ -683916,8 +683916,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15513",
-    "original":"ye'pi ca dravyāntaramevātmānaṃ manyante tīrthakārāsteṣāmeva mokṣābhāvadoṣo niṣkampaḥ \/",
-    "analyzed":"ye api ca dravya antaram eva ātmānam manyante tīrthakārāḥ teṣām eva mokṣa abhāva doṣaḥ niṣkampaḥ ",
+    "original":"ye'pi ca dravyāntaramevātmānaṃ manyante tīrthakārāsteṣām eṣa mokṣābhāvadoṣo niṣkampaḥ \/",
+    "analyzed":"ye api ca dravya antaram eva ātmānam manyante tīrthakārāḥ teṣām eṣa mokṣa abhāva doṣaḥ niṣkampaḥ ",
     "folio":472,
     "full_analysis":[
       {
@@ -683971,9 +683971,9 @@
         "tag":"Case=Genitive, Gender=Masculine, Number=Plural"
       },
       {
-        "unsandhied":"eva",
-        "lemma":"eva",
-        "tag":""
+        "unsandhied":"eṣa",
+        "lemma":"etad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"mokṣa-",
@@ -684369,8 +684369,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15519",
-    "original":"ubhayathā tu samartha ityevaṃ smṛtirbhavatyanyasyāṃ sāmarthyādarśanāt \/",
-    "analyzed":"ubhayathā tu samarthaḥ iti evam smṛtiḥ bhavati anyasyām sāmarthya adarśanāt ",
+    "original":"ubhayathā tu samartha ityevaṃ smṛtirbhavatyanyasya tatsāmarthyādarśanāt \/",
+    "analyzed":"ubhayathā tu samarthaḥ iti evam smṛtiḥ bhavati anyasya tad sāmarthya adarśanāt ",
     "folio":472,
     "full_analysis":[
       {
@@ -684409,9 +684409,14 @@
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
-        "unsandhied":"anyasyām",
+        "unsandhied":"anyasya",
         "lemma":"anya",
-        "tag":"Case=Locative, Gender=Feminine, Number=Singular"
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"tad-",
+        "lemma":"tad",
+        "tag":"Compound"
       },
       {
         "unsandhied":"sāmarthya-",
@@ -684518,23 +684523,18 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15522",
-    "original":"nāsambandhāt \/",
+    "original":"na \/ asambandhāt \/",
     "analyzed":"na asambandhāt ",
     "folio":472,
     "full_analysis":[
       {
         "unsandhied":"na",
         "lemma":"na",
-        "tag":""
+        "tag":"_"
       },
       {
-        "unsandhied":"a",
-        "lemma":"a",
-        "tag":""
-      },
-      {
-        "unsandhied":"sambandhāt",
-        "lemma":"sambandha",
+        "unsandhied":"asambandhāt",
+        "lemma":"asaṃbandha",
         "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
       }
     ]
@@ -684657,7 +684657,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15525",
-    "original":"api tu darśanacittātsmṛticittamanyadutpadyate \/",
+    "original":"api tu darśanacittātsmṛticittamanyadutpadyate",
     "analyzed":"api tu darśana cittāt smṛti cittam anyat utpadyate ",
     "folio":472,
     "full_analysis":[
@@ -684791,8 +684791,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15528",
-    "original":"asatyātmani ka eṣa smarati \/",
-    "analyzed":"asati ātmani kaḥ eṣa smarati ",
+    "original":"asatyātmani ka evaṃ smarati \/",
+    "analyzed":"asati ātmani kaḥ evam smarati ",
     "folio":472,
     "full_analysis":[
       {
@@ -684811,9 +684811,9 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"eṣa",
-        "lemma":"etad",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+        "unsandhied":"evam",
+        "lemma":"evam",
+        "tag":""
       },
       {
         "unsandhied":"smarati",
@@ -684898,8 +684898,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15532",
-    "original":"[smṛtiṃ tarhi kaḥ karoti \/",
-    "analyzed":"smṛtim tarhi kaḥ karoti ",
+    "original":"[smṛtiṃ tarhi karoti \/",
+    "analyzed":"smṛtim tarhi karoti ",
     "folio":472,
     "full_analysis":[
       {
@@ -684913,11 +684913,6 @@
         "tag":""
       },
       {
-        "unsandhied":"kaḥ",
-        "lemma":"ka",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
-      },
-      {
         "unsandhied":"karoti",
         "lemma":"kṛ",
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
@@ -684926,8 +684921,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15533",
-    "original":"uktaḥ sa yastāṃ karoti smṛtihetucittaviśeṣaḥ\/",
-    "analyzed":"uktaḥ sa yaḥ tām karoti smṛti hetu citta viśeṣaḥ ",
+    "original":"uktaḥ sa yastāṃ karoti \/ smṛtihetuś cittaviśeṣaḥ\/",
+    "analyzed":"uktaḥ sa yaḥ tām karoti smṛti hetuḥ citta viśeṣaḥ ",
     "folio":472,
     "full_analysis":[
       {
@@ -684961,9 +684956,9 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"hetu-",
+        "unsandhied":"hetuḥ",
         "lemma":"hetu",
-        "tag":"Compound"
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"citta-",
@@ -685017,10 +685012,20 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15535",
-    "original":"tato caitrākhyātasaṃtānāttāṃ bhavantīṃ dṛṣṭvocyate caitraḥ smaratīti\/",
-    "analyzed":"caitra ākhyāta saṃtānāt tām bhavantīm dṛṣṭvā ucyate caitraḥ smarati iti ",
+    "original":"tato hi caitrākhyātasaṃtānāttāṃ bhavantīṃ dṛṣṭvocyate caitraḥ smaratīti\/",
+    "analyzed":"tatas hi caitra ākhyāta saṃtānāt tām bhavantīm dṛṣṭvā ucyate caitraḥ smarati iti ",
     "folio":473,
     "full_analysis":[
+      {
+        "unsandhied":"tatas",
+        "lemma":"tatas",
+        "tag":""
+      },
+      {
+        "unsandhied":"hi",
+        "lemma":"hi",
+        "tag":""
+      },
       {
         "unsandhied":"caitra-",
         "lemma":"caitra",
@@ -685228,7 +685233,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15542",
-    "original":"[tadādhīno hi tasyā vāhadohādiṣu viniyogaḥ\/",
+    "original":"[tadadhīno hi tasyā vāhadohādiṣu viniyogaḥ\/",
     "analyzed":"tad adhīnaḥ hi tasyāḥ vāha doha ādiṣu viniyogaḥ ",
     "folio":473,
     "full_analysis":[
@@ -685276,8 +685281,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15543",
-    "original":"kva ca punaḥ smṛtirviniyoktavyā ya evaṃ tasyāḥ svāmī mṛgyate\/",
-    "analyzed":"kva ca punar smṛtiḥ viniyoktavyā yaḥ evam tasyāḥ svāmī mṛgyate ",
+    "original":"kva ca punaḥ smṛtirviniyoktavyā yata etasyāḥ svāmī mṛgyate\/",
+    "analyzed":"kva ca punar smṛtiḥ viniyoktavyā yatas etasyāḥ svāmī mṛgyate ",
     "folio":473,
     "full_analysis":[
       {
@@ -685306,18 +685311,13 @@
         "tag":"Case=Nominative, Gender=Feminine, Number=Singular, VerbForm=Gdv"
       },
       {
-        "unsandhied":"yaḥ",
-        "lemma":"yad",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
-      },
-      {
-        "unsandhied":"evam",
-        "lemma":"evam",
+        "unsandhied":"yatas",
+        "lemma":"yatas",
         "tag":""
       },
       {
-        "unsandhied":"tasyāḥ",
-        "lemma":"tad",
+        "unsandhied":"etasyāḥ",
+        "lemma":"etad",
         "tag":"Case=Genitive, Gender=Feminine, Number=Singular"
       },
       {
@@ -685487,8 +685487,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15550",
-    "original":"utpādanata ahosvitsaṃpreṣaṇataḥ\/",
-    "analyzed":"utpādanataḥ ahosvit saṃpreṣaṇataḥ ",
+    "original":"utpādanata āhosvitsaṃpreṣaṇataḥ\/",
+    "analyzed":"utpādanataḥ āhosvit saṃpreṣaṇataḥ ",
     "folio":473,
     "full_analysis":[
       {
@@ -685497,8 +685497,8 @@
         "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"ahosvit",
-        "lemma":"ahosvit",
+        "unsandhied":"āhosvit",
+        "lemma":"āhosvit",
         "tag":""
       },
       {
@@ -685780,8 +685780,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15556",
-    "original":"sa cāpi tasya deśāntaravikārotpattau kāraṇabhāvaṃ cetasi kṛtvā; na tu khalu kaścidekaścaitro",
-    "analyzed":"sa ca api tasya deśa antara vikāra utpattau kāraṇa bhāvam cetasi kṛtvā na tu khalu kaścid ekaḥ caitraḥ ",
+    "original":"sa cāpi tasya deśāntaravikārotpattau kāraṇabhāvaṃ cetasi kṛtvā svāmīty ucyate; na tu khalu kaścidekaścaitro",
+    "analyzed":"sa ca api tasya deśa antara vikāra utpattau kāraṇa bhāvam cetasi kṛtvā svāmī iti ucyate na tu khalu kaścid ekaḥ caitraḥ ",
     "folio":473,
     "full_analysis":[
       {
@@ -685843,6 +685843,21 @@
         "unsandhied":"kṛtvā",
         "lemma":"kṛ",
         "tag":"VerbForm=Conv"
+      },
+      {
+        "unsandhied":"svāmī",
+        "lemma":"svāmin",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"ucyate",
+        "lemma":"vac",
+        "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Singular"
       },
       {
         "unsandhied":"na",
@@ -686075,10 +686090,30 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15561",
-    "original":"yo'pyāhabhāvasya bhavitrapekṣatvāt sarvo hi bhāvo bhavitāramapekṣate\/",
-    "analyzed":"bhavitṛ apekṣa tvāt sarvaḥ hi bhāvaḥ bhavitāram apekṣate ",
+    "original":"yo'pyāha\/ bhāvasya bhavitrapekṣatvāt sarvo hi bhāvo bhavitāramapekṣate\/",
+    "analyzed":"yaḥ upī āha bhāvasya bhavitṛ apekṣa tvāt sarvaḥ hi bhāvaḥ bhavitāram apekṣate ",
     "folio":473,
     "full_analysis":[
+      {
+        "unsandhied":"yaḥ",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"upī",
+        "lemma":"upa",
+        "tag":""
+      },
+      {
+        "unsandhied":"āha",
+        "lemma":"ah",
+        "tag":"Tense=Past, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"bhāvasya",
+        "lemma":"bhāva",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
       {
         "unsandhied":"bhavitṛ-",
         "lemma":"bhavitṛ",
@@ -686397,8 +686432,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15570",
-    "original":"tatra yathā devadatto gacchati yathā vijānāti\/",
-    "analyzed":"tatra yathā devadattaḥ gacchati yathā vijānāti ",
+    "original":"tatra yathā devadatto gacchati tathā vijānāti\/",
+    "analyzed":"tatra yathā devadattaḥ gacchati tathā vijānāti ",
     "folio":473,
     "full_analysis":[
       {
@@ -686422,8 +686457,8 @@
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
-        "unsandhied":"yathā",
-        "lemma":"yathā",
+        "unsandhied":"tathā",
+        "lemma":"tathā",
         "tag":""
       },
       {
@@ -686463,8 +686498,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15572",
-    "original":"kṣaṇikā hi saṃskārā abhinnasaṃtānā devadatta iti bālairekasattvapiṇḍagrāheṇādhimuktāḥ svasya saṃtānasya deśāntare kāraṇaṃ bhavanta ucyante gacchati",
-    "analyzed":"kṣaṇikāḥ hi saṃskārāḥ abhinna saṃtānāḥ devadattaḥ iti bālaiḥ eka sattva piṇḍa grāheṇa adhimuktāḥ svasya saṃtānasya deśa antare kāraṇam bhavantaḥ ucyante gacchati ",
+    "original":"kṣaṇikā hi saṃskārā abhinnasaṃtānā devadatta iti bālairekasattvapiṇḍagrāheṇādhimuktāḥ svasya saṃtānasya deśāntarotpattau kāraṇaṃ bhavanta ucyante gacchati",
+    "analyzed":"kṣaṇikāḥ hi saṃskārāḥ abhinna saṃtānāḥ devadattaḥ iti bālaiḥ eka sattva piṇḍa grāheṇa adhimuktāḥ svasya saṃtānasya deśa antara utpattau kāraṇam bhavantaḥ ucyante gacchati ",
     "folio":473,
     "full_analysis":[
       {
@@ -686548,9 +686583,14 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"antare",
+        "unsandhied":"antara-",
         "lemma":"antara",
-        "tag":"Case=Locative, Gender=Masculine, Number=Singular"
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"utpattau",
+        "lemma":"utpatti",
+        "tag":"Case=Locative, Gender=Feminine, Number=Singular"
       },
       {
         "unsandhied":"kāraṇam",
@@ -686594,8 +686634,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15574",
-    "original":"sā ca deśāntaropattirgatirita \/",
-    "analyzed":"sā ca deśa antara upattiḥ gatiḥ ita ",
+    "original":"sā ca deśāntarotpattirgatiriti \/",
+    "analyzed":"sā ca deśa antara utpattiḥ gatiḥ iti ",
     "folio":473,
     "full_analysis":[
       {
@@ -686619,8 +686659,8 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"upattiḥ",
-        "lemma":"upatti",
+        "unsandhied":"utpattiḥ",
+        "lemma":"utpatti",
         "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
       },
       {
@@ -686629,9 +686669,9 @@
         "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
       },
       {
-        "unsandhied":"ita",
-        "lemma":"i",
-        "tag":"Tense=Present, Mood=Imperative, Person=2, Number=Plural"
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
       }
     ]
   },
@@ -686680,8 +686720,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15576",
-    "original":"ta eva ca punarvijñānasya kāraṇaṃ bhavanta ucyante jānāti devadatta iti\/",
-    "analyzed":"te eva ca punar vijñānasya kāraṇam bhavantaḥ ucyante jānāti devadattaḥ iti ",
+    "original":"ta eva ca punarvijñānasya kāraṇaṃ bhavanta ucyante vijānāti devadatta iti\/",
+    "analyzed":"te eva ca punar vijñānasya kāraṇam bhavantaḥ ucyante vijānāti devadattaḥ iti ",
     "folio":473,
     "full_analysis":[
       {
@@ -686725,8 +686765,8 @@
         "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Plural"
       },
       {
-        "unsandhied":"jānāti",
-        "lemma":"jñā",
+        "unsandhied":"vijānāti",
+        "lemma":"vijñā",
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
@@ -686958,8 +686998,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15582",
-    "original":"evaṃ vijñānamapi vijānātītyucyate\/",
-    "analyzed":"evam vijñānam api vijānāti iti ucyate ",
+    "original":"evaṃ vijñānamapi viṣayaṃ vijānātītyucyate\/",
+    "analyzed":"evam vijñānam api viṣayam vijānāti iti ucyate ",
     "folio":473,
     "full_analysis":[
       {
@@ -686976,6 +687016,11 @@
         "unsandhied":"api",
         "lemma":"api",
         "tag":""
+      },
+      {
+        "unsandhied":"viṣayam",
+        "lemma":"viṣaya",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"vijānāti",
@@ -687148,8 +687193,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15587",
-    "original":"athavā tathā'trāpi vijñānasaṃtānasya vijñāne kāraṇabhāvādvijñānaṃ vijānātīti vacanānnirdoṣaṃ kāraṇe kartṛśabdanirdeśāt \/",
-    "analyzed":"athavā tathā atra api vijñāna saṃtānasya vijñāne kāraṇa bhāvāt vijñānam vijānāti iti vacanāt nirdoṣam kāraṇe kartṛ śabda nirdeśāt ",
+    "original":"athavā tathā'trāpi vijñānasaṃtānasya vijñāne kāraṇabhāvādvijñānaṃ vijānātīti vacanaṃ nirdoṣaṃ kāraṇe kartṛśabdanirdeśāt \/",
+    "analyzed":"athavā tathā atra api vijñāna saṃtānasya vijñāne kāraṇa bhāvāt vijñānam vijānāti iti vacanam nirdoṣam kāraṇe kartṛ śabda nirdeśāt ",
     "folio":474,
     "full_analysis":[
       {
@@ -687213,9 +687258,9 @@
         "tag":""
       },
       {
-        "unsandhied":"vacanāt",
+        "unsandhied":"vacanam",
         "lemma":"vacana",
-        "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
         "unsandhied":"nirdoṣam",
@@ -687388,8 +687433,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15592",
-    "original":"sa deśāntareṣūtpadyamānastaṃ deśaṃ gacchatītyucyate \/",
-    "analyzed":"sa deśa antareṣu utpadyamānaḥ tam deśam gacchati iti ucyate ",
+    "original":"sa deśāntareṣūtpadyamānastaṃ taṃ deśaṃ gacchatītyucyate \/",
+    "analyzed":"sa deśa antareṣu utpadyamānaḥ tam tam deśam gacchati iti ucyate ",
     "folio":474,
     "full_analysis":[
       {
@@ -687411,6 +687456,11 @@
         "unsandhied":"utpadyamānaḥ",
         "lemma":"utpad",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular, Tense=Present, VerbForm=Part"
+      },
+      {
+        "unsandhied":"tam",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"tam",
@@ -687479,8 +687529,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15594",
-    "original":"tadviṣayāntareṣūtpadyamānaṃ taṃ viṣayaṃ vijānātītyucyate \/",
-    "analyzed":"tad viṣaya antareṣu utpadyamānam tam viṣayam vijānāti iti ucyate ",
+    "original":"tadviṣayāntareṣūtpadyamānaṃ taṃ taṃ viṣayaṃ vijānātītyucyate \/",
+    "analyzed":"tad viṣaya antareṣu utpadyamānam tam tam viṣayam vijānāti iti ucyate ",
     "folio":474,
     "full_analysis":[
       {
@@ -687496,12 +687546,17 @@
       {
         "unsandhied":"antareṣu",
         "lemma":"antara",
-        "tag":"Case=Locative, Gender=Neuter, Number=Plural"
+        "tag":"Case=Locative, Gender=Masculine, Number=Plural"
       },
       {
         "unsandhied":"utpadyamānam",
         "lemma":"utpad",
         "tag":"Case=Accusative, Gender=Neuter, Number=Singular, Tense=Present, VerbForm=Part"
+      },
+      {
+        "unsandhied":"tam",
+        "lemma":"tad",
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"tam",
@@ -687532,8 +687587,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15595",
-    "original":"yathā cābhijāyate tiṣṭhati rūpamityatra bhaviturbhāvādanarthāntaratvamevaṃ vijñānasyāpi syāt \/\/",
-    "analyzed":"yathā ca abhijāyate tiṣṭhati rūpam iti atra bhavituḥ bhāvāt anartha antara tvam evam vijñānasya api syāt ",
+    "original":"yathā vā bhavati jāyate tiṣṭhati rūpamityatra bhaviturbhāvādanarthāntaratvamevaṃ vijñānasyāpi syāt \/\/",
+    "analyzed":"yathā vā bhavati jāyate tiṣṭhati rūpam iti atra bhavituḥ bhāvāt anartha antara tvam evam vijñānasya api syāt ",
     "folio":474,
     "full_analysis":[
       {
@@ -687542,13 +687597,18 @@
         "tag":""
       },
       {
-        "unsandhied":"ca",
-        "lemma":"ca",
+        "unsandhied":"vā",
+        "lemma":"vā",
         "tag":""
       },
       {
-        "unsandhied":"abhijāyate",
-        "lemma":"abhijan",
+        "unsandhied":"bhavati",
+        "lemma":"bhū",
+        "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
+      },
+      {
+        "unsandhied":"jāyate",
+        "lemma":"jan",
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Singular"
       },
       {
@@ -687620,8 +687680,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15596",
-    "original":"[yadi vijñānādvijñānamutpadyate nātmānaḥ, kasmānna nityaṃ tādṛśamevotpadyate \/ na ca kramaniyamenāṅkurakāṇḍapatrādivat \/",
-    "analyzed":"yadi vijñānāt vijñānam utpadyate na ātmānaḥ kasmāt na nityam tādṛśam eva utpadyate na ca krama niyamena aṅkura kāṇḍa patra ādi vat ",
+    "original":"[yadi vijñānādvijñānamutpadyate nātmanaḥ \/ kasmānna nityaṃ tādṛśamevotpadyate \/ na ca kramaniyamenāṅkurakāṇḍapatrādivat \/",
+    "analyzed":"yadi vijñānāt vijñānam utpadyate na ātmanaḥ kasmāt na nityam tādṛśam eva utpadyate na ca krama niyamena aṅkura kāṇḍa patra ādi vat ",
     "folio":474,
     "full_analysis":[
       {
@@ -687650,9 +687710,9 @@
         "tag":""
       },
       {
-        "unsandhied":"ātmānaḥ",
+        "unsandhied":"ātmanaḥ",
         "lemma":"ātman",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"kasmāt",
@@ -687766,8 +687826,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15598",
-    "original":"eṣa hi saṃskṛtasya svabhāvo yadavaśyaṃ prabandhasyānyathātvaṃ bhavati \/",
-    "analyzed":"eṣa hi saṃskṛtasya svabhāvaḥ yat avaśyam prabandhasya anyathātvam bhavati ",
+    "original":"eṣa hi sarvasaṃskṛtasya svabhāvo yadavaśyaṃ prabandhasyānyathātvaṃ bhavati \/",
+    "analyzed":"eṣa hi sarva saṃskṛtasya svabhāvaḥ yat avaśyam prabandhasya anyathātvam bhavati ",
     "folio":474,
     "full_analysis":[
       {
@@ -687779,6 +687839,11 @@
         "unsandhied":"hi",
         "lemma":"hi",
         "tag":""
+      },
+      {
+        "unsandhied":"sarva-",
+        "lemma":"sarva",
+        "tag":"Compound"
       },
       {
         "unsandhied":"saṃskṛtasya",
@@ -687960,8 +688025,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15601",
-    "original":"yato nūtpattavyaṃ tata eva tasyotpādāt \/",
-    "analyzed":"yatas nu utpattavyam tatas eva tasya utpādāt ",
+    "original":"yato yad utpattavyaṃ tata eva tasyotpādāt \/",
+    "analyzed":"yatas yat utpattavyam tatas eva tasya utpādāt ",
     "folio":474,
     "full_analysis":[
       {
@@ -687970,9 +688035,9 @@
         "tag":""
       },
       {
-        "unsandhied":"nu",
-        "lemma":"nu",
-        "tag":""
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
         "unsandhied":"utpattavyam",
@@ -688069,13 +688134,13 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15604",
-    "original":"yadyathā strīcittānantaraṃ yadi tatkāyavidūṣaṇācittamutpannaṃ bhavati tatpatiputrādicittaṃ",
-    "analyzed":"yat yathā strī citta anantaram yadi tat kāya vidūṣaṇa cittam utpannam bhavati tat pati putra ādi cittam ",
+    "original":"tadyathā strīcittānantaraṃ yadi tatkāyavidūṣaṇācittamutpannaṃ bhavati tatpatiputrādicittaṃ",
+    "analyzed":"tat yathā strī citta anantaram yadi tat kāya vidūṣaṇā cittam utpannam bhavati tat pati putra ādi cittam ",
     "folio":474,
     "full_analysis":[
       {
-        "unsandhied":"yat",
-        "lemma":"yad",
+        "unsandhied":"tat",
+        "lemma":"tad",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
@@ -688109,8 +688174,13 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"kāyavidūṣaṇā-",
-        "lemma":"kāyavidūṣaṇā",
+        "unsandhied":"kāya-",
+        "lemma":"kāya",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"vidūṣaṇā-",
+        "lemma":"vidūṣaṇā",
         "tag":"Compound"
       },
       {
@@ -688339,8 +688409,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15609",
-    "original":"atha punaḥ paryāyeṇa strīcittādvahuvidhaṃ cittamutpannaṃ, bahutaramāsannataraṃ vā tadevotpadyate \/",
-    "analyzed":"atha punar paryāyeṇa strī cittāt bahuvidham cittam utpannam bahutaram āsannataram vā tat eva utpadyate ",
+    "original":"atha punaḥ paryāyeṇa strīcittādvahuvidhaṃ cittamutpannaṃ, tato yad bahutaraṃ paṭutaramāsannataraṃ vā tadevotpadyate \/",
+    "analyzed":"atha punar paryāyeṇa strī cittāt bahuvidham cittam utpannam tatas yat bahutaram paṭutaram āsannataram vā tat eva utpadyate ",
     "folio":474,
     "full_analysis":[
       {
@@ -688369,7 +688439,7 @@
         "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"bahuvidham",
+        "unsandhied":"vahuvidham",
         "lemma":"bahuvidha",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
@@ -688384,8 +688454,23 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       },
       {
+        "unsandhied":"tatas",
+        "lemma":"tatas",
+        "tag":""
+      },
+      {
+        "unsandhied":"yat",
+        "lemma":"yad",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
         "unsandhied":"bahutaram",
         "lemma":"bahutara",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+      },
+      {
+        "unsandhied":"paṭutaram",
+        "lemma":"paṭutara",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
@@ -688761,7 +688846,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15618",
-    "original":"nāsarvajñairjñeyaṃ sarvajñabalaṃ hi tajjñānami“ti \/\/",
+    "original":"nāsarvajñairjñeyaṃ sarvajñabalaṃ hi tajjñānam \/\/ iti \/",
     "analyzed":"na a sarvajñaiḥ jñeyam sarvajña balam hi tat jñānam iti ",
     "folio":474,
     "full_analysis":[
@@ -689088,8 +689173,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15622",
-    "original":"saṃyoginostu paricchinnatvādaprāptipūrvikā prāptiḥ saṃyoga iti lakṣaṇavyākhyānāccātmānaḥ paricchedaprasaṅgaḥ \/",
-    "analyzed":"saṃyoginoḥ tu paricchinna tvāt aprāpti pūrvikā prāptiḥ saṃyogaḥ iti lakṣaṇa vyākhyānāt ca ātmānaḥ pariccheda prasaṅgaḥ ",
+    "original":"saṃyoginoś ca paricchinnatvādaprāptipūrvikā prāptiḥ saṃyoga iti lakṣaṇavyākhyānāccātmanaḥ paricchedaprasaṅgaḥ \/",
+    "analyzed":"saṃyoginoḥ ca paricchinna tvāt aprāpti pūrvikā prāptiḥ saṃyogaḥ iti lakṣaṇa vyākhyānāt ca ātmanaḥ pariccheda prasaṅgaḥ ",
     "folio":475,
     "full_analysis":[
       {
@@ -689098,8 +689183,8 @@
         "tag":"Case=Genitive, Gender=Masculine, Number=Dual"
       },
       {
-        "unsandhied":"tu",
-        "lemma":"tu",
+        "unsandhied":"ca",
+        "lemma":"ca",
         "tag":""
       },
       {
@@ -689153,9 +689238,9 @@
         "tag":""
       },
       {
-        "unsandhied":"ātmānaḥ",
+        "unsandhied":"ātmanaḥ",
         "lemma":"ātman",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"pariccheda-",
@@ -689171,8 +689256,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15623",
-    "original":"tato manaḥsaṃcārādātmanaḥ saṃcāraprasaṅgo virāgasya vā \/",
-    "analyzed":"tatas manaḥ saṃcārāt ātmanaḥ saṃcāra prasaṅgaḥ virāgasya vā ",
+    "original":"tato manaḥsaṃcārādātmanaḥ saṃcāraprasaṅgo vināśasya vā \/",
+    "analyzed":"tatas manaḥ saṃcārāt ātmanaḥ saṃcāra prasaṅgaḥ vināśasya vā ",
     "folio":475,
     "full_analysis":[
       {
@@ -689206,8 +689291,8 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"virāgasya",
-        "lemma":"virāga",
+        "unsandhied":"vināśasya",
+        "lemma":"vināśa",
         "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
       },
       {
@@ -689386,7 +689471,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15628",
-    "original":"sa eva paricodyate kathaṃ buddhiviśeṣa iti \/",
+    "original":"sa eva paricodyate \/ kathaṃ buddhiviśeṣa iti \/",
     "analyzed":"saḥ eva paricodyate katham buddhi viśeṣaḥ iti ",
     "folio":475,
     "full_analysis":[
@@ -689477,8 +689562,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15630",
-    "original":"cittādevāstu saṃskāraviśeṣāpekṣatvāt \/",
-    "analyzed":"cittāt eva astu saṃskāra viśeṣa apekṣa tvāt ",
+    "original":"cittādevāstu saṃskāraviśeṣāpekṣāt \/",
+    "analyzed":"cittāt eva astu saṃskāra viśeṣa apekṣāt ",
     "folio":475,
     "full_analysis":[
       {
@@ -689507,13 +689592,8 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"apekṣa-",
+        "unsandhied":"apekṣāt",
         "lemma":"apekṣa",
-        "tag":"Compound"
-      },
-      {
-        "unsandhied":"tvāt",
-        "lemma":"tva",
         "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
       }
     ]
@@ -689588,8 +689668,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15632",
-    "original":"[satyātmani tayoḥ saṃyoga iti cet \/",
-    "analyzed":"sati ātmani tayoḥ saṃyogaḥ iti ced ",
+    "original":"[satyātmani tayoḥ sambhava iti cet \/",
+    "analyzed":"sati ātmani tayoḥ sambhavaḥ iti ced ",
     "folio":475,
     "full_analysis":[
       {
@@ -689608,8 +689688,8 @@
         "tag":"Case=Genitive, Gender=Masculine, Number=Dual"
       },
       {
-        "unsandhied":"saṃyogaḥ",
-        "lemma":"saṃyoga",
+        "unsandhied":"sambhavaḥ",
+        "lemma":"sambhava",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
@@ -689788,8 +689868,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15637",
-    "original":"pratighātiyutadoṣāt\/ [naiva sa evamāśrayaḥ \/",
-    "analyzed":"pratighāti yuta doṣāt na eva saḥ evam āśrayaḥ ",
+    "original":"pratighātiyutatvadoṣāt\/ [naiva sa evamāśrayaḥ \/",
+    "analyzed":"pratighāti yuta tva doṣāt na eva saḥ evam āśrayaḥ ",
     "folio":475,
     "full_analysis":[
       {
@@ -689800,6 +689880,11 @@
       {
         "unsandhied":"yuta-",
         "lemma":"yuta",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"tva-",
+        "lemma":"tva",
         "tag":"Compound"
       },
       {
@@ -689968,8 +690053,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15642",
-    "original":"yathā na gandhādibhyo'nyā pṛthivīti \/",
-    "analyzed":"yathā na gandha ādibhyaḥ anyā pṛthivī iti ",
+    "original":"yathā na gandhādibhyo'nyā pṛthivī \/",
+    "analyzed":"yathā na gandha ādibhyaḥ anyā pṛthivī ",
     "folio":475,
     "full_analysis":[
       {
@@ -690001,11 +690086,6 @@
         "unsandhied":"pṛthivī",
         "lemma":"pṛthivī",
         "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
-      },
-      {
-        "unsandhied":"iti",
-        "lemma":"iti",
-        "tag":""
       }
     ]
   },
@@ -690451,8 +690531,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15653",
-    "original":"smṛtyādīnāṃ guṇapadārthatvāt tasya cārthādavaśyaṃ dravyāśritatvāt' teṣāṃ cānyāśrayāyogāditi cet \/ na \/",
-    "analyzed":"smṛti ādīnām guṇa padārtha tvāt tasya ca arthāt avaśyam dravya āśrita tvāt teṣām ca anya āśraya ayogāt iti ced na ",
+    "original":"smṛtyādīnāṃ guṇapadārthatvāt \/ tasya cāvaśyaṃ dravyāśritatvāt \/ teṣāṃ cānyāśrayāyogāditi cet \/ na \/ asiddheḥ \/",
+    "analyzed":"smṛti ādīnām guṇa padārtha tvāt tasya ca avaśyam dravya āśrita tvāt teṣām ca anya āśraya ayogāt iti ced na asiddheḥ ",
     "folio":475,
     "full_analysis":[
       {
@@ -690489,11 +690569,6 @@
         "unsandhied":"ca",
         "lemma":"ca",
         "tag":""
-      },
-      {
-        "unsandhied":"arthāt",
-        "lemma":"artha",
-        "tag":"Case=Ablative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"avaśyam",
@@ -690554,6 +690629,11 @@
         "unsandhied":"na",
         "lemma":"na",
         "tag":""
+      },
+      {
+        "unsandhied":"asiddheḥ",
+        "lemma":"asiddhi",
+        "tag":"Case=Ablative, Gender=Feminine, Number=Singular"
       }
     ]
   },
@@ -690868,7 +690948,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15662",
-    "original":"[ko'sāvahaṃ nāma yadviṣayo'yamahaṃkāraḥ \/",
+    "original":"[ko'sāvahaṃ nāma \/ yadviṣayo'yamahaṃkāraḥ \/",
     "analyzed":"nāma yad viṣayaḥ yat ahaṃkāraḥ ",
     "folio":476,
     "full_analysis":[
@@ -690901,10 +690981,36 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15663",
-    "original":"skandhaviṣayaḥ \/",
-    "analyzed":"      ",
+    "original":"kimviṣayo'yamahaṃkāraḥ \/ skandhaviṣayaḥ \/",
+    "analyzed":"kimviṣayaḥ yam ahaṃkāraḥ skandha viṣayaḥ ",
     "folio":476,
-    "full_analysis":[]
+    "full_analysis":[
+      {
+        "unsandhied":"kimviṣayaḥ",
+        "lemma":"kimviṣaya",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"yam",
+        "lemma":"idam",
+        "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"ahaṃkāraḥ",
+        "lemma":"ahaṃkāra",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"skandha-",
+        "lemma":"skandha",
+        "tag":"Compound"
+      },
+      {
+        "unsandhied":"viṣayaḥ",
+        "lemma":"viṣaya",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      }
+    ]
   },
   {
     "segmentnr":"SA_T07_vakobhau:15664",
@@ -690944,8 +691050,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15666",
-    "original":"gaurādibuddhibhiḥ sāmānādhikaraṇyāttu \/",
-    "analyzed":"gaura ādi buddhibhiḥ sāmānādhikaraṇyāt tu ",
+    "original":"gaurādibuddhibhiḥ sāmānādhikaraṇyācca \/",
+    "analyzed":"gaura ādi buddhibhiḥ sāmānādhikaraṇyāt ca ",
     "folio":476,
     "full_analysis":[
       {
@@ -690969,16 +691075,16 @@
         "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"tu",
-        "lemma":"tu",
+        "unsandhied":"ca",
+        "lemma":"ca",
         "tag":""
       }
     ]
   },
   {
     "segmentnr":"SA_T07_vakobhau:15667",
-    "original":"gauro'hamahaṃ śyāmaḥ, sthūlo'hamahaṃ kṛśaḥ, jīrṇo'hamahaṃ yuveti gaurādibuddhibhiḥ sāmānādhikaraṇo'yamahaṃkāro dṛśyate \/",
-    "analyzed":"gauraḥ aham aham śyāmaḥ sthūlaḥ ham aham kṛśaḥ jīrṇaḥ ham aham yuvā iti gaura ādi buddhibhiḥ sāmāna adhikaraṇaḥ uyam ahaṃkāraḥ dṛśyate ",
+    "original":"gauro'hamahaṃ śyāmaḥ, sthūlo'hamahaṃ kṛśaḥ, jīrṇo'hamahaṃ yuveti gaurādibuddhibhiḥ samānādhikaraṇo'yamahaṃkāro dṛśyate \/",
+    "analyzed":"gauraḥ ham aham śyāmaḥ sthūlaḥ ham aham kṛśaḥ jīrṇaḥ ham aham yuvā iti gaura ādi buddhibhiḥ samāna adhikaraṇaḥ yam ahaṃkāraḥ dṛśyate ",
     "folio":476,
     "full_analysis":[
       {
@@ -691062,8 +691168,8 @@
         "tag":"Case=Instrumental, Gender=Feminine, Number=Plural"
       },
       {
-        "unsandhied":"sāmāna-",
-        "lemma":"sāmāna",
+        "unsandhied":"samāna-",
+        "lemma":"samāna",
         "tag":"Compound"
       },
       {
@@ -691090,8 +691196,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15668",
-    "original":"na cātmana ete prakārā dṛśyante \/",
-    "analyzed":"na ca ātmanaḥ ete prakārāḥ dṛśyante ",
+    "original":"na cātmana ete prakārā iṣyante \/",
+    "analyzed":"na ca ātmanaḥ ete prakārāḥ iṣyante ",
     "folio":476,
     "full_analysis":[
       {
@@ -691120,8 +691226,8 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Plural"
       },
       {
-        "unsandhied":"dṛśyante",
-        "lemma":"dṛś",
+        "unsandhied":"iṣyante",
+        "lemma":"iṣ",
         "tag":"Tense=Present, Mood=Indicative, Voice=Passive, Person=3, Number=Plural"
       }
     ]
@@ -691166,7 +691272,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15670",
-    "original":"[ātmana upakārake'pi śarīra ātmopacāro, yathā ya evāyaṃ sa evāhaṃ sa evāyaṃ me bhṛtya iti] bhavatyupakārake'pi ātmopacāro, natvahaṃkāraḥ \/",
+    "original":"[ātmana upakārake'pi śarīra ātmopacāro, yathā ya evāyaṃ sa evāhaṃ sa evāyaṃ me bhṛtya iti \/] bhavatyupakārake'pi ātmopacāro, natvahaṃkāraḥ \/",
     "analyzed":"ātmanaḥ upakārake api śarīre ātma upacāraḥ yathā yaḥ eva ayam saḥ eva aham saḥ eva ayam me bhṛtyaḥ iti bhavati upakārake api ātma upacāraḥ na tu ahaṃkāraḥ ",
     "folio":476,
     "full_analysis":[
@@ -691696,8 +691802,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15680",
-    "original":"kaścānyo hetuḥ \/",
-    "analyzed":"kaḥ ca anyaḥ hetuḥ ",
+    "original":"kaścāsya hetuḥ \/",
+    "analyzed":"kaḥ ca asya hetuḥ ",
     "folio":476,
     "full_analysis":[
       {
@@ -691711,9 +691817,9 @@
         "tag":""
       },
       {
-        "unsandhied":"anyaḥ",
-        "lemma":"anya",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+        "unsandhied":"asya",
+        "lemma":"idam",
+        "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"hetuḥ",
@@ -691724,8 +691830,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15681",
-    "original":"pūrvāhaṃkāraparibhāvitaṃ svasaṃtativiṣayaṃ sāvadyaṃ cittam \/\/",
-    "analyzed":"pūrva ahaṃkāra paribhāvitam sva saṃtati viṣayam sāvadyam cittam ",
+    "original":"pūrvāhaṃkāraparibhāvitaṃ svasaṃtativiṣayaṃ sāvadyacittam \/\/",
+    "analyzed":"pūrva ahaṃkāra paribhāvitam sva saṃtati viṣayam sāvadya cittam ",
     "folio":476,
     "full_analysis":[
       {
@@ -691741,7 +691847,7 @@
       {
         "unsandhied":"paribhāvitam",
         "lemma":"paribhāvay",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular, VerbForm=Part"
       },
       {
         "unsandhied":"sva-",
@@ -691756,17 +691862,17 @@
       {
         "unsandhied":"viṣayam",
         "lemma":"viṣaya",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"sāvadyam",
+        "unsandhied":"sāvadya-",
         "lemma":"sāvadya",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "tag":"Compound"
       },
       {
         "unsandhied":"cittam",
         "lemma":"citta",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       }
     ]
   },
@@ -692028,8 +692134,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15689",
-    "original":"karteti ka eṣa vāhyārthaḥ \/",
-    "analyzed":"kartā iti kaḥ eṣa vāhya arthaḥ ",
+    "original":"karteti bhokteti vā ka eṣa vākyārthaḥ \/",
+    "analyzed":"kartā iti bhoktā iti vā kaḥ eṣa vākya arthaḥ ",
     "folio":476,
     "full_analysis":[
       {
@@ -692043,6 +692149,21 @@
         "tag":""
       },
       {
+        "unsandhied":"bhoktā",
+        "lemma":"bhoktṛ",
+        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"iti",
+        "lemma":"iti",
+        "tag":""
+      },
+      {
+        "unsandhied":"vā",
+        "lemma":"vā",
+        "tag":""
+      },
+      {
         "unsandhied":"kaḥ",
         "lemma":"ka",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
@@ -692053,8 +692174,8 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"vāhya-",
-        "lemma":"vāhya",
+        "unsandhied":"vākya-",
+        "lemma":"vākya",
         "tag":"Compound"
       },
       {
@@ -692183,7 +692304,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15694",
-    "original":"asti punaḥ kvacideva kārye kasyacit svātantryam \/",
+    "original":"asti punaḥ kvacideva kārye kasyacit svātantryam",
     "analyzed":"asti punar kvacid eva kārye kasyacid svātantryam ",
     "folio":476,
     "full_analysis":[
@@ -692226,8 +692347,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15695",
-    "original":"loke dṛṣṭaṃ devadattasya snānāsanagamanādau \/",
-    "analyzed":"loke dṛṣṭam devadattasya snāna āsana gamana ādau ",
+    "original":"loke dṛṣṭaṃ yathā devadattasya snānādanagamanādau \/",
+    "analyzed":"loke dṛṣṭam yathā devadattasya snāna adana gamana ādau ",
     "folio":476,
     "full_analysis":[
       {
@@ -692241,6 +692362,11 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       },
       {
+        "unsandhied":"yathā",
+        "lemma":"yathā",
+        "tag":""
+      },
+      {
         "unsandhied":"devadattasya",
         "lemma":"devadatta",
         "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
@@ -692251,8 +692377,8 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"āsana-",
-        "lemma":"āsana",
+        "unsandhied":"adana-",
+        "lemma":"adana",
         "tag":"Compound"
       },
       {
@@ -692269,14 +692395,14 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15696",
-    "original":"kaḥ punarbhavān devadattamudāharati \/",
-    "analyzed":"kaḥ punar bhavān devadattam udāharati ",
+    "original":"kaṃ punarbhavān devadattamudāharati \/",
+    "analyzed":"kam punar bhavān devadattam udāharati ",
     "folio":476,
     "full_analysis":[
       {
-        "unsandhied":"kaḥ",
+        "unsandhied":"kam",
         "lemma":"ka",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+        "tag":"Case=Accusative, Gender=Masculine, Number=Singular"
       },
       {
         "unsandhied":"punar",
@@ -692469,8 +692595,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15701",
-    "original":"cittasyāpi kāye svakāraṇaparatantrā vṛttistasyāpyevamiti nāsti kasyacit svātantryam \/",
-    "analyzed":"cittasya api kāye sva kāraṇa paratantrā vṛttiḥ tasya api evam iti nā asti kasyacid svātantryam ",
+    "original":"cittasyāpi kāye svakāraṇaparatantrā vṛttistasyāpyevamiti nāsti kasyacid api svātantryam \/",
+    "analyzed":"cittasya api kāye sva kāraṇa paratantrā vṛttiḥ tasya api evam iti nā asti kasyacid api svātantryam ",
     "folio":476,
     "full_analysis":[
       {
@@ -692542,6 +692668,11 @@
         "unsandhied":"kasyacid",
         "lemma":"kaścit",
         "tag":"Case=Genitive, Gender=Masculine, Number=Singular"
+      },
+      {
+        "unsandhied":"api",
+        "lemma":"api",
+        "tag":""
       },
       {
         "unsandhied":"svātantryam",
@@ -693019,7 +693150,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15711",
-    "original":"nātmanaḥ upalabdhau sāmarthyaṃ vijñāne pratiṣedhāt \/",
+    "original":"nātmana upalabdhau sāmarthyaṃ vijñāne pratiṣedhāt \/",
     "analyzed":"na ātmanaḥ upalabdhau sāmarthyam vijñāne pratiṣedhāt ",
     "folio":477,
     "full_analysis":[
@@ -693115,7 +693246,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15713",
-    "original":"vedanādyanāśrayatvāt \/ tadāśrayaśca ṣaḍāyatanaṃ nātmā yathā tathoktam \/",
+    "original":"vedanādyanāśrayatvāt \/ tadāśrayaśca ṣaḍāyatanaṃ nātmā \/ yathā tathoktam \/",
     "analyzed":"vedanā ādi anāśraya tvāt tad āśrayaḥ ca ṣaṣ āyatanam na ātmā yathā tathā uktam ",
     "folio":477,
     "full_analysis":[
@@ -693413,8 +693544,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15719",
-    "original":"naivaṃ tu vayaṃ vinaṣṭāt karmaṇa āyatyāṃ phalotpattiṃ brūmaḥ \/",
-    "analyzed":"na evam tu vayam vinaṣṭāt karmaṇaḥ āyatyām phala utpattim brūmaḥ ",
+    "original":"naiva tu vayaṃ vinaṣṭāt karmaṇa āyatyāṃ phalotpattiṃ brūmaḥ \/",
+    "analyzed":"na eva tu vayam vinaṣṭāt karmaṇaḥ āyatyām phala utpattim brūmaḥ ",
     "folio":477,
     "full_analysis":[
       {
@@ -693423,8 +693554,8 @@
         "tag":""
       },
       {
-        "unsandhied":"evam",
-        "lemma":"evam",
+        "unsandhied":"eva",
+        "lemma":"eva",
         "tag":""
       },
       {
@@ -693471,19 +693602,19 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15720",
-    "original":"kiṃ tarhi \/",
-    "analyzed":"kim tarhi ",
+    "original":"katham tarhi \/",
+    "analyzed":"katham tarhi ",
     "folio":477,
     "full_analysis":[
       {
-        "unsandhied":"kim",
-        "lemma":"ka",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "unsandhied":"katham",
+        "lemma":"katham",
+        "tag":"_"
       },
       {
         "unsandhied":"tarhi",
         "lemma":"tarhi",
-        "tag":""
+        "tag":"_"
       }
     ]
   },
@@ -693780,8 +693911,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15728",
-    "original":"tadāhitaṃ hi tat parayāpuṣpe sāmarthyam \/",
-    "analyzed":"tad āhitam hi tat parayāpuṣpe sāmarthyam ",
+    "original":"tadāhitaṃ hi tat paramparayā puṣpe sāmarthyam \/",
+    "analyzed":"tad āhitam hi tat paramparayā puṣpe sāmarthyam ",
     "folio":477,
     "full_analysis":[
       {
@@ -693805,8 +693936,13 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"parayāpuṣpe",
-        "lemma":"parayāpuṣpa",
+        "unsandhied":"paramparayā",
+        "lemma":"paramparā",
+        "tag":"Case=Instrumental, Gender=Feminine, Number=Singular"
+      },
+      {
+        "unsandhied":"puṣpe",
+        "lemma":"puṣpa",
         "tag":"Case=Locative, Gender=Neuter, Number=Singular"
       },
       {
@@ -693818,8 +693954,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15729",
-    "original":"yadi hi tatpūrvikānnabhaviṣyat tattādṛśasya phalasyotpattau na samarthamabhaviṣyat \/",
-    "analyzed":"yadi hi tad pūrvikāt na bhaviṣyat tat tādṛśasya phalasya utpattau na samartham abhaviṣyat ",
+    "original":"yadi hi tatpūrvakan nābhaviṣyat tattādṛśasya phalasyotpattau na samarthamabhaviṣyat \/",
+    "analyzed":"yadi hi tad pūrvakat na abhaviṣyat tat tādṛśasya phalasya utpattau na samartham abhaviṣyat ",
     "folio":477,
     "full_analysis":[
       {
@@ -693838,9 +693974,9 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"pūrvikāt",
+        "unsandhied":"pūrvakat",
         "lemma":"pūrvaka",
-        "tag":"Case=Ablative, Gender=Neuter, Number=Singular"
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
         "unsandhied":"na",
@@ -693987,14 +694123,14 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15732",
-    "original":"kiṃ tarhi \/",
-    "analyzed":"kim tarhi ",
+    "original":"kathaṃ tarhi \/",
+    "analyzed":"katham tarhi ",
     "folio":477,
     "full_analysis":[
       {
-        "unsandhied":"kim",
-        "lemma":"ka",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "unsandhied":"katham",
+        "lemma":"katham",
+        "tag":""
       },
       {
         "unsandhied":"tarhi",
@@ -694076,8 +694212,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15735",
-    "original":"yaḥ karmapūrva uttarottaracittapravasaḥ sā saṃtatistasyā anyathotpattiḥ pariṇāmaḥ \/",
-    "analyzed":"yaḥ karma pūrvaḥ uttarottara citta pravasaḥ sā saṃtatiḥ tasyāḥ anyathā utpattiḥ pariṇāmaḥ ",
+    "original":"yaḥ karmapūrva uttarottaracittaprasavaḥ sā saṃtatistasyā anyathānyathotpattiḥ pariṇāmaḥ \/",
+    "analyzed":"yaḥ karma pūrvaḥ uttarottara citta prasavaḥ sā saṃtatiḥ tasyāḥ anyathā anyathā utpattiḥ pariṇāmaḥ ",
     "folio":477,
     "full_analysis":[
       {
@@ -694106,8 +694242,8 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"pravasaḥ",
-        "lemma":"pravasa",
+        "unsandhied":"prasavaḥ",
+        "lemma":"prasava",
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
@@ -694131,6 +694267,11 @@
         "tag":""
       },
       {
+        "unsandhied":"anyathā",
+        "lemma":"anyathā",
+        "tag":""
+      },
+      {
         "unsandhied":"utpattiḥ",
         "lemma":"utpatti",
         "tag":"Case=Nominative, Gender=Feminine, Number=Singular"
@@ -694144,8 +694285,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15736",
-    "original":"sa punaryo'ntaraṃ phalotpādanasamarthaḥ so'ntapariṇāmaviśiṣṭatvāt pariṇāmaviśeṣaḥ \/",
-    "analyzed":"sa punar yaḥ ntaram phala utpādana samarthaḥ saḥ nta pariṇāma viśiṣṭa tvāt pariṇāma viśeṣaḥ ",
+    "original":"sa punaryo'nantaraṃ phalotpādanasamarthaḥ so'nyapariṇāmaviśeṣatvāt pariṇāmaviśeṣaḥ \/",
+    "analyzed":"sa punar yaḥ anantaram phala utpādana samarthaḥ saḥ anya pariṇāma viśeṣa tvāt pariṇāma viśeṣaḥ ",
     "folio":477,
     "full_analysis":[
       {
@@ -694164,9 +694305,9 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"antaram",
-        "lemma":"antara",
-        "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
+        "unsandhied":"unantaram",
+        "lemma":"unantaram",
+        "tag":""
       },
       {
         "unsandhied":"phala-",
@@ -694189,8 +694330,8 @@
         "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
       },
       {
-        "unsandhied":"nta-",
-        "lemma":"nta",
+        "unsandhied":"anya-",
+        "lemma":"anya",
         "tag":"Compound"
       },
       {
@@ -694199,9 +694340,9 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"viśiṣṭa-",
-        "lemma":"viśiṣ",
-        "tag":"Compound, VerbForm=Part"
+        "unsandhied":"viśeṣa-",
+        "lemma":"viśeṣa",
+        "tag":"Compound"
       },
       {
         "unsandhied":"tvāt",
@@ -694265,13 +694406,13 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15738",
-    "original":"trividhakarmapūrvakatve'pi yatkarma guru vā bhavatyāsannamabhyastaṃ vā yatkṛtaṃ sāmarthyaṃ dyotyate natvanyasya \/",
-    "analyzed":"trividha karma pūrvaka tve pi yat karma guru vā bhavati āsannam abhyastam vā yat kṛtam sāmarthyam dyotyate na tu anyasya ",
+    "original":"vividhakarmapūrvakatve'pi yatkarma guru vā bhavatyāsannamabhyastaṃ vā tatkṛtaṃ sāmarthyaṃ dyotyate natvanyasya \/",
+    "analyzed":"vividha karma pūrvaka tve pi yat karma guru vā bhavati āsannam abhyastam vā tat kṛtam sāmarthyam dyotyate na tu anyasya ",
     "folio":477,
     "full_analysis":[
       {
-        "unsandhied":"trividha-",
-        "lemma":"trividha",
+        "unsandhied":"vividha-",
+        "lemma":"vividha",
         "tag":"Compound"
       },
       {
@@ -694280,13 +694421,8 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"pūrvaka-",
-        "lemma":"pūrvaka",
-        "tag":"Compound"
-      },
-      {
-        "unsandhied":"tve",
-        "lemma":"tva",
+        "unsandhied":"pūrvakatve",
+        "lemma":"pūrvakatva",
         "tag":"Case=Locative, Gender=Neuter, Number=Singular"
       },
       {
@@ -694335,8 +694471,8 @@
         "tag":""
       },
       {
-        "unsandhied":"yat",
-        "lemma":"yad",
+        "unsandhied":"tat",
+        "lemma":"tad",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
@@ -694373,26 +694509,26 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15739",
-    "original":"āha ca",
-    "analyzed":"āha ca ",
+    "original":"yathoktam",
+    "analyzed":"yathā uktam ",
     "folio":477,
     "full_analysis":[
       {
-        "unsandhied":"āha",
-        "lemma":"ah",
-        "tag":"Tense=Past, Mood=Indicative, Person=3, Number=Singular"
+        "unsandhied":"yathā",
+        "lemma":"yathā",
+        "tag":""
       },
       {
-        "unsandhied":"ca",
-        "lemma":"ca",
-        "tag":""
+        "unsandhied":"uktam",
+        "lemma":"vac",
+        "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       }
     ]
   },
   {
     "segmentnr":"SA_T07_vakobhau:15740",
-    "original":"\"yat guru yaccāsannaṃ yaccābhyastaṃ kṛtaṃ ca yat \/",
-    "analyzed":"yat guru yat ca āsannam yat ca abhyastam kṛtam ca yat ",
+    "original":"\"yat guru yaccāsannaṃ yaccābhyastaṃ pūrvakṛtaṃ ca tasya \/",
+    "analyzed":"yat guru yat ca āsannam yat ca abhyastam pūrva kṛtam ca tasya ",
     "folio":477,
     "full_analysis":[
       {
@@ -694436,6 +694572,11 @@
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
       },
       {
+        "unsandhied":"pūrva-",
+        "lemma":"pūrva",
+        "tag":"Compound"
+      },
+      {
         "unsandhied":"kṛtam",
         "lemma":"kṛ",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular, VerbForm=Part"
@@ -694446,9 +694587,9 @@
         "tag":""
       },
       {
-        "unsandhied":"yat",
-        "lemma":"yad",
-        "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
+        "unsandhied":"tasya",
+        "lemma":"tad",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Singular"
       }
     ]
   },
@@ -695014,8 +695155,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15751",
-    "original":"evamihāpi tasmādvipākādyadi sadasaddharmaśravaṇādipratyayaviśeṣajaḥ kuśalasāsravo'kuśalo vā cittavikāra utpadyate'tasmātpunarvikārāntaramutpadyate",
-    "analyzed":"evam iha api tasmāt vipākāt yadi sat asat dharma śravaṇa ādi pratyaya viśeṣa jaḥ kuśala sa āsrava ukuśalaḥ vā citta vikāraḥ utpadyate tasmāt punar vikāra antaram utpadyate ",
+    "original":"evamihāpi tasmādvipākādyadi sadasaddharmaśravaṇādipratyayaviśeṣajaḥ kuśalasāsravo'kuśalo vā cittavikāra utpadyate'tasmātpunarvipākāntaramutpadyate",
+    "analyzed":"evam iha api tasmāt vipākāt yadi sat asat dharma śravaṇa ādi pratyaya viśeṣa jaḥ kuśala sa āsrava ukuśalaḥ vā citta vikāraḥ utpadyate tasmāt punar vipāka antaram utpadyate ",
     "folio":478,
     "full_analysis":[
       {
@@ -695139,8 +695280,8 @@
         "tag":""
       },
       {
-        "unsandhied":"vikāra-",
-        "lemma":"vikāra",
+        "unsandhied":"vipāka-",
+        "lemma":"vipāka",
         "tag":"Compound"
       },
       {
@@ -695417,8 +695558,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15757",
-    "original":"nānāvidhaśaktibhinnaistu karmabhiradhivāsitāḥ saṃtataya etāmavasthāṃ gatā īdṛśaṃ phalamabhinivartayantīti buddhānāmeva viṣayaḥ \/",
-    "analyzed":"nānāvidha śakti bhinnaiḥ tu karmabhiḥ adhivāsitāḥ saṃtatayaḥ etām avasthām gatāḥ īdṛśam phalam abhinivartayanti iti buddhānām eva viṣayaḥ ",
+    "original":"nānāvidhaśaktibhinnaistu karmabhiradhivāsitāḥ saṃtataya etāmavasthāṃ gatā īdṛśaṃ phalamabhinirvartayantīti buddhānāmeva viṣayaḥ \/",
+    "analyzed":"nānāvidha śakti bhinnaiḥ tu karmabhiḥ adhivāsitāḥ saṃtatayaḥ etām avasthām gatāḥ īdṛśam phalam abhinirvartayanti iti buddhānām eva viṣayaḥ ",
     "folio":478,
     "full_analysis":[
       {
@@ -695482,8 +695623,8 @@
         "tag":"Case=Accusative, Gender=Neuter, Number=Singular"
       },
       {
-        "unsandhied":"abhinivartayanti",
-        "lemma":"abhinivartay",
+        "unsandhied":"abhinirvartayanti",
+        "lemma":"abhinirvartay",
         "tag":"Tense=Present, Mood=Indicative, Person=3, Number=Plural"
       },
       {
@@ -695510,7 +695651,7 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15758",
-    "original":"āha khalvapi",
+    "original":"āha khalvapi \/",
     "analyzed":"āha khalu api ",
     "folio":478,
     "full_analysis":[
@@ -695662,8 +695803,8 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15762",
-    "original":"buddhānāṃ pravacanadharmatāṃ niśamya \/",
-    "analyzed":"buddhānām pravacana dharmatām niśamya ",
+    "original":"buddhānāṃ pravacanadharmatāṃ niśāmya \/",
+    "analyzed":"buddhānām pravacana dharma tām niśāmya ",
     "folio":478,
     "full_analysis":[
       {
@@ -695682,7 +695823,7 @@
         "tag":"Case=Accusative, Gender=Feminine, Number=Singular"
       },
       {
-        "unsandhied":"niśamya",
+        "unsandhied":"niśāmya",
         "lemma":"niśāmay",
         "tag":"VerbForm=Conv"
       }
@@ -695946,13 +696087,13 @@
   },
   {
     "segmentnr":"SA_T07_vakobhau:15770",
-    "original":"braṇadeśo viṣasyeva svasāmarthyavisarpaṇa iti\/ pudgalakośamabhidharmakośabhāṣyaṃ samāptamiti \/",
-    "analyzed":"viṣasya iva sva sāmarthya visarpaṇaḥ iti pudgala kośam abhidharmakośa bhāṣyam samāptam iti ",
+    "original":"vraṇadeśo viṣasyeva svasāmarthyavisarpiṇaḥ \/\/ iti \/ pudgalakośamabhidharmakośabhāṣyaṃ samāptamiti \/",
+    "analyzed":"vraṇa deśaḥ viṣasya iva sva sāmarthya visarpiṇaḥ iti pudgala kośam abhidharmakośa bhāṣyam samāptam iti ",
     "folio":478,
     "full_analysis":[
       {
-        "unsandhied":"braṇa-",
-        "lemma":"braṇa",
+        "unsandhied":"vraṇa-",
+        "lemma":"vraṇa",
         "tag":"Compound"
       },
       {
@@ -695981,9 +696122,9 @@
         "tag":"Compound"
       },
       {
-        "unsandhied":"visarpaṇaḥ",
-        "lemma":"visarpaṇa",
-        "tag":"Case=Nominative, Gender=Masculine, Number=Singular"
+        "unsandhied":"visarpiṇaḥ",
+        "lemma":"visarpin",
+        "tag":"Case=Genitive, Gender=Neuter, Number=Singular"
       },
       {
         "unsandhied":"iti",
@@ -695991,13 +696132,8 @@
         "tag":""
       },
       {
-        "unsandhied":"pudgala-",
-        "lemma":"pudgala",
-        "tag":"Compound"
-      },
-      {
-        "unsandhied":"kośam",
-        "lemma":"kośa",
+        "unsandhied":"pudgalakośam",
+        "lemma":"pudgalakośa",
         "tag":"Case=Nominative, Gender=Neuter, Number=Singular"
       },
       {
